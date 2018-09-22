@@ -1,0 +1,310 @@
+Entry ID,US entry name,Padding #0,Padding #1,Padding #2,Padding #3,Category ID,[Category name],Effect ID,[Effect name],Scope ID,[Scope name],Effect value #1,Effect value #2,Element ID,[Element name],Type ID,[Type name],Unknown #0,Unknown #1,State ID,[State name],State hit%,Padding #4,Padding #5
+0,Volcanic Blast,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,1,Red,0,Physical,0,0,0,Poison,0,0,0
+1,Cinder Storm,0,0,0,0,0,Super Move,8,Add Stone + Damage,1,One character,16,5,1,Red,0,Physical,16,17,2,Stone,50,0,0
+2,Feather Slash,0,0,0,0,0,Super Move,0,Damage,102,Character line #3,16,30,0,Green,0,Physical,0,0,0,Poison,0,0,0
+3,欠番,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+4,Laser,0,0,0,0,0,Super Move,0,Damage,1,One character,16,20,5,Silver,0,Physical,0,0,0,Poison,0,0,0
+5,Thunder of Fury,0,0,0,0,0,Super Move,0,Damage,101,Character line #2,16,30,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+6,欠番,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+7,Circle of Panic,0,0,0,0,0,Super Move,11,Add Confusion,1,One character,0,0,0,Green,0,Physical,16,17,4,Confusion,0,0,0
+8,Ring of Sleep,0,0,0,0,0,Super Move,9,Add Sleep,1,One character,0,0,0,Green,0,Physical,16,17,3,Sleep,0,0,0
+9,Target Search,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+10,欠番,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+11,Tackle,0,0,0,0,0,Super Move,0,Damage,102,Character line #3,16,40,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+12,Death Strike,0,0,0,0,0,Super Move,68,Add Unconscious + Damage #2,1,One character,16,5,5,Silver,0,Physical,16,17,1,Unconscious,70,0,0
+13,Charge,0,0,0,0,0,Super Move,-1,None,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+14,Poison Gas,0,0,0,0,0,Super Move,4,Add Poison + Damage,96,Character area #1,16,20,0,Green,0,Physical,16,17,0,Poison,50,0,0
+15,Stone Breath,0,0,0,0,0,Super Move,8,Add Stone + Damage,1,One character,16,15,0,Green,0,Physical,16,17,2,Stone,60,0,0
+16,欠番,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+17,Random Fire,0,0,0,0,0,Super Move,0,Damage,98,Character area #3,16,25,1,Red,0,Physical,0,0,0,Poison,0,0,0
+18,欠番,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+19,Counter Stance,0,0,0,0,0,Super Move,38,Counter attack + Guard,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+20,Gather Strength,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+21,Counter Stance,0,0,0,0,0,Super Move,38,Counter attack + Guard,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+22,Burst,0,0,0,0,0,Super Move,0,Damage,97,Character area #2,16,40,1,Red,0,Physical,0,0,0,Poison,0,0,0
+23,Terminal,0,0,0,0,0,Super Move,0,Damage,1,One character,16,55,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+24,Devolver,0,0,0,0,0,Super Move,38,Counter attack + Guard,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+25,Poisonous Bile,0,0,0,0,0,Super Move,4,Add Poison + Damage,2,All characters,16,20,0,Green,0,Physical,16,17,0,Poison,50,0,0
+26,Death Blossom,0,0,0,0,0,Super Move,0,Damage,201,Characters nearby #2,16,20,3,Blue,0,Physical,0,0,0,Poison,0,0,0
+27,Cannon Fire,0,0,0,0,0,Super Move,0,Damage,1,One character,16,50,1,Red,0,Physical,0,0,0,Poison,0,0,0
+28,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,27,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+29,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,31,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+30,Wheel Blast,0,0,0,0,0,Super Move,0,Damage,97,Character area #2,16,35,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+31,Laser Blast,0,0,0,0,0,Super Move,8,Add Stone + Damage,1,One character,16,5,6,Neutral,0,Physical,16,17,2,Stone,20,0,0
+32,Crypt Laser,0,0,0,0,0,Super Move,68,Add Unconscious + Damage #2,1,One character,16,5,5,Silver,0,Physical,16,17,1,Unconscious,60,0,0
+33,Death Laser,0,0,0,0,0,Super Move,68,Add Unconscious + Damage #2,1,One character,16,5,5,Silver,0,Physical,16,17,1,Unconscious,60,0,0
+34,Assess Damage,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+35,欠番,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+36,Steelskin,0,0,0,0,0,Super Move,67,Invulnerable,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+37,Focus,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+38,Eternal Freeze,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,12,2,Purple,0,Physical,0,0,0,Poison,0,0,0
+39,Lightning Strike,0,0,0,0,0,Super Move,0,Damage,1,One character,16,20,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+40,Terrible Bite,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,1,One character,16,15,0,Green,0,Physical,16,17,6,Fatigue,20,0,0
+41,Deep Sleep,0,0,0,0,0,Super Move,63,Add Regenerate + Add Sleep,5,User,400,-256,0,Green,0,Physical,0,0,0,Poison,0,0,0
+42,Avalauncher,0,0,0,0,0,Super Move,0,Damage,102,Character line #3,16,35,2,Purple,0,Physical,0,0,0,Poison,0,0,0
+43,Silver Eclipse,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,25,5,Silver,0,Physical,0,0,0,Poison,0,0,0
+44,Drain,0,0,0,0,0,Super Move,26,Add Weak,1,One character,0,0,0,Green,0,Physical,16,17,8,Weak,0,0,0
+45,Turn Recovery,0,0,0,0,0,Super Move,33,Add Regenerate,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+46,Destruction,0,0,0,0,0,Super Move,17,Remove positive states,2,All characters,16,10,5,Silver,0,Physical,0,0,0,Poison,0,0,0
+47,Tremble,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+48,Silver Tundra,0,0,0,0,0,Super Move,0,Damage,1,One character,16,50,5,Silver,0,Physical,0,0,0,Poison,0,0,0
+49,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,54,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+50,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,85,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+51,Explode,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,1,Red,0,Physical,0,0,0,Poison,0,0,0
+52,Stone Ooze,0,0,0,0,0,Super Move,7,Add Stone,1,One character,0,0,0,Green,0,Physical,16,17,2,Stone,40,0,0
+53,Tundra Blast,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,2,Purple,0,Physical,0,0,0,Poison,0,0,0
+54,Death Waltz,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,40,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
+55,Engage,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+56,Thunder Storm,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+57,Eerie Wail,0,0,0,0,0,Super Move,0,Damage,107,Character line #5,16,15,2,Purple,0,Physical,0,0,0,Poison,0,0,0
+58,Assess Damage,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+59,Death Waltz,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,40,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
+60,Vigoro's Charm,0,0,0,0,0,Super Move,70,Add Confusion + Damage,1,One character,16,5,1,Red,0,Physical,16,17,4,Confusion,0,0,0
+61,Laser Blast,0,0,0,0,0,Super Move,8,Add Stone + Damage,1,One character,16,20,5,Silver,0,Physical,16,17,2,Stone,50,0,0
+62,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,12,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+63,Digest,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+64,Terrible Bite,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,1,One character,16,15,2,Purple,0,Physical,16,17,6,Fatigue,20,0,0
+65,Neglora,0,0,0,0,0,Super Move,17,Remove positive states,2,All characters,16,5,-1,None,-1,None,-1,-1,-1,None,-1,0,0
+66,Ice Storm,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,2,Purple,0,Physical,0,0,0,Poison,0,0,0
+67,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,60,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+68,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,84,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+69,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,107,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+70,Grenade,0,0,0,0,0,Super Move,0,Damage,96,Character area #1,16,20,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+71,Poison Gas,0,0,0,0,0,Super Move,4,Add Poison + Damage,96,Character area #1,16,20,0,Green,0,Physical,16,17,0,Poison,50,0,0
+72,Sacrum Crystal,0,0,0,0,0,Super Move,31,Recover HP,4,All enemies,1000,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+73,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,97,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+74,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,75,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+75,Discharge,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+76,Tatatimorutto,0,0,0,0,0,Super Move,0,Damage,1,One character,16,40,3,Blue,0,Physical,0,0,0,Poison,0,0,0
+77,Round Claw,0,0,0,0,0,Super Move,0,Damage,1,One character,16,40,5,Silver,0,Physical,0,0,0,Poison,0,0,0
+78,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,93,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+79,Sacri Crystal,0,0,0,0,0,Super Move,31,Recover HP,3,One enemy,500,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+80,Sacres Crystal,0,0,0,0,0,Super Move,31,Recover HP,3,One enemy,1000,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+81,Sacrulen Crystal,0,0,0,0,0,Super Move,31,Recover HP,4,All enemies,1000,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+82,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,92,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+83,Silver Nightmare,0,0,0,0,0,Super Move,74,Control ally,1,One character,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+84,Silver Binds,0,0,0,0,0,Super Move,0,Damage,1,One character,16,50,5,Silver,0,Physical,0,0,0,Poison,0,0,0
+85,Turn Recovery,0,0,0,0,0,Super Move,33,Add Regenerate,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+86,Destruction,0,0,0,0,0,Super Move,17,Remove positive states,2,All characters,16,25,-1,None,-1,None,-1,-1,-1,None,-1,0,0
+87,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,44,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+88,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,21,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+89,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,22,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+90,Silver Eclipse,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,25,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
+91,使ってないよねえ,0,0,0,0,0,Super Move,8,Add Stone + Damage,1,One character,16,15,0,Green,0,Physical,16,17,2,Stone,70,0,0
+92,Fatigue Breath,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,1,One character,16,15,0,Green,0,Physical,16,17,6,Fatigue,20,0,0
+93,Fatigue Breath,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,1,One character,16,15,1,Red,0,Physical,16,17,6,Fatigue,20,0,0
+94,Lunar Blessing,0,0,0,0,0,Super Move,33,Add Regenerate,5,User,600,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+95,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+96,欠番,0,0,0,0,0,Super Move,0,Damage,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+97,Emergency,0,0,0,0,0,Super Move,64,Call enemy + Defeat all enemies,0,None,99,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+98,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+99,Blaster,0,0,0,0,0,Super Move,0,Damage,101,Character line #2,16,25,5,Silver,0,Physical,0,0,0,Poison,0,0,0
+100,Magic?,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+101,予備ブランク,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+102,予備ブランク,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+103,予備ブランク,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+104,予備ブランク,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+105,予備ブランク,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+106,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+107,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+108,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+109,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+110,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+111,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+112,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+113,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+114,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+115,Call Allies,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+116,Power Potion,0,0,0,0,0,Super Move,21,Add Strengthen,3,One enemy,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+117,Speed Potion,0,0,0,0,0,Super Move,20,Add Quickened,4,All enemies,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+118,Sacres Crystal,0,0,0,0,0,Super Move,31,Recover HP,3,One enemy,1000,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+119,Death Tackle,0,0,0,0,0,Super Move,0,Damage,102,Character line #3,16,40,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+120,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+121,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+122,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+123,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+124,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+125,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+126,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+127,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+128,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+129,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+130,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+131,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+132,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+133,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+134,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+135,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+136,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+137,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+138,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+139,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+140,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+141,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+142,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+143,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+144,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+145,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+146,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+147,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+148,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+149,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+150,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+151,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+152,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+153,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+154,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+155,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+156,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+157,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+158,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+159,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+160,Search,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+161,Poison Gas,0,0,0,0,0,Super Move,4,Add Poison + Damage,96,Character area #1,16,15,0,Green,0,Physical,16,17,0,Poison,50,0,0
+162,Fatigue Gas,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,96,Character area #1,16,15,4,Yellow,0,Physical,16,17,6,Fatigue,20,0,0
+163,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+164,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+165,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+166,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+167,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+168,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+169,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+170,Needle Storm,0,0,0,0,0,Super Move,0,Damage,1,One character,16,40,3,Blue,0,Physical,0,0,0,Poison,0,0,0
+171,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+172,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+173,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+174,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+175,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+176,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+177,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+178,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+179,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+180,Lava Storm,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,10,1,Red,0,Physical,0,0,0,Poison,0,0,0
+181,Blast Breath,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,15,1,Red,0,Physical,0,0,0,Poison,0,0,0
+182,Loqua Spray,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,25,1,Red,0,Physical,0,0,0,Poison,0,0,0
+183,Frost Breath,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,15,2,Purple,0,Physical,0,0,0,Poison,0,0,0
+184,Frost Breath,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,15,2,Purple,0,Physical,0,0,0,Poison,0,0,0
+185,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+186,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+187,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+188,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+189,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+190,Damyun,0,0,0,0,0,Super Move,12,Add Silence,2,All characters,0,0,0,Green,0,Physical,16,17,5,Silence,40,0,0
+191,Slumber Dust,0,0,0,0,0,Super Move,9,Add Sleep,102,Character line #3,0,0,0,Green,0,Physical,16,17,3,Sleep,40,0,0
+192,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+193,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+194,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+195,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+196,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+197,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+198,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+199,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+200,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,13,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+201,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,96,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+202,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+203,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+204,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+205,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+206,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+207,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+208,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+209,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+210,HP Absorb,0,0,0,0,0,Super Move,44,Absorb HP,1,One character,2,10,0,Green,0,Physical,0,0,0,Poison,0,0,0
+211,HP Absorb,0,0,0,0,0,Super Move,44,Absorb HP,1,One character,2,10,0,Green,0,Physical,0,0,0,Poison,0,0,0
+212,HP Absorb,0,0,0,0,0,Super Move,44,Absorb HP,1,One character,2,20,0,Green,0,Physical,0,0,0,Poison,0,0,0
+213,HP Absorb,0,0,0,0,0,Super Move,44,Absorb HP,1,One character,2,20,0,Green,0,Physical,0,0,0,Poison,0,0,0
+214,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+215,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+216,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+217,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+218,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+219,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+220,Rapid Fire,0,0,0,0,0,Super Move,0,Damage,1,One character,16,30,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+221,欠番,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+222,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+223,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+224,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+225,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+226,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+227,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+228,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+229,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+230,Irnagun,0,0,0,0,0,Super Move,0,Damage,1,One character,16,40,3,Blue,0,Physical,0,0,0,Poison,0,0,0
+231,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+232,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+233,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+234,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+235,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+236,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+237,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+238,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+239,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+240,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+241,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+242,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+243,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+244,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+245,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+246,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+247,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+248,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+249,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+250,Wind Slash,0,0,0,0,0,Super Move,0,Damage,103,Character line #4,16,15,3,Blue,0,Physical,0,0,0,Poison,0,0,0
+251,Sonic Wave,0,0,0,0,0,Super Move,0,Damage,103,Character line #4,16,15,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+252,欠番,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+253,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+254,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+255,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+256,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+257,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+258,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+259,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+260,Quake,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,2,Purple,0,Physical,0,0,0,Poison,0,0,0
+261,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+262,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+263,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+264,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+265,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+266,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+267,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+268,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+269,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+270,Self-destruct,0,0,0,0,0,Super Move,62,Damage + Defeat user,200,Characters nearby #1,16,40,0,Green,0,Physical,16,17,0,Poison,100,0,0
+271,Poison Explode,0,0,0,0,0,Super Move,62,Damage + Defeat user,200,Characters nearby #1,16,40,0,Green,0,Physical,16,17,0,Poison,50,0,0
+272,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+273,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+274,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+275,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+276,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+277,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+278,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+279,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+280,Chak Mol,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,2,All characters,16,30,0,Green,0,Physical,16,17,6,Fatigue,70,0,0
+281,Golden Flurry,0,0,0,0,0,Super Move,70,Add Confusion + Damage,2,All characters,16,30,3,Blue,0,Physical,16,17,4,Confusion,70,0,0
+282,Bodyguard,0,0,0,0,0,Super Move,43,Call enemy,0,None,248,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+283,Berserk Rupee,0,0,0,0,0,Super Move,0,Damage,1,One character,16,90,1,Red,0,Physical,0,0,0,Poison,0,0,0
+284,Legendary Fire,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,1,One character,16,20,1,Red,0,Physical,16,17,6,Fatigue,70,0,0
+285,Legendary Punch,0,0,0,0,0,Super Move,0,Damage,1,One character,16,40,1,Red,0,Physical,0,0,0,Poison,0,0,0
+286,Legendary Charge,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+287,Sacri Crystal,0,0,0,0,0,Super Move,31,Recover HP,3,One enemy,500,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+288,Cutlass Wrath,0,0,0,0,0,Super Move,0,Damage,1,One character,16,40,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
+289,Revenge,0,0,0,0,0,Super Move,38,Counter attack + Guard,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+290,Anita Burst,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,30,1,Red,0,Physical,0,0,0,Poison,0,0,0
+291,Anita Shield,0,0,0,0,0,Super Move,39,Block magic,4,All enemies,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+292,Pipes of Doom,0,0,0,0,0,Super Move,43,Call enemy,0,None,251,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+293,Explosive Powder,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,40,1,Red,0,Physical,0,0,0,Poison,0,0,0
+294,Magic Lamp,0,0,0,0,0,Super Move,16,Add Weak,2,All characters,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+295,Medicine Box,0,0,0,0,0,Super Move,78,Add Quickened + Add Regenerate + Add Strengthen,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+296,Vase of Echos,0,0,0,0,0,Super Move,26,Add Weak,2,All characters,0,0,0,Green,0,Physical,1,1,8,Weak,90,0,0
+297,Moonstone Blast,0,0,0,0,0,Super Move,68,Add Unconscious + Damage #2,1,One character,16,30,4,Yellow,0,Physical,16,17,1,Unconscious,60,0,0
+298,Charge,0,0,0,0,0,Super Move,43,Call enemy,0,None,254,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+299,Rampage,0,0,0,0,0,Super Move,0,Damage,1,One character,16,70,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+300,Sidewinder,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,30,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
+301,Target Search,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+302,Tempest Dance,0,0,0,0,0,Super Move,0,Damage,1,One character,16,40,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
+303,Tempest Dance,0,0,0,0,0,Super Move,0,Damage,1,One character,16,50,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
+304,Tempest Dance,0,0,0,0,0,Super Move,0,Damage,1,One character,16,60,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
+305,Tempest Dance,0,0,0,0,0,Super Move,0,Damage,1,One character,16,50,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
+306,Deluge,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,25,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
+307,Vigoro's Charm,0,0,0,0,0,Super Move,70,Add Confusion + Damage,1,One character,16,5,1,Red,0,Physical,16,17,4,Confusion,0,0,0
+308,Bodyguard,0,0,0,0,0,Super Move,43,Call enemy,0,None,250,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
