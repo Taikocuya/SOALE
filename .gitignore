@@ -1,0 +1,37 @@
+# Linux
+*~
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+
+# Eclipse
+.project
+
+# SOALE
+/doc/
+/share/**/*.bat
+/share/**/*.[Bb][Ii][Nn]
+/share/**/*.ect
+/share/**/*.dsp
+/share/**/*.gvr
+/share/**/*.ldr
+/share/**/*.info
+/share/**/*.mld
+/share/**/*.mlk
+/share/**/*.mll
+/share/**/*.samp
+/share/**/*.sml
+/share/**/*.sct
+/share/**/*.sst
+/share/**/*.std
+/share/**/*.toc
+/share/**/*.tpl
+/share/**/*.txt
+/share/**/FontData.EU
+/share/**/FontData.jp
+/share/**/FontData.US
+/thirdparty/
