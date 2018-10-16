@@ -1,0 +1,81 @@
+Entry ID,[Entry name],Chara. flags,[Vyse],[Aika],[Fina],[Drachma],[Enrique],[Gilder],Retail price in %,Purchase price,Feature #0 ID,[Feature #0 name],Feature #0 value,Feature #1 ID,[Feature #1 name],Feature #1 value,Feature #2 ID,[Feature #2 name],Feature #2 value,Feature #3 ID,[Feature #3 name],Feature #3 value
+160,Gemstone Ring,58,X,X,X,,X,,50,150,18,MagDef,21,84,Random encounter%,5,-1,None,0,-1,None,0
+161,Prophet's Sand,58,X,X,X,,X,,50,890,18,MagDef,63,84,Random encounter%,5,-1,None,0,-1,None,0
+162,Meditation Ring,58,X,X,X,,X,,50,100,1,Will,8,84,Random encounter%,5,-1,None,0,-1,None,0
+163,Moondust Ring,58,X,X,X,,X,,50,1530,1,Will,48,84,Random encounter%,5,-1,None,0,-1,None,0
+164,Lover's Ring,58,X,X,X,,X,,50,300,18,MagDef,12,1,Will,12,84,Random encounter%,5,-1,None,0
+165,Jade Swirl Ring,58,X,X,X,,X,,50,2960,18,MagDef,45,1,Will,45,84,Random encounter%,5,-1,None,0
+166,Cupil Ring,8,,,X,,,,100,10000,49,Death,-5,37,Silver,-5,18,MagDef,45,1,Will,45
+167,Warrior's Heart,58,X,X,X,,X,,100,10,77,Recover spirit,1,84,Random encounter%,5,-1,None,0,-1,None,0
+168,Throkryn's Scale,53,X,X,,X,,X,50,300,16,Attack,10,84,Random encounter%,5,-1,None,0,-1,None,0
+169,Thryllak's Scale,53,X,X,,X,,X,50,2300,16,Attack,36,84,Random encounter%,5,-1,None,0,-1,None,0
+170,Marocca's Shell,53,X,X,,X,,X,50,130,17,Defense,6,84,Random encounter%,5,-1,None,0,-1,None,0
+171,Burocca's Shell,53,X,X,,X,,X,50,1920,17,Defense,36,84,Random encounter%,5,-1,None,0,-1,None,0
+172,Crylhound's Claw,53,X,X,,X,,X,50,420,19,Hit%,20,16,Attack,2,84,Random encounter%,5,-1,None,0
+173,Hunter's Hand,53,X,X,,X,,X,50,1010,19,Hit%,40,16,Attack,4,84,Random encounter%,5,-1,None,0
+174,Thief's Aura,61,X,X,X,X,,X,50,330,20,Dodge%,10,17,Defense,2,84,Random encounter%,5,-1,None,0
+175,Quetya Feather,61,X,X,X,X,,X,50,810,20,Dodge%,20,17,Defense,4,84,Random encounter%,5,-1,None,0
+176,Vigoro's Chain,37,X,,,X,,X,50,2890,16,Attack,20,19,Hit%,30,84,Random encounter%,5,-1,None,0
+177,Sailor's Buckler,55,X,X,,X,X,X,50,1930,17,Defense,20,20,Dodge%,15,84,Random encounter%,5,-1,None,0
+178,Warrior's Rune,57,X,X,X,,,X,100,10,16,Attack,10,17,Defense,10,19,Hit%,20,20,Dodge%,10
+179,Ancient Bracer,53,X,X,,X,,X,100,10,16,Attack,20,17,Defense,20,19,Hit%,40,20,Dodge%,20
+180,Counter Bracer,53,X,X,,X,,X,100,10,73,Counter%,20,16,Attack,20,19,Hit%,20,84,Random encounter%,5
+181,Defensive Aura,63,X,X,X,X,X,X,100,10,65,Block attacks,1,17,Defense,40,84,Random encounter%,5,-1,None,0
+182,Ivy Band,63,X,X,X,X,X,X,100,100,48,Poison,-10,32,Green,-2,17,Defense,5,18,MagDef,5
+183,Silvite Ring,63,X,X,X,X,X,X,100,100,49,Death,-10,37,Silver,-2,17,Defense,5,18,MagDef,5
+184,Gem of Fluidity,63,X,X,X,X,X,X,100,100,50,Stone,-10,17,Defense,10,18,MagDef,10,84,Random encounter%,5
+185,Wind Gem Ring,63,X,X,X,X,X,X,100,100,51,Sleep,-10,35,Blue,-2,17,Defense,5,18,MagDef,5
+186,Eye of Truth,63,X,X,X,X,X,X,100,100,52,Confuse,-10,34,Purple,-2,17,Defense,5,18,MagDef,5
+187,Revered Voice,63,X,X,X,X,X,X,100,100,53,Silence,-10,34,Purple,-2,17,Defense,5,18,MagDef,5
+188,Everlasting Gem,63,X,X,X,X,X,X,100,100,54,Fatigue,-10,17,Defense,10,18,MagDef,10,84,Random encounter%,5
+189,Behemoth's Ring,63,X,X,X,X,X,X,100,100,56,Weak,-10,36,Yellow,-2,17,Defense,5,18,MagDef,5
+190,Constitution Gem,63,X,X,X,X,X,X,100,1000,79,Block negative states,-10,17,Defense,10,18,MagDef,10,84,Random encounter%,5
+191,Nomadic Veil,63,X,X,X,X,X,X,50,640,17,Defense,9,18,MagDef,9,84,Random encounter%,5,-1,None,0
+192,Radiant Fur,63,X,X,X,X,X,X,50,3580,17,Defense,24,18,MagDef,24,84,Random encounter%,5,-1,None,0
+193,Sand Storm Ring,63,X,X,X,X,X,X,50,770,16,Attack,9,1,Will,9,84,Random encounter%,5,-1,None,0
+194,Skull Cap,63,X,X,X,X,X,X,50,4300,16,Attack,24,1,Will,24,84,Random encounter%,5,-1,None,0
+195,Mage's Bane,63,X,X,X,X,X,X,50,480,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
+196,Blue Rogue Patch,63,X,X,X,X,X,X,50,6820,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
+197,Assassin Ring,63,X,X,X,X,X,X,50,3200,80,First strike%,40,19,Hit%,40,84,Random encounter%,5,-1,None,0
+198,Stealth Ring,63,X,X,X,X,X,X,50,3000,81,Run%,100,4,Quick,10,20,Dodge%,10,84,Random encounter%,5
+199,Dhabu Hide,63,X,X,X,X,X,X,50,2800,4,Quick,50,84,Random encounter%,5,-1,None,0,-1,None,0
+200,Ominous Mask,37,X,,,X,,X,50,4760,68,Reduce spirit,1,16,Attack,45,17,Defense,45,84,Random encounter%,5
+201,Flash Ribbon,29,,X,X,X,,X,50,60,4,Quick,2,84,Random encounter%,5,-1,None,0,-1,None,0
+202,The Unseen Hand,29,,X,X,X,,X,50,2960,4,Quick,30,20,Dodge%,5,84,Random encounter%,5,-1,None,0
+203,Crescent Amulet,29,,X,X,X,,X,50,5710,4,Quick,19,17,Defense,28,18,MagDef,28,84,Random encounter%,5
+204,Skyseer Goggles,48,X,X,,,,,50,40,19,Hit%,5,84,Random encounter%,5,-1,None,0,-1,None,0
+205,Nocturnal Sight,48,X,X,,,,,50,1930,19,Hit%,60,16,Attack,6,84,Random encounter%,5,-1,None,0
+206,Critical Vision,48,X,X,,,,,50,6660,19,Hit%,50,16,Attack,19,84,Random encounter%,5,-1,None,0
+207,Gem of Purity,5,,,,X,,X,50,300,79,Block negative states,-3,17,Defense,8,84,Random encounter%,5,-1,None,0
+208,Shard of Purity,5,,,,X,,X,50,4760,79,Block negative states,-9,17,Defense,38,84,Random encounter%,5,-1,None,0
+209,Fortune Ring,24,,X,X,,,,50,2860,20,Dodge%,100,17,Defense,8,84,Random encounter%,5,-1,None,0
+210,Black Map,32,X,,,,,,100,777,84,Random encounter%,5,80,First strike%,25,82,???,0,83,Enemy run%,0
+211,White Map,32,X,,,,,,100,666,84,Random encounter%,1,80,First strike%,0,82,???,0,81,Run%,100
+212,Captain's Hat,32,X,,,,,,100,10,16,Attack,40,84,Random encounter%,5,-1,None,0,-1,None,0
+213,Mesh Tights,16,,X,,,,,100,10,16,Attack,40,1,Will,40,84,Random encounter%,5,-1,None,0
+214,Black Eyepatch,37,X,,,X,,X,100,10,16,Attack,7,84,Random encounter%,5,-1,None,0,-1,None,0
+215,Silver Veil,24,,X,X,,,,100,100,1,Will,16,18,MagDef,16,84,Random encounter%,5,-1,None,0
+216,Imperial Crest,2,,,,,X,,100,1000,17,Defense,20,18,MagDef,20,84,Random encounter%,5,-1,None,0
+217,Gilder's Amulet,49,X,X,,,,X,100,500,17,Defense,11,18,MagDef,11,16,Attack,11,1,Will,11
+218,Valuan Medallion,63,X,X,X,X,X,X,100,5000,49,Death,-10,17,Defense,30,18,MagDef,30,84,Random encounter%,5
+219,Immunity Ring,5,,,,X,,X,50,1490,79,Block negative states,-6,17,Defense,21,84,Random encounter%,5,-1,None,0
+220,Thermo Ring,63,X,X,X,X,X,X,50,2080,33,Red,-5,34,Purple,-5,84,Random encounter%,5,-1,None,0
+221,Slayer Ring,63,X,X,X,X,X,X,50,1010,1,Will,8,17,Defense,8,19,Hit%,10,4,Quick,8
+222,Chance Ring,63,X,X,X,X,X,X,100,1000,79,Block negative states,90,17,Defense,45,18,MagDef,45,84,Random encounter%,5
+223,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+224,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+225,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+226,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+227,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+228,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+229,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+230,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+231,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+232,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+233,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+234,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+235,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+236,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+237,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+238,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+239,ダミーアクセサリ,0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0

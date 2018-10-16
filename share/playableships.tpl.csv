@@ -1,0 +1,6 @@
+Entry ID,[Entry name],MAXHP,MAXSpirit,Spirit,Defense,MagDef,Quick,Dodge%,Ship cannon #0 ID,[Ship cannon #0 name],Ship cannon #1 ID,[Ship cannon #1 name],Ship cannon #2 ID,[Ship cannon #2 name],Ship cannon #3 ID,[Ship cannon #3 name],Ship cannon #4 ID,[Ship cannon #4 name],Ship acc. #0 ID,[Ship acc. #0 name],Ship acc. #1 ID,[Ship acc. #1 name],Ship acc. #2 ID,[Ship acc. #2 name],Value,Base MAXHP increase
+0,Little Jack,10000,9,2,20,50,55,10,400,Main Cannon,400,Main Cannon,439,Kazai Gun,420,Light Torpedo,430,Harpoon Cannon,460,Armored Deck,-1,None,-1,None,200000,1000
+1,Little Jack,10000,9,2,20,50,55,10,400,Main Cannon,400,Main Cannon,439,Kazai Gun,420,Light Torpedo,-1,None,460,Armored Deck,-1,None,-1,None,150000,1000
+2,Delphinus,36000,20,4,50,100,60,5,405,Prototype Cannon,405,Prototype Cannon,414,"12""Cannon",424,Valuan Torpedo,431,MoonStone Cannon,471,Enhanced Kitchen,473,Air Purifier,470,Intercom,10000000,2000
+3,Delphinus,36000,20,4,50,100,60,5,405,Prototype Cannon,405,Prototype Cannon,414,"12""Cannon",424,Valuan Torpedo,431,MoonStone Cannon,471,Enhanced Kitchen,473,Air Purifier,470,Intercom,11000000,2000
+4,Delphinus,36000,20,4,50,100,60,5,405,Prototype Cannon,405,Prototype Cannon,414,"12""Cannon",424,Valuan Torpedo,431,MoonStone Cannon,471,Enhanced Kitchen,473,Air Purifier,470,Intercom,12000000,2000

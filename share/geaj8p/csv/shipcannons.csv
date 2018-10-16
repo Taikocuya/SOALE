@@ -1,4 +1,4 @@
-Entry ID,JP entry name,Ship flags,[Little Jack #1],[Little Jack #2],[Delphinus #1],[Delphinus #2],[Delphinus #3],Type ID,[Type name],Element ID,[Element name],Attack,Hit%,Limit,Spirit,Unknown #0,Unknown #1,Unknown #2,Unknown #3,Purchase price,Retail price in %,O. by importance,O. by alphabet,Padding,[JP descr. pos.],[JP descr. size],JP descr. str.
+Entry ID,JP entry name,Ship flags,[Little Jack #1],[Little Jack #2],[Delphinus #1],[Delphinus #2],[Delphinus #3],Type ID,[Type name],Element ID,[Element name],Attack,Hit%,Limit,Spirit,Unknown #0,Padding #0,Padding #1,Padding #2,Purchase price,Retail price in %,Order by prio.,JP order by ABC,Padding,[JP descr. pos.],[JP descr. size],JP descr. str.
 400,固定主砲,48,X,X,"","","",0,Main cannon,6,Neutral,35,80,0,4,-1,0,0,0,450,50,0,0,0,2941620,88,リトルジャックに最初から装備されている砲。\nかなり年季の入った旧型砲だが、手入れは十分。
 401,汎主砲,48,X,X,"","","",0,Main cannon,6,Neutral,40,83,0,4,-1,0,0,0,1000,50,1,1,0,2941708,88,バルアでは駆逐艦の標準主砲として用いられる砲が\n闇ルートを通じて一般に出まわったもの。
 402,汎主砲改,48,X,X,"","","",0,Main cannon,6,Neutral,45,85,0,5,-1,0,0,0,1900,50,2,2,0,2941796,80,バルアの標準主砲を改造し、火力を増したもの。\nオーシャンの軽武装船に人気がある。

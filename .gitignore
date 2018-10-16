@@ -13,6 +13,7 @@ Thumbs.db
 
 # SOALE
 /doc/
+/share/**/*.bak
 /share/**/*.bat
 /share/**/*.[Bb][Ii][Nn]
 /share/**/*.ect

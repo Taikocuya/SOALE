@@ -1,4 +1,4 @@
-Entry ID,US entry name,Chara. ID,[Chara. name],Retail price in %,O. by importance,O. by alphabet,Effect ID,[Effect name],Purchase price,Attack,Hit%,Feature ID,[Feature name],Padding #0,Feature value,[US descr. pos.],[US descr. size],US descr. str.
+Entry ID,US entry name,Chara. ID,[Chara. name],Retail price in %,Order by prio.,US order by ABC,Effect ID,[Effect name],Purchase price,Attack,Hit%,Feature ID,[Feature name],Padding #0,Feature value,[US descr. pos.],[US descr. size],US descr. str.
 0,Cutlass,0,Vyse,50,0,21,-1,None,70,20,90,-1,None,0,0,2915740,96,"Vyse received these swords as a gift from his\nfather, Dyne. It is light, with a short blade."
 1,Pirate Cutlass,0,Vyse,50,1,48,-1,None,220,33,90,-1,None,0,0,2915836,96,The favorite sword among Air Pirates in the Mid\nOcean area. It is light and very easy to wield.
 2,Sky Cutlass,0,Vyse,50,2,54,-1,None,450,45,90,-1,None,0,0,2915932,88,A cutlass used by Pirates and fishermen alike.\nIts edge is perfect for cleaning fish.
@@ -12,7 +12,7 @@ Entry ID,US entry name,Chara. ID,[Chara. name],Retail price in %,O. by importanc
 10,Stonecutter,0,Vyse,50,6,58,-1,None,3120,99,90,-1,None,0,0,2916672,92,"A blade originally used in masonry work, it has\nsince been modified to be used in combat."
 11,Dream Cutlass,0,Vyse,50,10,26,-1,None,6690,137,90,35,Blue,0,-2,2916764,92,A legendary sword that can supposedly rip the\nfabric of reality and make dreams come true.
 12,Windslicer,0,Vyse,50,12,70,-1,None,8760,153,90,-1,None,0,0,2916856,80,A blade so slender that it is fabled to be able\nto cut the very air in half.
-13,Vorlik Blade,0,Vyse,50,15,68,-1,None,16500,200,200,-1,None,0,0,2916936,76,"A masterpiece of the legendary swordsmith,\nRyu-kan, forged from Velorium."
+13,Vorlik Blade,0,Vyse,50,15,68,-1,None,16500,200,90,-1,None,0,0,2916936,76,"A masterpiece of the legendary swordsmith,\nRyu-kan, forged from Velorium."
 14,Suiran Blade,0,Vyse,50,11,60,-1,None,7500,141,90,-1,None,0,0,2917012,92,"A short sword used by Yafutoman soldiers, its\nthick, heavy blade is still easy to handle."
 15,Soul Sword,0,Vyse,50,14,56,16,Add Death #3,12340,174,90,-1,None,0,0,2917104,96,"The ultimate sword, the best work of the master\nswordsmith, Ryu-kan. Can cause instant death."
 16,Boomerang,1,Aika,50,17,5,-1,None,70,19,110,-1,None,0,0,2917200,80,"Aika's favorite boomerang. It's large but light,\nand relatively easy to aim."
@@ -72,7 +72,7 @@ Entry ID,US entry name,Chara. ID,[Chara. name],Retail price in %,O. by importanc
 70,Gilder Special,5,Gilder,50,70,31,-1,None,9460,168,100,-1,None,0,0,2921908,84,A gun made specifically to fit Gilder's touch.\nIt has unequaled accuracy and power.
 71,Tuna Cutlass,0,Vyse,100,16,65,-1,None,22222,150,0,-1,None,0,0,2921992,80,"Received from the imposter, Vize.\nBoasts high attack power, but low accuracy."
 72,Swirlmerang,1,Aika,100,33,61,11,Add Confusion #3,11111,100,0,-1,None,0,0,2922072,88,"Received from the imposter, Anita. Will always\nConfuse any enemy not immune to Confuse."
-73,Sky Fang,0,Vyse,50,17,23,-1,None,50000,255,224,-1,None,0,0,2922160,84,"A sword so powerful, it is said that it can\nsplit the heavens. The ultimate sword."
+73,Sky Fang,0,Vyse,50,17,23,-1,None,50000,220,95,-1,None,0,0,2922160,84,"A sword so powerful, it is said that it can\nsplit the heavens. The ultimate sword."
 74,ダミー武器,0,Vyse,0,-1,-1,-1,None,0,0,0,-1,None,0,0,2922244,16,ダミーです。
 75,ダミー武器,0,Vyse,0,-1,-1,-1,None,0,0,0,-1,None,0,0,0,0,""
 76,ダミー武器,0,Vyse,0,-1,-1,-1,None,0,0,0,-1,None,0,0,0,0,""

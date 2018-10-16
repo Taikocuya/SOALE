@@ -1,0 +1,27 @@
+Entry ID,[Entry name],Element ID,[Element name],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect name],Scope ID,[Scope name],Category ID,[Category name],Effect priority,Effect spirit,Effect value,Type ID,[Type name],State ID,[State name],State hit%
+36,Cutlass Fury,6,Neutral,2,,X,,0,Damage,3,One enemy,0,Vyse,1,7,25,0,Physical,-1,None,0
+37,Rain of Swords,6,Neutral,2,,X,,0,Damage,4,All enemies,0,Vyse,1,14,15,0,Physical,-1,None,0
+38,Pirates' Wrath,6,Neutral,2,,X,,0,Damage,3,One enemy,0,Vyse,1,21,75,0,Physical,-1,None,0
+39,Omega Psyclone,1,Red,2,,X,,0,Damage,4,All enemies,1,Aika,1,10,165,0,Physical,-1,None,0
+40,Alpha Storm,1,Red,2,,X,,0,Damage,39,Enemy line #4,1,Aika,1,2,60,0,Physical,-1,None,0
+41,Lambda Burst,1,Red,2,,X,,0,Damage,4,All enemies,1,Aika,1,4,100,0,Physical,-1,None,0
+42,Lunar Glyph,5,Silver,2,,X,,8,Add Stone + Damage,3,One enemy,2,Fina,1,3,100,0,Physical,2,Stone,25
+43,Lunar Winds,5,Silver,2,,X,,17,Remove positive states,4,All enemies,2,Fina,1,6,75,0,Physical,-1,None,0
+44,Tackle,6,Neutral,2,,X,,0,Damage,3,One enemy,3,Drachma,1,10,30,0,Physical,-1,None,0
+45,Hand of Fate,6,Neutral,2,,X,,6,Add Unconscious + Damage #1,3,One enemy,3,Drachma,1,25,90,0,Physical,1,Unconscious,50
+46,Royal Blade,6,Neutral,2,,X,,0,Damage,37,Enemy line #2,4,Enrique,1,8,40,0,Physical,-1,None,0
+47,The Judgement,6,Neutral,2,,X,,0,Damage,3,One enemy,4,Enrique,1,16,80,0,Physical,-1,None,0
+48,Gunslinger,6,Neutral,2,,X,,0,Damage,43,Enemy line #5,5,Gilder,1,9,30,0,Physical,-1,None,0
+49,The Claudia,6,Neutral,2,,X,,0,Damage,4,All enemies,5,Gilder,1,18,25,0,Physical,-1,None,0
+50,Counterstrike,6,Neutral,2,,X,,38,Counter attack + Guard,5,User,0,Vyse,2,1,0,0,Physical,-1,None,0
+51,Skull Shield,6,Neutral,2,,X,,46,Block attack + Counter attack,2,All characters,0,Vyse,2,4,0,0,Physical,-1,None,0
+52,Delta Shield,6,Neutral,2,,X,,39,Block magic,2,All characters,1,Aika,2,6,0,0,Physical,-1,None,0
+53,Epsilon Mirror,6,Neutral,2,,X,,77,Invulnerable + Recover MP,5,User,1,Aika,2,6,10,0,Physical,-1,None,0
+54,Lunar Blessing,6,Neutral,2,,X,,33,Add Regenerate,2,All characters,2,Fina,2,12,200,0,Physical,-1,None,0
+55,Lunar Cleansing,6,Neutral,2,,X,,30,Remove negative states,2,All characters,2,Fina,2,6,0,0,Physical,-1,None,0
+56,Lunar Light,6,Neutral,2,,X,,47,Recover HP and MP + Remove negative states,2,All characters,2,Fina,2,18,10000,0,Physical,-1,None,0
+57,Spirit Charge,6,Neutral,2,,X,,41,Guard + Increase Spirit restoration to 200%,5,User,3,Drachma,2,0,0,0,Physical,-1,None,0
+58,Justice Shield,6,Neutral,2,,X,,1,Guard,2,All characters,4,Enrique,2,12,0,0,Physical,-1,None,0
+59,Aura of Denial,6,Neutral,2,,X,,42,Block negative states,2,All characters,5,Gilder,2,4,0,0,Physical,-1,None,0
+60,Blue Rogues,6,Neutral,2,,X,,66,Blue Rogues,6,All characters and enemies,0,Vyse,-1,-1,0,0,Physical,-1,None,0
+61,Prophecy,6,Neutral,2,,X,,65,Prophecy,4,All enemies,0,Vyse,1,-1,0,0,Physical,-1,None,0

@@ -1,0 +1,41 @@
+Entry ID,[Entry name],Ship flags,[Little Jack #1],[Little Jack #2],[Delphinus #1],[Delphinus #2],[Delphinus #3],Feature #0 ID,[Feature #0 name],Feature #0 value,Feature #1 ID,[Feature #1 name],Feature #1 value,Feature #2 ID,[Feature #2 name],Feature #2 value,Feature #3 ID,[Feature #3 name],Feature #3 value,Purchase price,Retail price in %
+440,Rogue Figure,62,X,X,X,X,X,7,Value,800,3,MagDef,5,-1,None,0,-1,None,0,800,50
+441,Pryn Figure,62,X,X,X,X,X,7,Value,2400,3,MagDef,10,-1,None,0,-1,None,0,2400,50
+442,Pyrynn Figure,62,X,X,X,X,X,7,Value,4400,3,MagDef,15,-1,None,0,-1,None,0,4400,50
+443,Arcwhale Figure,62,X,X,X,X,X,7,Value,4640,3,MagDef,20,-1,None,0,-1,None,0,4640,50
+444,Quetya Figure,62,X,X,X,X,X,7,Value,4880,3,MagDef,30,-1,None,0,-1,None,0,4880,50
+445,Giant Figure,62,X,X,X,X,X,7,Value,5120,3,MagDef,40,-1,None,0,-1,None,0,5120,50
+446,Bluheim Figure,62,X,X,X,X,X,7,Value,5360,3,MagDef,55,-1,None,0,-1,None,0,5360,50
+447,Goddess Figure,62,X,X,X,X,X,7,Value,6800,3,MagDef,70,-1,None,0,-1,None,0,6800,50
+448,Vyse Figure,62,X,X,X,X,X,7,Value,8800,3,MagDef,85,-1,None,0,-1,None,0,8800,50
+449,Spherical Figure,62,X,X,X,X,X,7,Value,13500,3,MagDef,100,-1,None,0,-1,None,0,13500,50
+450,Engine Cover,62,X,X,X,X,X,7,Value,800,4,Quick,5,6,Dodge%,1,-1,None,0,800,50
+451,Turbo Kit,62,X,X,X,X,X,7,Value,1520,4,Quick,10,6,Dodge%,1,-1,None,0,1520,50
+452,Bore-up Kit,62,X,X,X,X,X,7,Value,2400,4,Quick,15,6,Dodge%,1,-1,None,0,2400,50
+453,Twin Propellers,62,X,X,X,X,X,7,Value,3200,4,Quick,20,6,Dodge%,3,-1,None,0,3200,50
+454,Air Intake,62,X,X,X,X,X,7,Value,6800,4,Quick,30,6,Dodge%,3,-1,None,0,6800,50
+455,Twin Turbo,62,X,X,X,X,X,7,Value,8800,4,Quick,40,6,Dodge%,3,-1,None,0,8800,50
+456,Timing Valve,62,X,X,X,X,X,7,Value,10800,4,Quick,55,6,Dodge%,5,-1,None,0,10800,50
+457,Triple Turbo,62,X,X,X,X,X,7,Value,12800,4,Quick,70,6,Dodge%,5,-1,None,0,12800,50
+458,High Torque Kit,62,X,X,X,X,X,7,Value,14800,4,Quick,85,6,Dodge%,5,-1,None,0,14800,50
+459,Double Shaft,62,X,X,X,X,X,7,Value,16640,4,Quick,100,6,Dodge%,7,-1,None,0,16640,50
+460,Armored Deck,62,X,X,X,X,X,7,Value,1000,2,Defense,5,-1,None,0,-1,None,0,1000,50
+461,Steel Deck,62,X,X,X,X,X,7,Value,1900,2,Defense,10,-1,None,0,-1,None,0,1900,50
+462,Slanted Deck,62,X,X,X,X,X,7,Value,2200,2,Defense,15,-1,None,0,-1,None,0,2200,50
+463,Compound Deck,62,X,X,X,X,X,7,Value,5500,2,Defense,20,-1,None,0,-1,None,0,5500,50
+464,Heavy Armor Deck,62,X,X,X,X,X,7,Value,6700,2,Defense,30,-1,None,0,-1,None,0,6700,50
+465,Alloy Deck,62,X,X,X,X,X,7,Value,7300,2,Defense,40,-1,None,0,-1,None,0,7300,50
+466,Dragon Deck,62,X,X,X,X,X,7,Value,7900,2,Defense,55,-1,None,0,-1,None,0,7900,50
+467,Ancient Deck,62,X,X,X,X,X,7,Value,8500,2,Defense,70,-1,None,0,-1,None,0,8500,50
+468,Silver Deck,62,X,X,X,X,X,7,Value,11000,2,Defense,85,6,Dodge%,1,4,Quick,3,11000,50
+469,Sparkling Deck,62,X,X,X,X,X,7,Value,13500,2,Defense,100,6,Dodge%,2,4,Quick,6,13500,50
+470,Intercom,62,X,X,X,X,X,7,Value,1000,4,Quick,3,-1,None,0,-1,None,0,1000,50
+471,Enhanced Kitchen,62,X,X,X,X,X,7,Value,5500,2,Defense,1,-1,None,0,-1,None,0,5500,50
+472,Floor Heater,62,X,X,X,X,X,7,Value,3000,3,MagDef,1,-1,None,0,-1,None,0,3000,50
+473,Air Purifier,62,X,X,X,X,X,7,Value,5800,3,MagDef,2,-1,None,0,-1,None,0,5800,50
+474,Yafutoman Alcove,62,X,X,X,X,X,7,Value,6700,3,MagDef,2,-1,None,0,-1,None,0,6700,50
+475,Soundproofing,62,X,X,X,X,X,7,Value,11000,2,Defense,1,-1,None,0,-1,None,0,11000,50
+476,Expensive Wheel,62,X,X,X,X,X,7,Value,8500,4,Quick,2,-1,None,0,-1,None,0,8500,50
+477,Chandelier,62,X,X,X,X,X,7,Value,9300,2,Defense,1,-1,None,0,-1,None,0,9300,50
+478,Wooden Doll,62,X,X,X,X,X,7,Value,7300,-1,None,0,-1,None,0,-1,None,0,7300,50
+479,Indoor Plant,62,X,X,X,X,X,7,Value,10100,3,MagDef,1,-1,None,0,-1,None,0,10100,50

@@ -1,0 +1,37 @@
+Entry ID,[Entry name],Element ID,[Element name],Order by prio.,Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect name],Scope ID,[Scope name],Category ID,[Category name],Effect priority,Effect spirit,Effect value,Type ID,[Type name],State ID,[State name],State hit%,Ship occ. ID,[Ship occ. name],Ship effect ID,[Ship effect name],Ship effect spirit,Ship effect turns,Ship effect amount
+0,Increm,1,Red,120,3,,X,X,21,Add Strengthen,1,One character,6,Magic,0,6,-1,1,Magical,-1,None,0,1,Always,105,Add Strengthen (Ship),6,2,0
+1,Incremus,1,Red,121,3,,X,X,21,Add Strengthen,2,All characters,6,Magic,0,20,-1,1,Magical,-1,None,0,1,Always,105,Add Strengthen (Ship),20,4,0
+2,Sylenis,2,Purple,20,3,,X,X,12,Add Silence,3,One enemy,6,Magic,0,1,0,1,Magical,5,Silence,60,0,Magic Cannon,116,Add Silence (Ship),1,0,0
+3,Panika,2,Purple,130,2,,X,,11,Add Confusion,3,One enemy,6,Magic,0,2,0,1,Magical,4,Confusion,60,-1,Never,-1,None,-1,-1,0
+4,Driln,4,Yellow,140,3,,X,X,26,Add Weak,3,One enemy,6,Magic,0,2,0,1,Magical,8,Weak,60,0,Magic Cannon,106,Add Weak (Ship),2,2,0
+5,Drilnos,4,Yellow,141,3,,X,X,26,Add Weak,4,All enemies,6,Magic,0,6,0,1,Magical,8,Weak,60,0,Magic Cannon,106,Add Weak (Ship),6,4,0
+6,Sacri,0,Green,40,7,X,X,X,31,Recover HP,1,One character,6,Magic,0,1,500,1,Magical,-1,None,0,1,Always,100,Recover HP (Ship),1,-1,500
+7,Sacres,0,Green,41,7,X,X,X,31,Recover HP,1,One character,6,Magic,0,2,1000,1,Magical,-1,None,0,1,Always,100,Recover HP (Ship),2,-1,1000
+8,Sacrum,0,Green,42,6,X,X,,31,Recover HP,2,All characters,6,Magic,0,4,1000,1,Magical,-1,None,0,-1,Never,-1,None,-1,-1,0
+9,Sacrulen,0,Green,43,7,X,X,X,31,Recover HP,1,One character,6,Magic,0,3,2000,1,Magical,-1,None,0,1,Always,100,Recover HP (Ship),3,-1,2000
+10,Noxi,0,Green,50,2,,X,,4,Add Poison + Damage,3,One enemy,6,Magic,0,2,60,1,Magical,0,Poison,60,-1,Never,-1,None,-1,-1,0
+11,Noxus,0,Green,51,2,,X,,4,Add Poison + Damage,4,All enemies,6,Magic,0,6,100,1,Magical,0,Poison,60,-1,Never,-1,None,-1,-1,0
+12,Slipara,3,Blue,110,2,,X,,9,Add Sleep,4,All enemies,6,Magic,0,6,0,1,Magical,3,Sleep,60,-1,Never,-1,None,-1,-1,0
+13,Quika,3,Blue,70,3,,X,X,20,Add Quickened,2,All characters,6,Magic,0,6,-1,1,Magical,-1,None,0,1,Always,104,Add Quickened (Ship),6,1,0
+14,Curia,5,Silver,80,2,,X,,30,Remove negative states,1,One character,6,Magic,0,1,-1,1,Magical,-1,None,0,-1,Never,-1,None,-1,-1,0
+15,Risan,5,Silver,90,2,,X,,27,Revive with 50% of HP,1,One character,6,Magic,0,2,0,1,Magical,7,Revival,0,-1,Never,-1,None,-1,-1,0
+16,Riselem,5,Silver,91,2,,X,,28,Revive with 100% of HP,1,One character,6,Magic,0,4,0,1,Magical,7,Revival,0,-1,Never,-1,None,-1,-1,0
+17,Eterni,5,Silver,100,2,,X,,5,Add Unconscious,3,One enemy,6,Magic,0,5,0,1,Magical,1,Unconscious,60,-1,Never,-1,None,-1,-1,0
+18,Eternes,5,Silver,101,2,,X,,5,Add Unconscious,4,All enemies,6,Magic,0,10,0,1,Magical,1,Unconscious,60,-1,Never,-1,None,-1,-1,0
+19,Eternum,5,Silver,102,2,,X,,6,Add Unconscious + Damage #1,3,One enemy,6,Magic,0,15,250,1,Magical,1,Unconscious,0,-1,Never,-1,None,-1,-1,0
+20,Wevli,3,Blue,60,3,,X,X,0,Damage,32,Enemy area #1,6,Magic,0,2,60,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),2,-1,60
+21,Wevles,3,Blue,61,3,,X,X,0,Damage,33,Enemy area #2,6,Magic,0,4,105,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),4,-1,90
+22,Wevlen,3,Blue,63,3,,X,X,0,Damage,34,Enemy area #3,6,Magic,0,8,195,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),8,-1,150
+23,Pyri,1,Red,0,3,,X,X,0,Damage,4,All enemies,6,Magic,0,2,50,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),2,-1,60
+24,Pyres,1,Red,1,3,,X,X,0,Damage,4,All enemies,6,Magic,0,4,85,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),4,-1,90
+25,Pyrum,1,Red,2,3,,X,X,0,Damage,4,All enemies,6,Magic,0,6,120,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),6,-1,120
+26,Crystali,2,Purple,10,3,,X,X,0,Damage,3,One enemy,6,Magic,0,1,70,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),1,-1,30
+27,Crystales,2,Purple,11,3,,X,X,0,Damage,3,One enemy,6,Magic,0,2,120,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),2,-1,50
+28,Crystalum,2,Purple,12,3,,X,X,0,Damage,3,One enemy,6,Magic,0,3,170,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),3,-1,70
+29,Crystalen,2,Purple,13,3,,X,X,0,Damage,3,One enemy,6,Magic,0,4,220,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),4,-1,90
+30,Pyrulen,1,Red,3,3,,X,X,0,Damage,4,All enemies,6,Magic,0,10,155,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),10,-1,150
+31,Wevlum,3,Blue,62,3,,X,X,0,Damage,33,Enemy area #2,6,Magic,0,6,150,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),6,-1,120
+32,Electri,4,Yellow,30,3,,X,X,0,Damage,36,Enemy line #1,6,Magic,0,2,60,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),2,-1,60
+33,Electres,4,Yellow,31,3,,X,X,0,Damage,37,Enemy line #2,6,Magic,0,4,105,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),4,-1,90
+34,Electrum,4,Yellow,32,3,,X,X,0,Damage,37,Enemy line #2,6,Magic,0,6,150,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),6,-1,120
+35,Electrulen,4,Yellow,33,3,,X,X,0,Damage,38,Enemy line #3,6,Magic,0,8,195,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),8,-1,150
