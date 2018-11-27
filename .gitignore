@@ -13,7 +13,6 @@ Thumbs.db
 
 # SOALE
 /doc/
-/share/**/*.bak
 /share/**/*.bat
 /share/**/*.[Bb][Ii][Nn]
 /share/**/*.ect
@@ -35,4 +34,6 @@ Thumbs.db
 /share/**/FontData.EU
 /share/**/FontData.jp
 /share/**/FontData.US
+/share/*/bak/
 /thirdparty/
+/tools/
