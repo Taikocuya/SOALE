@@ -11,7 +11,7 @@ Thumbs.db
 # Eclipse
 .project
 
-# SOALE
+# SOALE directories
 /doc/
 /share/**/*.[Bb][Ii][Nn]
 /share/**/*.ect
@@ -35,3 +35,11 @@ Thumbs.db
 /share/*/bak/
 /thirdparty/
 /tools/
+
+# SOALE files
+!b7025639_L.dsp
+!b7025639_R.dsp
+!f29005a7.mlk
+!mg039.mld
+!mg039.std
+!mg0390.std
