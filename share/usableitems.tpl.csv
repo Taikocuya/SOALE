@@ -3,8 +3,8 @@ Entry ID,[Entry name],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect
 241,Sacres Crystal,6,X,X,,31,Recover HP,1,One character,100,50,130,1000,-1,-1,0,0
 242,Sacrum Crystal,6,X,X,,31,Recover HP,2,All characters,100,50,720,1000,-1,-1,0,0
 243,Sacrulen Crystal,6,X,X,,31,Recover HP,1,One character,100,50,390,2000,-1,-1,0,0
-244,Magic Droplet,7,X,X,X,48,Recover MP,1,One character,100,50,70,1,-1,-1,0,0
-245,Magic Dew,7,X,X,X,48,Recover MP,1,One character,100,50,870,10,-1,-1,0,0
+244,Magic Droplet,7,X,X,X,48,Recover MP,1,One character,100,50,40,1,-1,-1,0,0
+245,Magic Dew,7,X,X,X,48,Recover MP,1,One character,100,50,540,10,-1,-1,0,0
 246,Aura of Valor,3,,X,X,35,Recover SP,2,All characters,100,50,5000,40,-1,-1,0,0
 247,Soul Crystal,0,,,,-1,None,0,None,0,100,3000,0,0,0,0,0
 248,Unholy Dagger,0,,,,-1,None,0,None,0,100,4000,0,0,0,0,0

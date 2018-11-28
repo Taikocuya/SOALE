@@ -33,9 +33,9 @@ Entry ID,US entry name,Ship flags,[Little Jack #1],[Little Jack #2],[Delphinus #
 431,MoonStone Cannon,14,"","",X,X,X,3,Special,6,Neutral,800,65535,0,20,-1,0,0,0,0,0,31,30,0,2944000,96,The ultimate weapon of the Delphinus. Builds up\nMoon energy and releases it in a massive blast.
 432,Moon Cannon,62,X,X,X,X,X,0,Main cannon,6,Neutral,500,99,0,9,-1,0,0,0,1000,100,32,27,0,2944096,72,A main cannon that uses both Moonstone energy\nand gunpowder to fire.
 433,Moon Gun,62,X,X,X,X,X,1,Secondary cannon,6,Neutral,400,99,3,5,-1,0,0,0,1000,100,33,28,0,2944168,80,A secondary cannon that relies on Moonstone\nenergy instead of draining Spirit.
-434,Moon Torpedo,62,X,X,X,X,X,2,Torpedo,6,Neutral,600,75,3,3,-1,0,0,0,1000,100,34,29,0,2944248,72,A torpedo that uses Moonstone energy to keep\nSpirit consumption low.
+434,Moon Torpedo,62,X,X,X,X,X,2,Torpedo,6,Neutral,600,75,3,6,-1,0,0,0,1000,100,34,29,0,2944248,72,A torpedo that uses Moonstone energy to keep\nSpirit consumption low.
 435,Pyril Cannon,14,"","",X,X,X,0,Main cannon,1,Red,200,120,0,6,-1,0,0,0,13200,50,35,32,0,2944320,84,"A rotating cannon designed for battleships.\nHas Red properties, and high accuracy."
 436,Wevl Cannon,14,"","",X,X,X,1,Secondary cannon,3,Blue,180,120,3,4,-1,0,0,0,10200,50,36,37,0,2944404,88,"A secondary cannon designed for battleships.\nHas Blue properties, and high accuracy."
-437,Electril Torpedo,14,"","",X,X,X,2,Torpedo,4,Yellow,500,50,3,2,-1,0,0,0,1000,50,37,16,0,2944492,84,"A torpedo designed for large warships. Has\nYellow properties, and great firepower."
-438,Crystil Cannon,14,"","",X,X,X,0,Main cannon,2,Purple,550,60,0,4,-1,0,0,0,1000,50,38,14,0,2944576,92,"Made of a special alloy for added durability.\nHas Purple properties, and great firepower."
-439,Kazai Gun,48,X,X,"","","",1,Secondary cannon,3,Blue,50,99,2,5,-1,0,0,0,1000,50,39,24,0,2944668,92,"Contains a tower bar to absorb the shock of\nfiring. Has Blue properties, and high accuracy."
+437,Electril Torpedo,14,"","",X,X,X,2,Torpedo,4,Yellow,500,50,3,6,-1,0,0,0,1000,50,37,16,0,2944492,84,"A torpedo designed for large warships. Has\nYellow properties, and great firepower."
+438,Crystil Cannon,14,"","",X,X,X,0,Main cannon,2,Purple,550,60,0,9,-1,0,0,0,1000,50,38,14,0,2944576,92,"Made of a special alloy for added durability.\nHas Purple properties, and great firepower."
+439,Kazai Gun,48,X,X,"","","",1,Secondary cannon,3,Blue,50,99,2,1,-1,0,0,0,1000,50,39,24,0,2944668,92,"Contains a tower bar to absorb the shock of\nfiring. Has Blue properties, and high accuracy."
