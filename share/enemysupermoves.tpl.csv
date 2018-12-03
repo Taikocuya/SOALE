@@ -8,7 +8,7 @@ Entry ID,[Entry name],Category ID,[Category name],Effect ID,[Effect name],Scope 
 6,欠番,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 7,Circle of Panic,0,Super Move,11,Add Confusion,1,One character,0,0,0,Green,0,Physical,16,17,4,Confusion,0
 8,Ring of Sleep,0,Super Move,9,Add Sleep,1,One character,0,0,0,Green,0,Physical,16,17,3,Sleep,0
-9,Target Search,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
+9,Target Search,0,Super Move,38,Counter attack + Guard,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0
 10,欠番,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 11,Tackle,0,Super Move,0,Damage,102,Character line #3,16,40,4,Yellow,0,Physical,0,0,0,Poison,0
 12,Death Strike,0,Super Move,68,Add Unconscious + Damage #2,1,One character,16,5,5,Silver,0,Physical,16,17,1,Unconscious,70

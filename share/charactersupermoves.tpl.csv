@@ -2,9 +2,9 @@ Entry ID,[Entry name],Element ID,[Element name],Occ. flags,[Menu],[Battle],[Ship
 36,Cutlass Fury,6,Neutral,2,,X,,0,Damage,3,One enemy,0,Vyse,1,7,25,0,Physical,-1,None,0
 37,Rain of Swords,6,Neutral,2,,X,,0,Damage,4,All enemies,0,Vyse,1,14,15,0,Physical,-1,None,0
 38,Pirates' Wrath,6,Neutral,2,,X,,0,Damage,3,One enemy,0,Vyse,1,21,75,0,Physical,-1,None,0
-39,Omega Psyclone,1,Red,2,,X,,0,Damage,4,All enemies,1,Aika,1,10,165,0,Physical,-1,None,0
-40,Alpha Storm,1,Red,2,,X,,0,Damage,39,Enemy line #4,1,Aika,1,2,60,0,Physical,-1,None,0
-41,Lambda Burst,1,Red,2,,X,,0,Damage,4,All enemies,1,Aika,1,4,100,0,Physical,-1,None,0
+39,Omega Psyclone,1,Red,2,,X,,0,Damage,4,All enemies,1,Aika,1,12,165,0,Physical,-1,None,0
+40,Alpha Storm,1,Red,2,,X,,0,Damage,39,Enemy line #4,1,Aika,1,4,60,0,Physical,-1,None,0
+41,Lambda Burst,1,Red,2,,X,,0,Damage,4,All enemies,1,Aika,1,8,100,0,Physical,-1,None,0
 42,Lunar Glyph,5,Silver,2,,X,,8,Add Stone + Damage,3,One enemy,2,Fina,1,3,100,0,Physical,2,Stone,25
 43,Lunar Winds,5,Silver,2,,X,,17,Remove positive states,4,All enemies,2,Fina,1,6,75,0,Physical,-1,None,0
 44,Tackle,6,Neutral,2,,X,,0,Damage,3,One enemy,3,Drachma,1,10,30,0,Physical,-1,None,0
