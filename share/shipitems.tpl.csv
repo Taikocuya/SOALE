@@ -9,10 +9,10 @@ Entry ID,[Entry name],Occ. flags,[Menu],[Battle],[Ship battle],Ship effect ID,[S
 487,Thunder Bomb,1,,,X,107,Damage (Ship),-1,100,700,50,240,4,Yellow,1,0,0
 488,Electro Bomb,1,,,X,106,Add Weak (Ship),2,100,950,50,0,4,Yellow,0,1,60
 489,Wave Bomb,1,,,X,107,Damage (Ship),-1,100,700,50,240,3,Blue,1,0,0
-490,Repair Kit,5,X,,X,100,Recover HP (Ship),-1,100,150,50,500,0,Green,0,0,0
-491,Deluxe Kit,5,X,,X,100,Recover HP (Ship),-1,100,375,50,1000,0,Green,0,0,0
+490,Repair Kit,5,X,,X,100,Recover HP (Ship),-1,100,200,50,400,0,Green,0,0,0
+491,Deluxe Kit,5,X,,X,100,Recover HP (Ship),-1,100,600,50,800,0,Green,0,0,0
 492,Magic Kit,5,X,,X,101,Recover HP to 100% (Ship),-1,100,5000,50,0,0,Green,0,0,0
-493,Complete Kit,5,X,,X,100,Recover HP (Ship),-1,100,1700,50,2000,0,Green,0,0,0
+493,Complete Kit,5,X,,X,100,Recover HP (Ship),-1,100,1800,50,1600,0,Green,0,0,0
 494,Gear Grease,1,,,X,102,Recover Spirit (Ship),-1,100,1600,50,10,6,Neutral,0,0,0
 495,Thermal Grease,1,,,X,103,Recover Spirit to 100% (Ship),-1,100,5000,50,0,6,Neutral,0,0,0
 496,Captain's Stripe,4,X,,,115,Captain's Stripe,-1,100,50000,0,0,6,Neutral,0,0,0

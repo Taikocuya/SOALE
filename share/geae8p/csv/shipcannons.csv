@@ -38,4 +38,4 @@ Entry ID,US entry name,Ship flags,[Little Jack #1],[Little Jack #2],[Delphinus #
 436,Wevl Cannon,14,"","",X,X,X,1,Secondary cannon,3,Blue,180,120,3,4,-1,0,0,0,10200,50,36,37,0,2944404,88,"A secondary cannon designed for battleships.\nHas Blue properties, and high accuracy."
 437,Electril Torpedo,14,"","",X,X,X,2,Torpedo,4,Yellow,500,50,3,6,-1,0,0,0,1000,50,37,16,0,2944492,84,"A torpedo designed for large warships. Has\nYellow properties, and great firepower."
 438,Crystil Cannon,14,"","",X,X,X,0,Main cannon,2,Purple,550,60,0,9,-1,0,0,0,1000,50,38,14,0,2944576,92,"Made of a special alloy for added durability.\nHas Purple properties, and great firepower."
-439,Kazai Gun,48,X,X,"","","",1,Secondary cannon,3,Blue,50,99,2,1,-1,0,0,0,1000,50,39,24,0,2944668,92,"Contains a tower bar to absorb the shock of\nfiring. Has Blue properties, and high accuracy."
+439,Kazai Gun,48,X,X,"","","",1,Secondary cannon,3,Blue,50,81,1,1,-1,0,0,0,500,50,39,24,0,2944668,92,"Contains a tower bar to absorb the shock of\nfiring. Has Blue properties, and high accuracy."

@@ -9,10 +9,10 @@ Entry ID,US entry name,Occ. flags,[Menu],[Battle],[Ship battle],Ship effect ID,[
 487,Thunder Bomb,1,"","",X,107,Damage (Ship),-1,100,0,700,50,7,28,0,240,4,Yellow,1,0,0,2948652,92,A special bomb with Yellow Moon Dust mixed\ninto the gunpowder. Has an Electri-like effect.
 488,Electro Bomb,1,"","",X,106,Add Weak (Ship),2,100,0,950,50,8,9,0,0,4,Yellow,0,1,60,2948744,88,A special bomb with Yellow Moon Dust mixed\ninto the gunpowder. Has a Driln-like effect.
 489,Wave Bomb,1,"","",X,107,Damage (Ship),-1,100,0,700,50,9,29,0,240,3,Blue,1,0,0,2948832,92,A special bomb with Blue Moonstone dust mixed\ninto the gunpowder. Has a Wevli-like effect.
-490,Repair Kit,5,X,"",X,100,Recover HP (Ship),-1,100,0,150,50,10,22,0,500,0,Green,0,0,0,2948924,68,Repair materials for minor damage to the ship.\nRestores 5000 HP.
-491,Deluxe Kit,5,X,"",X,100,Recover HP (Ship),-1,100,0,375,50,11,8,0,1000,0,Green,0,0,0,2948992,72,Repair materials for moderate damage to the\nship. Restores 10000 HP.
+490,Repair Kit,5,X,"",X,100,Recover HP (Ship),-1,100,0,200,50,10,22,0,400,0,Green,0,0,0,2948924,68,Repair materials for minor damage to the ship.\nRestores 4000 HP.
+491,Deluxe Kit,5,X,"",X,100,Recover HP (Ship),-1,100,0,600,50,11,8,0,800,0,Green,0,0,0,2948992,72,Repair materials for moderate damage to the\nship. Restores 8000 HP.
 492,Magic Kit,5,X,"",X,101,Recover HP to 100% (Ship),-1,100,0,5000,50,12,19,0,0,0,Green,0,0,0,2949064,92,Repair materials mixed with Green Moon Dust\nfor greater restorative power. Restores all HP.
-493,Complete Kit,5,X,"",X,100,Recover HP (Ship),-1,100,0,1700,50,13,5,0,2000,0,Green,0,0,0,2949156,72,Repair materials for moderate damage to the\nship. Restores 20000 HP.
+493,Complete Kit,5,X,"",X,100,Recover HP (Ship),-1,100,0,1800,50,13,5,0,1600,0,Green,0,0,0,2949156,72,Repair materials for moderate damage to the\nship. Restores 16000 HP.
 494,Gear Grease,1,"","",X,102,Recover Spirit (Ship),-1,100,0,1600,50,14,11,0,10,6,Neutral,0,0,0,2949228,76,"Reduces friction in the gears, improving power\ntransfer. Restores Spirit."
 495,Thermal Grease,1,"","",X,103,Recover Spirit to 100% (Ship),-1,100,0,5000,50,15,27,0,0,6,Neutral,0,0,0,2949304,80,Prevents heat-related breakdowns at high speeds.\nRestores Spirit completely.
 496,Captain's Stripe,4,X,"","",115,Captain's Stripe,-1,100,0,50000,0,16,4,0,0,6,Neutral,0,0,0,2949384,96,A mark earned by shooting down an enemy. Using\nit will increase ship parameters and endurance.
