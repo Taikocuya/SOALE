@@ -26,13 +26,13 @@ Entry ID,[Entry name],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect
 264,Sylph Seed,4,X,,,58,Increase Quick,1,One character,100,1,50000,3,-1,-1,0,0
 265,Vidal Seed,4,X,,,59,Increase MAXHP,1,One character,100,1,50000,30,-1,-1,0,0
 266,Magus Seed,4,X,,,60,Increase MAXMP,1,One character,100,1,50000,1,-1,-1,0,0
-267,Pyri Box,2,,X,,0,Damage,4,All enemies,8,1,800,150,0,1,0,0
+267,Pyri Box,2,,X,,0,Damage,4,All enemies,8,1,800,75,0,1,0,0
 268,Pyrum Box,2,,X,,0,Damage,4,All enemies,16,1,2400,360,0,1,0,0
 269,Crystales Box,2,,X,,0,Damage,3,One enemy,12,1,1600,330,0,1,0,0
 270,Crystalen Box,2,,X,,0,Damage,3,One enemy,24,1,3600,600,0,1,0,0
 271,Wevles Box,2,,X,,0,Damage,33,Enemy area #2,12,1,1600,285,0,1,0,0
 272,Wevlen Box,2,,X,,0,Damage,34,Enemy area #3,24,1,3600,525,0,1,0,0
-273,Electri Box,2,,X,,0,Damage,36,Enemy line #1,8,1,800,180,0,1,0,0
+273,Electri Box,2,,X,,0,Damage,36,Enemy line #1,8,1,800,90,0,1,0,0
 274,Electrum Box,2,,X,,0,Damage,37,Enemy line #2,16,1,2400,420,0,1,0,0
 275,Sacri Box,2,,X,,31,Recover HP,1,One character,8,1,600,400,-1,-1,0,0
 276,Sacrum Box,2,,X,,31,Recover HP,2,All characters,16,1,4000,800,-1,-1,0,0

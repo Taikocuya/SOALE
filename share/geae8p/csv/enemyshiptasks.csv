@@ -19,12 +19,12 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unknown,Task rating,Task A t
 17,r500a.tec,23,Blackbeard,3,50,0,Attack,0,-1,None,0,1,Magic,-1,23,Pyri,0
 18,r500a.tec,23,Blackbeard,3,50,0,Attack,0,-1,None,0,1,Magic,-1,23,Pyri,0
 19,r500a.tec,23,Blackbeard,0,0,0,Attack,0,0,None,0,0,Attack,0,0,None,0
-0,r501a.tec,2,Valuan Cruiser,3,50,0,Attack,0,-1,None,0,0,Attack,1,-1,None,0
-1,r501a.tec,2,Valuan Cruiser,-1,0,0,Attack,1,-1,None,0,0,Attack,1,-1,None,0
+0,r501a.tec,2,Valuan Cruiser,3,50,0,Attack,0,-1,None,0,0,Attack,1,-1,None,2
+1,r501a.tec,2,Valuan Cruiser,3,50,0,Attack,1,-1,None,2,0,Attack,1,-1,None,1
 2,r501a.tec,2,Valuan Cruiser,-1,0,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
 3,r501a.tec,2,Valuan Cruiser,0,0,0,Attack,0,0,None,0,0,Attack,0,0,None,0
-4,r501a.tec,2,Valuan Cruiser,3,50,0,Attack,0,-1,None,0,0,Attack,1,-1,None,0
-5,r501a.tec,2,Valuan Cruiser,-1,0,0,Attack,1,-1,None,0,0,Attack,1,-1,None,0
+4,r501a.tec,2,Valuan Cruiser,3,50,0,Attack,0,-1,None,0,0,Attack,1,-1,None,2
+5,r501a.tec,2,Valuan Cruiser,3,50,0,Attack,1,-1,None,2,0,Attack,1,-1,None,1
 6,r501a.tec,2,Valuan Cruiser,-1,0,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
 7,r501a.tec,2,Valuan Cruiser,0,0,0,Attack,0,0,None,0,0,Attack,0,0,None,0
 0,r503a.tec,21,Black Pirates,3,20,2,Focus,-1,0,Focus,0,0,Attack,0,-1,None,0

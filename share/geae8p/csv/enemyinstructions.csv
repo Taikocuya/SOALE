@@ -69,7 +69,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 19,*,7,Ж術処刑士,Spell Warden,Venificus,1,Action,506,Sacri,7,Injured enemy
 20,*,7,Ж術処刑士,Spell Warden,Venificus,1,Action,506,Sacri,8,Enemy with highest ID
 21,*,7,Ж術処刑士,Spell Warden,Venificus,1,Action,526,Crystali,2,Random character
-22,*,7,Ж術処刑士,Spell Warden,Venificus,1,Action,37,Focus,-1,None
+22,*,7,Ж術処刑士,Spell Warden,Venificus,1,Action,500,Increm,11,Enemy without Strengthen
 23,*,7,Ж術処刑士,Spell Warden,Venificus,1,Action,551,Guard,-1,None
 1,*,8,レトモニケ,Flestik,Flestik,0,Strategy,44,???,3,???
 2,*,8,レトモニケ,Flestik,Flestik,0,Strategy,30,???,4,???
@@ -465,6 +465,19 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 18,*,34,マブルール,Dralnog,Dralnog,1,Action,271,Poison Explode,-1,None
 19,*,34,マブルール,Dralnog,Dralnog,1,Action,517,Eterni,1,Common character
 20,*,34,マブルール,Dralnog,Dralnog,1,Action,100,Magic?,-1,None
+1,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,2,???,6,???
+2,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,30,???,7,???
+3,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,28,???,12,???
+4,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,1,???,9,???
+5,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,30,???,10,???
+6,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,24,???,12,???
+7,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,35,???,12,???
+8,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,22,???,13,???
+9,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,22,???,12,???
+10,epevent.evp,34,マブルール,Dralnog,Dralnog,0,Strategy,27,???,11,???
+11,epevent.evp,34,マブルール,Dralnog,Dralnog,1,Action,550,Attack,2,Random character
+12,epevent.evp,34,マブルール,Dralnog,Dralnog,1,Action,271,Poison Explode,-1,None
+13,epevent.evp,34,マブルール,Dralnog,Dralnog,1,Action,517,Eterni,1,Common character
 1,*,35,クチュ,Que'lak,Que'lak,0,Strategy,45,???,3,???
 2,*,35,クチュ,Que'lak,Que'lak,0,Strategy,30,???,4,???
 3,*,35,クチュ,Que'lak,Que'lak,0,Strategy,28,???,15,???
@@ -1001,8 +1014,8 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 15,*,72,警備士,Patrol Guard,Custos,1,Action,550,Attack,2,Random character
 16,*,72,警備士,Patrol Guard,Custos,1,Action,551,Guard,-1,None
 17,*,72,警備士,Patrol Guard,Custos,1,Action,513,Quika,-1,None
-18,*,72,警備士,Patrol Guard,Custos,1,Action,532,Electri,7,Injured enemy
-19,*,72,警備士,Patrol Guard,Custos,1,Action,80,Sacres Crystal,2,Random character
+18,*,72,警備士,Patrol Guard,Custos,1,Action,532,Electri,2,Random character
+19,*,72,警備士,Patrol Guard,Custos,1,Action,80,Sacres Crystal,7,Injured enemy
 1,*,73,採掘士,Mine Patrol,Fossor,0,Strategy,11,???,4,???
 2,*,73,採掘士,Mine Patrol,Fossor,0,Strategy,12,???,6,???
 3,*,73,採掘士,Mine Patrol,Fossor,0,Strategy,30,???,7,???
@@ -1795,7 +1808,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 3,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,25,???,14,???
 4,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,24,???,16,???
 5,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,25,???,17,???
-6,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,28,???,18,???
+6,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,28,???,15,???
 7,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,30,???,15,???
 8,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,25,???,17,???
 9,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,32,???,11,???
@@ -1803,11 +1816,10 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 11,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,24,???,14,???
 12,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,25,???,16,???
 13,*,133,護送将兵,Royal Guard,Sceptrum Praeses,0,Strategy,30,???,17,???
-14,*,133,護送将兵,Royal Guard,Sceptrum Praeses,1,Action,550,Attack,2,Random character
+14,*,133,護送将兵,Royal Guard,Sceptrum Praeses,1,Action,550,Attack,4,Character with least HP
 15,*,133,護送将兵,Royal Guard,Sceptrum Praeses,1,Action,506,Sacri,7,Injured enemy
-16,*,133,護送将兵,Royal Guard,Sceptrum Praeses,1,Action,533,Electres,2,Random character
+16,*,133,護送将兵,Royal Guard,Sceptrum Praeses,1,Action,533,Electres,23,Aika as target
 17,*,133,護送将兵,Royal Guard,Sceptrum Praeses,1,Action,19,Counter Stance,-1,None
-18,*,133,護送将兵,Royal Guard,Sceptrum Praeses,1,Action,551,Guard,-1,None
 1,*,134,ラァス,Rockwyrm,Rockwyrm,0,Strategy,1,???,6,???
 2,*,134,ラァス,Rockwyrm,Rockwyrm,0,Strategy,2,???,9,???
 3,*,134,ラァス,Rockwyrm,Rockwyrm,0,Strategy,23,???,14,???

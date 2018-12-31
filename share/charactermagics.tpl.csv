@@ -16,9 +16,9 @@ Entry ID,[Entry name],Element ID,[Element name],Order by prio.,Occ. flags,[Menu]
 14,Curia,5,Silver,80,2,,X,,30,Remove negative states,1,One character,6,Magic,0,1,-1,1,Magical,-1,None,0,-1,Never,-1,None,-1,-1,0
 15,Risan,5,Silver,90,2,,X,,27,Revive with 50% of HP,1,One character,6,Magic,0,2,0,1,Magical,7,Revival,0,-1,Never,-1,None,-1,-1,0
 16,Riselem,5,Silver,91,2,,X,,28,Revive with 100% of HP,1,One character,6,Magic,0,4,0,1,Magical,7,Revival,0,-1,Never,-1,None,-1,-1,0
-17,Eterni,5,Silver,100,2,,X,,5,Add Unconscious,3,One enemy,6,Magic,0,5,0,1,Magical,1,Unconscious,60,-1,Never,-1,None,-1,-1,0
-18,Eternes,5,Silver,101,2,,X,,5,Add Unconscious,4,All enemies,6,Magic,0,10,0,1,Magical,1,Unconscious,60,-1,Never,-1,None,-1,-1,0
-19,Eternum,5,Silver,102,2,,X,,6,Add Unconscious + Damage #1,3,One enemy,6,Magic,0,15,250,1,Magical,1,Unconscious,0,-1,Never,-1,None,-1,-1,0
+17,Eterni,5,Silver,100,2,,X,,5,Add Unconscious,3,One enemy,6,Magic,0,5,0,1,Magical,1,Unconscious,50,-1,Never,-1,None,-1,-1,0
+18,Eternes,5,Silver,101,2,,X,,5,Add Unconscious,4,All enemies,6,Magic,0,10,0,1,Magical,1,Unconscious,50,-1,Never,-1,None,-1,-1,0
+19,Eternum,5,Silver,102,2,,X,,6,Add Unconscious + Damage #1,3,One enemy,6,Magic,0,15,250,1,Magical,1,Unconscious,50,-1,Never,-1,None,-1,-1,0
 20,Wevli,3,Blue,60,3,,X,X,0,Damage,32,Enemy area #1,6,Magic,0,2,60,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),2,-1,60
 21,Wevles,3,Blue,61,3,,X,X,0,Damage,33,Enemy area #2,6,Magic,0,4,105,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),4,-1,90
 22,Wevlen,3,Blue,63,3,,X,X,0,Damage,34,Enemy area #3,6,Magic,0,8,195,1,Magical,-1,None,0,0,Magic Cannon,107,Damage (Ship),8,-1,150
