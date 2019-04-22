@@ -1843,7 +1843,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 11,*,134,ラァス,Rockwyrm,Rockwyrm,0,Strategy,30,???,12,???
 12,*,134,ラァス,Rockwyrm,Rockwyrm,1,Action,550,Attack,2,Random character
 13,*,134,ラァス,Rockwyrm,Rockwyrm,1,Action,0,火山弾乱舞,-1,None
-14,*,134,ラァス,Rockwyrm,Rockwyrm,1,Action,1,石化灰噴霧,2,Random character
+14,*,134,ラァス,Rockwyrm,Rockwyrm,1,Action,1,石化灰噴霧,13,Character without Stone
 1,*,136,アントニオＪｒ,Antonio 2,Antonio 2,0,Strategy,50,???,4,???
 2,*,136,アントニオＪｒ,Antonio 2,Antonio 2,0,Strategy,23,???,6,???
 3,*,136,アントニオＪｒ,Antonio 2,Antonio 2,0,Strategy,30,???,7,???

@@ -59,22 +59,22 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unknown,Task rating,Task A t
 29,r503a.tec,21,Black Pirates,-1,0,0,Attack,1,-1,None,3,0,Attack,1,-1,None,3
 30,r503a.tec,21,Black Pirates,1,50,0,Attack,0,-1,None,0,4,Nothing,-1,0,Awaiting Orders,0
 31,r503a.tec,21,Black Pirates,-1,0,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-0,r506a.tec,24,Recumen,-1,0,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-1,r506a.tec,24,Recumen,-1,0,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+0,r506a.tec,24,Recumen,-1,0,1,Magic,-1,0,Increm,0,0,Attack,0,-1,None,0
+1,r506a.tec,24,Recumen,3,50,0,Attack,0,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
 2,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-3,r506a.tec,24,Recumen,9,0,4,Nothing,-1,4,Red Ray,0,0,Attack,0,-1,None,0
+3,r506a.tec,24,Recumen,0,0,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
 4,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-5,r506a.tec,24,Recumen,9,0,4,Nothing,-1,4,Red Ray,0,0,Attack,0,-1,None,0
-6,r506a.tec,24,Recumen,-1,0,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-7,r506a.tec,24,Recumen,-1,0,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-8,r506a.tec,24,Recumen,-1,0,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-9,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+5,r506a.tec,24,Recumen,0,0,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
+6,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+7,r506a.tec,24,Recumen,3,80,0,Attack,0,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
+8,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+9,r506a.tec,24,Recumen,3,50,0,Attack,0,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
 10,r506a.tec,24,Recumen,9,0,4,Nothing,-1,4,Red Ray,0,0,Attack,0,-1,None,0
 11,r506a.tec,24,Recumen,-1,0,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-12,r506a.tec,24,Recumen,-1,0,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-13,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+12,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+13,r506a.tec,24,Recumen,9,0,4,Nothing,-1,4,Red Ray,0,0,Attack,0,-1,None,0
 14,r506a.tec,24,Recumen,9,0,4,Nothing,-1,4,Red Ray,0,0,Attack,0,-1,None,0
-15,r506a.tec,24,Recumen,-1,0,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+15,r506a.tec,24,Recumen,-1,0,1,Magic,-1,0,Increm,0,0,Attack,0,-1,None,0
 16,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
 17,r506a.tec,24,Recumen,9,0,4,Nothing,-1,4,Red Ray,0,0,Attack,0,-1,None,0
 18,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
@@ -84,19 +84,19 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unknown,Task rating,Task A t
 22,r506a.tec,24,Recumen,-1,0,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
 23,r506a.tec,24,Recumen,9,0,4,Nothing,-1,4,Red Ray,0,0,Attack,0,-1,None,0
 0,r507a.tec,11,Lynx,-1,0,1,Magic,-1,0,Increm,0,0,Attack,0,-1,None,0
-1,r507a.tec,11,Lynx,-1,0,1,Magic,-1,23,Pyri,0,0,Attack,0,-1,None,0
+1,r507a.tec,11,Lynx,1,50,1,Magic,-1,23,Pyri,0,0,Attack,2,-1,None,1
 2,r507a.tec,11,Lynx,-1,0,2,Focus,-1,1,Taking Aim,0,0,Attack,0,-1,None,0
-3,r507a.tec,11,Lynx,0,50,1,Magic,-1,23,Pyri,0,1,Magic,-1,22,Wevlen,0
+3,r507a.tec,11,Lynx,1,50,1,Magic,-1,23,Pyri,0,1,Magic,-1,22,Wevlen,0
 4,r507a.tec,11,Lynx,1,50,0,Attack,0,-1,None,0,1,Magic,-1,23,Pyri,0
-5,r507a.tec,11,Lynx,-1,0,0,Attack,2,-1,None,1,0,Attack,0,-1,None,0
+5,r507a.tec,11,Lynx,1,50,0,Attack,2,-1,None,1,0,Attack,2,-1,None,2
 6,r507a.tec,11,Lynx,1,50,0,Attack,0,-1,None,0,1,Magic,-1,22,Wevlen,0
 7,r507a.tec,11,Lynx,-1,0,3,Guard,-1,-1,None,0,0,Attack,0,-1,None,0
 8,r507a.tec,11,Lynx,-1,0,0,Attack,1,-1,None,2,0,Attack,0,-1,None,0
-9,r507a.tec,11,Lynx,-1,0,0,Attack,2,-1,None,1,0,Attack,0,-1,None,0
+9,r507a.tec,11,Lynx,1,50,0,Attack,2,-1,None,1,0,Attack,2,-1,None,2
 10,r507a.tec,11,Lynx,1,50,0,Attack,0,-1,None,0,1,Magic,-1,22,Wevlen,0
 11,r507a.tec,11,Lynx,1,30,1,Magic,-1,6,Sacri,0,3,Guard,-1,-1,None,0
 12,r507a.tec,11,Lynx,-1,0,0,Attack,1,-1,None,2,0,Attack,0,-1,None,0
-13,r507a.tec,11,Lynx,-1,0,0,Attack,2,-1,None,1,0,Attack,0,-1,None,0
+13,r507a.tec,11,Lynx,1,50,0,Attack,2,-1,None,1,0,Attack,2,-1,None,2
 14,r507a.tec,11,Lynx,1,50,0,Attack,0,-1,None,0,1,Magic,-1,22,Wevlen,0
 15,r507a.tec,11,Lynx,1,30,1,Magic,-1,6,Sacri,0,1,Magic,-1,0,Increm,0
 16,r507a.tec,11,Lynx,-1,0,0,Attack,1,-1,None,2,0,Attack,0,-1,None,0
@@ -104,15 +104,15 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unknown,Task rating,Task A t
 18,r507a.tec,11,Lynx,-1,0,0,Attack,2,-1,None,1,0,Attack,0,-1,None,0
 19,r507a.tec,11,Lynx,1,50,0,Attack,0,-1,None,0,1,Magic,-1,23,Pyri,0
 20,r507a.tec,11,Lynx,1,30,1,Magic,-1,6,Sacri,0,1,Magic,-1,0,Increm,0
-21,r507a.tec,11,Lynx,-1,0,0,Attack,2,-1,None,2,0,Attack,0,-1,None,0
-22,r507a.tec,11,Lynx,-1,0,0,Attack,1,-1,None,1,0,Attack,0,-1,None,0
+21,r507a.tec,11,Lynx,1,50,0,Attack,2,-1,None,1,0,Attack,2,-1,None,2
+22,r507a.tec,11,Lynx,1,50,0,Attack,1,-1,None,1,0,Attack,1,-1,None,2
 23,r507a.tec,11,Lynx,1,50,0,Attack,0,-1,None,0,1,Magic,-1,23,Pyri,0
 24,r507a.tec,11,Lynx,-1,0,2,Focus,-1,1,Taking Aim,0,0,Attack,0,-1,None,0
 25,r507a.tec,11,Lynx,-1,0,0,Attack,1,-1,None,2,0,Attack,0,-1,None,0
-26,r507a.tec,11,Lynx,-1,0,0,Attack,2,-1,None,1,0,Attack,0,-1,None,0
+26,r507a.tec,11,Lynx,1,50,0,Attack,2,-1,None,1,1,Magic,-1,23,Pyri,0
 27,r507a.tec,11,Lynx,1,50,0,Attack,0,-1,None,0,1,Magic,-1,22,Wevlen,0
 28,r507a.tec,11,Lynx,-1,0,2,Focus,-1,1,Taking Aim,0,0,Attack,0,-1,None,0
-29,r507a.tec,11,Lynx,-1,0,0,Attack,2,-1,None,2,0,Attack,0,-1,None,0
+29,r507a.tec,11,Lynx,1,50,0,Attack,2,-1,None,1,0,Attack,2,-1,None,2
 30,r507a.tec,11,Lynx,-1,0,0,Attack,1,-1,None,1,0,Attack,0,-1,None,0
 31,r507a.tec,11,Lynx,1,50,0,Attack,0,-1,None,0,1,Magic,-1,22,Wevlen,0
 32,r507a.tec,11,Lynx,-1,0,0,Attack,1,-1,None,2,0,Attack,0,-1,None,0
