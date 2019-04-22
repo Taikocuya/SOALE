@@ -27,7 +27,6 @@ Thumbs.db
 /share/**/*.sct
 /share/**/*.sst
 /share/**/*.std
-/share/**/*.toc
 /share/**/*.tpl
 /share/**/FontData.EU
 /share/**/FontData.jp
@@ -37,9 +36,10 @@ Thumbs.db
 /tools/
 
 # SOALE files
-!b7025639_L.dsp
-!b7025639_R.dsp
-!f29005a7.mlk
-!mg039.mld
-!mg039.std
-!mg0390.std
+!b7025637_L.dsp
+!b7025637_R.dsp
+!f05000a5.mlk
+!f29005a5.mlk
+!mg037.mld
+!mg037.std
+!mg0370.std

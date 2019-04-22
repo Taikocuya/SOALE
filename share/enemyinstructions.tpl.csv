@@ -329,7 +329,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 6,*,24,デシェレト,Magma Tiki,Magma Tiki,0,Strategy,21,???,10,???
 7,*,24,デシェレト,Magma Tiki,Magma Tiki,1,Action,550,Attack,1,Common character
 8,*,24,デシェレト,Magma Tiki,Magma Tiki,1,Action,47,Tremble,-1,None
-9,*,24,デシェレト,Magma Tiki,Magma Tiki,1,Action,180,Lava Storm,1,Common character
+9,*,24,デシェレト,Magma Tiki,Magma Tiki,1,Action,180,Lava Storm,-1,None
 10,*,24,デシェレト,Magma Tiki,Magma Tiki,1,Action,551,Guard,-1,None
 1,*,25,イアールト,Salamander,Salamander,0,Strategy,33,???,5,???
 2,*,25,イアールト,Salamander,Salamander,0,Strategy,28,???,9,???
@@ -1833,7 +1833,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 11,*,134,ラァス,Rockwyrm,Rockwyrm,0,Strategy,30,???,12,???
 12,*,134,ラァス,Rockwyrm,Rockwyrm,1,Action,550,Attack,2,Random character
 13,*,134,ラァス,Rockwyrm,Rockwyrm,1,Action,0,Volcanic Blast,-1,None
-14,*,134,ラァス,Rockwyrm,Rockwyrm,1,Action,1,Cinder Storm,13,Character without Stone
+14,*,134,ラァス,Rockwyrm,Rockwyrm,1,Action,1,Cinder Storm,2,Random character
 1,*,136,アントニオＪｒ,Antonio 2,Antonio 2,0,Strategy,50,???,4,???
 2,*,136,アントニオＪｒ,Antonio 2,Antonio 2,0,Strategy,23,???,6,???
 3,*,136,アントニオＪｒ,Antonio 2,Antonio 2,0,Strategy,30,???,7,???
@@ -2564,43 +2564,13 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 35,*,164,ピアストル,Piastol,Piastol,1,Action,517,Eterni,2,Random character
 36,*,164,ピアストル,Piastol,Piastol,1,Action,521,Wevles,2,Random character
 37,*,164,ピアストル,Piastol,Piastol,1,Action,551,Guard,-1,None
-1,*,165,ピアストル,Piastol,Piastol,0,Strategy,19,???,4,???
-2,*,165,ピアストル,Piastol,Piastol,0,Strategy,24,???,34,???
-3,*,165,ピアストル,Piastol,Piastol,0,Strategy,28,???,35,???
-4,*,165,ピアストル,Piastol,Piastol,0,Strategy,2,???,24,???
-5,*,165,ピアストル,Piastol,Piastol,0,Strategy,17,???,27,???
-6,*,165,ピアストル,Piastol,Piastol,0,Strategy,1,???,19,???
-7,*,165,ピアストル,Piastol,Piastol,0,Strategy,50,???,16,???
-8,*,165,ピアストル,Piastol,Piastol,0,Strategy,49,???,13,???
-9,*,165,ピアストル,Piastol,Piastol,0,Strategy,23,???,34,???
-10,*,165,ピアストル,Piastol,Piastol,0,Strategy,26,???,33,???
-11,*,165,ピアストル,Piastol,Piastol,0,Strategy,24,???,35,???
-12,*,165,ピアストル,Piastol,Piastol,0,Strategy,30,???,36,???
-13,*,165,ピアストル,Piastol,Piastol,0,Strategy,24,???,34,???
-14,*,165,ピアストル,Piastol,Piastol,0,Strategy,26,???,33,???
-15,*,165,ピアストル,Piastol,Piastol,0,Strategy,30,???,37,???
-16,*,165,ピアストル,Piastol,Piastol,0,Strategy,23,???,33,???
-17,*,165,ピアストル,Piastol,Piastol,0,Strategy,24,???,35,???
-18,*,165,ピアストル,Piastol,Piastol,0,Strategy,30,???,36,???
-19,*,165,ピアストル,Piastol,Piastol,0,Strategy,21,???,34,???
-20,*,165,ピアストル,Piastol,Piastol,0,Strategy,22,???,33,???
-21,*,165,ピアストル,Piastol,Piastol,0,Strategy,24,???,37,???
-22,*,165,ピアストル,Piastol,Piastol,0,Strategy,24,???,35,???
-23,*,165,ピアストル,Piastol,Piastol,0,Strategy,30,???,36,???
-24,*,165,ピアストル,Piastol,Piastol,0,Strategy,25,???,34,???
-25,*,165,ピアストル,Piastol,Piastol,0,Strategy,24,???,37,???
-26,*,165,ピアストル,Piastol,Piastol,0,Strategy,30,???,35,???
-27,*,165,ピアストル,Piastol,Piastol,0,Strategy,50,???,31,???
-28,*,165,ピアストル,Piastol,Piastol,0,Strategy,49,???,29,???
-29,*,165,ピアストル,Piastol,Piastol,0,Strategy,28,???,34,???
-30,*,165,ピアストル,Piastol,Piastol,0,Strategy,30,???,33,???
-31,*,165,ピアストル,Piastol,Piastol,0,Strategy,26,???,35,???
-32,*,165,ピアストル,Piastol,Piastol,0,Strategy,30,???,36,???
-33,*,165,ピアストル,Piastol,Piastol,1,Action,550,Attack,2,Random character
-34,*,165,ピアストル,Piastol,Piastol,1,Action,303,Tempest Dance,2,Random character
-35,*,165,ピアストル,Piastol,Piastol,1,Action,517,Eterni,2,Random character
-36,*,165,ピアストル,Piastol,Piastol,1,Action,521,Wevles,2,Random character
-37,*,165,ピアストル,Piastol,Piastol,1,Action,551,Guard,-1,None
+1,*,165,アントニオ,Antonio,Antonio,0,Strategy,50,???,4,???
+2,*,165,アントニオ,Antonio,Antonio,0,Strategy,23,???,6,???
+3,*,165,アントニオ,Antonio,Antonio,0,Strategy,30,???,7,???
+4,*,165,アントニオ,Antonio,Antonio,0,Strategy,27,???,6,???
+5,*,165,アントニオ,Antonio,Antonio,0,Strategy,30,???,7,???
+6,*,165,アントニオ,Antonio,Antonio,1,Action,550,Attack,2,Random character
+7,*,165,アントニオ,Antonio,Antonio,1,Action,5,Thunder of Fury,2,Random character
 1,*,166,ピアストル,Piastol,Piastol,0,Strategy,19,???,4,???
 2,*,166,ピアストル,Piastol,Piastol,0,Strategy,24,???,34,???
 3,*,166,ピアストル,Piastol,Piastol,0,Strategy,28,???,35,???
@@ -2638,13 +2608,43 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 35,*,166,ピアストル,Piastol,Piastol,1,Action,517,Eterni,2,Random character
 36,*,166,ピアストル,Piastol,Piastol,1,Action,521,Wevles,2,Random character
 37,*,166,ピアストル,Piastol,Piastol,1,Action,551,Guard,-1,None
-1,*,167,アントニオ,Antonio,Antonio,0,Strategy,50,???,4,???
-2,*,167,アントニオ,Antonio,Antonio,0,Strategy,23,???,6,???
-3,*,167,アントニオ,Antonio,Antonio,0,Strategy,30,???,7,???
-4,*,167,アントニオ,Antonio,Antonio,0,Strategy,27,???,6,???
-5,*,167,アントニオ,Antonio,Antonio,0,Strategy,30,???,7,???
-6,*,167,アントニオ,Antonio,Antonio,1,Action,550,Attack,2,Random character
-7,*,167,アントニオ,Antonio,Antonio,1,Action,5,Thunder of Fury,2,Random character
+1,*,167,ピアストル,Piastol,Piastol,0,Strategy,19,???,4,???
+2,*,167,ピアストル,Piastol,Piastol,0,Strategy,24,???,34,???
+3,*,167,ピアストル,Piastol,Piastol,0,Strategy,28,???,35,???
+4,*,167,ピアストル,Piastol,Piastol,0,Strategy,2,???,24,???
+5,*,167,ピアストル,Piastol,Piastol,0,Strategy,17,???,27,???
+6,*,167,ピアストル,Piastol,Piastol,0,Strategy,1,???,19,???
+7,*,167,ピアストル,Piastol,Piastol,0,Strategy,50,???,16,???
+8,*,167,ピアストル,Piastol,Piastol,0,Strategy,49,???,13,???
+9,*,167,ピアストル,Piastol,Piastol,0,Strategy,23,???,34,???
+10,*,167,ピアストル,Piastol,Piastol,0,Strategy,26,???,33,???
+11,*,167,ピアストル,Piastol,Piastol,0,Strategy,24,???,35,???
+12,*,167,ピアストル,Piastol,Piastol,0,Strategy,30,???,36,???
+13,*,167,ピアストル,Piastol,Piastol,0,Strategy,24,???,34,???
+14,*,167,ピアストル,Piastol,Piastol,0,Strategy,26,???,33,???
+15,*,167,ピアストル,Piastol,Piastol,0,Strategy,30,???,37,???
+16,*,167,ピアストル,Piastol,Piastol,0,Strategy,23,???,33,???
+17,*,167,ピアストル,Piastol,Piastol,0,Strategy,24,???,35,???
+18,*,167,ピアストル,Piastol,Piastol,0,Strategy,30,???,36,???
+19,*,167,ピアストル,Piastol,Piastol,0,Strategy,21,???,34,???
+20,*,167,ピアストル,Piastol,Piastol,0,Strategy,22,???,33,???
+21,*,167,ピアストル,Piastol,Piastol,0,Strategy,24,???,37,???
+22,*,167,ピアストル,Piastol,Piastol,0,Strategy,24,???,35,???
+23,*,167,ピアストル,Piastol,Piastol,0,Strategy,30,???,36,???
+24,*,167,ピアストル,Piastol,Piastol,0,Strategy,25,???,34,???
+25,*,167,ピアストル,Piastol,Piastol,0,Strategy,24,???,37,???
+26,*,167,ピアストル,Piastol,Piastol,0,Strategy,30,???,35,???
+27,*,167,ピアストル,Piastol,Piastol,0,Strategy,50,???,31,???
+28,*,167,ピアストル,Piastol,Piastol,0,Strategy,49,???,29,???
+29,*,167,ピアストル,Piastol,Piastol,0,Strategy,28,???,34,???
+30,*,167,ピアストル,Piastol,Piastol,0,Strategy,30,???,33,???
+31,*,167,ピアストル,Piastol,Piastol,0,Strategy,26,???,35,???
+32,*,167,ピアストル,Piastol,Piastol,0,Strategy,30,???,36,???
+33,*,167,ピアストル,Piastol,Piastol,1,Action,550,Attack,2,Random character
+34,*,167,ピアストル,Piastol,Piastol,1,Action,303,Tempest Dance,2,Random character
+35,*,167,ピアストル,Piastol,Piastol,1,Action,517,Eterni,2,Random character
+36,*,167,ピアストル,Piastol,Piastol,1,Action,521,Wevles,2,Random character
+37,*,167,ピアストル,Piastol,Piastol,1,Action,551,Guard,-1,None
 1,*,168,ピアストル,Piastol,Piastol,0,Strategy,2,???,23,???
 2,*,168,ピアストル,Piastol,Piastol,0,Strategy,17,???,26,???
 3,*,168,ピアストル,Piastol,Piastol,0,Strategy,19,???,5,???
