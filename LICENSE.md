@@ -1,4 +1,4 @@
-Copyright (C) 2018 Marcel Renner
+Copyright (C) 2019 Marcel Renner
 ================================
 
 This software is provided 'as-is', without any express or implied warranty. In 
