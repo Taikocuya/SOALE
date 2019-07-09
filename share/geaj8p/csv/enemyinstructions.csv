@@ -929,16 +929,15 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[EU enemy name],Ins
 14,*,64,デモンヌール,Graver,Graver,0,Strategy,25,???,21,???
 15,*,64,デモンヌール,Graver,Graver,0,Strategy,24,???,22,???
 16,*,64,デモンヌール,Graver,Graver,0,Strategy,65,???,18,???
-17,*,64,デモンヌール,Graver,Graver,0,Strategy,30,???,26,???
-18,*,64,デモンヌール,Graver,Graver,0,Strategy,35,???,26,???
+17,*,64,デモンヌール,Graver,Graver,0,Strategy,30,???,25,???
+18,*,64,デモンヌール,Graver,Graver,0,Strategy,35,???,25,???
 19,*,64,デモンヌール,Graver,Graver,0,Strategy,24,???,25,???
-20,*,64,デモンヌール,Graver,Graver,0,Strategy,24,???,26,???
+20,*,64,デモンヌール,Graver,Graver,0,Strategy,24,???,25,???
 21,*,64,デモンヌール,Graver,Graver,1,Action,550,Attack,2,Random character
 22,*,64,デモンヌール,Graver,Graver,1,Action,551,Guard,-1,None
 23,*,64,デモンヌール,Graver,Graver,1,Action,552,Run,-1,None
 24,*,64,デモンヌール,Graver,Graver,1,Action,210,ＨＰ吸収,3,Character with most HP
-25,*,64,デモンヌール,Graver,Graver,1,Action,519,ジェドーサ,2,Random character
-26,*,64,デモンヌール,Graver,Graver,1,Action,100,Ж術？,-1,None
+25,*,64,デモンヌール,Graver,Graver,1,Action,510,プワザ,19,Character without Poison
 1,*,65,マウルティア,Shrilp,Shrilp,0,Strategy,36,???,7,???
 2,*,65,マウルティア,Shrilp,Shrilp,0,Strategy,11,???,5,???
 3,*,65,マウルティア,Shrilp,Shrilp,0,Strategy,12,???,5,???
