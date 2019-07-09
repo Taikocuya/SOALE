@@ -1,4 +1,4 @@
-Entry ID,[Entry name],Pos. ID,[Pos. name],Feature ID,[Feature name],Feature value,Ship effect ID,[Ship effect name],Ship effect spirit,Ship effect turns,Ship effect amount
+Entry ID,[Entry name],Pos. ID,[Pos. name],Feat. ID,[Feat. name],Feat. value,Ship effect ID,[Ship effect name],Ship effect spirit,Ship effect turns,Ship effect amount
 0,Lawrence,0,Helmsman,4,Quick,20,-1,None,-1,-1,0
 1,Don,0,Helmsman,6,Dodge%,3,-1,None,-1,-1,0
 2,Brabham,1,Engineer,2,Defense,20,-1,None,-1,-1,0

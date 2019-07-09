@@ -1,4 +1,4 @@
-Entry ID,[Entry name],Occ. flags,[Menu],[Battle],[Ship battle],Ship effect ID,[Ship effect name],Ship effect turns,Consume%,Purchase price,Retail price in %,Ship effect amount,Element ID,[Element name],Unknown #0,Unknown #1,Hit%
+Entry ID,[Entry name],Occ. flags,[Menu],[Battle],[Ship battle],Ship effect ID,[Ship effect name],Ship effect turns,Consume%,Purchase price,Retail price in %,Ship effect amount,Element ID,[Element name],Unk. #0,Unk. #1,Hit%
 480,Bomb,1,,,X,107,Damage (Ship),-1,100,200,50,80,6,Neutral,0,0,0
 481,Big Bomb,1,,,X,107,Damage (Ship),-1,100,250,50,120,6,Neutral,0,0,0
 482,Concussion Bomb,1,,,X,107,Damage (Ship),-1,100,300,50,150,6,Neutral,0,0,0

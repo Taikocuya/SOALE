@@ -1,4 +1,4 @@
-Entry ID,[Entry name],Chara. ID,[Chara. name],Retail price in %,Effect ID,[Effect name],Purchase price,Attack,Hit%,Feature ID,[Feature name],Feature value
+Entry ID,[Entry name],Chara. ID,[Chara. name],Retail price in %,Effect ID,[Effect name],Purchase price,Attack,Hit%,Feat. ID,[Feat. name],Feat. value
 0,Cutlass,0,Vyse,50,-1,None,70,20,90,-1,None,0
 1,Pirate Cutlass,0,Vyse,50,-1,None,220,33,90,-1,None,0
 2,Sky Cutlass,0,Vyse,50,-1,None,450,45,90,-1,None,0

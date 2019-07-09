@@ -1,0 +1,81 @@
+Entry ID,US entry name,Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Order by prio.,US order by ABC,Pad. #0,Purchase price,Feat. #0 ID,[Feat. #0 name],Pad. #1,Feat. #0 value,Feat. #1 ID,[Feat. #1 name],Pad. #2,Feat. #1 value,Feat. #2 ID,[Feat. #2 name],Pad. #3,Feat. #2 value,Feat. #3 ID,[Feat. #3 name],Pad. #4,Feat. #3 value,[US descr. pos.],[US descr. size],US descr. str.
+160,Gemstone Ring,58,X,X,X,"",X,"",50,1,23,0,150,18,MagDef,0,21,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2926720,84,"A finely crafted ring engraved with runes,\nthat protect the wearer against magic."
+161,Prophet's Sand,58,X,X,X,"",X,"",50,3,39,0,890,18,MagDef,0,63,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2926804,96,A ring created from enchanted sand found around\nMoon Stones. Protects the wearer against Magic.
+162,Meditation Ring,58,X,X,X,"",X,"",50,0,33,0,100,1,Will,0,8,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2926900,84,A ring crafted from weaving the sprigs of magic\ntrees. Increases the wearer's Will.
+163,Moondust Ring,58,X,X,X,"",X,"",50,4,35,0,1530,1,Will,0,48,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2926984,68,A ring decorated with tiny shards of Moon\nStones. Increases Will.
+164,Lover's Ring,58,X,X,X,"",X,"",50,2,30,0,300,18,MagDef,0,12,1,Will,0,12,84,Random encounter%,0,5,-1,None,0,0,2927052,92,A finely crafted ring that depicts two lovers\nembracing. Increases Magic Defense and Will.
+165,Jade Swirl Ring,58,X,X,X,"",X,"",50,5,29,0,2960,18,MagDef,0,45,1,Will,0,45,84,Random encounter%,0,5,-1,None,0,0,2927144,84,A ring decorated with two drops of liquid jade.\nIncreases Magic Defense and Will.
+166,Cupil Ring,8,"","",X,"","","",100,6,14,0,10000,49,Death,0,-5,37,Silver,0,-5,18,MagDef,0,45,1,Will,0,45,2927228,96,"A ring that looks like Cupil. Boosts Spirit and\nResistance to Silver Attacks, and Eterni Magic."
+167,Warrior's Heart,58,X,X,X,"",X,"",100,7,59,0,10,77,Recover spirit,0,1,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2927324,84,"A ring with a glowing gem, that allows the user\nto recover Spirit during battle."
+168,Throkryn's Scale,53,X,X,"",X,"",X,50,8,55,0,300,16,Attack,0,10,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2927408,68,A weapon modification made from a Throkryn.\nRaises Attack Power.
+169,Thryllak's Scale,53,X,X,"",X,"",X,50,9,56,0,2300,16,Attack,0,36,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2927476,88,"A scale of a Thryllak, an animal even deadlier\nthan the Throkryn. Raises Attack Power."
+170,Marocca's Shell,53,X,X,"",X,"",X,50,10,32,0,130,17,Defense,0,6,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2927564,64,The shell of a large primitive crustacean.\nImproves Defense.
+171,Burocca's Shell,53,X,X,"",X,"",X,50,11,6,0,1920,17,Defense,0,36,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2927628,80,"The shell of a Burocca, even harder than that\nof the Marocca. Improves Defense."
+172,Crylhound's Claw,53,X,X,"",X,"",X,50,12,13,0,420,19,Hit%,0,20,16,Attack,0,2,84,Random encounter%,0,5,-1,None,0,0,2927708,80,"A weapon modification used by Valuan Soldiers.\nImproves Hit%, and Attack Power."
+173,Hunter's Hand,53,X,X,"",X,"",X,50,13,25,0,1010,19,Hit%,0,40,16,Attack,0,4,84,Random encounter%,0,5,-1,None,0,0,2927788,84,A gauntlet worn by Ixa'takan men while hunting. \nImproves Hit% and Attack Power.
+174,Thief's Aura,61,X,X,X,X,"",X,50,14,54,0,330,20,Dodge%,0,10,17,Defense,0,2,84,Random encounter%,0,5,-1,None,0,0,2927872,76,A ring with a black stone that improves the\nwearer's Dodge% and Defense.
+175,Quetya Feather,61,X,X,X,X,"",X,50,15,40,0,810,20,Dodge%,0,20,17,Defense,0,4,84,Random encounter%,0,5,-1,None,0,0,2927948,88,A feather ornament imbued with the power of the\nQuetya. Improves Dodge% and Defense.
+176,Vigoro's Chain,37,X,"","",X,"",X,50,17,58,0,2890,16,Attack,0,20,19,Hit%,0,30,84,Random encounter%,0,5,-1,None,0,0,2928036,72,Vigoro's idea of a fashion statement. Improves\nHit% and Attack Power.
+177,Sailor's Buckler,55,X,X,"",X,X,X,50,18,43,0,1930,17,Defense,0,20,20,Dodge%,0,15,84,Random encounter%,0,5,-1,None,0,0,2928108,72,"A light, but small shield worn by sailors.\nImproves Dodge% and Defense."
+178,Warrior's Rune,57,X,X,X,"","",X,100,19,60,0,10,16,Attack,0,10,17,Defense,0,10,19,Hit%,0,20,20,Dodge%,0,10,2928180,84,"A ring with mystic engravings. Increases Attack\nPower, Defense, Hit% and Dodge%."
+179,Ancient Bracer,53,X,X,"",X,"",X,100,20,0,0,10,16,Attack,0,20,17,Defense,0,20,19,Hit%,0,40,20,Dodge%,0,20,2928264,88,"A bracer used by ancient gladiators. Improves\nAttack Power, Defense, Hit% and Dodge%."
+180,Counter Bracer,53,X,X,"",X,"",X,100,21,10,0,10,73,Counter%,0,20,16,Attack,0,20,19,Hit%,0,20,84,Random encounter%,0,5,2928352,92,"Improves physical attributes slightly, as well\nas Counterattacking, Attack Power and Hit%."
+181,Defensive Aura,63,X,X,X,X,X,X,100,22,15,0,10,65,Block attacks,0,1,17,Defense,0,40,84,Random encounter%,0,5,-1,None,0,0,2928444,84,"Renders the wearer invulnerable to normal\nAttacks, and improves Defense as well."
+182,Ivy Band,63,X,X,X,X,X,X,100,23,28,0,100,48,Poison,0,-10,32,Green,0,-2,17,Defense,0,5,18,MagDef,0,5,2928528,88,"Boosts Defense & Magic Defense, especially to\nGreen Magic, & protects against Poison."
+183,Silvite Ring,63,X,X,X,X,X,X,100,30,47,0,100,49,Death,0,-10,37,Silver,0,-2,17,Defense,0,5,18,MagDef,0,5,2928616,88,"Boosts Defense & Magic Defense, especially to\nSilver Magic, & protects against Death."
+184,Gem of Fluidity,63,X,X,X,X,X,X,100,29,21,0,100,50,Stone,0,-10,17,Defense,0,10,18,MagDef,0,10,84,Random encounter%,0,5,2928704,60,"Boosts Defense & Magic Defense, & protects\nagainst Stone."
+185,Wind Gem Ring,63,X,X,X,X,X,X,100,24,62,0,100,51,Sleep,0,-10,35,Blue,0,-2,17,Defense,0,5,18,MagDef,0,5,2928764,84,"Boosts Defense & Magic Defense, especially to\nBlue Magic, & protects against Sleep."
+186,Eye of Truth,63,X,X,X,X,X,X,100,25,18,0,100,52,Confuse,0,-10,34,Purple,0,-2,17,Defense,0,5,18,MagDef,0,5,2928848,92,"Boosts Defense & Magic Defense, especially to\nPurple Magic, & protects against Confusion."
+187,Revered Voice,63,X,X,X,X,X,X,100,26,42,0,100,53,Silence,0,-10,34,Purple,0,-2,17,Defense,0,5,18,MagDef,0,5,2928940,88,"Boosts Defense & Magic Defense, especially to\nPurple Magic, & protects against Silence."
+188,Everlasting Gem,63,X,X,X,X,X,X,100,28,17,0,100,54,Fatigue,0,-10,17,Defense,0,10,18,MagDef,0,10,84,Random encounter%,0,5,2929028,64,"Boosts Defense & Magic Defense, & protects\nagainst Fatigue."
+189,Behemoth's Ring,63,X,X,X,X,X,X,100,27,2,0,100,56,Weak,0,-10,36,Yellow,0,-2,17,Defense,0,5,18,MagDef,0,5,2929092,88,"Boosts Defense & Magic Defense, especially to\nYellow Magic, & protects against Weak."
+190,Constitution Gem,63,X,X,X,X,X,X,100,31,9,0,1000,79,Block negative states,0,-10,17,Defense,0,10,18,MagDef,0,10,84,Random encounter%,0,5,2929180,92,"A miraculous stone that prevents all adverse\neffects, and boosts Defense & Magic Defense."
+191,Nomadic Veil,63,X,X,X,X,X,X,50,34,37,0,640,17,Defense,0,9,18,MagDef,0,9,84,Random encounter%,0,5,-1,None,0,0,2929272,80,A veil worn by tribes of nomads in Nasr.\nImproves Defense and Magic Defense.
+192,Radiant Fur,63,X,X,X,X,X,X,50,39,41,0,3580,17,Defense,0,24,18,MagDef,0,24,84,Random encounter%,0,5,-1,None,0,0,2929352,96,"A thick fur, designed to protect sailors from \nthe cold. Improves Defense and Magic Defense."
+193,Sand Storm Ring,63,X,X,X,X,X,X,50,35,44,0,770,16,Attack,0,9,1,Will,0,9,84,Random encounter%,0,5,-1,None,0,0,2929448,76,An enchanted ring worn by desert nomads.\nImproves Attack Power and Will.
+194,Skull Cap,63,X,X,X,X,X,X,50,40,48,0,4300,16,Attack,0,24,1,Will,0,24,84,Random encounter%,0,5,-1,None,0,0,2929524,84,A unique hat sometimes worn by Eastern Air\nPirates. Improves Attack Power & Will.
+195,Mage's Bane,63,X,X,X,X,X,X,50,33,31,0,480,17,Defense,0,4,18,MagDef,0,4,16,Attack,0,4,1,Will,0,4,2929608,76,"A helm that increases the wearer's Attack,\nDefense,Will,and Magic Defense."
+196,Blue Rogue Patch,63,X,X,X,X,X,X,50,41,5,0,6820,17,Defense,0,18,18,MagDef,0,18,16,Attack,0,18,1,Will,0,18,2929684,88,"Can be worn to show determination. Improves\nAttacks, Defense, Will and Magic Defense."
+197,Assassin Ring,63,X,X,X,X,X,X,50,36,1,0,3200,80,First strike%,0,40,19,Hit%,0,40,84,Random encounter%,0,5,-1,None,0,0,2929772,72,"A ring crafted in Nasr. Improves chances for\na First Strike, and Hit%."
+198,Stealth Ring,63,X,X,X,X,X,X,50,37,51,0,3000,81,Run%,0,100,4,Quick,0,10,20,Dodge%,0,10,84,Random encounter%,0,5,2929844,92,"A ring that improves Agile and Dodge%. In\nmost cases, you can run away 100% of the time."
+199,Dhabu Hide,63,X,X,X,X,X,X,50,38,16,0,2800,4,Quick,0,50,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2929936,56,"A folded piece of cured Dhabu hide, used as a\narmor."
+200,Ominous Mask,37,X,"","",X,"",X,50,42,38,0,4760,68,Reduce spirit,0,1,16,Attack,0,45,17,Defense,0,45,84,Random encounter%,0,5,2929992,92,"Gives a large boost to Attack Power and Defense,\nbut reduces the party's Spirit to zero."
+201,Flash Ribbon,29,"",X,X,X,"",X,50,43,19,0,60,4,Quick,0,2,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2930084,48,An enchanted Ribbon that improves Aika's\nQuick.
+202,The Unseen Hand,29,"",X,X,X,"",X,50,44,52,0,2960,4,Quick,0,30,20,Dodge%,0,5,84,Random encounter%,0,5,-1,None,0,0,2930132,76,"An enchantment that enables a warrior to Attack\nfaster, and avoid enemies."
+203,Crescent Amulet,29,"",X,X,X,"",X,50,45,11,0,5710,4,Quick,0,19,17,Defense,0,28,18,MagDef,0,28,84,Random encounter%,0,5,2930208,92,"A magic amulet, in the form of a Crescent Moon.\nImproves Quick, Defense and Magic Defense."
+204,Skyseer Goggles,48,X,X,"","","","",50,46,49,0,40,19,Hit%,0,5,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2930300,72,A pair of goggles that can zoom in on distant\ntargets. Improves Hit%.
+205,Nocturnal Sight,48,X,X,"","","","",50,47,36,0,1930,19,Hit%,0,60,16,Attack,0,6,84,Random encounter%,0,5,-1,None,0,0,2930372,68,An enchantment that allows a fighter to detect\ntargets at night.
+206,Critical Vision,48,X,X,"","","","",50,48,12,0,6660,19,Hit%,0,50,16,Attack,0,19,84,Random encounter%,0,5,-1,None,0,0,2930440,72,An enchantment that allows a fighter to detect\nan enemy's weak points.
+207,Gem of Purity,5,"","","",X,"",X,50,49,22,0,300,79,Block negative states,0,-3,17,Defense,0,8,84,Random encounter%,0,5,-1,None,0,0,2930512,92,An enchanted gem that protects the bearer.\nBoosts Defense & Resistance to Adverse Effects.
+208,Shard of Purity,5,"","","",X,"",X,50,51,45,0,4760,79,Block negative states,0,-9,17,Defense,0,38,84,Random encounter%,0,5,-1,None,0,0,2930604,96,"An enchanted Moon Shard that protects the wearer\nfrom Adverse Effects, and improves Defense."
+209,Fortune Ring,24,"",X,X,"","","",50,16,20,0,2860,20,Dodge%,0,100,17,Defense,0,8,84,Random encounter%,0,5,-1,None,0,0,2930700,92,A mysterious ring that allows the wearer to\navoid most normal Attacks. Improves Defense.
+210,Black Map,32,X,"","","","","",100,56,4,0,777,84,Random encounter%,0,5,80,First strike%,0,25,82,???,0,0,83,Enemy run%,0,0,2930792,88,A map that leads enemy creatures to the holder.\nAlso improves chances for First Strike.
+211,White Map,32,X,"","","","","",100,57,61,0,666,84,Random encounter%,0,1,80,First strike%,0,0,82,???,0,0,81,Run%,0,100,2930880,88,A map that leads the holder away from enemies.\nAlso improves chances of running away.
+212,Captain's Hat,32,X,"","","","","",100,61,7,0,10,16,Attack,0,50,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2930968,92,A hat passed down through generations of Nasrian\nAir Pirates. Boosts wearer's attack power.
+213,Mesh Tights,16,"",X,"","","","",100,62,34,0,10,16,Attack,0,40,1,Will,0,40,84,Random encounter%,0,5,-1,None,0,0,2931060,80,Given to Aika by a secret admirer.\nImproves the wearer's Attack Power and Will.
+214,Black Eyepatch,37,X,"","",X,"",X,100,52,3,0,10,16,Attack,0,7,84,Random encounter%,0,5,-1,None,0,0,-1,None,0,0,2931140,92,"Drachma's old leather eyepatch, made from the\nhide of a wild beast. Increases Attack Power."
+215,Silver Veil,24,"",X,X,"","","",100,53,46,0,100,1,Will,0,16,18,MagDef,0,16,84,Random encounter%,0,5,-1,None,0,0,2931232,88,A mystic veil that protects the head. The\nsilver strands increase Will & Magic Defense.
+216,Imperial Crest,2,"","","","",X,"",100,55,27,0,1000,17,Defense,0,20,18,MagDef,0,20,84,Random encounter%,0,5,-1,None,0,0,2931320,84,Given to protect members of the Royal Family.\nImproves Defense and Magic Defense.
+217,Gilder's Amulet,49,X,X,"","","",X,100,54,24,0,500,17,Defense,0,11,18,MagDef,0,11,16,Attack,0,11,1,Will,0,11,2931404,84,"Worn around Gilder's neck. Improves Defense,\nMagic Defense, Attack Power, and Will."
+218,Valuan Medallion,63,X,X,X,X,X,X,100,60,57,0,5000,49,Death,0,-10,17,Defense,0,30,18,MagDef,0,30,84,Random encounter%,0,5,2931488,76,Enchanted medallion worn by officers in the\nArmada. Negates Eterni spells.
+219,Immunity Ring,5,"","","",X,"",X,50,50,26,0,1490,79,Block negative states,0,-6,17,Defense,0,21,84,Random encounter%,0,5,-1,None,0,0,2931564,64,Sacred Ring. Boosts Defense and Resistance to\nadverse effects.
+220,Thermo Ring,63,X,X,X,X,X,X,50,58,53,0,2080,33,Red,0,-5,34,Purple,0,-5,84,Random encounter%,0,5,-1,None,0,0,2931628,64,A ring that increases resistance to Red and \nPurple Attacks.
+221,Slayer Ring,63,X,X,X,X,X,X,50,59,50,0,1010,1,Will,0,8,17,Defense,0,8,19,Hit%,0,10,4,Quick,0,8,2931692,68,"Raises Defense, Hit%, Will, and Quick.\nIts background is unknown."
+222,Chance Ring,63,X,X,X,X,X,X,100,32,8,0,1000,79,Block negative states,0,90,17,Defense,0,45,18,MagDef,0,45,84,Random encounter%,0,5,2931760,88,"Boosts Defense and Magic Defense, but leaves\nthe wearer susceptible to adverse effects."
+223,ダミーアクセサリ,0,"","","","","","",0,63,63,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+224,ダミーアクセサリ,0,"","","","","","",0,64,64,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+225,ダミーアクセサリ,0,"","","","","","",0,65,65,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+226,ダミーアクセサリ,0,"","","","","","",0,66,66,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+227,ダミーアクセサリ,0,"","","","","","",0,67,67,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+228,ダミーアクセサリ,0,"","","","","","",0,68,68,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+229,ダミーアクセサリ,0,"","","","","","",0,69,69,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+230,ダミーアクセサリ,0,"","","","","","",0,70,70,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+231,ダミーアクセサリ,0,"","","","","","",0,71,71,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+232,ダミーアクセサリ,0,"","","","","","",0,72,72,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+233,ダミーアクセサリ,0,"","","","","","",0,73,73,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+234,ダミーアクセサリ,0,"","","","","","",0,74,74,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+235,ダミーアクセサリ,0,"","","","","","",0,75,75,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+236,ダミーアクセサリ,0,"","","","","","",0,76,76,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+237,ダミーアクセサリ,0,"","","","","","",0,77,77,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+238,ダミーアクセサリ,0,"","","","","","",0,78,78,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+239,ダミーアクセサリ,0,"","","","","","",0,79,79,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""

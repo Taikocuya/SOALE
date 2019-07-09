@@ -1,4 +1,4 @@
-Entry ID,[Entry name],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect name],Scope ID,[Scope name],Consume%,Retail price in %,Purchase price,Effect value,Unknown #0,Unknown #1,Unknown #2,Hit%
+Entry ID,[Entry name],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect name],Scope ID,[Scope name],Consume%,Retail price in %,Purchase price,Effect value,Unk. #0,Unk. #1,Unk. #2,Hit%
 240,Sacri Crystal,6,X,X,,31,Recover HP,1,One character,100,50,50,400,-1,-1,0,0
 241,Sacres Crystal,6,X,X,,31,Recover HP,1,One character,100,50,150,800,-1,-1,0,0
 242,Sacrum Crystal,6,X,X,,31,Recover HP,2,All characters,100,50,900,1600,-1,-1,0,0
@@ -30,10 +30,10 @@ Entry ID,[Entry name],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect
 268,Pyrum Box,2,,X,,0,Damage,4,All enemies,16,1,2400,360,0,1,0,0
 269,Crystales Box,2,,X,,0,Damage,3,One enemy,12,1,1600,330,0,1,0,0
 270,Crystalen Box,2,,X,,0,Damage,3,One enemy,24,1,3600,600,0,1,0,0
-271,Wevles Box,2,,X,,0,Damage,33,Enemy area #2,12,1,1600,285,0,1,0,0
-272,Wevlen Box,2,,X,,0,Damage,34,Enemy area #3,24,1,3600,525,0,1,0,0
-273,Electri Box,2,,X,,0,Damage,36,Enemy line #1,8,1,800,90,0,1,0,0
-274,Electrum Box,2,,X,,0,Damage,37,Enemy line #2,16,1,2400,420,0,1,0,0
+271,Wevles Box,2,,X,,0,Damage,33,Enemy area #1,12,1,1600,285,0,1,0,0
+272,Wevlen Box,2,,X,,0,Damage,34,Enemy area #2,24,1,3600,525,0,1,0,0
+273,Electri Box,2,,X,,0,Damage,36,Enemy line #0,8,1,800,90,0,1,0,0
+274,Electrum Box,2,,X,,0,Damage,37,Enemy line #1,16,1,2400,420,0,1,0,0
 275,Sacri Box,2,,X,,31,Recover HP,1,One character,8,1,600,400,-1,-1,0,0
 276,Sacrum Box,2,,X,,31,Recover HP,2,All characters,16,1,4000,800,-1,-1,0,0
 277,Riselem Box,2,,X,,28,Revive with 100% of HP,1,One character,32,1,4200,0,0,0,7,0

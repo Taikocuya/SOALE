@@ -1,4 +1,4 @@
-Entry ID,[Entry name],Ship flags,[Little Jack #1],[Little Jack #2],[Delphinus #1],[Delphinus #2],[Delphinus #3],Feature #0 ID,[Feature #0 name],Feature #0 value,Feature #1 ID,[Feature #1 name],Feature #1 value,Feature #2 ID,[Feature #2 name],Feature #2 value,Feature #3 ID,[Feature #3 name],Feature #3 value,Purchase price,Retail price in %
+Entry ID,[Entry name],Ship flags,[LJ0],[LJ1],[D0],[D1],[D2],Feat. #0 ID,[Feat. #0 name],Feat. #0 value,Feat. #1 ID,[Feat. #1 name],Feat. #1 value,Feat. #2 ID,[Feat. #2 name],Feat. #2 value,Feat. #3 ID,[Feat. #3 name],Feat. #3 value,Purchase price,Retail price in %
 440,Rogue Figure,62,X,X,X,X,X,7,Value,800,3,MagDef,5,-1,None,0,-1,None,0,800,50
 441,Pryn Figure,62,X,X,X,X,X,7,Value,2400,3,MagDef,10,-1,None,0,-1,None,0,2400,50
 442,Pyrynn Figure,62,X,X,X,X,X,7,Value,4400,3,MagDef,15,-1,None,0,-1,None,0,4400,50

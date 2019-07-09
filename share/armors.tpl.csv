@@ -1,4 +1,4 @@
-Entry ID,[Entry name],Chara. flags,[Vyse],[Aika],[Fina],[Drachma],[Enrique],[Gilder],Retail price in %,Order by prio.,Purchase price,Feature #0 ID,[Feature #0 name],Feature #0 value,Feature #1 ID,[Feature #1 name],Feature #1 value,Feature #2 ID,[Feature #2 name],Feature #2 value,Feature #3 ID,[Feature #3 name],Feature #3 value
+Entry ID,[Entry name],Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Order by prio.,Purchase price,Feat. #0 ID,[Feat. #0 name],Feat. #0 value,Feat. #1 ID,[Feat. #1 name],Feat. #1 value,Feat. #2 ID,[Feat. #2 name],Feat. #2 value,Feat. #3 ID,[Feat. #3 name],Feat. #3 value
 80,Vyse's Uniform,49,X,X,,,,X,50,0,60,17,Defense,20,18,MagDef,20,84,Random encounter%,5,-1,None,0
 81,Aika's Shorts,24,,X,X,,,,50,1,50,17,Defense,19,18,MagDef,21,84,Random encounter%,5,-1,None,0
 82,Fina's Robe,26,,X,X,,X,,50,11,510,17,Defense,55,18,MagDef,64,84,Random encounter%,5,-1,None,0

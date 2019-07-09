@@ -1,4 +1,4 @@
-Entry ID,[Entry name],Chara. flags,[Vyse],[Aika],[Fina],[Drachma],[Enrique],[Gilder],Retail price in %,Purchase price,Feature #0 ID,[Feature #0 name],Feature #0 value,Feature #1 ID,[Feature #1 name],Feature #1 value,Feature #2 ID,[Feature #2 name],Feature #2 value,Feature #3 ID,[Feature #3 name],Feature #3 value
+Entry ID,[Entry name],Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Purchase price,Feat. #0 ID,[Feat. #0 name],Feat. #0 value,Feat. #1 ID,[Feat. #1 name],Feat. #1 value,Feat. #2 ID,[Feat. #2 name],Feat. #2 value,Feat. #3 ID,[Feat. #3 name],Feat. #3 value
 160,Gemstone Ring,58,X,X,X,,X,,50,150,18,MagDef,21,84,Random encounter%,5,-1,None,0,-1,None,0
 161,Prophet's Sand,58,X,X,X,,X,,50,890,18,MagDef,63,84,Random encounter%,5,-1,None,0,-1,None,0
 162,Meditation Ring,58,X,X,X,,X,,50,100,1,Will,8,84,Random encounter%,5,-1,None,0,-1,None,0
@@ -51,7 +51,7 @@ Entry ID,[Entry name],Chara. flags,[Vyse],[Aika],[Fina],[Drachma],[Enrique],[Gil
 209,Fortune Ring,24,,X,X,,,,50,2860,20,Dodge%,100,17,Defense,8,84,Random encounter%,5,-1,None,0
 210,Black Map,32,X,,,,,,100,777,84,Random encounter%,5,80,First strike%,25,82,???,0,83,Enemy run%,0
 211,White Map,32,X,,,,,,100,666,84,Random encounter%,1,80,First strike%,0,82,???,0,81,Run%,100
-212,Captain's Hat,32,X,,,,,,100,10,16,Attack,40,84,Random encounter%,5,-1,None,0,-1,None,0
+212,Captain's Hat,32,X,,,,,,100,10,16,Attack,50,84,Random encounter%,5,-1,None,0,-1,None,0
 213,Mesh Tights,16,,X,,,,,100,10,16,Attack,40,1,Will,40,84,Random encounter%,5,-1,None,0
 214,Black Eyepatch,37,X,,,X,,X,100,10,16,Attack,7,84,Random encounter%,5,-1,None,0,-1,None,0
 215,Silver Veil,24,,X,X,,,,100,100,1,Will,16,18,MagDef,16,84,Random encounter%,5,-1,None,0

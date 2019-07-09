@@ -31,7 +31,8 @@ Thumbs.db
 /share/**/FontData.EU
 /share/**/FontData.jp
 /share/**/FontData.US
-/share/*/bak/
+/share/*/archive/
+/share/*/snapshot
 /thirdparty/
 /tools/
 
