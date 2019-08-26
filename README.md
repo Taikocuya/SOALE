@@ -38,11 +38,9 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
    ![GCRebuilder](doc/install5.png)
 6. Open the correct directory `share/gc-*-retail/gameroot` that match with your 
    `Region` attribute from step 4.
-   | Region     | Directory                     |
-   |:----------:|:-----------------------------:|
-   | `EUR/PAL`  | `share/gc-eu-retail/gameroot` |
-   | `JAP/NTSC` | `share/gc-jp-retail/gameroot` |
-   | `USA/NTSC` | `share/gc-us-retail/gameroot` |
+    * `share/gc-eu-retail/gameroot` for region `EUR/PAL`
+    * `share/gc-jp-retail/gameroot` for region `JAP/NTSC`
+    * `share/gc-us-retail/gameroot` for region `USA/NTSC`
 7. Copy and replace all contents of that directory into your extracted `root` 
    folder from step 5.
    ![File Explorer](doc/install7.png)
