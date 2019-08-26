@@ -1,41 +1,41 @@
-Entry ID,[Entry name],Ship flags,[LJ0],[LJ1],[D0],[D1],[D2],Type ID,[Type name],Element ID,[Element name],Attack,Hit%,Limit,Spirit,Feat. ID,[Feat. name],Pad. #0,Feat. value,Purchase price,Retail price in %
-400,Main Cannon,48,X,X,,,,0,Main cannon,6,Neutral,35,80,0,4,-1,None,0,0,450,50
-401,Standard Cannon,48,X,X,,,,0,Main cannon,6,Neutral,40,83,0,4,-1,None,0,0,1000,50
-402,Heavy Cannon,48,X,X,,,,0,Main cannon,6,Neutral,45,85,0,5,-1,None,0,0,1900,50
-403,G-Type Cannon,48,X,X,,,,0,Main cannon,6,Neutral,50,85,0,5,-1,None,0,0,3000,70
-404,B-Type Cannon,48,X,X,,,,0,Main cannon,6,Neutral,75,90,0,6,-1,None,0,0,4000,50
-405,Prototype Cannon,14,,,X,X,X,0,Main cannon,6,Neutral,100,85,0,6,-1,None,0,0,5000,50
-406,Advanced Cannon,14,,,X,X,X,0,Main cannon,6,Neutral,150,90,0,7,-1,None,0,0,5500,50
-407,Yamato Spirit,14,,,X,X,X,0,Main cannon,6,Neutral,250,90,0,8,-1,None,0,0,6700,70
-408,Ancient Cannon,14,,,X,X,X,0,Main cannon,6,Neutral,300,95,0,9,-1,None,0,0,8500,50
-409,X Cannon,14,,,X,X,X,0,Main cannon,6,Neutral,400,97,0,10,-1,None,0,0,11000,50
-410,"3""Cannon",48,X,X,,,,1,Secondary cannon,6,Neutral,70,80,1,2,-1,None,0,0,700,50
-411,"3""Blaster",48,X,X,,,,1,Secondary cannon,6,Neutral,80,83,1,2,-1,None,0,0,1015,50
-412,"5""Cannon",48,X,X,,,,1,Secondary cannon,6,Neutral,90,80,1,3,-1,None,0,0,1330,50
-413,"8""Cannon",48,X,X,,,,1,Secondary cannon,6,Neutral,100,82,2,3,-1,None,0,0,2100,50
-414,"12""Cannon",14,,,X,X,X,1,Secondary cannon,6,Neutral,170,77,2,4,-1,None,0,0,3500,50
-415,"10""Cannon",14,,,X,X,X,1,Secondary cannon,6,Neutral,200,82,3,4,-1,None,0,0,3640,50
-416,"10""Cannon Coil",14,,,X,X,X,1,Secondary cannon,6,Neutral,220,89,3,4,-1,None,0,0,3710,50
-417,"12""Blaster",14,,,X,X,X,1,Secondary cannon,6,Neutral,250,85,2,5,-1,None,0,0,3850,50
-418,3'Cannon,14,,,X,X,X,1,Secondary cannon,6,Neutral,280,87,3,6,-1,None,0,0,4690,50
-419,5'Cannon,14,,,X,X,X,1,Secondary cannon,6,Neutral,330,90,2,6,-1,None,0,0,5110,50
-420,Light Torpedo,48,X,X,,,,2,Torpedo,6,Neutral,120,60,2,3,-1,None,0,0,1520,50
-421,Guided Torpedo,48,X,X,,,,2,Torpedo,6,Neutral,120,70,2,2,-1,None,0,0,1760,50
-422,Shock Torpedo,48,X,X,,,,2,Torpedo,6,Neutral,160,55,2,3,-1,None,0,0,2000,50
-423,Hunter Torpedo,48,X,X,,,,2,Torpedo,0,Green,160,60,3,3,-1,None,0,0,2240,50
-424,Valuan Torpedo,14,,,X,X,X,2,Torpedo,6,Neutral,220,60,2,3,-1,None,0,0,2400,50
-425,Heavy Torpedo,14,,,X,X,X,2,Torpedo,6,Neutral,250,50,3,4,-1,None,0,0,4400,50
-426,Serpent Torpedo,14,,,X,X,X,2,Torpedo,6,Neutral,300,65,2,4,-1,None,0,0,5360,50
-427,Flash Torpedo,14,,,X,X,X,2,Torpedo,6,Neutral,350,70,3,5,-1,None,0,0,6320,50
-428,Arcwhale Torpedo,14,,,X,X,X,2,Torpedo,6,Neutral,400,70,3,6,-1,None,0,0,6800,50
-429,Dragon Torpedo,14,,,X,X,X,2,Torpedo,6,Neutral,450,60,2,7,-1,None,0,0,8800,50
-430,Harpoon Cannon,32,X,,,,,3,Special,6,Neutral,350,65535,0,15,-1,None,0,0,0,0
-431,MoonStone Cannon,14,,,X,X,X,3,Special,6,Neutral,800,65535,0,20,-1,None,0,0,0,0
-432,Moon Cannon,62,,,X,X,X,0,Main cannon,6,Neutral,500,99,0,9,-1,None,0,0,1000,100
-433,Moon Gun,62,,,X,X,X,1,Secondary cannon,6,Neutral,400,99,3,5,-1,None,0,0,1000,100
-434,Moon Torpedo,62,,,X,X,X,2,Torpedo,6,Neutral,600,75,3,6,-1,None,0,0,1000,100
-435,Pyril Cannon,14,,,X,X,X,0,Main cannon,1,Red,200,120,0,6,-1,None,0,0,13200,50
-436,Wevl Cannon,14,,,X,X,X,1,Secondary cannon,3,Blue,180,120,3,4,-1,None,0,0,10200,50
-437,Electril Torpedo,14,,,X,X,X,2,Torpedo,4,Yellow,500,50,3,6,-1,None,0,0,1000,50
-438,Crystil Cannon,14,,,X,X,X,0,Main cannon,2,Purple,550,60,0,9,-1,None,0,0,1000,50
-439,Kazai Gun,48,X,X,,,,1,Secondary cannon,3,Blue,50,81,1,1,-1,None,0,0,500,50
+Entry ID,[Entry name],[Finalized],Ship flags,[LJ0],[LJ1],[D0],[D1],[D2],Type ID,[Type name],Element ID,[Element name],Attack,Hit%,Limit,Spirit,Feat. ID,[Feat. name],Pad. #0,Feat. value,Purchase price,Retail price in %
+400,Main Cannon,False,48,X,X,,,,0,Main cannon,6,Neutral,35,80,0,4,-1,None,0,0,450,50
+401,Standard Cannon,False,48,X,X,,,,0,Main cannon,6,Neutral,40,83,0,4,-1,None,0,0,1000,50
+402,Heavy Cannon,False,48,X,X,,,,0,Main cannon,6,Neutral,45,85,0,5,-1,None,0,0,1900,50
+403,G-Type Cannon,False,48,X,X,,,,0,Main cannon,6,Neutral,50,85,0,5,-1,None,0,0,3000,70
+404,B-Type Cannon,False,48,X,X,,,,0,Main cannon,6,Neutral,75,90,0,6,-1,None,0,0,4000,50
+405,Prototype Cannon,False,14,,,X,X,X,0,Main cannon,6,Neutral,100,85,0,6,-1,None,0,0,5000,50
+406,Advanced Cannon,False,14,,,X,X,X,0,Main cannon,6,Neutral,150,90,0,7,-1,None,0,0,5500,50
+407,Yamato Spirit,False,14,,,X,X,X,0,Main cannon,6,Neutral,250,90,0,8,-1,None,0,0,6700,70
+408,Ancient Cannon,False,14,,,X,X,X,0,Main cannon,6,Neutral,300,95,0,9,-1,None,0,0,8500,50
+409,X Cannon,False,14,,,X,X,X,0,Main cannon,6,Neutral,400,97,0,10,-1,None,0,0,11000,50
+410,"3""Cannon",False,48,X,X,,,,1,Secondary cannon,6,Neutral,70,80,1,2,-1,None,0,0,700,50
+411,"3""Blaster",False,48,X,X,,,,1,Secondary cannon,6,Neutral,80,83,1,2,-1,None,0,0,1015,50
+412,"5""Cannon",False,48,X,X,,,,1,Secondary cannon,6,Neutral,90,80,1,3,-1,None,0,0,1330,50
+413,"8""Cannon",False,48,X,X,,,,1,Secondary cannon,6,Neutral,100,82,2,3,-1,None,0,0,2100,50
+414,"12""Cannon",False,14,,,X,X,X,1,Secondary cannon,6,Neutral,170,77,2,4,-1,None,0,0,3500,50
+415,"10""Cannon",False,14,,,X,X,X,1,Secondary cannon,6,Neutral,200,82,3,4,-1,None,0,0,3640,50
+416,"10""Cannon Coil",False,14,,,X,X,X,1,Secondary cannon,6,Neutral,220,89,3,4,-1,None,0,0,3710,50
+417,"12""Blaster",False,14,,,X,X,X,1,Secondary cannon,6,Neutral,250,85,2,5,-1,None,0,0,3850,50
+418,3'Cannon,False,14,,,X,X,X,1,Secondary cannon,6,Neutral,280,87,3,6,-1,None,0,0,4690,50
+419,5'Cannon,False,14,,,X,X,X,1,Secondary cannon,6,Neutral,330,90,2,6,-1,None,0,0,5110,50
+420,Light Torpedo,False,48,X,X,,,,2,Torpedo,6,Neutral,120,60,2,3,-1,None,0,0,1520,50
+421,Guided Torpedo,False,48,X,X,,,,2,Torpedo,6,Neutral,120,70,2,2,-1,None,0,0,1760,50
+422,Shock Torpedo,False,48,X,X,,,,2,Torpedo,6,Neutral,160,55,2,3,-1,None,0,0,2000,50
+423,Hunter Torpedo,False,48,X,X,,,,2,Torpedo,0,Green,160,60,3,3,-1,None,0,0,2240,50
+424,Valuan Torpedo,False,14,,,X,X,X,2,Torpedo,6,Neutral,220,60,2,3,-1,None,0,0,2400,50
+425,Heavy Torpedo,False,14,,,X,X,X,2,Torpedo,6,Neutral,250,50,3,4,-1,None,0,0,4400,50
+426,Serpent Torpedo,False,14,,,X,X,X,2,Torpedo,6,Neutral,300,65,2,4,-1,None,0,0,5360,50
+427,Flash Torpedo,False,14,,,X,X,X,2,Torpedo,6,Neutral,350,70,3,5,-1,None,0,0,6320,50
+428,Arcwhale Torpedo,False,14,,,X,X,X,2,Torpedo,6,Neutral,400,70,3,6,-1,None,0,0,6800,50
+429,Dragon Torpedo,False,14,,,X,X,X,2,Torpedo,6,Neutral,450,60,2,7,-1,None,0,0,8800,50
+430,Harpoon Cannon,False,32,X,,,,,3,Special,6,Neutral,350,65535,0,15,-1,None,0,0,0,0
+431,MoonStone Cannon,False,14,,,X,X,X,3,Special,6,Neutral,800,65535,0,20,-1,None,0,0,0,0
+432,Moon Cannon,False,62,,,X,X,X,0,Main cannon,6,Neutral,500,99,0,9,-1,None,0,0,1000,100
+433,Moon Gun,False,62,,,X,X,X,1,Secondary cannon,6,Neutral,400,99,3,5,-1,None,0,0,1000,100
+434,Moon Torpedo,False,62,,,X,X,X,2,Torpedo,6,Neutral,600,75,3,6,-1,None,0,0,1000,100
+435,Pyril Cannon,False,14,,,X,X,X,0,Main cannon,1,Red,200,120,0,6,-1,None,0,0,13200,50
+436,Wevl Cannon,False,14,,,X,X,X,1,Secondary cannon,3,Blue,180,120,3,4,-1,None,0,0,10200,50
+437,Electril Torpedo,False,14,,,X,X,X,2,Torpedo,4,Yellow,500,50,3,6,-1,None,0,0,1000,50
+438,Crystil Cannon,False,14,,,X,X,X,0,Main cannon,2,Purple,550,60,0,9,-1,None,0,0,1000,50
+439,Kazai Gun,False,48,X,X,,,,1,Secondary cannon,3,Blue,50,81,1,1,-1,None,0,0,500,50

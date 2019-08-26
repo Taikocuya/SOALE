@@ -1,81 +1,81 @@
-Entry ID,[Entry name],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect name],Scope ID,[Scope name],Consume%,Retail price in %,Purchase price,Effect value,Unk. #0,Unk. #1,Unk. #2,Hit%
-240,Sacri Crystal,6,X,X,,31,Recover HP,1,One character,100,50,50,400,-1,-1,0,0
-241,Sacres Crystal,6,X,X,,31,Recover HP,1,One character,100,50,150,800,-1,-1,0,0
-242,Sacrum Crystal,6,X,X,,31,Recover HP,2,All characters,100,50,900,1600,-1,-1,0,0
-243,Sacrulen Crystal,6,X,X,,31,Recover HP,1,One character,100,50,450,800,-1,-1,0,0
-244,Magic Droplet,7,X,X,X,48,Recover MP,1,One character,100,50,40,1,-1,-1,0,0
-245,Magic Dew,7,X,X,X,48,Recover MP,1,One character,100,50,600,10,-1,-1,0,0
-246,Aura of Valor,3,,X,X,35,Recover SP,2,All characters,100,50,5000,40,-1,-1,0,0
-247,Soul Crystal,0,,,,-1,None,0,None,0,100,3000,0,0,0,0,0
-248,Unholy Dagger,0,,,,-1,None,0,None,0,100,4000,0,0,0,0,0
-249,Curia Crystal,2,,X,,30,Remove negative states,1,One character,100,50,300,0,0,0,7,0
-250,Risan Crystal,2,,X,,27,Revive with 50% of HP,1,One character,100,50,600,0,0,0,7,0
-251,Riselem Crystal,2,,X,,28,Revive with 100% of HP,1,One character,100,50,1800,0,0,0,7,0
-252,Glyph of Might,2,,X,,21,Add Strengthen,1,One character,100,50,1500,0,0,0,7,0
-253,Glyph of Speed,2,,X,,20,Add Quickened,2,All characters,100,50,1000,0,0,0,7,0
-254,Healing Salve,2,,X,,33,Add Regenerate,1,One character,100,50,600,250,0,0,0,0
-255,Chalice of Blood,0,,,,-1,None,0,None,0,100,5000,0,0,0,0,0
-256,Windsong Orb,0,,,,-1,None,0,None,0,100,6000,0,0,0,0,0
-257,Winter Orb,0,,,,-1,None,0,None,0,100,7000,0,0,0,0,0
-258,Moonberry,0,,,,52,Moonberry,1,One character,100,0,50000,-1,0,0,0,0
-259,Cham,4,X,,,53,Evolve Cupil with Cham,0,None,100,0,10000,-1,0,0,0,0
-260,Paranta Seed,4,X,,,54,Increase Power,1,One character,100,1,50000,3,-1,-1,0,0
-261,Icyl Seed,4,X,,,55,Increase Will,1,One character,100,1,50000,3,-1,-1,0,0
-262,Zaal Seed,4,X,,,56,Increase Vigor,1,One character,100,1,50000,3,-1,-1,0,0
-263,Dexus Seed,4,X,,,57,Increase Agile,1,One character,100,1,50000,1,-1,-1,0,0
-264,Sylph Seed,4,X,,,58,Increase Quick,1,One character,100,1,50000,3,-1,-1,0,0
-265,Vidal Seed,4,X,,,59,Increase MAXHP,1,One character,100,1,50000,30,-1,-1,0,0
-266,Magus Seed,4,X,,,60,Increase MAXMP,1,One character,100,1,50000,1,-1,-1,0,0
-267,Pyri Box,2,,X,,0,Damage,4,All enemies,8,1,800,75,0,1,0,0
-268,Pyrum Box,2,,X,,0,Damage,4,All enemies,16,1,2400,360,0,1,0,0
-269,Crystales Box,2,,X,,0,Damage,3,One enemy,12,1,1600,330,0,1,0,0
-270,Crystalen Box,2,,X,,0,Damage,3,One enemy,24,1,3600,600,0,1,0,0
-271,Wevles Box,2,,X,,0,Damage,33,Enemy area #1,12,1,1600,285,0,1,0,0
-272,Wevlen Box,2,,X,,0,Damage,34,Enemy area #2,24,1,3600,525,0,1,0,0
-273,Electri Box,2,,X,,0,Damage,36,Enemy line #0,8,1,800,90,0,1,0,0
-274,Electrum Box,2,,X,,0,Damage,37,Enemy line #1,16,1,2400,420,0,1,0,0
-275,Sacri Box,2,,X,,31,Recover HP,1,One character,8,1,600,400,-1,-1,0,0
-276,Sacrum Box,2,,X,,31,Recover HP,2,All characters,16,1,4000,800,-1,-1,0,0
-277,Riselem Box,2,,X,,28,Revive with 100% of HP,1,One character,32,1,4200,0,0,0,7,0
-278,Sylenis Box,2,,X,,12,Add Silence,3,One enemy,12,1,1600,0,0,0,5,60
-279,Panika Box,2,,X,,11,Add Confusion,3,One enemy,24,1,1200,0,0,0,4,60
-280,Driln Box,2,,X,,26,Add Weak,3,One enemy,12,1,1600,0,0,0,8,60
-281,Slipara Box,2,,X,,9,Add Sleep,4,All enemies,24,1,2400,0,0,0,3,60
-282,Eternum Box,2,,X,,6,Add Unconscious + Damage #1,3,One enemy,32,1,8000,250,5,1,49,0
-283,Rune of Ill Omen,0,,,,-1,None,0,None,0,100,1000,0,0,0,0,0
-284,Golden Mask,0,,,,-1,None,0,None,0,100,2000,0,0,0,0,0
-285,Sky Sardis,4,X,,,31,Recover HP,1,One character,100,100,5,10,-1,-1,0,0
-286,Red Sardis,4,X,,,31,Recover HP,1,One character,100,100,50,100,-1,-1,0,0
-287,Flying Fish,4,X,,,31,Recover HP,1,One character,100,100,10,15,-1,-1,0,0
-288,Spiked Sunfish,4,X,,,31,Recover HP,1,One character,100,100,100,150,-1,-1,0,0
-289,Abirik Cham,4,X,,,75,Evolve Cupil with Abirik Cham,0,None,100,0,50000,-1,-1,-1,0,0
-290,Chom,4,X,,,76,Reset Cupil,0,None,100,10,1000,-1,-1,-1,0,0
-291,Gold Pollen,0,,,,-1,None,0,None,100,100,5000,0,0,0,0,0
-292,Ilchymix,4,X,,,51,Recover HP and MP,2,All characters,100,100,400,10000,-1,-1,0,0
-293,Orb of Serenity,0,,,,-1,None,0,None,0,100,10000,0,0,0,0,0
-294,Kabal Skewer,6,X,X,,48,Recover MP,1,One character,100,100,150,2,-1,-1,0,0
-295,Mom's Skewer,6,X,X,,49,Recover MP to 100%,1,One character,100,100,2000,100,-1,-1,0,0
-296,Tropica,4,X,,,59,Increase MAXHP,1,One character,100,100,1000,200,-1,-1,0,0
-297,Urala's Lunch,4,X,,,51,Recover HP and MP,1,One character,100,100,200,10000,-1,-1,0,0
-298,Polly Special,4,X,,,51,Recover HP and MP,1,One character,100,100,200,10000,-1,-1,0,0
-299,Magillex Idol,0,,,,-1,None,0,None,0,100,25000,0,0,0,0,0
-300,Pharax Idol,0,,,,-1,None,0,None,0,100,25000,0,0,0,0,0
-301,Euconyx Idol,0,,,,-1,None,0,None,0,100,25000,0,0,0,0,0
-302,ダミー,0,,,,-1,None,0,None,0,0,0,0,0,0,0,0
-303,ダミー,0,,,,-1,None,0,None,0,0,0,0,0,0,0,0
-304,ダミー,0,,,,-1,None,0,None,0,0,0,0,0,0,0,0
-305,Drajik Fish,0,,,,-1,None,0,None,100,100,3000,0,0,0,0,0
-306,Kite Ray,4,X,,,31,Recover HP,1,One character,100,100,20,20,-1,-1,0,0
-307,Stealth Ray,4,X,,,31,Recover HP,1,One character,100,100,200,200,-1,-1,0,0
-308,Spear Squid,4,X,,,31,Recover HP,1,One character,100,100,30,30,-1,-1,0,0
-309,Drill Squid,4,X,,,31,Recover HP,1,One character,100,100,300,300,-1,-1,0,0
-310,Grule,4,X,,,31,Recover HP,1,One character,100,100,40,40,-1,-1,0,0
-311,Rainbow Grule,4,X,,,31,Recover HP,1,One character,100,100,400,400,-1,-1,0,0
-312,Sky Jellyfish,4,X,,,31,Recover HP,1,One character,100,100,150,50,-1,-1,0,0
-313,Silverfish,4,X,,,31,Recover HP,1,One character,100,100,1500,500,-1,-1,0,0
-314,Romuhai Fish,4,X,,,31,Recover HP,1,One character,100,100,150,50,-1,-1,0,0
-315,Hamahai Fish,4,X,,,31,Recover HP,1,One character,100,100,1500,500,-1,-1,0,0
-316,Nerath Eel,4,X,,,31,Recover HP,1,One character,100,100,150,50,-1,-1,0,0
-317,Great Nerath Eel,4,X,,,31,Recover HP,1,One character,100,100,1500,500,-1,-1,0,0
-318,Red Dragon,4,X,,,31,Recover HP,1,One character,100,100,200,100,-1,-1,0,0
-319,Gold Dragon,4,X,,,31,Recover HP,1,One character,100,100,2000,1000,-1,-1,0,0
+Entry ID,[Entry name],[Finalized],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect name],Scope ID,[Scope name],Consume%,Retail price in %,Purchase price,Effect value,Element ID,[Element name],Type ID,[Type name],State ID,[State name],Hit%
+240,Sacri Crystal,False,6,X,X,,31,Recover HP,1,One character,100,50,50,400,0,Green,1,Magical,-1,None,0
+241,Sacres Crystal,False,6,X,X,,31,Recover HP,1,One character,100,50,150,800,0,Green,1,Magical,-1,None,0
+242,Sacrum Crystal,False,6,X,X,,31,Recover HP,2,All characters,100,50,900,800,0,Green,1,Magical,-1,None,0
+243,Sacrulen Crystal,False,6,X,X,,31,Recover HP,1,One character,100,50,450,1600,0,Green,1,Magical,-1,None,0
+244,Magic Droplet,False,7,X,X,X,48,Recover MP,1,One character,100,50,40,1,-1,None,-1,None,-1,None,0
+245,Magic Dew,False,7,X,X,X,48,Recover MP,1,One character,100,50,600,3,-1,None,-1,None,-1,None,0
+246,Aura of Valor,False,3,,X,X,35,Recover SP,2,All characters,100,50,5000,40,-1,None,-1,None,-1,None,0
+247,Soul Crystal,False,0,,,,-1,None,0,None,0,100,3000,0,-1,None,-1,None,-1,None,0
+248,Unholy Dagger,False,0,,,,-1,None,0,None,0,100,4000,0,-1,None,-1,None,-1,None,0
+249,Curia Crystal,False,2,,X,,30,Remove negative states,1,One character,100,50,300,0,5,Silver,1,Magical,-1,None,0
+250,Risan Crystal,False,2,,X,,27,Revive with 50% of HP,1,One character,100,50,600,0,5,Silver,1,Magical,7,Revival,-1
+251,Riselem Crystal,False,2,,X,,28,Revive with 100% of HP,1,One character,100,50,1800,0,5,Silver,1,Magical,7,Revival,0
+252,Glyph of Might,False,2,,X,,21,Add Strengthen,1,One character,100,50,1500,0,1,Red,1,Magical,-1,None,0
+253,Glyph of Speed,False,2,,X,,20,Add Quickened,2,All characters,100,50,1000,0,3,Blue,1,Magical,-1,None,0
+254,Healing Salve,False,2,,X,,33,Add Regenerate,1,One character,100,50,600,200,-1,None,-1,None,-1,None,0
+255,Chalice of Blood,False,0,,,,-1,None,0,None,0,100,5000,0,-1,None,-1,None,-1,None,0
+256,Windsong Orb,False,0,,,,-1,None,0,None,0,100,6000,0,-1,None,-1,None,-1,None,0
+257,Winter Orb,False,0,,,,-1,None,0,None,0,100,7000,0,-1,None,-1,None,-1,None,0
+258,Moonberry,False,0,,,,52,Moonberry,1,One character,100,0,50000,-1,-1,None,-1,None,-1,None,0
+259,Cham,False,4,X,,,53,Evolve Cupil with Cham,0,None,100,0,10000,-1,-1,None,-1,None,-1,None,0
+260,Paranta Seed,False,4,X,,,54,Increase Power,1,One character,100,1,50000,3,-1,None,-1,None,-1,None,0
+261,Icyl Seed,False,4,X,,,55,Increase Will,1,One character,100,1,50000,3,-1,None,-1,None,-1,None,0
+262,Zaal Seed,False,4,X,,,56,Increase Vigor,1,One character,100,1,50000,3,-1,None,-1,None,-1,None,0
+263,Dexus Seed,False,4,X,,,57,Increase Agile,1,One character,100,1,50000,1,-1,None,-1,None,-1,None,0
+264,Sylph Seed,False,4,X,,,58,Increase Quick,1,One character,100,1,50000,3,-1,None,-1,None,-1,None,0
+265,Vidal Seed,False,4,X,,,59,Increase MAXHP,1,One character,100,1,50000,30,-1,None,-1,None,-1,None,0
+266,Magus Seed,False,4,X,,,60,Increase MAXMP,1,One character,100,1,50000,1,-1,None,-1,None,-1,None,0
+267,Pyri Box,False,2,,X,,0,Damage,4,All enemies,16,1,800,75,1,Red,1,Magical,-1,None,0
+268,Pyrum Box,False,2,,X,,0,Damage,4,All enemies,32,1,2400,360,1,Red,1,Magical,-1,None,0
+269,Crystales Box,False,2,,X,,0,Damage,3,One enemy,32,1,1600,330,2,Purple,1,Magical,-1,None,0
+270,Crystalen Box,False,2,,X,,0,Damage,3,One enemy,32,1,3600,600,2,Purple,1,Magical,-1,None,0
+271,Wevles Box,False,2,,X,,0,Damage,33,Enemy area #1,32,1,1600,285,3,Blue,1,Magical,-1,None,0
+272,Wevlen Box,False,2,,X,,0,Damage,34,Enemy area #2,32,1,3600,525,3,Blue,1,Magical,-1,None,0
+273,Electri Box,False,2,,X,,0,Damage,36,Enemy line #0,16,1,800,90,4,Yellow,1,Magical,-1,None,0
+274,Electrum Box,False,2,,X,,0,Damage,37,Enemy line #1,32,1,2400,420,4,Yellow,1,Magical,-1,None,0
+275,Sacri Box,False,2,,X,,31,Recover HP,1,One character,16,1,600,400,0,Green,1,Magical,-1,None,0
+276,Sacrum Box,False,2,,X,,31,Recover HP,2,All characters,32,1,4000,800,0,Green,1,Magical,-1,None,0
+277,Riselem Box,False,2,,X,,28,Revive with 100% of HP,1,One character,48,1,4200,0,5,Silver,1,Magical,7,Revival,0
+278,Sylenis Box,False,2,,X,,12,Add Silence,3,One enemy,32,1,1600,0,2,Purple,1,Magical,5,Silence,30
+279,Panika Box,False,2,,X,,11,Add Confusion,3,One enemy,32,1,1200,0,2,Purple,1,Magical,4,Confusion,30
+280,Driln Box,False,2,,X,,26,Add Weak,3,One enemy,32,1,1600,0,4,Yellow,1,Magical,8,Weak,60
+281,Slipara Box,False,2,,X,,9,Add Sleep,4,All enemies,32,1,2400,0,3,Blue,1,Magical,3,Sleep,60
+282,Eternum Box,False,2,,X,,6,Add Unconscious + Damage #1,3,One enemy,48,1,8000,250,5,Silver,1,Magical,1,Unconscious,90
+283,Rune of Ill Omen,False,0,,,,-1,None,0,None,0,100,1000,0,-1,None,-1,None,-1,None,0
+284,Golden Mask,False,0,,,,-1,None,0,None,0,100,2000,0,-1,None,-1,None,-1,None,0
+285,Sky Sardis,False,4,X,,,31,Recover HP,1,One character,100,100,5,10,-1,None,-1,None,-1,None,0
+286,Red Sardis,False,4,X,,,31,Recover HP,1,One character,100,100,50,100,-1,None,-1,None,-1,None,0
+287,Flying Fish,False,4,X,,,31,Recover HP,1,One character,100,100,10,15,-1,None,-1,None,-1,None,0
+288,Spiked Sunfish,False,4,X,,,31,Recover HP,1,One character,100,100,100,150,-1,None,-1,None,-1,None,0
+289,Abirik Cham,False,4,X,,,75,Evolve Cupil with Abirik Cham,0,None,100,0,50000,-1,-1,None,-1,None,-1,None,0
+290,Chom,False,4,X,,,76,Reset Cupil,0,None,100,10,1000,-1,-1,None,-1,None,-1,None,0
+291,Gold Pollen,False,0,,,,-1,None,0,None,100,100,5000,0,-1,None,-1,None,-1,None,0
+292,Ilchymix,False,4,X,,,51,Recover HP and MP,2,All characters,100,100,400,10000,-1,None,-1,None,-1,None,0
+293,Orb of Serenity,False,0,,,,-1,None,0,None,0,100,10000,0,-1,None,-1,None,-1,None,0
+294,Kabal Skewer,False,6,X,X,,48,Recover MP,1,One character,100,100,150,2,-1,None,-1,None,-1,None,0
+295,Mom's Skewer,False,6,X,X,,49,Recover MP to 100%,1,One character,100,100,2000,100,-1,None,-1,None,-1,None,0
+296,Tropica,False,4,X,,,59,Increase MAXHP,1,One character,100,100,1000,200,-1,None,-1,None,-1,None,0
+297,Urala's Lunch,False,4,X,,,51,Recover HP and MP,1,One character,100,100,200,10000,-1,None,-1,None,-1,None,0
+298,Polly Special,False,4,X,,,51,Recover HP and MP,1,One character,100,100,200,10000,-1,None,-1,None,-1,None,0
+299,Magillex Idol,False,0,,,,-1,None,0,None,0,100,25000,0,-1,None,-1,None,-1,None,0
+300,Pharax Idol,False,0,,,,-1,None,0,None,0,100,25000,0,-1,None,-1,None,-1,None,0
+301,Euconyx Idol,False,0,,,,-1,None,0,None,0,100,25000,0,-1,None,-1,None,-1,None,0
+302,ダミー,False,0,,,,-1,None,0,None,0,0,0,0,0,Green,0,Physical,0,Poison,0
+303,ダミー,False,0,,,,-1,None,0,None,0,0,0,0,0,Green,0,Physical,0,Poison,0
+304,ダミー,False,0,,,,-1,None,0,None,0,0,0,0,0,Green,0,Physical,0,Poison,0
+305,Drajik Fish,False,0,,,,-1,None,0,None,100,100,3000,0,-1,None,-1,None,-1,None,0
+306,Kite Ray,False,4,X,,,31,Recover HP,1,One character,100,100,20,20,-1,None,-1,None,-1,None,0
+307,Stealth Ray,False,4,X,,,31,Recover HP,1,One character,100,100,200,200,-1,None,-1,None,-1,None,0
+308,Spear Squid,False,4,X,,,31,Recover HP,1,One character,100,100,30,30,-1,None,-1,None,-1,None,0
+309,Drill Squid,False,4,X,,,31,Recover HP,1,One character,100,100,300,300,-1,None,-1,None,-1,None,0
+310,Grule,False,4,X,,,31,Recover HP,1,One character,100,100,40,40,-1,None,-1,None,-1,None,0
+311,Rainbow Grule,False,4,X,,,31,Recover HP,1,One character,100,100,400,400,-1,None,-1,None,-1,None,0
+312,Sky Jellyfish,False,4,X,,,31,Recover HP,1,One character,100,100,150,50,-1,None,-1,None,-1,None,0
+313,Silverfish,False,4,X,,,31,Recover HP,1,One character,100,100,1500,500,-1,None,-1,None,-1,None,0
+314,Romuhai Fish,False,4,X,,,31,Recover HP,1,One character,100,100,150,50,-1,None,-1,None,-1,None,0
+315,Hamahai Fish,False,4,X,,,31,Recover HP,1,One character,100,100,1500,500,-1,None,-1,None,-1,None,0
+316,Nerath Eel,False,4,X,,,31,Recover HP,1,One character,100,100,150,50,-1,None,-1,None,-1,None,0
+317,Great Nerath Eel,False,4,X,,,31,Recover HP,1,One character,100,100,1500,500,-1,None,-1,None,-1,None,0
+318,Red Dragon,False,4,X,,,31,Recover HP,1,One character,100,100,200,100,-1,None,-1,None,-1,None,0
+319,Gold Dragon,False,4,X,,,31,Recover HP,1,One character,100,100,2000,1000,-1,None,-1,None,-1,None,0
