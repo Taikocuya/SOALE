@@ -46,8 +46,7 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
    ![File Explorer](doc/install7.png)
 8. In GCRebuilder, select `Root > Open` and choose your modified `root`
    folder from step 7. If you have done everything right, you are able to 
-   read `Skies of Arcadia Legends Encore`, `Eternal Arcadia Legends Encore` 
-   and/or `エターナルアルカディアレジェンドＥｎｃｏｒｅ` in the `Name` and `Banner` attributes.
+   read `Encore` in the `Name` and `Banner` attributes.
    ![GCRebuilder](doc/install8.png)
 9. Select `Root > Save`, save the file wherever you want and run 
    `Root > Rebuild`. GCRebuilder will compile a new working ISO image that you 
