@@ -13,7 +13,6 @@ Thumbs.db
 
 # SOALE directories
 /build/
-/doc/
 /share/**/*.[Bb][Ii][Nn]
 /share/**/*.ect
 /share/**/*.dsp
