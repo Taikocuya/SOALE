@@ -36,13 +36,13 @@ Thumbs.db
 /tools/
 
 # SOALE files
-!a299a02.mld
-!m0[1234]_[lr].dsp
-!m0367.info
-!ts900000.mld
-!ts900000f.mld
-!ts900000g.mld
-!ts900000s.mld
+!/share/**/field/a299a02.mld
+!/share/**/sound/m0[1234]_[lr].dsp
+!/share/**/sound/m0367.info
+!/share/**/title/ts900000.mld
+!/share/**/title/ts900000f.mld
+!/share/**/title/ts900000g.mld
+!/share/**/title/ts900000s.mld
 
 # Enemy 165 (Spell Warden)
 !f05000a5.mlk
