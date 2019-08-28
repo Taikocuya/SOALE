@@ -7,7 +7,7 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 
 ### Features
 
-* See [CHANGELOG.md](CHANGELOG.md) for details
+* See [CHANGELOG.md](CHANGELOG.md) for more details.
 
 ### Prerequisites
 
@@ -34,15 +34,16 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
    ![GCRebuilder](doc/install4.png)
 5. Right-click on `root` in the tree structure, select `Export` and extract 
    the files to any directory wherever you want. A new folder called `root` 
-   with all game contents will be created. After that, choose `Image > Close`.
+   with all game contents will be created. After export is finished, choose 
+   `Image > Close`.
    ![GCRebuilder](doc/install5.png)
 6. Open the correct directory `share/gc-*-retail/gameroot` that match with your 
-   `Region` attribute from step 4.
-    * `share/gc-eu-retail/gameroot` for region `EUR/PAL`
-    * `share/gc-jp-retail/gameroot` for region `JAP/NTSC`
-    * `share/gc-us-retail/gameroot` for region `USA/NTSC`
-7. Copy and replace all contents of that directory into your extracted `root` 
-   folder from step 5.
+   `Region` attribute from step 4 and copy all contents of that folder.
+    * `share/gc-eu-retail/gameroot` for `EUR/PAL` region 
+    * `share/gc-jp-retail/gameroot` for `JAP/NTSC` region 
+    * `share/gc-us-retail/gameroot` for `USA/NTSC` region 
+7. Paste all contents into your extracted `root` folder from step 5 and 
+   replace the files.
    ![File Explorer](doc/install7.png)
 8. In GCRebuilder, select `Root > Open` and choose your modified `root`
    folder from step 7. If you have done everything right, you are able to 
