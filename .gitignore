@@ -45,28 +45,28 @@ Thumbs.db
 !/share/**/title/ts900000s.mld
 
 # Enemy 165 (Spell Warden)
-!f05000a5.mlk
-!mg037.mld
-!mg037.std
-!mg0370.std
+!/share/**/beff/f05000a5.mlk
+!/share/**/bchara/mg037.mld
+!/share/**/bchara/mg037.std
+!/share/**/bchara/mg0370.std
 
 # Enemy 166 (Spell Warden)
-!f05000a6.mlk
-!mg038.mld
-!mg038.std
-!mg0380.std
+!/share/**/beff/f05000a6.mlk
+!/share/**/bchara/mg038.mld
+!/share/**/bchara/mg038.std
+!/share/**/bchara/mg0380.std
 
 # Enemy 167 (Royal Guard)
-!f05000a7.mlk
-!mg039.mld
-!mg039.std
-!mg0390.std
+!/share/**/beff/f05000a7.mlk
+!/share/**/bchara/mg039.mld
+!/share/**/bchara/mg039.std
+!/share/**/bchara/mg0390.std
 
 # Enemy 169 (Kantor)
-!b7025641_L.dsp
-!b7025641_R.dsp
-!f05000a9.mlk
-!f29005a9.mlk
-!mg041.mld
-!mg041.std
-!mg0410.std
+!/share/**/beff/b7025641_L.dsp
+!/share/**/bchara/b7025641_R.dsp
+!/share/**/bchara/f05000a9.mlk
+!/share/**/bchara/f29005a9.mlk
+!/share/**/bchara/mg041.mld
+!/share/**/bchara/mg041.std
+!/share/**/bchara/mg0410.std
