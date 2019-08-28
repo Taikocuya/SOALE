@@ -34,8 +34,8 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
    ![GCRebuilder](doc/install4.png)
 5. Right-click on `root` in the tree structure, select `Export` and extract 
    the files to any directory wherever you want. A new folder called `root` 
-   with all game contents will be created. After export is finished, choose 
-   `Image > Close`.
+   with all game contents will be created. After the export is finished, 
+   choose `Image > Close`.
    ![GCRebuilder](doc/install5.png)
 6. Open the correct directory `share/gc-*-retail/gameroot` that match with your 
    `Region` attribute from step 4 and copy all contents of that folder.
