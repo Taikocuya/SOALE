@@ -37,9 +37,9 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 35,Valuan Battle Ship,True,244,Magic Droplet,2
 36,Valuan Battle Ship,True,240,Sacri Crystal,2
 37,Valuan Battle Ship,True,244,Magic Droplet,3
-38,,False,240,Sacri Crystal,2
-39,,False,258,Moonberry,1
-40,,False,241,Sacres Crystal,2
+38,Shrine Island,True,244,Magic Droplet,2
+39,Shrine Island,True,258,Moonberry,1
+40,Shrine Island,True,240,Sacri Crystal,2
 41,,False,267,Pyri Box,1
 42,,False,125,Heavy Armor,1
 43,,False,249,Curia Crystal,3
