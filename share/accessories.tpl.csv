@@ -1,7 +1,7 @@
 Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Purchase price,Feat. #0 ID,[Feat. #0 name],Feat. #0 value,Feat. #1 ID,[Feat. #1 name],Feat. #1 value,Feat. #2 ID,[Feat. #2 name],Feat. #2 value,Feat. #3 ID,[Feat. #3 name],Feat. #3 value
 160,Gemstone Ring,False,58,X,X,X,,X,,50,150,18,MagDef,21,84,Random encounter%,2,-1,None,0,-1,None,0
 161,Prophet's Sand,False,58,X,X,X,,X,,50,890,18,MagDef,63,84,Random encounter%,2,-1,None,0,-1,None,0
-162,Meditation Ring,False,58,X,X,X,,X,,50,100,1,Will,8,84,Random encounter%,2,-1,None,0,-1,None,0
+162,Meditation Ring,True,58,X,X,X,,X,,50,100,1,Will,8,84,Random encounter%,2,-1,None,0,-1,None,0
 163,Moondust Ring,False,58,X,X,X,,X,,50,1530,1,Will,48,84,Random encounter%,2,-1,None,0,-1,None,0
 164,Lover's Ring,False,58,X,X,X,,X,,50,300,18,MagDef,12,1,Will,12,84,Random encounter%,2,-1,None,0
 165,Jade Swirl Ring,False,58,X,X,X,,X,,50,2960,18,MagDef,45,1,Will,45,84,Random encounter%,2,-1,None,0
@@ -9,7 +9,7 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 167,Warrior's Heart,False,58,X,X,X,,X,,100,10,77,Recover spirit,1,4,Quick,-75,84,Random encounter%,2,-1,None,0
 168,Throkryn's Scale,False,53,X,X,,X,,X,50,300,16,Attack,10,84,Random encounter%,2,-1,None,0,-1,None,0
 169,Thryllak's Scale,False,53,X,X,,X,,X,50,2300,16,Attack,36,84,Random encounter%,2,-1,None,0,-1,None,0
-170,Marocca's Shell,False,53,X,X,,X,,X,50,130,17,Defense,6,84,Random encounter%,2,-1,None,0,-1,None,0
+170,Marocca's Shell,True,53,X,X,,X,,X,50,130,17,Defense,6,84,Random encounter%,2,-1,None,0,-1,None,0
 171,Burocca's Shell,False,53,X,X,,X,,X,50,1920,17,Defense,36,84,Random encounter%,2,-1,None,0,-1,None,0
 172,Crylhound's Claw,False,53,X,X,,X,,X,50,420,19,Hit%,20,16,Attack,2,84,Random encounter%,2,-1,None,0
 173,Hunter's Hand,False,53,X,X,,X,,X,50,1010,19,Hit%,40,16,Attack,4,84,Random encounter%,2,-1,None,0
@@ -40,10 +40,10 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 198,Stealth Ring,False,63,X,X,X,X,X,X,50,3000,81,Run%,100,4,Quick,10,20,Dodge%,10,84,Random encounter%,2
 199,Dhabu Hide,False,63,X,X,X,X,X,X,50,2800,4,Quick,50,84,Random encounter%,2,-1,None,0,-1,None,0
 200,Ominous Mask,False,37,X,,,X,,X,50,4760,68,Reduce spirit,1,16,Attack,45,17,Defense,45,84,Random encounter%,2
-201,Flash Ribbon,False,29,,X,X,X,,X,50,60,4,Quick,2,84,Random encounter%,2,-1,None,0,-1,None,0
+201,Flash Ribbon,True,29,,X,X,X,,X,50,60,4,Quick,2,84,Random encounter%,2,-1,None,0,-1,None,0
 202,The Unseen Hand,False,29,,X,X,X,,X,50,2960,4,Quick,30,20,Dodge%,5,84,Random encounter%,2,-1,None,0
 203,Crescent Amulet,False,29,,X,X,X,,X,50,5710,4,Quick,19,17,Defense,28,18,MagDef,28,84,Random encounter%,2
-204,Skyseer Goggles,False,48,X,X,,,,,50,40,19,Hit%,5,84,Random encounter%,2,-1,None,0,-1,None,0
+204,Skyseer Goggles,True,48,X,X,,,,,50,40,19,Hit%,5,84,Random encounter%,2,-1,None,0,-1,None,0
 205,Nocturnal Sight,False,48,X,X,,,,,50,1930,19,Hit%,60,16,Attack,6,84,Random encounter%,2,-1,None,0
 206,Critical Vision,False,48,X,X,,,,,50,6660,19,Hit%,50,16,Attack,19,84,Random encounter%,2,-1,None,0
 207,Gem of Purity,False,5,,,,X,,X,50,300,79,Block negative states,-2,17,Defense,8,84,Random encounter%,2,-1,None,0

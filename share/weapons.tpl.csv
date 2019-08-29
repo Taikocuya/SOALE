@@ -1,6 +1,6 @@
 Entry ID,[Entry name],[Finalized],Chara. ID,[Chara. name],Retail price in %,Effect ID,[Effect name],Purchase price,Attack,Hit%,Feat. ID,[Feat. name],Feat. value
-0,Cutlass,False,0,Vyse,50,-1,None,70,20,90,-1,None,0
-1,Pirate Cutlass,False,0,Vyse,50,-1,None,220,33,90,-1,None,0
+0,Cutlass,True,0,Vyse,50,-1,None,70,20,90,-1,None,0
+1,Pirate Cutlass,True,0,Vyse,50,-1,None,220,33,90,-1,None,0
 2,Sky Cutlass,False,0,Vyse,50,-1,None,450,45,90,-1,None,0
 3,Admiral Cutlass,False,0,Vyse,50,-1,None,4970,128,90,-1,None,0
 4,Assassin Blade,False,0,Vyse,50,0,Add Poison,830,58,90,-1,None,0
@@ -15,11 +15,11 @@ Entry ID,[Entry name],[Finalized],Chara. ID,[Chara. name],Retail price in %,Effe
 13,Vorlik Blade,False,0,Vyse,50,-1,None,16500,200,90,-1,None,0
 14,Suiran Blade,False,0,Vyse,50,-1,None,7500,141,90,-1,None,0
 15,Soul Sword,False,0,Vyse,50,16,Add Death #3,12340,174,90,-1,None,0
-16,Boomerang,False,1,Aika,50,-1,None,70,19,110,-1,None,0
+16,Boomerang,True,1,Aika,50,-1,None,70,19,110,-1,None,0
 17,Skywing,False,1,Aika,50,-1,None,3670,107,110,-1,None,0
 18,Scout Wing,False,1,Aika,50,-1,None,680,53,110,-1,None,0
 19,Ice Splitter,False,1,Aika,50,-1,None,7390,142,110,34,Purple,-2
-20,Leather Crescent,False,1,Aika,50,-1,None,180,30,110,-1,None,0
+20,Leather Crescent,True,1,Aika,50,-1,None,180,30,110,-1,None,0
 21,Throwing Blade,False,1,Aika,50,-1,None,310,38,110,-1,None,0
 22,Hunting Arc,False,1,Aika,50,-1,None,1820,80,110,-1,None,0
 23,Valuarang,False,1,Aika,50,-1,None,480,46,110,-1,None,0

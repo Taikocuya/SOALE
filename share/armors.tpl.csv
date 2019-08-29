@@ -1,12 +1,12 @@
 Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Order by prio.,Purchase price,Feat. #0 ID,[Feat. #0 name],Feat. #0 value,Feat. #1 ID,[Feat. #1 name],Feat. #1 value,Feat. #2 ID,[Feat. #2 name],Feat. #2 value,Feat. #3 ID,[Feat. #3 name],Feat. #3 value
-80,Vyse's Uniform,False,49,X,X,,,,X,50,0,60,17,Defense,20,18,MagDef,20,84,Random encounter%,2,-1,None,0
-81,Aika's Shorts,False,24,,X,X,,,,50,1,50,17,Defense,19,18,MagDef,21,84,Random encounter%,2,-1,None,0
+80,Vyse's Uniform,True,49,X,X,,,,X,50,0,60,17,Defense,20,18,MagDef,20,84,Random encounter%,2,-1,None,0
+81,Aika's Shorts,True,24,,X,X,,,,50,1,50,17,Defense,19,18,MagDef,21,84,Random encounter%,2,-1,None,0
 82,Fina's Robe,False,26,,X,X,,X,,50,11,510,17,Defense,55,18,MagDef,64,84,Random encounter%,2,-1,None,0
 83,Drachma's Shirt,False,4,,,,X,,,50,4,340,17,Defense,45,18,MagDef,42,84,Random encounter%,2,-1,None,0
 84,Enrique's Coat,False,2,,,,,X,,50,33,3390,17,Defense,119,18,MagDef,119,19,Hit%,10,20,Dodge%,5
 85,Gilder's Mail,False,37,X,,,X,,X,50,27,2840,17,Defense,116,18,MagDef,99,84,Random encounter%,2,-1,None,0
-86,Light Robe,False,26,,X,X,,X,,50,3,130,17,Defense,29,18,MagDef,34,84,Random encounter%,2,-1,None,0
-87,Valuan Uniform,False,53,X,X,,X,,X,50,2,170,17,Defense,32,18,MagDef,32,84,Random encounter%,2,-1,None,0
+86,Light Robe,True,26,,X,X,,X,,50,3,130,17,Defense,29,18,MagDef,34,84,Random encounter%,2,-1,None,0
+87,Valuan Uniform,True,53,X,X,,X,,X,50,2,170,17,Defense,32,18,MagDef,32,84,Random encounter%,2,-1,None,0
 88,Sailor Uniform,False,53,X,X,,X,,X,50,5,330,17,Defense,44,18,MagDef,44,84,Random encounter%,2,-1,None,0
 89,Mystic Dress,False,24,,X,X,,,,75,6,310,17,Defense,42,18,MagDef,46,84,Random encounter%,2,-1,None,0
 90,Valuan Armor,False,37,X,,,X,,X,50,7,480,17,Defense,51,18,MagDef,44,84,Random encounter%,2,-1,None,0

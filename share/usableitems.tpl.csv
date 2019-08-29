@@ -3,8 +3,8 @@ Entry ID,[Entry name],[Finalized],Occ. flags,[Menu],[Battle],[Ship battle],Effec
 241,Sacres Crystal,False,6,X,X,,31,Recover HP,1,One character,100,50,150,800,0,Green,1,Magical,-1,None,0
 242,Sacrum Crystal,False,6,X,X,,31,Recover HP,2,All characters,100,50,900,800,0,Green,1,Magical,-1,None,0
 243,Sacrulen Crystal,False,6,X,X,,31,Recover HP,1,One character,100,50,450,1600,0,Green,1,Magical,-1,None,0
-244,Magic Droplet,False,7,X,X,X,48,Recover MP,1,One character,100,50,40,1,-1,None,-1,None,-1,None,0
-245,Magic Dew,False,7,X,X,X,48,Recover MP,1,One character,100,50,600,3,-1,None,-1,None,-1,None,0
+244,Magic Droplet,True,7,X,X,X,48,Recover MP,1,One character,100,50,50,1,-1,None,-1,None,-1,None,0
+245,Magic Dew,False,7,X,X,X,48,Recover MP,1,One character,100,50,200,3,-1,None,-1,None,-1,None,0
 246,Aura of Valor,False,3,,X,X,35,Recover SP,2,All characters,100,50,5000,40,-1,None,-1,None,-1,None,0
 247,Soul Crystal,False,0,,,,-1,None,0,None,0,100,3000,0,-1,None,-1,None,-1,None,0
 248,Unholy Dagger,False,0,,,,-1,None,0,None,0,100,4000,0,-1,None,-1,None,-1,None,0

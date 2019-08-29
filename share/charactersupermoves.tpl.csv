@@ -9,7 +9,7 @@ Entry ID,[Entry name],[Finalized],Element ID,[Element name],Occ. flags,[Menu],[B
 43,Lunar Winds,True,5,Silver,2,,X,,17,Remove positive states,4,All enemies,2,Fina,1,9,120,0,Physical,-1,None,0
 44,Tackle,True,6,Neutral,2,,X,,0,Damage,3,One enemy,3,Drachma,1,10,30,0,Physical,-1,None,0
 45,Hand of Fate,True,6,Neutral,2,,X,,68,Add Unconscious + Damage #2,3,One enemy,3,Drachma,1,25,90,0,Physical,1,Unconscious,90
-46,Royal Blade,True,6,Neutral,2,,X,,0,Damage,37,Enemy line #1,4,Enrique,1,8,40,0,Physical,-1,None,0
+46,Royal Blade,True,6,Neutral,2,,X,,0,Damage,3,One enemy,4,Enrique,1,8,40,0,Physical,-1,None,0
 47,The Judgement,True,6,Neutral,2,,X,,0,Damage,3,One enemy,4,Enrique,1,16,80,0,Physical,-1,None,0
 48,Gunslinger,True,6,Neutral,2,,X,,0,Damage,43,Enemy line #4,5,Gilder,1,9,20,0,Physical,-1,None,0
 49,The Claudia,True,6,Neutral,2,,X,,0,Damage,4,All enemies,5,Gilder,1,18,15,0,Physical,-1,None,0

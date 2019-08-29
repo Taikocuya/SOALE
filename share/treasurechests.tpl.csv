@@ -1,9 +1,9 @@
 Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
-0,,False,240,Sacri Crystal,3
-1,,False,240,Sacri Crystal,3
-2,,False,244,Magic Droplet,2
-3,,False,512,Gold,150
-4,,False,258,Moonberry,1
+0,Pirate Isle Village,True,244,Magic Droplet,3
+1,Pirate Isle Village,True,244,Magic Droplet,3
+2,Pirate Isle Village,True,240,Sacri Crystal,2
+3,Pirate Isle Underground,True,512,Gold,150
+4,Pirate Isle Underground,True,258,Moonberry,1
 5,,False,513,Gold,200
 6,,False,490,Repair Kit,3
 7,,False,241,Sacres Crystal,2
