@@ -8,7 +8,7 @@ Entry ID,[Entry name],[Finalized],Occ. flags,[Menu],[Battle],[Ship battle],Effec
 246,Aura of Valor,False,3,,X,X,35,Recover SP,2,All characters,100,50,5000,40,-1,None,-1,None,-1,None,0
 247,Soul Crystal,False,0,,,,-1,None,0,None,0,100,3000,0,-1,None,-1,None,-1,None,0
 248,Unholy Dagger,False,0,,,,-1,None,0,None,0,100,4000,0,-1,None,-1,None,-1,None,0
-249,Curia Crystal,False,2,,X,,30,Remove negative states,1,One character,100,50,300,0,5,Silver,1,Magical,-1,None,0
+249,Curia Crystal,True,2,,X,,30,Remove negative states,1,One character,100,50,150,0,5,Silver,1,Magical,-1,None,0
 250,Risan Crystal,False,2,,X,,27,Revive with 50% of HP,1,One character,100,50,600,0,5,Silver,1,Magical,7,Revival,-1
 251,Riselem Crystal,False,2,,X,,28,Revive with 100% of HP,1,One character,100,50,1800,0,5,Silver,1,Magical,7,Revival,0
 252,Glyph of Might,False,2,,X,,21,Add Strengthen,1,One character,100,50,1500,0,1,Red,1,Magical,-1,None,0
