@@ -1,24 +1,24 @@
 Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],[Finalized],Unk.,Task rating,Task A type ID,[Task A type name],Task A arm. ID,[Task A arm. name],Task A param. ID,[Task A param. name],Task A arm. range,Task B type ID,[Task B type name],Task B arm. ID,[Task B arm. name],Task B param. ID,[Task B param. name],Task B arm. range
-0,r500a.tec,23,Blackbeard,False,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-1,r500a.tec,23,Blackbeard,False,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-2,r500a.tec,23,Blackbeard,False,-1,0,1,Magic,-1,None,6,Sacri,0,0,Attack,0,Black Cannon,-1,None,0
-3,r500a.tec,23,Blackbeard,False,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
-4,r500a.tec,23,Blackbeard,False,3,70,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-5,r500a.tec,23,Blackbeard,False,3,50,1,Magic,-1,None,23,Pyri,0,3,Guard,-1,None,0,Evasive Action,0
-6,r500a.tec,23,Blackbeard,False,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-7,r500a.tec,23,Blackbeard,False,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
-8,r500a.tec,23,Blackbeard,False,-1,0,4,Nothing,-1,None,1,Target Lost,0,0,Attack,0,Black Cannon,-1,None,0
-9,r500a.tec,23,Blackbeard,False,3,50,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,2,Preparing Attack,0
-10,r500a.tec,23,Blackbeard,False,3,50,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,2,Preparing Attack,0
-11,r500a.tec,23,Blackbeard,False,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
-12,r500a.tec,23,Blackbeard,False,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-13,r500a.tec,23,Blackbeard,False,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-14,r500a.tec,23,Blackbeard,False,3,50,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,2,Preparing Attack,0
-15,r500a.tec,23,Blackbeard,False,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
-16,r500a.tec,23,Blackbeard,False,3,50,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-17,r500a.tec,23,Blackbeard,False,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-18,r500a.tec,23,Blackbeard,False,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-19,r500a.tec,23,Blackbeard,False,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
+0,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+1,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+2,r500a.tec,23,Blackbeard,True,-1,0,1,Magic,-1,None,6,Sacri,0,0,Attack,0,Black Cannon,-1,None,0
+3,r500a.tec,23,Blackbeard,True,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
+4,r500a.tec,23,Blackbeard,True,3,70,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+5,r500a.tec,23,Blackbeard,True,3,50,1,Magic,-1,None,23,Pyri,0,3,Guard,-1,None,0,Evasive Action,0
+6,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+7,r500a.tec,23,Blackbeard,True,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
+8,r500a.tec,23,Blackbeard,True,-1,0,4,Nothing,-1,None,1,Target Lost,0,0,Attack,0,Black Cannon,-1,None,0
+9,r500a.tec,23,Blackbeard,True,3,50,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,2,Preparing Attack,0
+10,r500a.tec,23,Blackbeard,True,3,50,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,2,Preparing Attack,0
+11,r500a.tec,23,Blackbeard,True,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
+12,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+13,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+14,r500a.tec,23,Blackbeard,True,3,50,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,2,Preparing Attack,0
+15,r500a.tec,23,Blackbeard,True,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
+16,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+17,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+18,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+19,r500a.tec,23,Blackbeard,True,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
 0,r501a.tec,2,Valuan Cruiser,False,3,50,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,1,Subcannon,-1,None,2
 1,r501a.tec,2,Valuan Cruiser,False,3,50,0,Attack,1,Subcannon,-1,None,2,0,Attack,1,Subcannon,-1,None,1
 2,r501a.tec,2,Valuan Cruiser,False,-1,0,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,0,Standard Cannon,-1,None,0

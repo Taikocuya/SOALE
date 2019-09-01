@@ -1,5 +1,5 @@
 Entry ID,[Entry name],[Finalized],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect name],Scope ID,[Scope name],Consume%,Retail price in %,Purchase price,Effect value,Element ID,[Element name],Type ID,[Type name],State ID,[State name],Hit%
-240,Sacri Crystal,False,6,X,X,,31,Recover HP,1,One character,100,50,50,400,0,Green,1,Magical,-1,None,0
+240,Sacri Crystal,True,6,X,X,,31,Recover HP,1,One character,100,50,100,400,0,Green,1,Magical,-1,None,0
 241,Sacres Crystal,False,6,X,X,,31,Recover HP,1,One character,100,50,150,800,0,Green,1,Magical,-1,None,0
 242,Sacrum Crystal,False,6,X,X,,31,Recover HP,2,All characters,100,50,900,800,0,Green,1,Magical,-1,None,0
 243,Sacrulen Crystal,False,6,X,X,,31,Recover HP,1,One character,100,50,450,1600,0,Green,1,Magical,-1,None,0
@@ -32,13 +32,13 @@ Entry ID,[Entry name],[Finalized],Occ. flags,[Menu],[Battle],[Ship battle],Effec
 270,Crystalen Box,False,2,,X,,0,Damage,3,One enemy,32,1,3600,600,2,Purple,1,Magical,-1,None,0
 271,Wevles Box,False,2,,X,,0,Damage,33,Enemy area #1,32,1,1600,285,3,Blue,1,Magical,-1,None,0
 272,Wevlen Box,False,2,,X,,0,Damage,34,Enemy area #2,32,1,3600,525,3,Blue,1,Magical,-1,None,0
-273,Electri Box,False,2,,X,,0,Damage,36,Enemy line #0,16,1,800,90,4,Yellow,1,Magical,-1,None,0
+273,Electri Box,True,2,,X,,0,Damage,36,Enemy line #0,16,50,500,90,4,Yellow,1,Magical,-1,None,0
 274,Electrum Box,False,2,,X,,0,Damage,37,Enemy line #1,32,1,2400,420,4,Yellow,1,Magical,-1,None,0
-275,Sacri Box,False,2,,X,,31,Recover HP,1,One character,16,1,600,400,0,Green,1,Magical,-1,None,0
+275,Sacri Box,False,2,,X,,31,Recover HP,1,One character,16,1,700,400,0,Green,1,Magical,-1,None,0
 276,Sacrum Box,False,2,,X,,31,Recover HP,2,All characters,32,1,4000,800,0,Green,1,Magical,-1,None,0
 277,Riselem Box,False,2,,X,,28,Revive with 100% of HP,1,One character,48,1,4200,0,5,Silver,1,Magical,7,Revival,0
-278,Sylenis Box,False,2,,X,,12,Add Silence,3,One enemy,32,1,1600,0,2,Purple,1,Magical,5,Silence,30
-279,Panika Box,False,2,,X,,11,Add Confusion,3,One enemy,32,1,1200,0,2,Purple,1,Magical,4,Confusion,30
+278,Sylenis Box,True,2,,X,,12,Add Silence,3,One enemy,32,50,300,0,2,Purple,1,Magical,5,Silence,30
+279,Panika Box,True,2,,X,,11,Add Confusion,3,One enemy,32,50,300,0,2,Purple,1,Magical,4,Confusion,30
 280,Driln Box,False,2,,X,,26,Add Weak,3,One enemy,32,1,1600,0,4,Yellow,1,Magical,8,Weak,60
 281,Slipara Box,False,2,,X,,9,Add Sleep,4,All enemies,32,1,2400,0,3,Blue,1,Magical,3,Sleep,60
 282,Eternum Box,False,2,,X,,6,Add Unconscious + Damage #1,3,One enemy,48,1,8000,250,5,Silver,1,Magical,1,Unconscious,90
