@@ -26,8 +26,9 @@
 
 ### Web services
 
-* [DeepL](https://www.deepl.com/) — Translator
+* [DeepL Translator](https://www.deepl.com/) — Translator
 * [GitHub](https://github.com/) — Project hosting
+* [Google Translator](https://translate.google.de/) — Translator
 * [SourceForge](https://sourceforge.net/) — Project hosting
 * [Textcraft](https://textcraft.net/) — Logo generator
 
