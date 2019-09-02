@@ -44,7 +44,7 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 122,Nasr Combat Mail,False,63,X,X,X,X,X,X,100,15,320,17,Defense,66,18,MagDef,66,16,Attack,5,1,Will,5
 123,De Loco Armor,False,37,X,,,X,,X,100,50,2420,17,Defense,172,18,MagDef,147,84,Random encounter%,2,-1,None,0
 124,Maiden's Armor,False,24,,X,X,,,,100,28,840,17,Defense,103,18,MagDef,112,84,Random encounter%,2,-1,None,0
-125,Heavy Armor,False,39,X,,,X,X,X,100,10,230,17,Defense,58,18,MagDef,53,84,Random encounter%,2,-1,None,0
+125,Heavy Armor,True,39,X,,,X,X,X,100,10,230,17,Defense,58,18,MagDef,53,84,Random encounter%,2,-1,None,0
 126,Ancient Robe,False,26,,X,X,,X,,100,17,370,17,Defense,69,18,MagDef,82,84,Random encounter%,2,-1,None,0
 127,De Loco Mail,False,37,X,,,X,,X,100,21,730,17,Defense,99,18,MagDef,84,84,Random encounter%,2,-1,None,0
 128,Daccat's Armor,False,53,X,X,,X,,X,100,29,910,17,Defense,108,18,MagDef,108,84,Random encounter%,2,-1,None,0

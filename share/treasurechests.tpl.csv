@@ -40,10 +40,10 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 38,Shrine Island,True,244,Magic Droplet,2
 39,Shrine Island,True,258,Moonberry,1
 40,Shrine Island,True,240,Sacri Crystal,2
-41,,False,267,Pyri Box,1
-42,,False,125,Heavy Armor,1
-43,,False,249,Curia Crystal,3
-44,,False,4,Assassin Blade,1
+41,Catacombs,True,267,Pyri Box,1
+42,Catacombs,True,125,Heavy Armor,1
+43,Catacombs,True,4,Assassin Blade,1
+44,Catacombs,True,249,Curia Crystal,3
 45,,False,515,Gold,527
 46,,False,126,Ancient Robe,1
 47,,False,241,Sacres Crystal,3
@@ -114,7 +114,7 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 112,,False,258,Moonberry,1
 113,,False,263,Dexus Seed,1
 114,,False,258,Moonberry,1
-115,,False,240,Sacri Crystal,4
-116,,False,244,Magic Droplet,4
+115,Catacombs,False,240,Sacri Crystal,4
+116,Catacombs,False,244,Magic Droplet,4
 117,,False,243,Sacrulen Crystal,4
 118,,False,242,Sacrum Crystal,3

@@ -26,7 +26,7 @@ Entry ID,[Entry name],[Finalized],Occ. flags,[Menu],[Battle],[Ship battle],Effec
 264,Sylph Seed,False,4,X,,,58,Increase Quick,1,One character,100,1,50000,3,-1,None,-1,None,-1,None,0
 265,Vidal Seed,False,4,X,,,59,Increase MAXHP,1,One character,100,1,50000,30,-1,None,-1,None,-1,None,0
 266,Magus Seed,False,4,X,,,60,Increase MAXMP,1,One character,100,1,50000,1,-1,None,-1,None,-1,None,0
-267,Pyri Box,False,2,,X,,0,Damage,4,All enemies,16,1,800,75,1,Red,1,Magical,-1,None,0
+267,Pyri Box,True,2,,X,,0,Damage,4,All enemies,16,50,700,70,1,Red,1,Magical,-1,None,0
 268,Pyrum Box,False,2,,X,,0,Damage,4,All enemies,32,1,2400,360,1,Red,1,Magical,-1,None,0
 269,Crystales Box,False,2,,X,,0,Damage,3,One enemy,32,1,1600,330,2,Purple,1,Magical,-1,None,0
 270,Crystalen Box,False,2,,X,,0,Damage,3,One enemy,32,1,3600,600,2,Purple,1,Magical,-1,None,0
