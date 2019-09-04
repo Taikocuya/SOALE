@@ -471,7 +471,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 16,*,34,マブルール,Dralnog,True,1,Action,550,Attack,2,Random character
 17,*,34,マブルール,Dralnog,True,1,Action,552,Run,-1,None
 18,*,34,マブルール,Dralnog,True,1,Action,271,Poison Explode,-1,None
-19,*,34,マブルール,Dralnog,True,1,Action,517,Eterni,1,Common character
+19,*,34,マブルール,Dralnog,True,1,Action,517,Eterni,2,Random character
 20,*,34,マブルール,Dralnog,True,1,Action,100,Magic?,-1,None
 1,epevent.evp,34,マブルール,Dralnog,False,0,Strategy,2,???,6,???
 2,epevent.evp,34,マブルール,Dralnog,False,0,Strategy,30,???,7,???
@@ -485,7 +485,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 10,epevent.evp,34,マブルール,Dralnog,False,0,Strategy,27,???,11,???
 11,epevent.evp,34,マブルール,Dralnog,False,1,Action,550,Attack,2,Random character
 12,epevent.evp,34,マブルール,Dralnog,False,1,Action,271,Poison Explode,-1,None
-13,epevent.evp,34,マブルール,Dralnog,False,1,Action,517,Eterni,1,Common character
+13,epevent.evp,34,マブルール,Dralnog,False,1,Action,517,Eterni,2,Random character
 1,*,35,クチュ,Que'lak,False,0,Strategy,45,???,3,???
 2,*,35,クチュ,Que'lak,False,0,Strategy,30,???,4,???
 3,*,35,クチュ,Que'lak,False,0,Strategy,28,???,15,???
