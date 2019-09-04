@@ -11,6 +11,9 @@ Thumbs.db
 # Eclipse
 .project
 
+# LibreOffice
+.~lock.*#
+
 # SOALE directories
 /build/
 /share/**/*.[Bb][Ii][Nn]
