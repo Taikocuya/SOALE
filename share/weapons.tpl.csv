@@ -49,7 +49,7 @@ Entry ID,[Entry name],[Finalized],Chara. ID,[Chara. name],Retail price in %,Effe
 47,Final Cupil,False,2,Fina,0,-1,None,0,300,100,-1,None,0
 48,Artificial Arm,True,3,Drachma,50,-1,None,390,43,80,-1,None,0
 49,Hook Hand,True,3,Drachma,50,-1,None,580,51,80,-1,None,0
-50,Mace Hand,True,3,Drachma,50,-1,None,2000,125,0,-1,None,0
+50,Mace Hand,False,3,Drachma,50,-1,None,2000,125,0,-1,None,0
 51,Mining Arm,False,3,Drachma,50,-1,None,9980,172,80,-1,None,0
 52,Dragon Arm,False,3,Drachma,50,-1,None,11850,181,80,-1,None,0
 53,Beak Hand,False,3,Drachma,50,5,Add Confusion #2,880,60,80,-1,None,0

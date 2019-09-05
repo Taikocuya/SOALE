@@ -56,29 +56,29 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 9,*,4,アーアペプ,Grouder,True,1,Action,503,Panika,14,Character without Confusion
 10,*,4,アーアペプ,Grouder,True,1,Action,520,Wevli,2,Random character
 11,*,4,アーアペプ,Grouder,True,1,Action,57,Eerie Wail,2,Random character
-1,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,17,???,23,???
-2,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,35,???,8,???
-3,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,24,???,18,???
-4,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,32,???,8,???
-5,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,39,???,19,???
-6,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,11,???,8,???
-7,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,22,???,20,???
-8,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,37,???,12,???
-9,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,25,???,21,???
-10,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,26,???,17,???
-11,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,30,???,23,???
-12,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,24,???,21,???
-13,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,24,???,17,???
-14,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,24,???,22,???
-15,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,25,???,20,???
-16,*,7,Ж術処刑士,Spell Warden,False,0,Strategy,30,???,23,???
-17,*,7,Ж術処刑士,Spell Warden,False,1,Action,550,Attack,1,Common character
-18,*,7,Ж術処刑士,Spell Warden,False,1,Action,500,Increm,8,Enemy with highest ID
-19,*,7,Ж術処刑士,Spell Warden,False,1,Action,506,Sacri,7,Injured enemy
-20,*,7,Ж術処刑士,Spell Warden,False,1,Action,506,Sacri,8,Enemy with highest ID
-21,*,7,Ж術処刑士,Spell Warden,False,1,Action,526,Crystali,2,Random character
-22,*,7,Ж術処刑士,Spell Warden,False,1,Action,500,Increm,11,Enemy without Strengthen
-23,*,7,Ж術処刑士,Spell Warden,False,1,Action,551,Guard,-1,None
+1,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,35,???,8,???
+2,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,24,???,18,???
+3,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,17,???,23,???
+4,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,32,???,8,???
+5,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,39,???,19,???
+6,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,11,???,8,???
+7,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,22,???,20,???
+8,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,37,???,12,???
+9,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,25,???,21,???
+10,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,26,???,17,???
+11,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,30,???,23,???
+12,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,24,???,21,???
+13,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,24,???,17,???
+14,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,24,???,22,???
+15,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,25,???,20,???
+16,*,7,Ж術処刑士,Spell Warden,True,0,Strategy,30,???,23,???
+17,*,7,Ж術処刑士,Spell Warden,True,1,Action,550,Attack,1,Common character
+18,*,7,Ж術処刑士,Spell Warden,True,1,Action,500,Increm,8,Enemy with highest ID
+19,*,7,Ж術処刑士,Spell Warden,True,1,Action,506,Sacri,7,Injured enemy
+20,*,7,Ж術処刑士,Spell Warden,True,1,Action,506,Sacri,8,Enemy with highest ID
+21,*,7,Ж術処刑士,Spell Warden,True,1,Action,526,Crystali,2,Random character
+22,*,7,Ж術処刑士,Spell Warden,True,1,Action,500,Increm,11,Enemy without Strengthen
+23,*,7,Ж術処刑士,Spell Warden,True,1,Action,551,Guard,-1,None
 1,*,8,レトモニケ,Flestik,True,0,Strategy,44,???,3,???
 2,*,8,レトモニケ,Flestik,True,0,Strategy,30,???,4,???
 3,*,8,レトモニケ,Flestik,True,0,Strategy,28,???,16,???
@@ -1737,66 +1737,66 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 10,*,129,アガタウマス,Sentinel,True,1,Action,550,Attack,2,Random character
 11,*,129,アガタウマス,Sentinel,True,1,Action,9,Target Search,-1,None
 12,*,129,アガタウマス,Sentinel,True,1,Action,99,Blaster,2,Random character
-1,*,130,イマゴタリア,Bleigock,False,0,Strategy,11,???,5,???
-2,*,130,イマゴタリア,Bleigock,False,0,Strategy,12,???,7,???
-3,*,130,イマゴタリア,Bleigock,False,0,Strategy,50,???,17,???
-4,*,130,イマゴタリア,Bleigock,False,0,Strategy,30,???,14,???
-5,*,130,イマゴタリア,Bleigock,False,0,Strategy,25,???,20,???
-6,*,130,イマゴタリア,Bleigock,False,0,Strategy,30,???,19,???
-7,*,130,イマゴタリア,Bleigock,False,0,Strategy,50,???,9,???
-8,*,130,イマゴタリア,Bleigock,False,0,Strategy,25,???,21,???
-9,*,130,イマゴタリア,Bleigock,False,0,Strategy,24,???,21,???
-10,*,130,イマゴタリア,Bleigock,False,0,Strategy,30,???,19,???
-11,*,130,イマゴタリア,Bleigock,False,0,Strategy,21,???,21,???
-12,*,130,イマゴタリア,Bleigock,False,0,Strategy,25,???,20,???
-13,*,130,イマゴタリア,Bleigock,False,0,Strategy,30,???,19,???
-14,*,130,イマゴタリア,Bleigock,False,0,Strategy,25,???,21,???
-15,*,130,イマゴタリア,Bleigock,False,0,Strategy,22,???,20,???
-16,*,130,イマゴタリア,Bleigock,False,0,Strategy,30,???,19,???
-17,*,130,イマゴタリア,Bleigock,False,0,Strategy,22,???,20,???
-18,*,130,イマゴタリア,Bleigock,False,0,Strategy,30,???,19,???
-19,*,130,イマゴタリア,Bleigock,False,1,Action,550,Attack,2,Random character
-20,*,130,イマゴタリア,Bleigock,False,1,Action,183,Frost Breath,-1,None
-21,*,130,イマゴタリア,Bleigock,False,1,Action,25,Poisonous Bile,-1,None
-1,*,131,獄長,Executioner,False,0,Strategy,17,???,28,???
-2,*,131,獄長,Executioner,False,0,Strategy,16,???,20,???
-3,*,131,獄長,Executioner,False,0,Strategy,11,???,7,???
-4,*,131,獄長,Executioner,False,0,Strategy,12,???,9,???
-5,*,131,獄長,Executioner,False,0,Strategy,13,???,9,???
-6,*,131,獄長,Executioner,False,0,Strategy,30,???,13,???
-7,*,131,獄長,Executioner,False,0,Strategy,25,???,35,???
-8,*,131,獄長,Executioner,False,0,Strategy,30,???,37,???
-9,*,131,獄長,Executioner,False,0,Strategy,50,???,11,???
-10,*,131,獄長,Executioner,False,0,Strategy,30,???,36,???
-11,*,131,獄長,Executioner,False,0,Strategy,25,???,35,???
-12,*,131,獄長,Executioner,False,0,Strategy,30,???,38,???
-13,*,131,獄長,Executioner,False,0,Strategy,50,???,17,???
-14,*,131,獄長,Executioner,False,0,Strategy,24,???,37,???
-15,*,131,獄長,Executioner,False,0,Strategy,27,???,36,???
-16,*,131,獄長,Executioner,False,0,Strategy,30,???,35,???
-17,*,131,獄長,Executioner,False,0,Strategy,25,???,35,???
-18,*,131,獄長,Executioner,False,0,Strategy,28,???,38,???
-19,*,131,獄長,Executioner,False,0,Strategy,30,???,39,???
-20,*,131,獄長,Executioner,False,0,Strategy,50,???,25,???
-21,*,131,獄長,Executioner,False,0,Strategy,22,???,35,???
-22,*,131,獄長,Executioner,False,0,Strategy,24,???,37,???
-23,*,131,獄長,Executioner,False,0,Strategy,28,???,36,???
-24,*,131,獄長,Executioner,False,0,Strategy,30,???,39,???
-25,*,131,獄長,Executioner,False,0,Strategy,25,???,35,???
-26,*,131,獄長,Executioner,False,0,Strategy,26,???,37,???
-27,*,131,獄長,Executioner,False,0,Strategy,30,???,39,???
-28,*,131,獄長,Executioner,False,0,Strategy,50,???,31,???
-29,*,131,獄長,Executioner,False,0,Strategy,25,???,36,???
-30,*,131,獄長,Executioner,False,0,Strategy,30,???,37,???
-31,*,131,獄長,Executioner,False,0,Strategy,24,???,35,???
-32,*,131,獄長,Executioner,False,0,Strategy,24,???,37,???
-33,*,131,獄長,Executioner,False,0,Strategy,26,???,38,???
-34,*,131,獄長,Executioner,False,0,Strategy,30,???,39,???
-35,*,131,獄長,Executioner,False,1,Action,550,Attack,2,Random character
-36,*,131,獄長,Executioner,False,1,Action,11,Tackle,3,Character with most HP
-37,*,131,獄長,Executioner,False,1,Action,251,Sonic Wave,2,Random character
-38,*,131,獄長,Executioner,False,1,Action,533,Electres,2,Random character
-39,*,131,獄長,Executioner,False,1,Action,551,Guard,-1,None
+1,*,130,イマゴタリア,Bleigock,True,0,Strategy,11,???,5,???
+2,*,130,イマゴタリア,Bleigock,True,0,Strategy,12,???,7,???
+3,*,130,イマゴタリア,Bleigock,True,0,Strategy,50,???,17,???
+4,*,130,イマゴタリア,Bleigock,True,0,Strategy,30,???,14,???
+5,*,130,イマゴタリア,Bleigock,True,0,Strategy,25,???,20,???
+6,*,130,イマゴタリア,Bleigock,True,0,Strategy,30,???,19,???
+7,*,130,イマゴタリア,Bleigock,True,0,Strategy,50,???,9,???
+8,*,130,イマゴタリア,Bleigock,True,0,Strategy,25,???,21,???
+9,*,130,イマゴタリア,Bleigock,True,0,Strategy,24,???,21,???
+10,*,130,イマゴタリア,Bleigock,True,0,Strategy,30,???,19,???
+11,*,130,イマゴタリア,Bleigock,True,0,Strategy,21,???,21,???
+12,*,130,イマゴタリア,Bleigock,True,0,Strategy,25,???,20,???
+13,*,130,イマゴタリア,Bleigock,True,0,Strategy,30,???,19,???
+14,*,130,イマゴタリア,Bleigock,True,0,Strategy,25,???,21,???
+15,*,130,イマゴタリア,Bleigock,True,0,Strategy,22,???,20,???
+16,*,130,イマゴタリア,Bleigock,True,0,Strategy,30,???,19,???
+17,*,130,イマゴタリア,Bleigock,True,0,Strategy,22,???,20,???
+18,*,130,イマゴタリア,Bleigock,True,0,Strategy,30,???,19,???
+19,*,130,イマゴタリア,Bleigock,True,1,Action,550,Attack,2,Random character
+20,*,130,イマゴタリア,Bleigock,True,1,Action,183,Frost Breath,-1,None
+21,*,130,イマゴタリア,Bleigock,True,1,Action,25,Poisonous Bile,-1,None
+1,*,131,獄長,Executioner,True,0,Strategy,17,???,28,???
+2,*,131,獄長,Executioner,True,0,Strategy,16,???,20,???
+3,*,131,獄長,Executioner,True,0,Strategy,11,???,7,???
+4,*,131,獄長,Executioner,True,0,Strategy,12,???,9,???
+5,*,131,獄長,Executioner,True,0,Strategy,13,???,9,???
+6,*,131,獄長,Executioner,True,0,Strategy,30,???,13,???
+7,*,131,獄長,Executioner,True,0,Strategy,25,???,35,???
+8,*,131,獄長,Executioner,True,0,Strategy,30,???,37,???
+9,*,131,獄長,Executioner,True,0,Strategy,50,???,11,???
+10,*,131,獄長,Executioner,True,0,Strategy,30,???,36,???
+11,*,131,獄長,Executioner,True,0,Strategy,25,???,35,???
+12,*,131,獄長,Executioner,True,0,Strategy,30,???,38,???
+13,*,131,獄長,Executioner,True,0,Strategy,50,???,17,???
+14,*,131,獄長,Executioner,True,0,Strategy,24,???,37,???
+15,*,131,獄長,Executioner,True,0,Strategy,27,???,36,???
+16,*,131,獄長,Executioner,True,0,Strategy,30,???,35,???
+17,*,131,獄長,Executioner,True,0,Strategy,25,???,35,???
+18,*,131,獄長,Executioner,True,0,Strategy,28,???,38,???
+19,*,131,獄長,Executioner,True,0,Strategy,30,???,39,???
+20,*,131,獄長,Executioner,True,0,Strategy,50,???,25,???
+21,*,131,獄長,Executioner,True,0,Strategy,22,???,35,???
+22,*,131,獄長,Executioner,True,0,Strategy,24,???,37,???
+23,*,131,獄長,Executioner,True,0,Strategy,28,???,36,???
+24,*,131,獄長,Executioner,True,0,Strategy,30,???,39,???
+25,*,131,獄長,Executioner,True,0,Strategy,25,???,35,???
+26,*,131,獄長,Executioner,True,0,Strategy,26,???,37,???
+27,*,131,獄長,Executioner,True,0,Strategy,30,???,39,???
+28,*,131,獄長,Executioner,True,0,Strategy,50,???,31,???
+29,*,131,獄長,Executioner,True,0,Strategy,25,???,36,???
+30,*,131,獄長,Executioner,True,0,Strategy,30,???,37,???
+31,*,131,獄長,Executioner,True,0,Strategy,24,???,35,???
+32,*,131,獄長,Executioner,True,0,Strategy,24,???,37,???
+33,*,131,獄長,Executioner,True,0,Strategy,26,???,38,???
+34,*,131,獄長,Executioner,True,0,Strategy,30,???,39,???
+35,*,131,獄長,Executioner,True,1,Action,550,Attack,2,Random character
+36,*,131,獄長,Executioner,True,1,Action,11,Tackle,3,Character with most HP
+37,*,131,獄長,Executioner,True,1,Action,251,Sonic Wave,2,Random character
+38,*,131,獄長,Executioner,True,1,Action,533,Electres,2,Random character
+39,*,131,獄長,Executioner,True,1,Action,551,Guard,-1,None
 1,*,132,ガルシアン,Galcian,False,0,Strategy,1,???,13,???
 2,*,132,ガルシアン,Galcian,False,0,Strategy,11,???,7,???
 3,*,132,ガルシアン,Galcian,False,0,Strategy,12,???,7,???
