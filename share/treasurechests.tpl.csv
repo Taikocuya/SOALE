@@ -114,7 +114,7 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 112,,False,258,Moonberry,1
 113,,False,263,Dexus Seed,1
 114,,False,258,Moonberry,1
-115,Catacombs,False,240,Sacri Crystal,4
-116,Catacombs,False,244,Magic Droplet,4
+115,Catacombs,True,240,Sacri Crystal,3
+116,Catacombs,True,244,Magic Droplet,5
 117,,False,243,Sacrulen Crystal,4
 118,,False,242,Sacrum Crystal,3

@@ -56,9 +56,9 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[EU enemy name],Instr. type ID,[Ins
 9,*,4,アーアペプ,Grouder,1,Action,503,Panika,14,Character without Confusion
 10,*,4,アーアペプ,Grouder,1,Action,520,Wevli,2,Random character
 11,*,4,アーアペプ,Grouder,1,Action,57,Eerie Wail,2,Random character
-1,*,7,Ж術処刑士,Venificus,0,Strategy,17,???,23,???
-2,*,7,Ж術処刑士,Venificus,0,Strategy,35,???,8,???
-3,*,7,Ж術処刑士,Venificus,0,Strategy,24,???,18,???
+1,*,7,Ж術処刑士,Venificus,0,Strategy,35,???,8,???
+2,*,7,Ж術処刑士,Venificus,0,Strategy,24,???,18,???
+3,*,7,Ж術処刑士,Venificus,0,Strategy,17,???,23,???
 4,*,7,Ж術処刑士,Venificus,0,Strategy,32,???,8,???
 5,*,7,Ж術処刑士,Venificus,0,Strategy,39,???,19,???
 6,*,7,Ж術処刑士,Venificus,0,Strategy,11,???,8,???
@@ -471,7 +471,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[EU enemy name],Instr. type ID,[Ins
 16,*,34,マブルール,Dralnog,1,Action,550,Attack,2,Random character
 17,*,34,マブルール,Dralnog,1,Action,552,Run,-1,None
 18,*,34,マブルール,Dralnog,1,Action,271,Poison Explode,-1,None
-19,*,34,マブルール,Dralnog,1,Action,517,Eterni,1,Common character
+19,*,34,マブルール,Dralnog,1,Action,517,Eterni,2,Random character
 20,*,34,マブルール,Dralnog,1,Action,100,Magic?,-1,None
 1,epevent.evp,34,マブルール,Dralnog,0,Strategy,2,???,6,???
 2,epevent.evp,34,マブルール,Dralnog,0,Strategy,30,???,7,???
@@ -485,7 +485,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[EU enemy name],Instr. type ID,[Ins
 10,epevent.evp,34,マブルール,Dralnog,0,Strategy,27,???,11,???
 11,epevent.evp,34,マブルール,Dralnog,1,Action,550,Attack,2,Random character
 12,epevent.evp,34,マブルール,Dralnog,1,Action,271,Poison Explode,-1,None
-13,epevent.evp,34,マブルール,Dralnog,1,Action,517,Eterni,1,Common character
+13,epevent.evp,34,マブルール,Dralnog,1,Action,517,Eterni,2,Random character
 1,*,35,クチュ,Que'lak,0,Strategy,45,???,3,???
 2,*,35,クチュ,Que'lak,0,Strategy,30,???,4,???
 3,*,35,クチュ,Que'lak,0,Strategy,28,???,15,???

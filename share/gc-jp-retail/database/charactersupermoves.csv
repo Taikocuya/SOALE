@@ -9,7 +9,7 @@ Entry ID,JP entry name,Element ID,[Element name],Order by prio.,Occ. flags,[Menu
 43,月の波動,5,Silver,223,2,"",X,"",17,Remove positive states,4,All enemies,2,Fina,1,9,0,0,120,0,Physical,-1,None,0,0,0,0,0,Magic Cannon,0,0,Damage,0,0,0,0,0,0,0,2911104,100,巨大化したキュピルが、銀のブレスで敵全体の有利な\n状態を無効化し、かつダメージを与える。
 44,噴！,6,Neutral,230,2,"",X,"",0,Damage,3,One enemy,3,Drachma,1,10,0,0,30,0,Physical,-1,None,0,0,0,0,0,Magic Cannon,0,0,Damage,0,0,0,0,0,0,0,2911204,92,鬼のようにパワーをためた義手で、敵単体を\n力任せに殴り付けてダメージを与える。
 45,滅！,6,Neutral,232,2,"",X,"",68,Add Unconscious + Damage #2,3,One enemy,3,Drachma,1,25,0,0,90,0,Physical,1,Unconscious,90,0,0,0,0,Magic Cannon,0,0,Damage,0,0,0,0,0,0,0,2911296,100,大地を隆起させ、落雷を呼び寄せ、巨大化した義手で\n敵単体を叩き潰す。即死の効果もある。
-46,ミル・エスパーダ,6,Neutral,240,2,"",X,"",0,Damage,37,Enemy line #1,4,Enrique,1,8,0,0,40,0,Physical,-1,None,0,0,0,0,0,Magic Cannon,0,0,Damage,0,0,0,0,0,0,0,2911396,100,敵単体を一瞬で４回斬り付ける技。あまりの速さに、\n残像で動きがスローモーションに見える。
+46,ミル・エスパーダ,6,Neutral,240,2,"",X,"",0,Damage,3,One enemy,4,Enrique,1,8,0,0,40,0,Physical,-1,None,0,0,0,0,0,Magic Cannon,0,0,Damage,0,0,0,0,0,0,0,2911396,100,敵単体を一瞬で４回斬り付ける技。あまりの速さに、\n残像で動きがスローモーションに見える。
 47,ラ・コロナシオン,6,Neutral,242,2,"",X,"",0,Damage,3,One enemy,4,Enrique,1,16,0,0,80,0,Physical,-1,None,0,0,0,0,0,Magic Cannon,0,0,Damage,0,0,0,0,0,0,0,2911496,96,バルア帝国の紋章である龍の化身が上空に現われ、\n敵単体に突っ込んで叩き潰す。
 48,ハデにやろうぜ,6,Neutral,250,2,"",X,"",0,Damage,43,Enemy line #4,5,Gilder,1,9,0,0,20,0,Physical,-1,None,0,0,0,0,0,Magic Cannon,0,0,Damage,0,0,0,0,0,0,0,2911592,96,敵単体に向かって、ハデに二丁拳銃を撃ち続ける。\nあまりの連射に周辺の敵も巻き込まれる。
 49,俺がギルダーだ！,6,Neutral,252,2,"",X,"",0,Damage,4,All enemies,5,Gilder,1,18,0,0,15,0,Physical,-1,None,0,0,0,0,0,Magic Cannon,0,0,Damage,0,0,0,0,0,0,0,2911688,96,クラウディアの全砲門を開き、敵全体に向かって\n弾数を気にせずに一斉射撃をする。

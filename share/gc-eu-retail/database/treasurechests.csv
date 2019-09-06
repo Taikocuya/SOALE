@@ -1,12 +1,12 @@
 Entry ID,Item ID,[Item name],Item amount
-0,240,Sacri Crystal,3
-1,240,Sacri Crystal,3
-2,244,Magic Droplet,2
+0,244,Magic Droplet,3
+1,244,Magic Droplet,3
+2,240,Sacri Crystal,2
 3,512,Gold,150
 4,258,Moonberry,1
 5,513,Gold,200
-6,490,Repair Kit,3
-7,241,Sacres Crystal,2
+6,249,Curia Crystal,3
+7,240,Sacri Crystal,3
 8,258,Moonberry,1
 9,244,Magic Droplet,3
 10,281,Slipara Box,1
@@ -37,13 +37,13 @@ Entry ID,Item ID,[Item name],Item amount
 35,244,Magic Droplet,2
 36,240,Sacri Crystal,2
 37,244,Magic Droplet,3
-38,240,Sacri Crystal,2
+38,244,Magic Droplet,2
 39,258,Moonberry,1
-40,241,Sacres Crystal,2
+40,240,Sacri Crystal,2
 41,267,Pyri Box,1
 42,125,Heavy Armor,1
-43,249,Curia Crystal,3
-44,4,Assassin Blade,1
+43,4,Assassin Blade,1
+44,249,Curia Crystal,3
 45,515,Gold,527
 46,126,Ancient Robe,1
 47,241,Sacres Crystal,3
@@ -114,7 +114,7 @@ Entry ID,Item ID,[Item name],Item amount
 112,258,Moonberry,1
 113,263,Dexus Seed,1
 114,258,Moonberry,1
-115,240,Sacri Crystal,4
-116,244,Magic Droplet,4
+115,240,Sacri Crystal,3
+116,244,Magic Droplet,5
 117,243,Sacrulen Crystal,4
 118,242,Sacrum Crystal,3

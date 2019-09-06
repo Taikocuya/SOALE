@@ -1004,25 +1004,25 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 14,*,71,テンコウ,Tenkou,False,1,Action,116,Power Potion,11,Enemy without Strengthen
 15,*,71,テンコウ,Tenkou,False,1,Action,117,Speed Potion,-1,None
 16,*,71,テンコウ,Tenkou,False,1,Action,118,Sacres Crystal,7,Injured enemy
-1,*,72,警備士,Patrol Guard,False,0,Strategy,11,???,4,???
-2,*,72,警備士,Patrol Guard,False,0,Strategy,12,???,6,???
-3,*,72,警備士,Patrol Guard,False,0,Strategy,30,???,7,???
-4,*,72,警備士,Patrol Guard,False,0,Strategy,23,???,17,???
-5,*,72,警備士,Patrol Guard,False,0,Strategy,30,???,7,???
-6,*,72,警備士,Patrol Guard,False,0,Strategy,23,???,19,???
-7,*,72,警備士,Patrol Guard,False,0,Strategy,26,???,15,???
-8,*,72,警備士,Patrol Guard,False,0,Strategy,25,???,16,???
-9,*,72,警備士,Patrol Guard,False,0,Strategy,25,???,11,???
-10,*,72,警備士,Patrol Guard,False,0,Strategy,30,???,13,???
-11,*,72,警備士,Patrol Guard,False,0,Strategy,33,???,15,???
-12,*,72,警備士,Patrol Guard,False,0,Strategy,30,???,18,???
-13,*,72,警備士,Patrol Guard,False,0,Strategy,42,???,15,???
-14,*,72,警備士,Patrol Guard,False,0,Strategy,30,???,19,???
-15,*,72,警備士,Patrol Guard,False,1,Action,550,Attack,2,Random character
-16,*,72,警備士,Patrol Guard,False,1,Action,551,Guard,-1,None
-17,*,72,警備士,Patrol Guard,False,1,Action,513,Quika,-1,None
-18,*,72,警備士,Patrol Guard,False,1,Action,532,Electri,2,Random character
-19,*,72,警備士,Patrol Guard,False,1,Action,80,Sacres Crystal,7,Injured enemy
+1,*,72,警備士,Patrol Guard,True,0,Strategy,11,???,4,???
+2,*,72,警備士,Patrol Guard,True,0,Strategy,12,???,6,???
+3,*,72,警備士,Patrol Guard,True,0,Strategy,30,???,7,???
+4,*,72,警備士,Patrol Guard,True,0,Strategy,23,???,17,???
+5,*,72,警備士,Patrol Guard,True,0,Strategy,30,???,7,???
+6,*,72,警備士,Patrol Guard,True,0,Strategy,23,???,19,???
+7,*,72,警備士,Patrol Guard,True,0,Strategy,26,???,15,???
+8,*,72,警備士,Patrol Guard,True,0,Strategy,25,???,16,???
+9,*,72,警備士,Patrol Guard,True,0,Strategy,25,???,11,???
+10,*,72,警備士,Patrol Guard,True,0,Strategy,30,???,13,???
+11,*,72,警備士,Patrol Guard,True,0,Strategy,33,???,15,???
+12,*,72,警備士,Patrol Guard,True,0,Strategy,30,???,18,???
+13,*,72,警備士,Patrol Guard,True,0,Strategy,42,???,15,???
+14,*,72,警備士,Patrol Guard,True,0,Strategy,30,???,19,???
+15,*,72,警備士,Patrol Guard,True,1,Action,550,Attack,2,Random character
+16,*,72,警備士,Patrol Guard,True,1,Action,551,Guard,-1,None
+17,*,72,警備士,Patrol Guard,True,1,Action,513,Quika,-1,None
+18,*,72,警備士,Patrol Guard,True,1,Action,532,Electri,2,Random character
+19,*,72,警備士,Patrol Guard,True,1,Action,80,Sacres Crystal,7,Injured enemy
 1,*,73,採掘士,Mine Patrol,False,0,Strategy,11,???,4,???
 2,*,73,採掘士,Mine Patrol,False,0,Strategy,12,???,6,???
 3,*,73,採掘士,Mine Patrol,False,0,Strategy,30,???,7,???
@@ -1797,36 +1797,36 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 37,*,131,獄長,Executioner,True,1,Action,251,Sonic Wave,2,Random character
 38,*,131,獄長,Executioner,True,1,Action,533,Electres,2,Random character
 39,*,131,獄長,Executioner,True,1,Action,551,Guard,-1,None
-1,*,132,ガルシアン,Galcian,False,0,Strategy,1,???,13,???
-2,*,132,ガルシアン,Galcian,False,0,Strategy,11,???,7,???
-3,*,132,ガルシアン,Galcian,False,0,Strategy,12,???,7,???
-4,*,132,ガルシアン,Galcian,False,0,Strategy,25,???,9,???
-5,*,132,ガルシアン,Galcian,False,0,Strategy,26,???,10,???
-6,*,132,ガルシアン,Galcian,False,0,Strategy,30,???,11,???
-7,*,132,ガルシアン,Galcian,False,0,Strategy,25,???,9,???
-8,*,132,ガルシアン,Galcian,False,0,Strategy,30,???,12,???
-9,*,132,ガルシアン,Galcian,False,1,Action,550,Attack,2,Random character
-10,*,132,ガルシアン,Galcian,False,1,Action,518,Eternes,-1,None
-11,*,132,ガルシアン,Galcian,False,1,Action,534,Electrum,2,Random character
-12,*,132,ガルシアン,Galcian,False,1,Action,24,Devolver,-1,None
-13,*,132,ガルシアン,Galcian,False,1,Action,509,Sacrulen,22,Self as target
-1,*,133,護送将兵,Royal Guard,False,0,Strategy,5,???,11,???
-2,*,133,護送将兵,Royal Guard,False,0,Strategy,38,???,8,???
-3,*,133,護送将兵,Royal Guard,False,0,Strategy,25,???,14,???
-4,*,133,護送将兵,Royal Guard,False,0,Strategy,24,???,16,???
-5,*,133,護送将兵,Royal Guard,False,0,Strategy,25,???,17,???
-6,*,133,護送将兵,Royal Guard,False,0,Strategy,28,???,15,???
-7,*,133,護送将兵,Royal Guard,False,0,Strategy,30,???,15,???
-8,*,133,護送将兵,Royal Guard,False,0,Strategy,25,???,17,???
-9,*,133,護送将兵,Royal Guard,False,0,Strategy,32,???,11,???
-10,*,133,護送将兵,Royal Guard,False,0,Strategy,30,???,15,???
-11,*,133,護送将兵,Royal Guard,False,0,Strategy,24,???,14,???
-12,*,133,護送将兵,Royal Guard,False,0,Strategy,25,???,16,???
-13,*,133,護送将兵,Royal Guard,False,0,Strategy,30,???,17,???
-14,*,133,護送将兵,Royal Guard,False,1,Action,550,Attack,4,Character with least HP
-15,*,133,護送将兵,Royal Guard,False,1,Action,506,Sacri,7,Injured enemy
-16,*,133,護送将兵,Royal Guard,False,1,Action,533,Electres,23,Aika as target
-17,*,133,護送将兵,Royal Guard,False,1,Action,19,Counter Stance,-1,None
+1,*,132,ガルシアン,Galcian,True,0,Strategy,1,???,13,???
+2,*,132,ガルシアン,Galcian,True,0,Strategy,11,???,7,???
+3,*,132,ガルシアン,Galcian,True,0,Strategy,12,???,7,???
+4,*,132,ガルシアン,Galcian,True,0,Strategy,25,???,9,???
+5,*,132,ガルシアン,Galcian,True,0,Strategy,26,???,10,???
+6,*,132,ガルシアン,Galcian,True,0,Strategy,30,???,11,???
+7,*,132,ガルシアン,Galcian,True,0,Strategy,25,???,9,???
+8,*,132,ガルシアン,Galcian,True,0,Strategy,30,???,12,???
+9,*,132,ガルシアン,Galcian,True,1,Action,550,Attack,2,Random character
+10,*,132,ガルシアン,Galcian,True,1,Action,518,Eternes,-1,None
+11,*,132,ガルシアン,Galcian,True,1,Action,534,Electrum,2,Random character
+12,*,132,ガルシアン,Galcian,True,1,Action,24,Devolver,-1,None
+13,*,132,ガルシアン,Galcian,True,1,Action,509,Sacrulen,22,Self as target
+1,*,133,護送将兵,Royal Guard,True,0,Strategy,5,???,11,???
+2,*,133,護送将兵,Royal Guard,True,0,Strategy,38,???,8,???
+3,*,133,護送将兵,Royal Guard,True,0,Strategy,25,???,14,???
+4,*,133,護送将兵,Royal Guard,True,0,Strategy,24,???,16,???
+5,*,133,護送将兵,Royal Guard,True,0,Strategy,25,???,17,???
+6,*,133,護送将兵,Royal Guard,True,0,Strategy,28,???,15,???
+7,*,133,護送将兵,Royal Guard,True,0,Strategy,30,???,15,???
+8,*,133,護送将兵,Royal Guard,True,0,Strategy,25,???,17,???
+9,*,133,護送将兵,Royal Guard,True,0,Strategy,32,???,11,???
+10,*,133,護送将兵,Royal Guard,True,0,Strategy,30,???,15,???
+11,*,133,護送将兵,Royal Guard,True,0,Strategy,24,???,14,???
+12,*,133,護送将兵,Royal Guard,True,0,Strategy,25,???,16,???
+13,*,133,護送将兵,Royal Guard,True,0,Strategy,30,???,17,???
+14,*,133,護送将兵,Royal Guard,True,1,Action,550,Attack,4,Character with least HP
+15,*,133,護送将兵,Royal Guard,True,1,Action,506,Sacri,7,Injured enemy
+16,*,133,護送将兵,Royal Guard,True,1,Action,533,Electres,23,Aika as target
+17,*,133,護送将兵,Royal Guard,True,1,Action,19,Counter Stance,-1,None
 1,*,134,ラァス,Rockwyrm,False,0,Strategy,1,???,6,???
 2,*,134,ラァス,Rockwyrm,False,0,Strategy,2,???,9,???
 3,*,134,ラァス,Rockwyrm,False,0,Strategy,23,???,14,???

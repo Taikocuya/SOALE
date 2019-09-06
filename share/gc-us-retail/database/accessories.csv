@@ -59,8 +59,8 @@ Entry ID,US entry name,Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Or
 217,Gilder's Amulet,49,X,X,"","","",X,100,54,24,0,500,17,Defense,0,11,18,MagDef,0,11,16,Attack,0,11,1,Will,0,11,2931404,84,"Worn around Gilder's neck. Improves Defense,\nMagic Defense, Attack Power, and Will."
 218,Valuan Medallion,63,X,X,X,X,X,X,100,60,57,0,5000,49,Unconscious,0,-10,17,Defense,0,30,18,MagDef,0,30,84,Random encounter%,0,2,2931488,76,Enchanted medallion worn by officers in the\nArmada. Negates Eterni spells.
 219,Immunity Ring,5,"","","",X,"",X,50,50,26,0,1490,79,Block negative states,0,-2,17,Defense,0,21,84,Random encounter%,0,2,-1,None,0,0,2931564,64,Sacred Ring. Boosts Defense and Resistance to\nadverse effects.
-220,Thermo Ring,63,X,X,X,X,X,X,50,58,53,0,520,33,Red,0,-1,34,Purple,0,-1,84,Random encounter%,0,2,-1,None,0,0,2931628,64,A ring that increases resistance to Red and \nPurple Attacks.
-221,Slayer Ring,63,X,X,X,X,X,X,50,59,50,0,505,1,Will,0,8,17,Defense,0,8,19,Hit%,0,10,4,Quick,0,8,2931692,68,"Raises Defense, Hit%, Will, and Quick.\nIts background is unknown."
+220,Thermo Ring,63,X,X,X,X,X,X,50,58,53,0,200,33,Red,0,-1,34,Purple,0,-1,84,Random encounter%,0,2,-1,None,0,0,2931628,64,A ring that increases resistance to Red and \nPurple Attacks.
+221,Slayer Ring,63,X,X,X,X,X,X,50,59,50,0,600,1,Will,0,8,17,Defense,0,8,19,Hit%,0,10,4,Quick,0,8,2931692,68,"Raises Defense, Hit%, Will, and Quick.\nIts background is unknown."
 222,Chance Ring,63,X,X,X,X,X,X,100,32,8,0,1000,79,Block negative states,0,90,17,Defense,0,45,18,MagDef,0,45,84,Random encounter%,0,2,2931760,88,"Boosts Defense and Magic Defense, but leaves\nthe wearer susceptible to adverse effects."
 223,ダミーアクセサリ,0,"","","","","","",0,63,63,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
 224,ダミーアクセサリ,0,"","","","","","",0,64,64,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
