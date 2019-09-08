@@ -5,29 +5,29 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 3,Pirate Isle Underground,True,512,Gold,150
 4,Pirate Isle Underground,True,258,Moonberry,1
 5,Sailors‘ Island,True,513,Gold,200
-6,Sailors‘ Island,True,249,Curia Crystal,3
+6,Sailors‘ Island,True,490,Repair Kit,1
 7,Lower City,True,240,Sacri Crystal,3
 8,Lower City,True,258,Moonberry,1
-9,,False,244,Magic Droplet,3
-10,,False,281,Slipara Box,1
-11,,False,514,Gold,300
-12,,False,258,Moonberry,1
-13,,False,122,Nasr Combat Mail,1
-14,,False,184,Gem of Fluidity,1
-15,,False,55,Excavation Arm,1
+9,Maramba,True,244,Magic Droplet,3
+10,Maramba,True,281,Slipara Box,1
+11,Maramba,True,514,Gold,300
+12,Maramba,True,258,Moonberry,1
+13,Maramba,True,122,Nasr Combat Mail,1
+14,Maramba,True,184,Gem of Fluidity,1
+15,Maramba,True,55,Excavation Arm,1
 16,,False,258,Moonberry,1
 17,,False,275,Sacri Box,1
 18,,False,260,Paranta Seed,1
 19,,False,240,Sacri Crystal,25
 20,,False,264,Sylph Seed,1
 21,,False,258,Moonberry,1
-22,,False,519,Gold,1827
+22,,False,518,Gold,1827
 23,,False,258,Moonberry,1
 24,,False,258,Moonberry,1
 25,,False,87,Valuan Uniform,3
-26,,False,521,Gold,2248
+26,,False,520,Gold,2248
 27,,False,258,Moonberry,1
-28,,False,523,Gold,3000
+28,,False,522,Gold,3000
 29,,False,131,Silver Armor,1
 30,,False,258,Moonberry,1
 31,,False,258,Moonberry,1
@@ -44,15 +44,15 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 42,Catacombs,True,125,Heavy Armor,1
 43,Catacombs,True,4,Assassin Blade,1
 44,Catacombs,True,249,Curia Crystal,3
-45,,False,515,Gold,527
-46,,False,126,Ancient Robe,1
-47,,False,241,Sacres Crystal,3
-48,,False,25,Dancing Arc,1
-49,,False,516,Gold,774
-50,,False,258,Moonberry,1
-51,,False,244,Magic Droplet,5
-52,,False,283,Rune of Ill Omen,1
-53,,False,517,Gold,800
+45,Temple of Pyrynn,True,249,Curia Crystal,4
+46,Temple of Pyrynn,True,126,Ancient Robe,1
+47,Temple of Pyrynn,True,241,Sacres Crystal,3
+48,Temple of Pyrynn,True,25,Dancing Arc,1
+49,Temple of Pyrynn,True,515,Gold,527
+50,Temple of Pyrynn,True,258,Moonberry,1
+51,Temple of Pyrynn,True,244,Magic Droplet,5
+52,Temple of Pyrynn,True,283,Rune of Ill Omen,1
+53,,False,516,Gold,800
 54,,False,127,De Loco Mail,1
 55,,False,258,Moonberry,1
 56,,False,262,Zaal Seed,1
@@ -67,13 +67,13 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 65,,False,136,Light Coat,1
 66,,False,258,Moonberry,1
 67,,False,261,Icyl Seed,1
-68,,False,518,Gold,1186
+68,,False,517,Gold,1186
 69,,False,243,Sacrulen Crystal,2
 70,,False,10,Stonecutter,1
 71,,False,250,Risan Crystal,3
 72,,False,243,Sacrulen Crystal,2
 73,,False,17,Skywing,1
-74,,False,520,Gold,2001
+74,,False,519,Gold,2001
 75,,False,247,Soul Crystal,1
 76,,False,128,Daccat's Armor,1
 77,,False,244,Magic Droplet,4
@@ -94,7 +94,7 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 92,,False,258,Moonberry,1
 93,,False,255,Chalice of Blood,1
 94,,False,246,Aura of Valor,1
-95,,False,522,Gold,2731
+95,,False,521,Gold,2731
 96,,False,258,Moonberry,1
 97,,False,19,Ice Splitter,1
 98,,False,257,Winter Orb,1
@@ -102,7 +102,7 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 100,,False,258,Moonberry,1
 101,,False,258,Moonberry,1
 102,,False,245,Magic Dew,2
-103,,False,524,Gold,4000
+103,,False,523,Gold,4000
 104,,False,258,Moonberry,1
 105,,False,242,Sacrum Crystal,2
 106,,False,409,X Cannon,1

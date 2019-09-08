@@ -151,42 +151,42 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 26,*,12,ギジェリガー,Varkris,False,1,Action,62,Call Allies,-1,None
 27,*,12,ギジェリガー,Varkris,False,1,Action,107,Call Allies,-1,None
 28,*,12,ギジェリガー,Varkris,False,1,Action,552,Run,-1,None
-1,*,13,アスフール,Azbeth,False,0,Strategy,44,???,3,???
-2,*,13,アスフール,Azbeth,False,0,Strategy,30,???,4,???
-3,*,13,アスフール,Azbeth,False,0,Strategy,27,???,15,???
-4,*,13,アスフール,Azbeth,False,0,Strategy,25,???,13,???
-5,*,13,アスフール,Azbeth,False,0,Strategy,24,???,8,???
-6,*,13,アスフール,Azbeth,False,0,Strategy,27,???,11,???
-7,*,13,アスフール,Azbeth,False,0,Strategy,30,???,14,???
-8,*,13,アスフール,Azbeth,False,0,Strategy,25,???,16,???
-9,*,13,アスフール,Azbeth,False,0,Strategy,24,???,17,???
-10,*,13,アスフール,Azbeth,False,0,Strategy,30,???,18,???
-11,*,13,アスフール,Azbeth,False,0,Strategy,35,???,20,???
-12,*,13,アスフール,Azbeth,False,0,Strategy,30,???,19,???
-13,*,13,アスフール,Azbeth,False,1,Action,550,Attack,2,Random character
-14,*,13,アスフール,Azbeth,False,1,Action,551,Guard,-1,None
-15,*,13,アスフール,Azbeth,False,1,Action,552,Run,-1,None
-16,*,13,アスフール,Azbeth,False,1,Action,200,Call Allies,-1,None
-17,*,13,アスフール,Azbeth,False,1,Action,201,Call Allies,-1,None
-18,*,13,アスフール,Azbeth,False,1,Action,108,Call Allies,-1,None
-19,*,13,アスフール,Azbeth,False,1,Action,517,Eterni,2,Random character
-20,*,13,アスフール,Azbeth,False,1,Action,100,Magic?,-1,None
-1,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,11,???,4,???
-2,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,12,???,6,???
-3,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,30,???,8,???
-4,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,27,???,14,???
-5,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,30,???,15,???
-6,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,50,???,14,???
-7,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,30,???,15,???
-8,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,50,???,11,???
-9,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,23,???,14,???
-10,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,30,???,15,???
-11,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,27,???,14,???
-12,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,26,???,15,???
-13,*,14,盗掘者シモン,Zivilyn Bane,False,0,Strategy,30,???,16,???
-14,*,14,盗掘者シモン,Zivilyn Bane,False,1,Action,550,Attack,4,Character with least HP
-15,*,14,盗掘者シモン,Zivilyn Bane,False,1,Action,22,Burst,2,Random character
-16,*,14,盗掘者シモン,Zivilyn Bane,False,1,Action,551,Guard,-1,None
+1,*,13,アスフール,Azbeth,True,0,Strategy,44,???,3,???
+2,*,13,アスフール,Azbeth,True,0,Strategy,30,???,4,???
+3,*,13,アスフール,Azbeth,True,0,Strategy,27,???,15,???
+4,*,13,アスフール,Azbeth,True,0,Strategy,25,???,13,???
+5,*,13,アスフール,Azbeth,True,0,Strategy,24,???,8,???
+6,*,13,アスフール,Azbeth,True,0,Strategy,27,???,11,???
+7,*,13,アスフール,Azbeth,True,0,Strategy,30,???,14,???
+8,*,13,アスフール,Azbeth,True,0,Strategy,25,???,16,???
+9,*,13,アスフール,Azbeth,True,0,Strategy,24,???,17,???
+10,*,13,アスフール,Azbeth,True,0,Strategy,30,???,18,???
+11,*,13,アスフール,Azbeth,True,0,Strategy,35,???,20,???
+12,*,13,アスフール,Azbeth,True,0,Strategy,30,???,19,???
+13,*,13,アスフール,Azbeth,True,1,Action,550,Attack,2,Random character
+14,*,13,アスフール,Azbeth,True,1,Action,551,Guard,-1,None
+15,*,13,アスフール,Azbeth,True,1,Action,552,Run,-1,None
+16,*,13,アスフール,Azbeth,True,1,Action,200,Call Allies,-1,None
+17,*,13,アスフール,Azbeth,True,1,Action,201,Call Allies,-1,None
+18,*,13,アスフール,Azbeth,True,1,Action,108,Call Allies,-1,None
+19,*,13,アスフール,Azbeth,True,1,Action,517,Eterni,2,Random character
+20,*,13,アスフール,Azbeth,True,1,Action,100,Magic?,-1,None
+1,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,11,???,4,???
+2,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,12,???,6,???
+3,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,30,???,8,???
+4,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,27,???,14,???
+5,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,30,???,15,???
+6,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,50,???,14,???
+7,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,30,???,15,???
+8,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,50,???,11,???
+9,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,23,???,14,???
+10,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,30,???,15,???
+11,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,27,???,14,???
+12,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,26,???,15,???
+13,*,14,盗掘者シモン,Zivilyn Bane,True,0,Strategy,30,???,16,???
+14,*,14,盗掘者シモン,Zivilyn Bane,True,1,Action,550,Attack,4,Character with least HP
+15,*,14,盗掘者シモン,Zivilyn Bane,True,1,Action,22,Burst,2,Random character
+16,*,14,盗掘者シモン,Zivilyn Bane,True,1,Action,551,Guard,-1,None
 1,*,15,ヌール,Ghastling,True,0,Strategy,44,???,3,???
 2,*,15,ヌール,Ghastling,True,0,Strategy,30,???,4,???
 3,*,15,ヌール,Ghastling,True,0,Strategy,28,???,16,???
@@ -329,29 +329,29 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 13,*,23,ガトー,Crylhound,True,1,Action,552,Run,-1,None
 14,*,23,ガトー,Crylhound,True,1,Action,513,Quika,-1,None
 15,*,23,ガトー,Crylhound,True,1,Action,551,Guard,-1,None
-1,*,24,デシェレト,Magma Tiki,False,0,Strategy,41,???,9,???
-2,*,24,デシェレト,Magma Tiki,False,0,Strategy,2,???,7,???
-3,*,24,デシェレト,Magma Tiki,False,0,Strategy,5,???,8,???
-4,*,24,デシェレト,Magma Tiki,False,0,Strategy,1,???,8,???
-5,*,24,デシェレト,Magma Tiki,False,0,Strategy,24,???,8,???
-6,*,24,デシェレト,Magma Tiki,False,0,Strategy,21,???,10,???
-7,*,24,デシェレト,Magma Tiki,False,1,Action,550,Attack,1,Common character
-8,*,24,デシェレト,Magma Tiki,False,1,Action,47,Tremble,-1,None
-9,*,24,デシェレト,Magma Tiki,False,1,Action,180,Lava Storm,-1,None
-10,*,24,デシェレト,Magma Tiki,False,1,Action,551,Guard,-1,None
-1,*,25,イアールト,Salamander,False,0,Strategy,33,???,5,???
-2,*,25,イアールト,Salamander,False,0,Strategy,28,???,9,???
-3,*,25,イアールト,Salamander,False,0,Strategy,25,???,10,???
-4,*,25,イアールト,Salamander,False,0,Strategy,30,???,13,???
-5,*,25,イアールト,Salamander,False,0,Strategy,26,???,9,???
-6,*,25,イアールト,Salamander,False,0,Strategy,25,???,11,???
-7,*,25,イアールト,Salamander,False,0,Strategy,25,???,13,???
-8,*,25,イアールト,Salamander,False,0,Strategy,30,???,12,???
-9,*,25,イアールト,Salamander,False,1,Action,550,Attack,2,Random character
-10,*,25,イアールト,Salamander,False,1,Action,523,Pyri,-1,None
-11,*,25,イアールト,Salamander,False,1,Action,100,Magic?,-1,None
-12,*,25,イアールト,Salamander,False,1,Action,552,Run,-1,None
-13,*,25,イアールト,Salamander,False,1,Action,551,Guard,-1,None
+1,*,24,デシェレト,Magma Tiki,True,0,Strategy,41,???,9,???
+2,*,24,デシェレト,Magma Tiki,True,0,Strategy,2,???,7,???
+3,*,24,デシェレト,Magma Tiki,True,0,Strategy,5,???,8,???
+4,*,24,デシェレト,Magma Tiki,True,0,Strategy,1,???,8,???
+5,*,24,デシェレト,Magma Tiki,True,0,Strategy,24,???,8,???
+6,*,24,デシェレト,Magma Tiki,True,0,Strategy,21,???,10,???
+7,*,24,デシェレト,Magma Tiki,True,1,Action,550,Attack,1,Common character
+8,*,24,デシェレト,Magma Tiki,True,1,Action,47,Tremble,-1,None
+9,*,24,デシェレト,Magma Tiki,True,1,Action,180,Lava Storm,-1,None
+10,*,24,デシェレト,Magma Tiki,True,1,Action,551,Guard,-1,None
+1,*,25,イアールト,Salamander,True,0,Strategy,33,???,5,???
+2,*,25,イアールト,Salamander,True,0,Strategy,28,???,9,???
+3,*,25,イアールト,Salamander,True,0,Strategy,25,???,10,???
+4,*,25,イアールト,Salamander,True,0,Strategy,30,???,13,???
+5,*,25,イアールト,Salamander,True,0,Strategy,26,???,9,???
+6,*,25,イアールト,Salamander,True,0,Strategy,25,???,11,???
+7,*,25,イアールト,Salamander,True,0,Strategy,25,???,13,???
+8,*,25,イアールト,Salamander,True,0,Strategy,30,???,12,???
+9,*,25,イアールト,Salamander,True,1,Action,550,Attack,2,Random character
+10,*,25,イアールト,Salamander,True,1,Action,523,Pyri,-1,None
+11,*,25,イアールト,Salamander,True,1,Action,100,Magic?,-1,None
+12,*,25,イアールト,Salamander,True,1,Action,552,Run,-1,None
+13,*,25,イアールト,Salamander,True,1,Action,551,Guard,-1,None
 1,*,26,パラミス,Baroo,False,0,Strategy,44,???,3,???
 2,*,26,パラミス,Baroo,False,0,Strategy,30,???,4,???
 3,*,26,パラミス,Baroo,False,0,Strategy,29,???,16,???
@@ -368,36 +368,36 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 14,*,26,パラミス,Baroo,False,1,Action,550,Attack,1,Common character
 15,*,26,パラミス,Baroo,False,1,Action,551,Guard,-1,None
 16,*,26,パラミス,Baroo,False,1,Action,552,Run,-1,None
-1,*,27,コロガス,Dung Fly,False,0,Strategy,17,???,15,???
-2,*,27,コロガス,Dung Fly,False,0,Strategy,36,???,10,???
-3,*,27,コロガス,Dung Fly,False,0,Strategy,22,???,19,???
-4,*,27,コロガス,Dung Fly,False,0,Strategy,23,???,20,???
-5,*,27,コロガス,Dung Fly,False,0,Strategy,24,???,18,???
-6,*,27,コロガス,Dung Fly,False,0,Strategy,24,???,21,???
-7,*,27,コロガス,Dung Fly,False,0,Strategy,24,???,22,???
-8,*,27,コロガス,Dung Fly,False,0,Strategy,25,???,23,???
-9,*,27,コロガス,Dung Fly,False,0,Strategy,30,???,24,???
-10,*,27,コロガス,Dung Fly,False,0,Strategy,25,???,18,???
-11,*,27,コロガス,Dung Fly,False,0,Strategy,24,???,21,???
-12,*,27,コロガス,Dung Fly,False,0,Strategy,26,???,22,???
-13,*,27,コロガス,Dung Fly,False,0,Strategy,25,???,23,???
-14,*,27,コロガス,Dung Fly,False,0,Strategy,30,???,24,???
-15,*,27,コロガス,Dung Fly,False,0,Strategy,24,???,21,???
-16,*,27,コロガス,Dung Fly,False,0,Strategy,25,???,22,???
-17,*,27,コロガス,Dung Fly,False,0,Strategy,30,???,23,???
-18,*,27,コロガス,Dung Fly,False,1,Action,550,Attack,2,Random character
-19,*,27,コロガス,Dung Fly,False,1,Action,504,Driln,17,Character without Weak
-20,*,27,コロガス,Dung Fly,False,1,Action,512,Slipara,16,Character without Sleep
-21,*,27,コロガス,Dung Fly,False,1,Action,28,Call Allies,-1,None
-22,*,27,コロガス,Dung Fly,False,1,Action,110,Call Allies,-1,None
-23,*,27,コロガス,Dung Fly,False,1,Action,552,Run,-1,None
-24,*,27,コロガス,Dung Fly,False,1,Action,551,Guard,-1,None
-1,*,28,マータ,Death's Head,False,0,Strategy,26,???,4,???
-2,*,28,マータ,Death's Head,False,0,Strategy,28,???,5,???
-3,*,28,マータ,Death's Head,False,0,Strategy,30,???,6,???
-4,*,28,マータ,Death's Head,False,1,Action,550,Attack,1,Common character
-5,*,28,マータ,Death's Head,False,1,Action,15,Stone Breath,13,Character without Stone
-6,*,28,マータ,Death's Head,False,1,Action,551,Guard,-1,None
+1,*,27,コロガス,Dung Fly,True,0,Strategy,17,???,15,???
+2,*,27,コロガス,Dung Fly,True,0,Strategy,36,???,10,???
+3,*,27,コロガス,Dung Fly,True,0,Strategy,22,???,19,???
+4,*,27,コロガス,Dung Fly,True,0,Strategy,23,???,20,???
+5,*,27,コロガス,Dung Fly,True,0,Strategy,24,???,18,???
+6,*,27,コロガス,Dung Fly,True,0,Strategy,24,???,21,???
+7,*,27,コロガス,Dung Fly,True,0,Strategy,24,???,22,???
+8,*,27,コロガス,Dung Fly,True,0,Strategy,25,???,23,???
+9,*,27,コロガス,Dung Fly,True,0,Strategy,30,???,24,???
+10,*,27,コロガス,Dung Fly,True,0,Strategy,25,???,18,???
+11,*,27,コロガス,Dung Fly,True,0,Strategy,24,???,21,???
+12,*,27,コロガス,Dung Fly,True,0,Strategy,26,???,22,???
+13,*,27,コロガス,Dung Fly,True,0,Strategy,25,???,23,???
+14,*,27,コロガス,Dung Fly,True,0,Strategy,30,???,24,???
+15,*,27,コロガス,Dung Fly,True,0,Strategy,24,???,21,???
+16,*,27,コロガス,Dung Fly,True,0,Strategy,25,???,22,???
+17,*,27,コロガス,Dung Fly,True,0,Strategy,30,???,23,???
+18,*,27,コロガス,Dung Fly,True,1,Action,550,Attack,2,Random character
+19,*,27,コロガス,Dung Fly,True,1,Action,504,Driln,17,Character without Weak
+20,*,27,コロガス,Dung Fly,True,1,Action,512,Slipara,16,Character without Sleep
+21,*,27,コロガス,Dung Fly,True,1,Action,28,Call Allies,-1,None
+22,*,27,コロガス,Dung Fly,True,1,Action,110,Call Allies,-1,None
+23,*,27,コロガス,Dung Fly,True,1,Action,552,Run,-1,None
+24,*,27,コロガス,Dung Fly,True,1,Action,551,Guard,-1,None
+1,*,28,マータ,Death's Head,True,0,Strategy,26,???,4,???
+2,*,28,マータ,Death's Head,True,0,Strategy,28,???,5,???
+3,*,28,マータ,Death's Head,True,0,Strategy,30,???,6,???
+4,*,28,マータ,Death's Head,True,1,Action,550,Attack,1,Common character
+5,*,28,マータ,Death's Head,True,1,Action,15,Stone Breath,13,Character without Stone
+6,*,28,マータ,Death's Head,True,1,Action,551,Guard,-1,None
 1,*,29,エルモ,Looper,True,0,Strategy,1,???,9,???
 2,*,29,エルモ,Looper,True,0,Strategy,25,???,9,???
 3,*,29,エルモ,Looper,True,0,Strategy,24,???,7,???
@@ -409,19 +409,19 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 9,*,29,エルモ,Looper,True,1,Action,552,Run,-1,None
 10,*,29,エルモ,Looper,True,1,Action,523,Pyri,-1,None
 11,*,29,エルモ,Looper,True,1,Action,100,Magic?,-1,None
-1,*,30,エルモック,Loopalon,False,0,Strategy,1,???,11,???
-2,*,30,エルモック,Loopalon,False,0,Strategy,25,???,11,???
-3,*,30,エルモック,Loopalon,False,0,Strategy,11,???,5,???
-4,*,30,エルモック,Loopalon,False,0,Strategy,30,???,6,???
-5,*,30,エルモック,Loopalon,False,0,Strategy,25,???,12,???
-6,*,30,エルモック,Loopalon,False,0,Strategy,25,???,9,???
-7,*,30,エルモック,Loopalon,False,0,Strategy,25,???,10,???
-8,*,30,エルモック,Loopalon,False,0,Strategy,30,???,13,???
-9,*,30,エルモック,Loopalon,False,1,Action,550,Attack,2,Random character
-10,*,30,エルモック,Loopalon,False,1,Action,551,Guard,-1,None
-11,*,30,エルモック,Loopalon,False,1,Action,552,Run,-1,None
-12,*,30,エルモック,Loopalon,False,1,Action,500,Increm,11,Enemy without Strengthen
-13,*,30,エルモック,Loopalon,False,1,Action,100,Magic?,-1,None
+1,*,30,エルモック,Loopalon,True,0,Strategy,1,???,11,???
+2,*,30,エルモック,Loopalon,True,0,Strategy,25,???,11,???
+3,*,30,エルモック,Loopalon,True,0,Strategy,11,???,5,???
+4,*,30,エルモック,Loopalon,True,0,Strategy,30,???,6,???
+5,*,30,エルモック,Loopalon,True,0,Strategy,25,???,12,???
+6,*,30,エルモック,Loopalon,True,0,Strategy,25,???,9,???
+7,*,30,エルモック,Loopalon,True,0,Strategy,25,???,10,???
+8,*,30,エルモック,Loopalon,True,0,Strategy,30,???,13,???
+9,*,30,エルモック,Loopalon,True,1,Action,550,Attack,2,Random character
+10,*,30,エルモック,Loopalon,True,1,Action,551,Guard,-1,None
+11,*,30,エルモック,Loopalon,True,1,Action,552,Run,-1,None
+12,*,30,エルモック,Loopalon,True,1,Action,500,Increm,11,Enemy without Strengthen
+13,*,30,エルモック,Loopalon,True,1,Action,100,Magic?,-1,None
 1,*,31,ヘムヘム,Tsurak,False,0,Strategy,44,???,3,???
 2,*,31,ヘムヘム,Tsurak,False,0,Strategy,30,???,4,???
 3,*,31,ヘムヘム,Tsurak,False,0,Strategy,28,???,16,???
@@ -1301,30 +1301,30 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 15,*,92,ランギット,Langry,False,1,Action,98,Call Allies,-1,None
 16,*,92,ランギット,Langry,False,1,Action,552,Run,-1,None
 17,*,92,ランギット,Langry,False,1,Action,551,Guard,-1,None
-1,*,93,ヘベレル,Durel Beetle,False,0,Strategy,17,???,15,???
-2,*,93,ヘベレル,Durel Beetle,False,0,Strategy,36,???,10,???
-3,*,93,ヘベレル,Durel Beetle,False,0,Strategy,22,???,19,???
-4,*,93,ヘベレル,Durel Beetle,False,0,Strategy,23,???,20,???
-5,*,93,ヘベレル,Durel Beetle,False,0,Strategy,24,???,18,???
-6,*,93,ヘベレル,Durel Beetle,False,0,Strategy,24,???,21,???
-7,*,93,ヘベレル,Durel Beetle,False,0,Strategy,24,???,22,???
-8,*,93,ヘベレル,Durel Beetle,False,0,Strategy,25,???,23,???
-9,*,93,ヘベレル,Durel Beetle,False,0,Strategy,30,???,24,???
-10,*,93,ヘベレル,Durel Beetle,False,0,Strategy,25,???,18,???
-11,*,93,ヘベレル,Durel Beetle,False,0,Strategy,24,???,21,???
-12,*,93,ヘベレル,Durel Beetle,False,0,Strategy,26,???,22,???
-13,*,93,ヘベレル,Durel Beetle,False,0,Strategy,25,???,23,???
-14,*,93,ヘベレル,Durel Beetle,False,0,Strategy,30,???,24,???
-15,*,93,ヘベレル,Durel Beetle,False,0,Strategy,24,???,21,???
-16,*,93,ヘベレル,Durel Beetle,False,0,Strategy,25,???,22,???
-17,*,93,ヘベレル,Durel Beetle,False,0,Strategy,30,???,23,???
-18,*,93,ヘベレル,Durel Beetle,False,1,Action,550,Attack,2,Random character
-19,*,93,ヘベレル,Durel Beetle,False,1,Action,504,Driln,17,Character without Weak
-20,*,93,ヘベレル,Durel Beetle,False,1,Action,512,Slipara,16,Character without Sleep
-21,*,93,ヘベレル,Durel Beetle,False,1,Action,78,Call Allies,-1,None
-22,*,93,ヘベレル,Durel Beetle,False,1,Action,111,Call Allies,-1,None
-23,*,93,ヘベレル,Durel Beetle,False,1,Action,552,Run,-1,None
-24,*,93,ヘベレル,Durel Beetle,False,1,Action,551,Guard,-1,None
+1,*,93,ヘベレル,Durel Beetle,True,0,Strategy,17,???,15,???
+2,*,93,ヘベレル,Durel Beetle,True,0,Strategy,36,???,10,???
+3,*,93,ヘベレル,Durel Beetle,True,0,Strategy,22,???,19,???
+4,*,93,ヘベレル,Durel Beetle,True,0,Strategy,23,???,20,???
+5,*,93,ヘベレル,Durel Beetle,True,0,Strategy,24,???,18,???
+6,*,93,ヘベレル,Durel Beetle,True,0,Strategy,24,???,21,???
+7,*,93,ヘベレル,Durel Beetle,True,0,Strategy,24,???,22,???
+8,*,93,ヘベレル,Durel Beetle,True,0,Strategy,25,???,23,???
+9,*,93,ヘベレル,Durel Beetle,True,0,Strategy,30,???,24,???
+10,*,93,ヘベレル,Durel Beetle,True,0,Strategy,25,???,18,???
+11,*,93,ヘベレル,Durel Beetle,True,0,Strategy,24,???,21,???
+12,*,93,ヘベレル,Durel Beetle,True,0,Strategy,26,???,22,???
+13,*,93,ヘベレル,Durel Beetle,True,0,Strategy,25,???,23,???
+14,*,93,ヘベレル,Durel Beetle,True,0,Strategy,30,???,24,???
+15,*,93,ヘベレル,Durel Beetle,True,0,Strategy,24,???,21,???
+16,*,93,ヘベレル,Durel Beetle,True,0,Strategy,25,???,22,???
+17,*,93,ヘベレル,Durel Beetle,True,0,Strategy,30,???,23,???
+18,*,93,ヘベレル,Durel Beetle,True,1,Action,550,Attack,2,Random character
+19,*,93,ヘベレル,Durel Beetle,True,1,Action,504,Driln,17,Character without Weak
+20,*,93,ヘベレル,Durel Beetle,True,1,Action,512,Slipara,16,Character without Sleep
+21,*,93,ヘベレル,Durel Beetle,True,1,Action,78,Call Allies,-1,None
+22,*,93,ヘベレル,Durel Beetle,True,1,Action,111,Call Allies,-1,None
+23,*,93,ヘベレル,Durel Beetle,True,1,Action,552,Run,-1,None
+24,*,93,ヘベレル,Durel Beetle,True,1,Action,551,Guard,-1,None
 1,*,94,マヌー,Totelm,False,0,Strategy,11,???,5,???
 2,*,94,マヌー,Totelm,False,0,Strategy,28,???,7,???
 3,*,94,マヌー,Totelm,False,0,Strategy,25,???,8,???
@@ -1349,16 +1349,16 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 13,*,95,ケベスク,Thryllak,False,1,Action,552,Run,-1,None
 14,*,95,ケベスク,Thryllak,False,1,Action,20,Gather Strength,-1,None
 15,*,95,ケベスク,Thryllak,False,1,Action,170,Needle Storm,2,Random character
-1,*,96,ロッキ,Stonebeak,False,0,Strategy,44,???,3,???
-2,*,96,ロッキ,Stonebeak,False,0,Strategy,30,???,4,???
-3,*,96,ロッキ,Stonebeak,False,0,Strategy,27,???,8,???
-4,*,96,ロッキ,Stonebeak,False,0,Strategy,26,???,7,???
-5,*,96,ロッキ,Stonebeak,False,0,Strategy,28,???,9,???
-6,*,96,ロッキ,Stonebeak,False,0,Strategy,30,???,10,???
-7,*,96,ロッキ,Stonebeak,False,1,Action,550,Attack,2,Random character
-8,*,96,ロッキ,Stonebeak,False,1,Action,552,Run,-1,None
-9,*,96,ロッキ,Stonebeak,False,1,Action,93,Fatigue Breath,2,Random character
-10,*,96,ロッキ,Stonebeak,False,1,Action,551,Guard,-1,None
+1,*,96,ロッキ,Stonebeak,True,0,Strategy,44,???,3,???
+2,*,96,ロッキ,Stonebeak,True,0,Strategy,30,???,4,???
+3,*,96,ロッキ,Stonebeak,True,0,Strategy,27,???,8,???
+4,*,96,ロッキ,Stonebeak,True,0,Strategy,26,???,7,???
+5,*,96,ロッキ,Stonebeak,True,0,Strategy,28,???,9,???
+6,*,96,ロッキ,Stonebeak,True,0,Strategy,30,???,10,???
+7,*,96,ロッキ,Stonebeak,True,1,Action,550,Attack,2,Random character
+8,*,96,ロッキ,Stonebeak,True,1,Action,552,Run,-1,None
+9,*,96,ロッキ,Stonebeak,True,1,Action,93,Fatigue Breath,2,Random character
+10,*,96,ロッキ,Stonebeak,True,1,Action,551,Guard,-1,None
 1,*,97,キクシック,Razorbeak,False,0,Strategy,44,???,3,???
 2,*,97,キクシック,Razorbeak,False,0,Strategy,30,???,4,???
 3,*,97,キクシック,Razorbeak,False,0,Strategy,27,???,8,???
@@ -1827,20 +1827,22 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 15,*,133,護送将兵,Royal Guard,True,1,Action,506,Sacri,7,Injured enemy
 16,*,133,護送将兵,Royal Guard,True,1,Action,533,Electres,23,Aika as target
 17,*,133,護送将兵,Royal Guard,True,1,Action,19,Counter Stance,-1,None
-1,*,134,ラァス,Rockwyrm,False,0,Strategy,1,???,6,???
-2,*,134,ラァス,Rockwyrm,False,0,Strategy,2,???,9,???
-3,*,134,ラァス,Rockwyrm,False,0,Strategy,23,???,14,???
-4,*,134,ラァス,Rockwyrm,False,0,Strategy,25,???,13,???
-5,*,134,ラァス,Rockwyrm,False,0,Strategy,30,???,12,???
-6,*,134,ラァス,Rockwyrm,False,0,Strategy,25,???,14,???
-7,*,134,ラァス,Rockwyrm,False,0,Strategy,24,???,13,???
-8,*,134,ラァス,Rockwyrm,False,0,Strategy,30,???,12,???
-9,*,134,ラァス,Rockwyrm,False,0,Strategy,22,???,14,???
-10,*,134,ラァス,Rockwyrm,False,0,Strategy,27,???,13,???
-11,*,134,ラァス,Rockwyrm,False,0,Strategy,30,???,12,???
-12,*,134,ラァス,Rockwyrm,False,1,Action,550,Attack,2,Random character
-13,*,134,ラァス,Rockwyrm,False,1,Action,0,Volcanic Blast,-1,None
-14,*,134,ラァス,Rockwyrm,False,1,Action,1,Cinder Storm,13,Character without Stone
+1,*,134,ラァス,Rockwyrm,True,0,Strategy,35,???,3,???
+2,*,134,ラァス,Rockwyrm,True,0,Strategy,25,???,14,???
+3,*,134,ラァス,Rockwyrm,True,0,Strategy,1,???,8,???
+4,*,134,ラァス,Rockwyrm,True,0,Strategy,2,???,11,???
+5,*,134,ラァス,Rockwyrm,True,0,Strategy,23,???,16,???
+6,*,134,ラァス,Rockwyrm,True,0,Strategy,25,???,15,???
+7,*,134,ラァス,Rockwyrm,True,0,Strategy,30,???,14,???
+8,*,134,ラァス,Rockwyrm,True,0,Strategy,25,???,16,???
+9,*,134,ラァス,Rockwyrm,True,0,Strategy,24,???,15,???
+10,*,134,ラァス,Rockwyrm,True,0,Strategy,30,???,14,???
+11,*,134,ラァス,Rockwyrm,True,0,Strategy,22,???,16,???
+12,*,134,ラァス,Rockwyrm,True,0,Strategy,27,???,15,???
+13,*,134,ラァス,Rockwyrm,True,0,Strategy,30,???,14,???
+14,*,134,ラァス,Rockwyrm,True,1,Action,550,Attack,2,Random character
+15,*,134,ラァス,Rockwyrm,True,1,Action,0,Volcanic Blast,-1,None
+16,*,134,ラァス,Rockwyrm,True,1,Action,1,Cinder Storm,13,Character without Stone
 1,*,136,アントニオＪｒ,Antonio 2,False,0,Strategy,50,???,4,???
 2,*,136,アントニオＪｒ,Antonio 2,False,0,Strategy,23,???,6,???
 3,*,136,アントニオＪｒ,Antonio 2,False,0,Strategy,30,???,7,???

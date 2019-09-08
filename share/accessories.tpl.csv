@@ -22,17 +22,17 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 180,Counter Bracer,False,53,X,X,,X,,X,100,10,73,Counter%,20,16,Attack,20,19,Hit%,20,84,Random encounter%,2
 181,Defensive Aura,False,24,,X,X,,,,100,10,65,Block attacks,1,77,Recover spirit,-1,54,Fatigue,-10,84,Random encounter%,2
 182,Ivy Band,True,63,X,X,X,X,X,X,100,100,48,Poison,-2,32,Green,-2,17,Defense,5,18,MagDef,5
-183,Silvite Ring,False,63,X,X,X,X,X,X,100,100,49,Death,-2,37,Silver,-2,17,Defense,5,18,MagDef,5
-184,Gem of Fluidity,False,63,X,X,X,X,X,X,100,100,50,Stone,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2
+183,Silvite Ring,True,63,X,X,X,X,X,X,100,100,49,Death,-2,37,Silver,-2,17,Defense,5,18,MagDef,5
+184,Gem of Fluidity,True,63,X,X,X,X,X,X,100,100,50,Stone,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2
 185,Wind Gem Ring,False,63,X,X,X,X,X,X,100,100,51,Sleep,-2,35,Blue,-2,17,Defense,5,18,MagDef,5
 186,Eye of Truth,False,63,X,X,X,X,X,X,100,100,52,Confuse,-2,34,Purple,-2,17,Defense,5,18,MagDef,5
 187,Revered Voice,True,63,X,X,X,X,X,X,100,100,53,Silence,-2,34,Purple,-2,17,Defense,5,18,MagDef,5
-188,Everlasting Gem,False,63,X,X,X,X,X,X,100,100,54,Fatigue,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2
-189,Behemoth's Ring,False,63,X,X,X,X,X,X,100,100,56,Weak,-2,36,Yellow,-2,17,Defense,5,18,MagDef,5
+188,Everlasting Gem,True,63,X,X,X,X,X,X,100,100,54,Fatigue,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2
+189,Behemoth's Ring,True,63,X,X,X,X,X,X,100,100,56,Weak,-2,36,Yellow,-2,17,Defense,5,18,MagDef,5
 190,Constitution Gem,False,5,,,,X,,X,100,1000,79,Block negative states,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2
-191,Nomadic Veil,False,63,X,X,X,X,X,X,50,640,17,Defense,9,18,MagDef,9,84,Random encounter%,2,-1,None,0
+191,Nomadic Veil,True,63,X,X,X,X,X,X,50,640,17,Defense,15,18,MagDef,15,84,Random encounter%,2,-1,None,0
 192,Radiant Fur,False,63,X,X,X,X,X,X,50,3580,17,Defense,24,18,MagDef,24,84,Random encounter%,2,-1,None,0
-193,Sand Storm Ring,False,63,X,X,X,X,X,X,50,770,16,Attack,9,1,Will,9,84,Random encounter%,2,-1,None,0
+193,Sand Storm Ring,True,63,X,X,X,X,X,X,50,770,16,Attack,15,1,Will,15,84,Random encounter%,2,-1,None,0
 194,Skull Cap,False,63,X,X,X,X,X,X,50,4300,16,Attack,24,1,Will,24,84,Random encounter%,2,-1,None,0
 195,Mage's Bane,False,63,X,X,X,X,X,X,50,480,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
 196,Blue Rogue Patch,False,63,X,X,X,X,X,X,50,6820,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
@@ -49,7 +49,7 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 207,Gem of Purity,False,5,,,,X,,X,50,300,79,Block negative states,-2,17,Defense,8,84,Random encounter%,2,-1,None,0
 208,Shard of Purity,False,5,,,,X,,X,50,4760,79,Block negative states,-2,17,Defense,38,84,Random encounter%,2,-1,None,0
 209,Fortune Ring,False,24,,X,X,,,,50,2145,20,Dodge%,75,17,Defense,8,84,Random encounter%,2,-1,None,0
-210,Black Map,False,32,X,,,,,,100,777,80,First strike%,25,82,???,0,83,Enemy run%,0,84,Random encounter%,2
+210,Black Map,True,32,X,,,,,,100,777,80,First strike%,25,82,???,0,83,Enemy run%,0,84,Random encounter%,2
 211,White Map,False,32,X,,,,,,100,666,80,First strike%,0,82,???,0,81,Run%,100,84,Random encounter%,2
 212,Captain's Hat,False,32,X,,,,,,100,10,16,Attack,45,84,Random encounter%,2,-1,None,0,84,Random encounter%,2
 213,Mesh Tights,False,16,,X,,,,,100,10,16,Attack,40,1,Will,40,84,Random encounter%,2,-1,None,0

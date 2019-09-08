@@ -27,38 +27,38 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],[Finalized],Unk.,Task rating
 5,r501a.tec,2,Valuan Cruiser,True,3,50,0,Attack,1,Subcannon,-1,None,2,0,Attack,1,Subcannon,-1,None,1
 6,r501a.tec,2,Valuan Cruiser,True,-1,0,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,0,Standard Cannon,-1,None,0
 7,r501a.tec,2,Valuan Cruiser,True,0,0,0,Attack,0,Standard Cannon,0,None,0,0,Attack,0,Standard Cannon,0,None,0
-0,r503a.tec,21,Black Pirates,False,3,20,2,Focus,-1,None,0,Focus,0,0,Attack,0,Black Cannon,-1,None,0
-1,r503a.tec,21,Black Pirates,False,3,20,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,1,Black Torpedo,-1,None,2
-2,r503a.tec,21,Black Pirates,False,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-3,r503a.tec,21,Black Pirates,False,0,50,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,Black Cannon,-1,None,0
-4,r503a.tec,21,Black Pirates,False,3,40,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,0,Black Cannon,-1,None,0
-5,r503a.tec,21,Black Pirates,False,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-6,r503a.tec,21,Black Pirates,False,1,95,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-7,r503a.tec,21,Black Pirates,False,-1,0,3,Guard,-1,None,0,Evasive Action,0,3,Guard,-1,None,0,Evasive Action,0
-8,r503a.tec,21,Black Pirates,False,3,70,0,Attack,1,Black Torpedo,-1,None,1,0,Attack,1,Black Torpedo,-1,None,1
-9,r503a.tec,21,Black Pirates,False,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
-10,r503a.tec,21,Black Pirates,False,30,20,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,Black Cannon,-1,None,0
-11,r503a.tec,21,Black Pirates,False,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
-12,r503a.tec,21,Black Pirates,False,3,80,0,Attack,1,Black Torpedo,-1,None,2,2,Focus,-1,None,0,Focus,0
-13,r503a.tec,21,Black Pirates,False,3,50,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
-14,r503a.tec,21,Black Pirates,False,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
-15,r503a.tec,21,Black Pirates,False,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-16,r503a.tec,21,Black Pirates,False,3,30,2,Focus,-1,None,0,Focus,0,0,Attack,1,Black Torpedo,-1,None,2
-17,r503a.tec,21,Black Pirates,False,3,50,2,Focus,-1,None,0,Focus,0,0,Attack,0,Black Cannon,-1,None,0
-18,r503a.tec,21,Black Pirates,False,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
-19,r503a.tec,21,Black Pirates,False,3,80,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-20,r503a.tec,21,Black Pirates,False,3,20,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Black Torpedo,-1,None,3
-21,r503a.tec,21,Black Pirates,False,3,90,0,Attack,0,Black Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
-22,r503a.tec,21,Black Pirates,False,3,30,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,0,Black Cannon,-1,None,0
-23,r503a.tec,21,Black Pirates,False,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
-24,r503a.tec,21,Black Pirates,False,3,20,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
-25,r503a.tec,21,Black Pirates,False,3,50,2,Focus,-1,None,0,Focus,0,4,Nothing,-1,None,0,Awaiting Orders,0
-26,r503a.tec,21,Black Pirates,False,-1,0,0,Attack,1,Black Torpedo,-1,None,3,0,Attack,2,-,-1,None,3
-27,r503a.tec,21,Black Pirates,False,1,80,0,Attack,0,Black Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
-28,r503a.tec,21,Black Pirates,False,3,20,2,Focus,-1,None,0,Focus,0,0,Attack,0,Black Cannon,-1,None,0
-29,r503a.tec,21,Black Pirates,False,-1,0,0,Attack,1,Black Torpedo,-1,None,3,0,Attack,1,Black Torpedo,-1,None,3
-30,r503a.tec,21,Black Pirates,False,1,50,0,Attack,0,Black Cannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-31,r503a.tec,21,Black Pirates,False,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
+0,r503a.tec,21,Black Pirates,True,3,20,2,Focus,-1,None,0,Focus,0,0,Attack,0,Black Cannon,-1,None,0
+1,r503a.tec,21,Black Pirates,True,3,20,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,1,Black Torpedo,-1,None,2
+2,r503a.tec,21,Black Pirates,True,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
+3,r503a.tec,21,Black Pirates,True,0,50,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,Black Cannon,-1,None,0
+4,r503a.tec,21,Black Pirates,True,3,40,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,0,Black Cannon,-1,None,0
+5,r503a.tec,21,Black Pirates,True,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
+6,r503a.tec,21,Black Pirates,True,1,95,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+7,r503a.tec,21,Black Pirates,True,-1,0,3,Guard,-1,None,0,Evasive Action,0,3,Guard,-1,None,0,Evasive Action,0
+8,r503a.tec,21,Black Pirates,True,3,70,0,Attack,1,Black Torpedo,-1,None,1,0,Attack,1,Black Torpedo,-1,None,1
+9,r503a.tec,21,Black Pirates,True,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
+10,r503a.tec,21,Black Pirates,True,30,20,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,Black Cannon,-1,None,0
+11,r503a.tec,21,Black Pirates,True,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
+12,r503a.tec,21,Black Pirates,True,3,80,0,Attack,1,Black Torpedo,-1,None,2,2,Focus,-1,None,0,Focus,0
+13,r503a.tec,21,Black Pirates,True,3,50,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
+14,r503a.tec,21,Black Pirates,True,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
+15,r503a.tec,21,Black Pirates,True,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
+16,r503a.tec,21,Black Pirates,True,3,30,2,Focus,-1,None,0,Focus,0,0,Attack,1,Black Torpedo,-1,None,2
+17,r503a.tec,21,Black Pirates,True,3,50,2,Focus,-1,None,0,Focus,0,0,Attack,0,Black Cannon,-1,None,0
+18,r503a.tec,21,Black Pirates,True,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
+19,r503a.tec,21,Black Pirates,True,3,80,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+20,r503a.tec,21,Black Pirates,True,3,20,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Black Torpedo,-1,None,3
+21,r503a.tec,21,Black Pirates,True,3,90,0,Attack,0,Black Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
+22,r503a.tec,21,Black Pirates,True,3,30,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,0,Black Cannon,-1,None,0
+23,r503a.tec,21,Black Pirates,True,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
+24,r503a.tec,21,Black Pirates,True,3,20,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
+25,r503a.tec,21,Black Pirates,True,3,50,2,Focus,-1,None,0,Focus,0,4,Nothing,-1,None,0,Awaiting Orders,0
+26,r503a.tec,21,Black Pirates,True,-1,0,0,Attack,1,Black Torpedo,-1,None,3,0,Attack,2,-,-1,None,3
+27,r503a.tec,21,Black Pirates,True,1,80,0,Attack,0,Black Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
+28,r503a.tec,21,Black Pirates,True,3,20,2,Focus,-1,None,0,Focus,0,0,Attack,0,Black Cannon,-1,None,0
+29,r503a.tec,21,Black Pirates,True,-1,0,0,Attack,1,Black Torpedo,-1,None,3,0,Attack,1,Black Torpedo,-1,None,3
+30,r503a.tec,21,Black Pirates,True,1,50,0,Attack,0,Black Cannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
+31,r503a.tec,21,Black Pirates,True,-1,0,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
 0,r506a.tec,24,Recumen,False,-1,0,1,Magic,-1,None,0,Increm,0,0,Attack,0,Red Ray,-1,None,0
 1,r506a.tec,24,Recumen,False,3,50,0,Attack,0,Red Ray,-1,None,0,4,Nothing,-1,None,2,Assessing Damage,0
 2,r506a.tec,24,Recumen,False,-1,0,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
@@ -1015,30 +1015,30 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],[Finalized],Unk.,Task rating
 21,r554a.tec,0,Valuan Warship,False,3,50,0,Attack,1,Light Subcannon,-1,None,2,0,Attack,1,Light Subcannon,-1,None,1
 22,r554a.tec,0,Valuan Warship,False,3,30,3,Guard,-1,None,-1,None,0,2,Focus,-1,None,0,Focus,0
 23,r554a.tec,0,Valuan Warship,False,3,70,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
-0,r555a.tec,1,Valuan Spellship,False,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
-1,r555a.tec,1,Valuan Spellship,False,1,30,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,1,Light Subcannon,-1,None,2
-2,r555a.tec,1,Valuan Spellship,False,3,70,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
-3,r555a.tec,1,Valuan Spellship,False,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
-4,r555a.tec,1,Valuan Spellship,False,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
-5,r555a.tec,1,Valuan Spellship,False,3,40,1,Magic,0,Small Cannon,0,Increm,0,0,Attack,1,Light Subcannon,-1,None,1
-6,r555a.tec,1,Valuan Spellship,False,-1,0,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,0,Awaiting Orders,0
-7,r555a.tec,1,Valuan Spellship,False,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
-8,r555a.tec,1,Valuan Spellship,False,-1,0,0,Attack,1,Light Subcannon,-1,None,1,0,Attack,1,Light Subcannon,-1,None,2
-9,r555a.tec,1,Valuan Spellship,False,3,70,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
-10,r555a.tec,1,Valuan Spellship,False,3,80,1,Magic,0,Small Cannon,0,Increm,0,0,Attack,1,Light Subcannon,-1,None,1
-11,r555a.tec,1,Valuan Spellship,False,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
-12,r555a.tec,1,Valuan Spellship,False,3,50,0,Attack,1,Light Subcannon,-1,None,2,1,Magic,0,Small Cannon,24,Pyres,0
-13,r555a.tec,1,Valuan Spellship,False,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
-14,r555a.tec,1,Valuan Spellship,False,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
-15,r555a.tec,1,Valuan Spellship,False,3,20,2,Focus,-1,None,0,Focus,0,4,Nothing,-1,None,0,Awaiting Orders,0
-16,r555a.tec,1,Valuan Spellship,False,1,20,1,Magic,0,Small Cannon,6,Sacri,0,3,Guard,-1,None,-1,None,0
-17,r555a.tec,1,Valuan Spellship,False,3,50,0,Attack,1,Light Subcannon,-1,None,2,1,Magic,0,Small Cannon,24,Pyres,0
-18,r555a.tec,1,Valuan Spellship,False,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
-19,r555a.tec,1,Valuan Spellship,False,3,50,4,Nothing,-1,None,0,Awaiting Orders,0,1,Magic,0,Small Cannon,24,Pyres,0
-20,r555a.tec,1,Valuan Spellship,False,1,40,1,Magic,0,Small Cannon,6,Sacri,0,3,Guard,-1,None,-1,None,0
-21,r555a.tec,1,Valuan Spellship,False,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
-22,r555a.tec,1,Valuan Spellship,False,3,30,3,Guard,-1,None,-1,None,0,2,Focus,-1,None,0,Focus,0
-23,r555a.tec,1,Valuan Spellship,False,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
+0,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
+1,r555a.tec,1,Valuan Spellship,True,1,30,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,1,Light Subcannon,-1,None,2
+2,r555a.tec,1,Valuan Spellship,True,3,70,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+3,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
+4,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
+5,r555a.tec,1,Valuan Spellship,True,3,40,1,Magic,0,Small Cannon,0,Increm,0,0,Attack,1,Light Subcannon,-1,None,1
+6,r555a.tec,1,Valuan Spellship,True,-1,0,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,0,Awaiting Orders,0
+7,r555a.tec,1,Valuan Spellship,True,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
+8,r555a.tec,1,Valuan Spellship,True,-1,0,0,Attack,1,Light Subcannon,-1,None,1,0,Attack,1,Light Subcannon,-1,None,2
+9,r555a.tec,1,Valuan Spellship,True,3,70,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+10,r555a.tec,1,Valuan Spellship,True,3,80,1,Magic,0,Small Cannon,0,Increm,0,0,Attack,1,Light Subcannon,-1,None,1
+11,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
+12,r555a.tec,1,Valuan Spellship,True,3,50,0,Attack,1,Light Subcannon,-1,None,2,1,Magic,0,Small Cannon,24,Pyres,0
+13,r555a.tec,1,Valuan Spellship,True,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
+14,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
+15,r555a.tec,1,Valuan Spellship,True,3,20,2,Focus,-1,None,0,Focus,0,4,Nothing,-1,None,0,Awaiting Orders,0
+16,r555a.tec,1,Valuan Spellship,True,1,20,1,Magic,0,Small Cannon,6,Sacri,0,3,Guard,-1,None,-1,None,0
+17,r555a.tec,1,Valuan Spellship,True,3,50,0,Attack,1,Light Subcannon,-1,None,2,1,Magic,0,Small Cannon,24,Pyres,0
+18,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
+19,r555a.tec,1,Valuan Spellship,True,3,50,4,Nothing,-1,None,0,Awaiting Orders,0,1,Magic,0,Small Cannon,24,Pyres,0
+20,r555a.tec,1,Valuan Spellship,True,1,40,1,Magic,0,Small Cannon,6,Sacri,0,3,Guard,-1,None,-1,None,0
+21,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
+22,r555a.tec,1,Valuan Spellship,True,3,30,3,Guard,-1,None,-1,None,0,2,Focus,-1,None,0,Focus,0
+23,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
 0,r556a.tec,3,Valuan Phantom,False,0,50,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
 1,r556a.tec,3,Valuan Phantom,False,0,20,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
 2,r556a.tec,3,Valuan Phantom,False,3,30,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
@@ -1087,22 +1087,22 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],[Finalized],Unk.,Task rating
 29,r557a.tec,4,Valuan Gunboat,False,3,30,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
 30,r557a.tec,4,Valuan Gunboat,False,4,2,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
 31,r557a.tec,4,Valuan Gunboat,False,0,0,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
-0,r558a.tec,4,Valuan Gunboat,False,3,50,0,Attack,2,Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
-1,r558a.tec,4,Valuan Gunboat,False,4,2,0,Attack,2,Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
-2,r558a.tec,4,Valuan Gunboat,False,4,2,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
-3,r558a.tec,4,Valuan Gunboat,False,-1,0,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-4,r558a.tec,4,Valuan Gunboat,False,3,50,2,Focus,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
-5,r558a.tec,4,Valuan Gunboat,False,3,50,0,Attack,2,Torpedo,-1,None,1,0,Attack,0,Large Cannon,-1,None,0
-6,r558a.tec,4,Valuan Gunboat,False,3,50,4,Nothing,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
-7,r558a.tec,4,Valuan Gunboat,False,-1,0,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-8,r558a.tec,4,Valuan Gunboat,False,3,50,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-9,r558a.tec,4,Valuan Gunboat,False,3,50,2,Focus,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
-10,r558a.tec,4,Valuan Gunboat,False,-1,0,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-11,r558a.tec,4,Valuan Gunboat,False,3,50,4,Nothing,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
-12,r558a.tec,4,Valuan Gunboat,False,3,50,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,2,Torpedo,-1,None,1
-13,r558a.tec,4,Valuan Gunboat,False,-1,0,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-14,r558a.tec,4,Valuan Gunboat,False,3,50,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
-15,r558a.tec,4,Valuan Gunboat,False,3,50,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
+0,r558a.tec,4,Valuan Gunboat,True,3,50,0,Attack,2,Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
+1,r558a.tec,4,Valuan Gunboat,True,4,2,0,Attack,2,Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
+2,r558a.tec,4,Valuan Gunboat,True,4,2,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
+3,r558a.tec,4,Valuan Gunboat,True,-1,0,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+4,r558a.tec,4,Valuan Gunboat,True,3,50,2,Focus,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
+5,r558a.tec,4,Valuan Gunboat,True,3,50,0,Attack,2,Torpedo,-1,None,1,0,Attack,0,Large Cannon,-1,None,0
+6,r558a.tec,4,Valuan Gunboat,True,3,50,4,Nothing,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
+7,r558a.tec,4,Valuan Gunboat,True,-1,0,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+8,r558a.tec,4,Valuan Gunboat,True,3,50,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+9,r558a.tec,4,Valuan Gunboat,True,3,50,2,Focus,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
+10,r558a.tec,4,Valuan Gunboat,True,-1,0,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+11,r558a.tec,4,Valuan Gunboat,True,3,50,4,Nothing,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
+12,r558a.tec,4,Valuan Gunboat,True,3,50,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,2,Torpedo,-1,None,1
+13,r558a.tec,4,Valuan Gunboat,True,-1,0,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+14,r558a.tec,4,Valuan Gunboat,True,3,50,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
+15,r558a.tec,4,Valuan Gunboat,True,3,50,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
 0,r559a.tec,22,Spell Pirates,False,-1,0,0,Attack,1,Black Torpedo,-1,None,3,0,Attack,-1,None,-1,None,0
 1,r559a.tec,22,Spell Pirates,False,3,50,0,Attack,0,Black Cannon,-1,None,0,0,Attack,1,Black Torpedo,-1,None,2
 2,r559a.tec,22,Spell Pirates,False,3,70,1,Magic,-1,None,25,Pyrum,0,2,Focus,-1,None,-1,None,0

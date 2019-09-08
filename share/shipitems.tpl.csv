@@ -1,15 +1,15 @@
 Entry ID,[Entry name],[Finalized],Occ. flags,[Menu],[Battle],[Ship battle],Ship effect ID,[Ship effect name],Ship effect turns,Consume%,Purchase price,Retail price in %,Ship effect amount,Element ID,[Element name],Unk. #0,Unk. #1,Hit%
-480,Bomb,False,1,,,X,107,Damage (Ship),-1,100,200,50,80,6,Neutral,0,0,0
-481,Big Bomb,False,1,,,X,107,Damage (Ship),-1,100,250,50,120,6,Neutral,0,0,0
-482,Concussion Bomb,False,1,,,X,107,Damage (Ship),-1,100,300,50,150,6,Neutral,0,0,0
-483,Shredder Bomb,False,1,,,X,107,Damage (Ship),-1,100,580,50,250,6,Neutral,0,0,0
-484,Pyro Bomb,False,1,,,X,107,Damage (Ship),-1,100,700,50,240,1,Red,1,0,0
-485,Frost Bomb,False,1,,,X,107,Damage (Ship),-1,100,700,50,240,2,Purple,1,0,0
-486,Silencer Bomb,False,1,,,X,116,Add Silence (Ship),0,100,750,50,0,2,Purple,0,165,60
-487,Thunder Bomb,False,1,,,X,107,Damage (Ship),-1,100,700,50,240,4,Yellow,1,0,0
-488,Electro Bomb,False,1,,,X,106,Add Weak (Ship),2,100,950,50,0,4,Yellow,0,1,60
-489,Wave Bomb,False,1,,,X,107,Damage (Ship),-1,100,700,50,240,3,Blue,1,0,0
-490,Repair Kit,False,5,X,,X,100,Recover HP (Ship),-1,100,200,50,400,0,Green,0,0,0
+480,Bomb,True,1,,,X,107,Damage (Ship),-1,100,100,100,80,6,Neutral,0,0,0
+481,Big Bomb,True,1,,,X,107,Damage (Ship),-1,100,250,100,120,6,Neutral,0,0,0
+482,Concussion Bomb,False,1,,,X,107,Damage (Ship),-1,100,400,100,150,6,Neutral,0,0,0
+483,Shredder Bomb,False,1,,,X,107,Damage (Ship),-1,100,500,100,250,6,Neutral,0,0,0
+484,Pyro Bomb,False,1,,,X,107,Damage (Ship),-1,100,500,100,240,1,Red,1,0,0
+485,Frost Bomb,False,1,,,X,107,Damage (Ship),-1,100,500,100,240,2,Purple,1,0,0
+486,Silencer Bomb,False,1,,,X,116,Add Silence (Ship),0,100,500,100,0,2,Purple,0,165,60
+487,Thunder Bomb,False,1,,,X,107,Damage (Ship),-1,100,500,100,240,4,Yellow,1,0,0
+488,Electro Bomb,False,1,,,X,106,Add Weak (Ship),2,100,500,100,0,4,Yellow,0,1,60
+489,Wave Bomb,False,1,,,X,107,Damage (Ship),-1,100,700,100,240,3,Blue,1,0,0
+490,Repair Kit,True,5,X,,X,100,Recover HP (Ship),-1,100,250,50,400,0,Green,0,0,0
 491,Deluxe Kit,False,5,X,,X,100,Recover HP (Ship),-1,100,600,50,800,0,Green,0,0,0
 492,Magic Kit,False,5,X,,X,101,Recover HP to 100% (Ship),-1,100,5000,50,0,0,Green,0,0,0
 493,Complete Kit,False,5,X,,X,100,Recover HP (Ship),-1,100,1800,50,1600,0,Green,0,0,0
