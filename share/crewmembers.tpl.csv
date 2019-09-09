@@ -4,7 +4,7 @@ Entry ID,[Entry name],[Finalized],Pos. ID,[Pos. name],Feat. ID,[Feat. name],Feat
 2,Brabham,True,1,Engineer,2,Defense,20,-1,None,-1,-1,0
 3,Hans,True,1,Engineer,3,MagDef,20,-1,None,-1,-1,0
 4,Belle,True,2,Gunner,64,Secondary cannon attack,50,-1,None,-1,-1,0
-5,Khazim,True,2,Gunner,48,Main cannon  attack,25,-1,None,-1,-1,0
+5,Khazim,True,2,Gunner,48,Main cannon attack,25,-1,None,-1,-1,0
 6,Tikatika,True,3,Lookout,81,Torpedo hit%,10,-1,None,-1,-1,0
 7,Domingo,True,3,Lookout,-1,None,0,112,Improve Critical% (Ship),6,0,0
 8,Osman,True,4,Merchant,-1,None,0,-1,None,-1,-1,0

@@ -58,6 +58,7 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 
 ![Title](doc/title.png)
 ![Antonio](doc/antonio.png)
+![Recumen](doc/recumen.png)
 
 ### Acknowledgments
 
