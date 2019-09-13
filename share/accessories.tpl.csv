@@ -12,19 +12,19 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 170,Marocca's Shell,True,53,X,X,,X,,X,50,130,17,Defense,6,84,Random encounter%,2,-1,None,0,-1,None,0
 171,Burocca's Shell,False,53,X,X,,X,,X,50,1920,17,Defense,36,84,Random encounter%,2,-1,None,0,-1,None,0
 172,Crylhound's Claw,True,53,X,X,,X,,X,50,420,19,Hit%,20,16,Attack,2,84,Random encounter%,2,-1,None,0
-173,Hunter's Hand,False,53,X,X,,X,,X,50,1010,19,Hit%,40,16,Attack,4,84,Random encounter%,2,-1,None,0
+173,Hunter's Hand,True,53,X,X,,X,,X,50,1010,19,Hit%,40,16,Attack,4,84,Random encounter%,2,-1,None,0
 174,Thief's Aura,True,61,X,X,X,X,,X,50,330,20,Dodge%,10,17,Defense,2,84,Random encounter%,2,-1,None,0
-175,Quetya Feather,False,61,X,X,X,X,,X,50,810,20,Dodge%,20,17,Defense,4,84,Random encounter%,2,-1,None,0
+175,Quetya Feather,True,61,X,X,X,X,,X,50,810,20,Dodge%,20,17,Defense,4,84,Random encounter%,2,-1,None,0
 176,Vigoro's Chain,False,37,X,,,X,,X,50,2890,16,Attack,20,19,Hit%,30,84,Random encounter%,2,-1,None,0
 177,Sailor's Buckler,False,55,X,X,,X,X,X,50,1930,17,Defense,20,20,Dodge%,15,84,Random encounter%,2,-1,None,0
-178,Warrior's Rune,False,57,X,X,X,,,X,100,10,16,Attack,10,17,Defense,10,19,Hit%,10,20,Dodge%,5
+178,Warrior's Rune,True,57,X,X,X,,,X,100,10,16,Attack,10,17,Defense,10,19,Hit%,10,20,Dodge%,5
 179,Ancient Bracer,False,53,X,X,,X,,X,100,10,16,Attack,20,17,Defense,20,19,Hit%,20,20,Dodge%,10
-180,Counter Bracer,False,53,X,X,,X,,X,100,10,73,Counter%,20,16,Attack,20,19,Hit%,20,84,Random encounter%,2
+180,Counter Bracer,True,53,X,X,,X,,X,100,10,73,Counter%,20,16,Attack,20,19,Hit%,20,84,Random encounter%,2
 181,Defensive Aura,False,24,,X,X,,,,100,10,65,Block attacks,1,77,Recover spirit,-1,54,Fatigue,-10,84,Random encounter%,2
 182,Ivy Band,True,63,X,X,X,X,X,X,100,100,48,Poison,-2,32,Green,-2,17,Defense,5,18,MagDef,5
 183,Silvite Ring,True,63,X,X,X,X,X,X,100,100,49,Death,-2,37,Silver,-2,17,Defense,5,18,MagDef,5
 184,Gem of Fluidity,True,63,X,X,X,X,X,X,100,100,50,Stone,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2
-185,Wind Gem Ring,False,63,X,X,X,X,X,X,100,100,51,Sleep,-2,35,Blue,-2,17,Defense,5,18,MagDef,5
+185,Wind Gem Ring,True,63,X,X,X,X,X,X,100,100,51,Sleep,-2,35,Blue,-2,17,Defense,5,18,MagDef,5
 186,Eye of Truth,False,63,X,X,X,X,X,X,100,100,52,Confuse,-2,34,Purple,-2,17,Defense,5,18,MagDef,5
 187,Revered Voice,True,63,X,X,X,X,X,X,100,100,53,Silence,-2,34,Purple,-2,17,Defense,5,18,MagDef,5
 188,Everlasting Gem,True,63,X,X,X,X,X,X,100,100,54,Fatigue,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2

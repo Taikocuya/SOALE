@@ -1,6 +1,6 @@
 Entry ID,[Entry name],[Finalized],Ship flags,[LJ0],[LJ1],[D0],[D1],[D2],Feat. #0 ID,[Feat. #0 name],Feat. #0 value,Feat. #1 ID,[Feat. #1 name],Feat. #1 value,Feat. #2 ID,[Feat. #2 name],Feat. #2 value,Feat. #3 ID,[Feat. #3 name],Feat. #3 value,Purchase price,Retail price in %
 440,Rogue Figure,True,62,X,X,X,X,X,7,Value,800,3,MagDef,11,-1,None,0,-1,None,0,800,50
-441,Pryn Figure,False,62,X,X,X,X,X,7,Value,2400,3,MagDef,15,-1,None,0,-1,None,0,2400,50
+441,Pryn Figure,True,62,X,X,X,X,X,7,Value,2400,3,MagDef,15,-1,None,0,-1,None,0,2400,50
 442,Pyrynn Figure,False,62,X,X,X,X,X,7,Value,4400,3,MagDef,20,-1,None,0,-1,None,0,4400,50
 443,Arcwhale Figure,False,62,X,X,X,X,X,7,Value,4640,3,MagDef,25,-1,None,0,-1,None,0,4640,50
 444,Quetya Figure,False,62,X,X,X,X,X,7,Value,4880,3,MagDef,30,-1,None,0,-1,None,0,4880,50
@@ -11,7 +11,7 @@ Entry ID,[Entry name],[Finalized],Ship flags,[LJ0],[LJ1],[D0],[D1],[D2],Feat. #0
 449,Spherical Figure,False,62,X,X,X,X,X,7,Value,13500,3,MagDef,100,-1,None,0,-1,None,0,13500,50
 450,Engine Cover,True,62,X,X,X,X,X,7,Value,800,4,Quick,9,6,Dodge%,1,-1,None,0,800,50
 451,Turbo Kit,True,62,X,X,X,X,X,7,Value,1520,4,Quick,15,6,Dodge%,1,-1,None,0,1520,50
-452,Bore-up Kit,False,62,X,X,X,X,X,7,Value,2400,4,Quick,20,6,Dodge%,1,-1,None,0,2400,50
+452,Bore-up Kit,True,62,X,X,X,X,X,7,Value,2400,4,Quick,19,6,Dodge%,1,-1,None,0,2400,50
 453,Twin Propellers,False,62,X,X,X,X,X,7,Value,3200,4,Quick,25,6,Dodge%,3,-1,None,0,3200,50
 454,Air Intake,False,62,X,X,X,X,X,7,Value,6800,4,Quick,30,6,Dodge%,3,-1,None,0,6800,50
 455,Twin Turbo,False,62,X,X,X,X,X,7,Value,8800,4,Quick,40,6,Dodge%,3,-1,None,0,8800,50
@@ -31,7 +31,7 @@ Entry ID,[Entry name],[Finalized],Ship flags,[LJ0],[LJ1],[D0],[D1],[D2],Feat. #0
 469,Sparkling Deck,False,62,X,X,X,X,X,7,Value,13500,2,Defense,100,6,Dodge%,2,4,Quick,6,13500,50
 470,Intercom,True,62,X,X,X,X,X,7,Value,1000,2,Defense,3,3,MagDef,3,4,Quick,5,1000,50
 471,Enhanced Kitchen,False,62,X,X,X,X,X,7,Value,5500,2,Defense,1,-1,None,0,-1,None,0,5500,50
-472,Floor Heater,False,62,X,X,X,X,X,7,Value,3000,3,MagDef,1,-1,None,0,-1,None,0,3000,50
+472,Floor Heater,True,62,X,X,X,X,X,7,Value,1500,3,MagDef,9,6,Dodge%,2,4,Quick,4,1500,50
 473,Air Purifier,False,62,X,X,X,X,X,7,Value,5800,3,MagDef,2,-1,None,0,-1,None,0,5800,50
 474,Yafutoman Alcove,False,62,X,X,X,X,X,7,Value,6700,3,MagDef,2,-1,None,0,-1,None,0,6700,50
 475,Soundproofing,False,62,X,X,X,X,X,7,Value,11000,2,Defense,1,-1,None,0,-1,None,0,11000,50

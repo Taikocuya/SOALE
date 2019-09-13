@@ -8,7 +8,7 @@ Entry ID,[Entry name],[Finalized],Chara. ID,[Chara. name],Retail price in %,Effe
 6,Iron-cutter,False,0,Vyse,50,-1,None,3870,112,90,-1,None,0
 7,Nasr Cutlass,True,0,Vyse,50,-1,None,1340,70,90,-1,None,0
 8,Sword of Daccat,False,0,Vyse,50,1,Add Sleep #1,4690,120,90,-1,None,0
-9,Hunter's Sword,False,0,Vyse,50,-1,None,2280,87,90,-1,None,0
+9,Hunter's Sword,True,0,Vyse,50,-1,None,2280,87,90,-1,None,0
 10,Stonecutter,False,0,Vyse,50,-1,None,3120,99,90,-1,None,0
 11,Dream Cutlass,False,0,Vyse,50,-1,None,6690,137,90,35,Blue,-2
 12,Windslicer,False,0,Vyse,50,-1,None,8760,153,90,-1,None,0
@@ -21,7 +21,7 @@ Entry ID,[Entry name],[Finalized],Chara. ID,[Chara. name],Retail price in %,Effe
 19,Ice Splitter,False,1,Aika,50,-1,None,7390,142,110,34,Purple,-2
 20,Leather Crescent,True,1,Aika,50,-1,None,180,30,110,-1,None,0
 21,Throwing Blade,True,1,Aika,50,-1,None,310,38,110,-1,None,0
-22,Hunting Arc,False,1,Aika,50,-1,None,1820,80,110,-1,None,0
+22,Hunting Arc,True,1,Aika,50,-1,None,1820,80,110,-1,None,0
 23,Valuarang,False,1,Aika,50,-1,None,480,46,110,-1,None,0
 24,Yin Wing,False,1,Aika,50,17,Add Sleep #5,5930,130,110,-1,None,0
 25,Dancing Arc,True,1,Aika,50,-1,None,1100,65,110,-1,None,0

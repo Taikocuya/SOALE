@@ -15,9 +15,9 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 93,Nasrean Mail,True,63,X,X,X,X,X,X,50,12,920,17,Defense,66,18,MagDef,66,33,Red,-2,84,Random encounter%,2
 94,Ceramic Armor,True,37,X,,,X,,X,50,13,1040,17,Defense,73,18,MagDef,62,84,Random encounter%,2,-1,None,0
 95,Agile Robe,False,10,,,X,,X,,50,14,930,17,Defense,65,18,MagDef,65,19,Hit%,10,20,Dodge%,5
-96,Miner's Overalls,False,39,X,,,X,X,X,25,18,910,17,Defense,87,18,MagDef,80,84,Random encounter%,2,-1,None,0
-97,Fiber Robe,False,26,,X,X,,X,,50,19,1040,17,Defense,77,18,MagDef,90,84,Random encounter%,2,-1,None,0
-98,Golden Armor,False,37,X,,,X,,X,100,20,2480,17,Defense,90,18,MagDef,77,84,Random encounter%,2,-1,None,0
+96,Miner's Overalls,True,39,X,,,X,X,X,25,18,910,17,Defense,87,18,MagDef,80,84,Random encounter%,2,-1,None,0
+97,Fiber Robe,True,26,,X,X,,X,,50,19,1040,17,Defense,77,18,MagDef,90,84,Random encounter%,2,-1,None,0
+98,Golden Armor,True,37,X,,,X,,X,100,20,2480,17,Defense,90,18,MagDef,77,84,Random encounter%,2,-1,None,0
 99,Ixa'takan Armor,False,63,X,X,X,X,X,X,50,31,2790,17,Defense,109,18,MagDef,109,32,Green,-2,84,Random encounter%,2
 100,Naval Uniform,False,53,X,X,,X,,X,50,32,2470,17,Defense,112,18,MagDef,112,84,Random encounter%,2,-1,None,0
 101,Nasr Uniform,False,39,X,,,X,X,X,50,24,2070,17,Defense,104,18,MagDef,96,84,Random encounter%,2,-1,None,0
@@ -51,7 +51,7 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 129,Moss Armor,False,10,,,X,,X,,100,38,1280,17,Defense,126,18,MagDef,126,19,Hit%,20,20,Dodge%,10
 130,Moonlight Robe,False,24,,X,X,,,,100,43,4460,17,Defense,134,18,MagDef,145,20,Dodge%,20,84,Random encounter%,2
 131,Silver Armor,False,63,X,X,X,X,X,X,100,51,8580,17,Defense,160,18,MagDef,160,37,Silver,-2,84,Random encounter%,2
-132,Victory Mail,False,63,X,X,X,X,X,X,100,22,620,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5
+132,Victory Mail,True,63,X,X,X,X,X,X,100,22,620,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5
 133,Flame Mantle,True,39,X,,,X,X,X,100,16,390,17,Defense,74,18,MagDef,69,84,Random encounter%,2,-1,None,0
 134,Female Armor,False,24,,X,X,,,,100,23,660,17,Defense,92,18,MagDef,99,84,Random encounter%,2,-1,None,0
 135,Ghost Mail,False,53,X,X,,X,,X,100,37,1310,17,Defense,128,18,MagDef,128,84,Random encounter%,2,-1,None,0

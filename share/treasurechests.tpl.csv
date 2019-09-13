@@ -15,10 +15,10 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 13,Maramba,True,122,Nasr Combat Mail,1
 14,Maramba,True,184,Gem of Fluidity,1
 15,Maramba,True,55,Excavation Arm,1
-16,,False,258,Moonberry,1
-17,,False,275,Sacri Box,1
-18,,False,260,Paranta Seed,1
-19,,False,240,Sacri Crystal,25
+16,Horteka,True,258,Moonberry,1
+17,Horteka,True,275,Sacri Box,1
+18,Horteka,True,260,Paranta Seed,1
+19,Horteka,True,244,Magic Droplet,25
 20,,False,264,Sylph Seed,1
 21,,False,258,Moonberry,1
 22,,False,518,Gold,1827

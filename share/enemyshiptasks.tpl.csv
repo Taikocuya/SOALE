@@ -1039,22 +1039,22 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],[Finalized],Unk.,Task rating
 21,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
 22,r555a.tec,1,Valuan Spellship,True,3,30,3,Guard,-1,None,-1,None,0,2,Focus,-1,None,0,Focus,0
 23,r555a.tec,1,Valuan Spellship,True,-1,0,1,Magic,0,Small Cannon,24,Pyres,0,1,Magic,0,Small Cannon,24,Pyres,0
-0,r556a.tec,3,Valuan Phantom,False,0,50,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
-1,r556a.tec,3,Valuan Phantom,False,0,20,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
-2,r556a.tec,3,Valuan Phantom,False,3,30,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
-3,r556a.tec,3,Valuan Phantom,False,3,10,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Subcannon,-1,None,0
-4,r556a.tec,3,Valuan Phantom,False,0,20,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
-5,r556a.tec,3,Valuan Phantom,False,1,40,1,Magic,-1,None,6,Sacri,0,0,Attack,0,Standard Cannon,-1,None,0
-6,r556a.tec,3,Valuan Phantom,False,3,30,3,Guard,-1,None,0,Evasive Action,0,4,Nothing,-1,None,-1,None,0
-7,r556a.tec,3,Valuan Phantom,False,3,30,3,Guard,-1,None,0,Evasive Action,0,1,Magic,-1,None,23,Pyri,0
-8,r556a.tec,3,Valuan Phantom,False,1,20,1,Magic,-1,None,6,Sacri,0,0,Attack,1,Subcannon,-1,None,3
-9,r556a.tec,3,Valuan Phantom,False,1,10,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,23,Pyri,0
-10,r556a.tec,3,Valuan Phantom,False,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
-11,r556a.tec,3,Valuan Phantom,False,1,10,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,23,Pyri,0
-12,r556a.tec,3,Valuan Phantom,False,3,50,0,Attack,1,Subcannon,-1,None,2,2,Focus,-1,None,0,Focus,0
-13,r556a.tec,3,Valuan Phantom,False,1,30,3,Guard,-1,None,0,Evasive Action,0,4,Nothing,-1,None,-1,None,0
-14,r556a.tec,3,Valuan Phantom,False,3,30,1,Magic,-1,None,6,Sacri,0,2,Focus,-1,None,0,Focus,0
-15,r556a.tec,3,Valuan Phantom,False,3,50,2,Focus,-1,None,0,Focus,0,0,Attack,0,Standard Cannon,-1,None,0
+0,r556a.tec,3,Valuan Phantom,True,0,50,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
+1,r556a.tec,3,Valuan Phantom,True,0,20,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
+2,r556a.tec,3,Valuan Phantom,True,3,30,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
+3,r556a.tec,3,Valuan Phantom,True,3,10,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Subcannon,-1,None,0
+4,r556a.tec,3,Valuan Phantom,True,0,20,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
+5,r556a.tec,3,Valuan Phantom,True,1,40,1,Magic,-1,None,6,Sacri,0,0,Attack,0,Standard Cannon,-1,None,0
+6,r556a.tec,3,Valuan Phantom,True,3,30,3,Guard,-1,None,0,Evasive Action,0,4,Nothing,-1,None,-1,None,0
+7,r556a.tec,3,Valuan Phantom,True,3,30,3,Guard,-1,None,0,Evasive Action,0,1,Magic,-1,None,23,Pyri,0
+8,r556a.tec,3,Valuan Phantom,True,1,20,1,Magic,-1,None,6,Sacri,0,0,Attack,1,Subcannon,-1,None,3
+9,r556a.tec,3,Valuan Phantom,True,1,10,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,23,Pyri,0
+10,r556a.tec,3,Valuan Phantom,True,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+11,r556a.tec,3,Valuan Phantom,True,1,10,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,23,Pyri,0
+12,r556a.tec,3,Valuan Phantom,True,3,50,0,Attack,1,Subcannon,-1,None,2,2,Focus,-1,None,0,Focus,0
+13,r556a.tec,3,Valuan Phantom,True,1,30,3,Guard,-1,None,0,Evasive Action,0,4,Nothing,-1,None,-1,None,0
+14,r556a.tec,3,Valuan Phantom,True,3,30,1,Magic,-1,None,6,Sacri,0,2,Focus,-1,None,0,Focus,0
+15,r556a.tec,3,Valuan Phantom,True,3,50,2,Focus,-1,None,0,Focus,0,0,Attack,0,Standard Cannon,-1,None,0
 0,r557a.tec,4,Valuan Gunboat,False,0,50,0,Attack,2,Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
 1,r557a.tec,4,Valuan Gunboat,False,4,0,0,Attack,1,Heavy Subcannon,-1,None,1,2,Focus,-1,None,-1,None,0
 2,r557a.tec,4,Valuan Gunboat,False,3,50,2,Focus,-1,None,-1,None,0,4,Nothing,-1,None,-1,None,0
