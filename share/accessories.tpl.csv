@@ -5,7 +5,7 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 163,Moondust Ring,False,58,X,X,X,,X,,50,1530,1,Will,48,84,Random encounter%,2,-1,None,0,-1,None,0
 164,Lover's Ring,False,58,X,X,X,,X,,50,300,18,MagDef,12,1,Will,12,84,Random encounter%,2,-1,None,0
 165,Jade Swirl Ring,False,58,X,X,X,,X,,50,2960,18,MagDef,45,1,Will,45,84,Random encounter%,2,-1,None,0
-166,Cupil Ring,False,8,,,X,,,,100,2200,49,Death,-2,37,Silver,-2,18,MagDef,45,1,Will,45
+166,Cupil Ring,False,8,,,X,,,,100,2200,49,Death,-3,37,Silver,-2,18,MagDef,45,1,Will,45
 167,Warrior's Heart,False,58,X,X,X,,X,,100,10,77,Recover spirit,1,4,Quick,-75,84,Random encounter%,2,-1,None,0
 168,Throkryn's Scale,True,53,X,X,,X,,X,50,300,16,Attack,10,84,Random encounter%,2,-1,None,0,-1,None,0
 169,Thryllak's Scale,False,53,X,X,,X,,X,50,2300,16,Attack,36,84,Random encounter%,2,-1,None,0,-1,None,0
@@ -21,15 +21,15 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 179,Ancient Bracer,False,53,X,X,,X,,X,100,10,16,Attack,20,17,Defense,20,19,Hit%,20,20,Dodge%,10
 180,Counter Bracer,True,53,X,X,,X,,X,100,10,73,Counter%,20,16,Attack,20,19,Hit%,20,84,Random encounter%,2
 181,Defensive Aura,False,24,,X,X,,,,100,10,65,Block attacks,1,77,Recover spirit,-1,54,Fatigue,-10,84,Random encounter%,2
-182,Ivy Band,True,63,X,X,X,X,X,X,100,100,48,Poison,-2,32,Green,-2,17,Defense,5,18,MagDef,5
-183,Silvite Ring,True,63,X,X,X,X,X,X,100,100,49,Death,-2,37,Silver,-2,17,Defense,5,18,MagDef,5
-184,Gem of Fluidity,True,63,X,X,X,X,X,X,100,100,50,Stone,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2
-185,Wind Gem Ring,True,63,X,X,X,X,X,X,100,100,51,Sleep,-2,35,Blue,-2,17,Defense,5,18,MagDef,5
-186,Eye of Truth,False,63,X,X,X,X,X,X,100,100,52,Confuse,-2,34,Purple,-2,17,Defense,5,18,MagDef,5
-187,Revered Voice,True,63,X,X,X,X,X,X,100,100,53,Silence,-2,34,Purple,-2,17,Defense,5,18,MagDef,5
-188,Everlasting Gem,True,63,X,X,X,X,X,X,100,100,54,Fatigue,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2
-189,Behemoth's Ring,True,63,X,X,X,X,X,X,100,100,56,Weak,-2,36,Yellow,-2,17,Defense,5,18,MagDef,5
-190,Constitution Gem,False,5,,,,X,,X,100,1000,79,Block negative states,-2,17,Defense,10,18,MagDef,10,84,Random encounter%,2
+182,Ivy Band,True,63,X,X,X,X,X,X,100,100,48,Poison,-3,32,Green,-2,17,Defense,5,18,MagDef,5
+183,Silvite Ring,True,63,X,X,X,X,X,X,100,100,49,Death,-3,37,Silver,-2,17,Defense,5,18,MagDef,5
+184,Gem of Fluidity,True,63,X,X,X,X,X,X,100,100,50,Stone,-3,17,Defense,10,18,MagDef,10,84,Random encounter%,2
+185,Wind Gem Ring,True,63,X,X,X,X,X,X,100,100,51,Sleep,-3,35,Blue,-2,17,Defense,5,18,MagDef,5
+186,Eye of Truth,False,63,X,X,X,X,X,X,100,100,52,Confuse,-3,34,Purple,-2,17,Defense,5,18,MagDef,5
+187,Revered Voice,True,63,X,X,X,X,X,X,100,100,53,Silence,-3,34,Purple,-2,17,Defense,5,18,MagDef,5
+188,Everlasting Gem,True,63,X,X,X,X,X,X,100,100,54,Fatigue,-3,17,Defense,10,18,MagDef,10,84,Random encounter%,2
+189,Behemoth's Ring,True,63,X,X,X,X,X,X,100,100,56,Weak,-3,36,Yellow,-2,17,Defense,5,18,MagDef,5
+190,Constitution Gem,False,5,,,,X,,X,100,1000,79,Block negative states,-3,17,Defense,10,18,MagDef,10,84,Random encounter%,2
 191,Nomadic Veil,True,63,X,X,X,X,X,X,50,640,17,Defense,15,18,MagDef,15,84,Random encounter%,2,-1,None,0
 192,Radiant Fur,False,63,X,X,X,X,X,X,50,3580,17,Defense,24,18,MagDef,24,84,Random encounter%,2,-1,None,0
 193,Sand Storm Ring,True,63,X,X,X,X,X,X,50,770,16,Attack,15,1,Will,15,84,Random encounter%,2,-1,None,0
@@ -46,7 +46,7 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 204,Skyseer Goggles,True,48,X,X,,,,,50,40,19,Hit%,5,84,Random encounter%,2,-1,None,0,-1,None,0
 205,Nocturnal Sight,False,48,X,X,,,,,50,1930,19,Hit%,60,16,Attack,6,84,Random encounter%,2,-1,None,0
 206,Critical Vision,False,48,X,X,,,,,50,6660,19,Hit%,50,16,Attack,19,84,Random encounter%,2,-1,None,0
-207,Gem of Purity,False,5,,,,X,,X,50,300,79,Block negative states,-2,17,Defense,8,84,Random encounter%,2,-1,None,0
+207,Gem of Purity,False,5,,,,X,,X,50,300,79,Block negative states,-1,17,Defense,8,84,Random encounter%,2,-1,None,0
 208,Shard of Purity,False,5,,,,X,,X,50,4760,79,Block negative states,-2,17,Defense,38,84,Random encounter%,2,-1,None,0
 209,Fortune Ring,False,24,,X,X,,,,50,2145,20,Dodge%,75,17,Defense,8,84,Random encounter%,2,-1,None,0
 210,Black Map,True,32,X,,,,,,100,777,80,First strike%,25,82,???,0,83,Enemy run%,0,84,Random encounter%,2
@@ -57,7 +57,7 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 215,Silver Veil,False,24,,X,X,,,,100,100,1,Will,16,18,MagDef,16,84,Random encounter%,2,-1,None,0
 216,Imperial Crest,False,2,,,,,X,,100,1000,17,Defense,20,18,MagDef,20,84,Random encounter%,2,-1,None,0
 217,Gilder's Amulet,False,49,X,X,,,,X,100,500,17,Defense,11,18,MagDef,11,16,Attack,11,1,Will,11
-218,Valuan Medallion,False,63,X,X,X,X,X,X,100,5000,49,Death,-10,17,Defense,30,18,MagDef,30,84,Random encounter%,2
+218,Valuan Medallion,False,63,X,X,X,X,X,X,100,5000,49,Death,-3,17,Defense,30,18,MagDef,30,84,Random encounter%,2
 219,Immunity Ring,False,5,,,,X,,X,50,1490,79,Block negative states,-2,17,Defense,21,84,Random encounter%,2,-1,None,0
 220,Thermo Ring,True,63,X,X,X,X,X,X,50,200,33,Red,-1,34,Purple,-1,84,Random encounter%,2,-1,None,0
 221,Slayer Ring,True,63,X,X,X,X,X,X,50,600,1,Will,8,17,Defense,8,19,Hit%,10,4,Quick,8
