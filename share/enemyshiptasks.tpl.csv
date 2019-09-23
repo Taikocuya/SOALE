@@ -140,7 +140,7 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],[Finalized],Unk.,Task rating
 18,r509a.tec,12,Chameleon,True,-1,0,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,0,Revolver Cannon,-1,None,0
 19,r509a.tec,12,Chameleon,True,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
 20,r509a.tec,12,Chameleon,True,3,50,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,2
-21,r509a.tec,12,Chameleon,True,3,50,3,Guard,-1,None,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
+21,r509a.tec,12,Chameleon,True,3,30,3,Guard,-1,None,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
 22,r509a.tec,12,Chameleon,True,-1,0,0,Attack,0,Revolver Cannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
 23,r509a.tec,12,Chameleon,True,-1,0,0,Attack,3,Flamethrower,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
 24,r509a.tec,12,Chameleon,True,3,50,0,Attack,2,Type D Torpedo,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
