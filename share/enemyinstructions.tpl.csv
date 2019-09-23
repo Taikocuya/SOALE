@@ -444,15 +444,15 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 3,*,32,調査兵,Enforcer,False,1,Action,550,Attack,2,Random character
 4,*,32,調査兵,Enforcer,False,1,Action,70,Grenade,2,Random character
 5,*,32,調査兵,Enforcer,False,1,Action,551,Guard,-1,None
-1,*,33,ガランガラン,Serpentis,False,0,Strategy,34,???,3,???
-2,*,33,ガランガラン,Serpentis,False,0,Strategy,22,???,7,???
-3,*,33,ガランガラン,Serpentis,False,0,Strategy,26,???,6,???
-4,*,33,ガランガラン,Serpentis,False,0,Strategy,28,???,8,???
-5,*,33,ガランガラン,Serpentis,False,0,Strategy,30,???,9,???
-6,*,33,ガランガラン,Serpentis,False,1,Action,550,Attack,2,Random character
-7,*,33,ガランガラン,Serpentis,False,1,Action,524,Pyres,-1,None
-8,*,33,ガランガラン,Serpentis,False,1,Action,40,Terrible Bite,1,Common character
-9,*,33,ガランガラン,Serpentis,False,1,Action,551,Guard,-1,None
+1,*,33,ガランガラン,Serpentis,True,0,Strategy,34,???,3,???
+2,*,33,ガランガラン,Serpentis,True,0,Strategy,22,???,7,???
+3,*,33,ガランガラン,Serpentis,True,0,Strategy,26,???,6,???
+4,*,33,ガランガラン,Serpentis,True,0,Strategy,28,???,8,???
+5,*,33,ガランガラン,Serpentis,True,0,Strategy,30,???,9,???
+6,*,33,ガランガラン,Serpentis,True,1,Action,550,Attack,2,Random character
+7,*,33,ガランガラン,Serpentis,True,1,Action,524,Pyres,-1,None
+8,*,33,ガランガラン,Serpentis,True,1,Action,40,Terrible Bite,1,Common character
+9,*,33,ガランガラン,Serpentis,True,1,Action,551,Guard,-1,None
 1,*,34,マブルール,Dralnog,True,0,Strategy,44,???,3,???
 2,*,34,マブルール,Dralnog,True,0,Strategy,30,???,4,???
 3,*,34,マブルール,Dralnog,True,0,Strategy,26,???,17,???
@@ -641,39 +641,39 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 15,*,46,メスカリナ,Medulizk,False,1,Action,505,Drilnos,-1,None
 16,*,46,メスカリナ,Medulizk,False,1,Action,521,Wevles,2,Random character
 17,*,46,メスカリナ,Medulizk,False,1,Action,100,Magic?,-1,None
-1,*,47,プラニナ,Lucich,False,0,Strategy,44,???,3,???
-2,*,47,プラニナ,Lucich,False,0,Strategy,30,???,4,???
-3,*,47,プラニナ,Lucich,False,0,Strategy,26,???,17,???
-4,*,47,プラニナ,Lucich,False,0,Strategy,2,???,6,???
-5,*,47,プラニナ,Lucich,False,0,Strategy,30,???,7,???
-6,*,47,プラニナ,Lucich,False,0,Strategy,28,???,18,???
-7,*,47,プラニナ,Lucich,False,0,Strategy,1,???,9,???
-8,*,47,プラニナ,Lucich,False,0,Strategy,30,???,10,???
-9,*,47,プラニナ,Lucich,False,0,Strategy,24,???,18,???
-10,*,47,プラニナ,Lucich,False,0,Strategy,35,???,12,???
-11,*,47,プラニナ,Lucich,False,0,Strategy,22,???,19,???
-12,*,47,プラニナ,Lucich,False,0,Strategy,22,???,18,???
-13,*,47,プラニナ,Lucich,False,0,Strategy,27,???,16,???
-14,*,47,プラニナ,Lucich,False,0,Strategy,26,???,20,???
-15,*,47,プラニナ,Lucich,False,0,Strategy,30,???,17,???
-16,*,47,プラニナ,Lucich,False,1,Action,550,Attack,2,Random character
-17,*,47,プラニナ,Lucich,False,1,Action,552,Run,-1,None
-18,*,47,プラニナ,Lucich,False,1,Action,270,Self-destruct,-1,None
-19,*,47,プラニナ,Lucich,False,1,Action,517,Eterni,1,Common character
-20,*,47,プラニナ,Lucich,False,1,Action,100,Magic?,-1,None
-1,*,48,デ式ディガー,Digger,False,0,Strategy,11,???,6,???
-2,*,48,デ式ディガー,Digger,False,0,Strategy,24,???,10,???
-3,*,48,デ式ディガー,Digger,False,0,Strategy,22,???,11,???
-4,*,48,デ式ディガー,Digger,False,0,Strategy,25,???,12,???
-5,*,48,デ式ディガー,Digger,False,0,Strategy,30,???,13,???
-6,*,48,デ式ディガー,Digger,False,0,Strategy,25,???,10,???
-7,*,48,デ式ディガー,Digger,False,0,Strategy,24,???,11,???
-8,*,48,デ式ディガー,Digger,False,0,Strategy,27,???,12,???
-9,*,48,デ式ディガー,Digger,False,0,Strategy,30,???,13,???
-10,*,48,デ式ディガー,Digger,False,1,Action,550,Attack,2,Random character
-11,*,48,デ式ディガー,Digger,False,1,Action,551,Guard,-1,None
-12,*,48,デ式ディガー,Digger,False,1,Action,162,Fatigue Gas,18,Character without Fatigue
-13,*,48,デ式ディガー,Digger,False,1,Action,220,Rapid Fire,2,Random character
+1,*,47,プラニナ,Lucich,True,0,Strategy,44,???,3,???
+2,*,47,プラニナ,Lucich,True,0,Strategy,30,???,4,???
+3,*,47,プラニナ,Lucich,True,0,Strategy,26,???,17,???
+4,*,47,プラニナ,Lucich,True,0,Strategy,2,???,6,???
+5,*,47,プラニナ,Lucich,True,0,Strategy,30,???,7,???
+6,*,47,プラニナ,Lucich,True,0,Strategy,28,???,18,???
+7,*,47,プラニナ,Lucich,True,0,Strategy,1,???,9,???
+8,*,47,プラニナ,Lucich,True,0,Strategy,30,???,10,???
+9,*,47,プラニナ,Lucich,True,0,Strategy,24,???,18,???
+10,*,47,プラニナ,Lucich,True,0,Strategy,35,???,12,???
+11,*,47,プラニナ,Lucich,True,0,Strategy,22,???,19,???
+12,*,47,プラニナ,Lucich,True,0,Strategy,22,???,18,???
+13,*,47,プラニナ,Lucich,True,0,Strategy,27,???,16,???
+14,*,47,プラニナ,Lucich,True,0,Strategy,26,???,20,???
+15,*,47,プラニナ,Lucich,True,0,Strategy,30,???,17,???
+16,*,47,プラニナ,Lucich,True,1,Action,550,Attack,2,Random character
+17,*,47,プラニナ,Lucich,True,1,Action,552,Run,-1,None
+18,*,47,プラニナ,Lucich,True,1,Action,270,Self-destruct,-1,None
+19,*,47,プラニナ,Lucich,True,1,Action,517,Eterni,1,Common character
+20,*,47,プラニナ,Lucich,True,1,Action,100,Magic?,-1,None
+1,*,48,デ式ディガー,Digger,True,0,Strategy,11,???,6,???
+2,*,48,デ式ディガー,Digger,True,0,Strategy,24,???,10,???
+3,*,48,デ式ディガー,Digger,True,0,Strategy,22,???,11,???
+4,*,48,デ式ディガー,Digger,True,0,Strategy,25,???,12,???
+5,*,48,デ式ディガー,Digger,True,0,Strategy,30,???,13,???
+6,*,48,デ式ディガー,Digger,True,0,Strategy,25,???,10,???
+7,*,48,デ式ディガー,Digger,True,0,Strategy,24,???,11,???
+8,*,48,デ式ディガー,Digger,True,0,Strategy,27,???,12,???
+9,*,48,デ式ディガー,Digger,True,0,Strategy,30,???,13,???
+10,*,48,デ式ディガー,Digger,True,1,Action,550,Attack,2,Random character
+11,*,48,デ式ディガー,Digger,True,1,Action,551,Guard,-1,None
+12,*,48,デ式ディガー,Digger,True,1,Action,162,Fatigue Gas,18,Character without Fatigue
+13,*,48,デ式ディガー,Digger,True,1,Action,220,Rapid Fire,2,Random character
 1,*,49,レナウト,Flat Fiend,False,0,Strategy,11,???,6,???
 2,*,49,レナウト,Flat Fiend,False,0,Strategy,12,???,9,???
 3,*,49,レナウト,Flat Fiend,False,0,Strategy,28,???,11,???
@@ -1024,20 +1024,20 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 17,*,72,警備士,Patrol Guard,True,1,Action,513,Quika,-1,None
 18,*,72,警備士,Patrol Guard,True,1,Action,532,Electri,2,Random character
 19,*,72,警備士,Patrol Guard,True,1,Action,80,Sacres Crystal,7,Injured enemy
-1,*,73,採掘士,Mine Patrol,False,0,Strategy,11,???,4,???
-2,*,73,採掘士,Mine Patrol,False,0,Strategy,12,???,6,???
-3,*,73,採掘士,Mine Patrol,False,0,Strategy,30,???,7,???
-4,*,73,採掘士,Mine Patrol,False,0,Strategy,22,???,13,???
-5,*,73,採掘士,Mine Patrol,False,0,Strategy,30,???,7,???
-6,*,73,採掘士,Mine Patrol,False,0,Strategy,21,???,13,???
-7,*,73,採掘士,Mine Patrol,False,0,Strategy,26,???,11,???
-8,*,73,採掘士,Mine Patrol,False,0,Strategy,24,???,12,???
-9,*,73,採掘士,Mine Patrol,False,0,Strategy,33,???,11,???
-10,*,73,採掘士,Mine Patrol,False,0,Strategy,30,???,14,???
-11,*,73,採掘士,Mine Patrol,False,1,Action,550,Attack,2,Random character
-12,*,73,採掘士,Mine Patrol,False,1,Action,551,Guard,-1,None
-13,*,73,採掘士,Mine Patrol,False,1,Action,513,Quika,-1,None
-14,*,73,採掘士,Mine Patrol,False,1,Action,527,Crystales,7,Injured enemy
+1,*,73,採掘士,Mine Patrol,True,0,Strategy,11,???,4,???
+2,*,73,採掘士,Mine Patrol,True,0,Strategy,12,???,6,???
+3,*,73,採掘士,Mine Patrol,True,0,Strategy,30,???,7,???
+4,*,73,採掘士,Mine Patrol,True,0,Strategy,22,???,13,???
+5,*,73,採掘士,Mine Patrol,True,0,Strategy,30,???,7,???
+6,*,73,採掘士,Mine Patrol,True,0,Strategy,21,???,13,???
+7,*,73,採掘士,Mine Patrol,True,0,Strategy,26,???,11,???
+8,*,73,採掘士,Mine Patrol,True,0,Strategy,24,???,12,???
+9,*,73,採掘士,Mine Patrol,True,0,Strategy,33,???,11,???
+10,*,73,採掘士,Mine Patrol,True,0,Strategy,30,???,14,???
+11,*,73,採掘士,Mine Patrol,True,1,Action,550,Attack,2,Random character
+12,*,73,採掘士,Mine Patrol,True,1,Action,551,Guard,-1,None
+13,*,73,採掘士,Mine Patrol,True,1,Action,513,Quika,-1,None
+14,*,73,採掘士,Mine Patrol,True,1,Action,527,Crystales,7,Injured enemy
 1,*,74,アスヒモス,Forst Worm,False,0,Strategy,1,???,7,???
 2,*,74,アスヒモス,Forst Worm,False,0,Strategy,23,???,12,???
 3,*,74,アスヒモス,Forst Worm,False,0,Strategy,22,???,13,???
@@ -2663,84 +2663,20 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[US enemy name],[Finalized],Instr. 
 5,*,169,アルシノ,Kantor,True,0,Strategy,30,???,7,???
 6,*,169,アルシノ,Kantor,True,1,Action,550,Attack,2,Random character
 7,*,169,アルシノ,Kantor,True,1,Action,5,Thunder of Fury,2,Random character
-1,*,170,ピアストル,Piastol,False,0,Strategy,2,???,23,???
-2,*,170,ピアストル,Piastol,False,0,Strategy,17,???,26,???
-3,*,170,ピアストル,Piastol,False,0,Strategy,19,???,5,???
-4,*,170,ピアストル,Piastol,False,0,Strategy,30,???,26,???
-5,*,170,ピアストル,Piastol,False,0,Strategy,1,???,18,???
-6,*,170,ピアストル,Piastol,False,0,Strategy,50,???,15,???
-7,*,170,ピアストル,Piastol,False,0,Strategy,49,???,12,???
-8,*,170,ピアストル,Piastol,False,0,Strategy,22,???,35,???
-9,*,170,ピアストル,Piastol,False,0,Strategy,24,???,34,???
-10,*,170,ピアストル,Piastol,False,0,Strategy,28,???,36,???
-11,*,170,ピアストル,Piastol,False,0,Strategy,30,???,38,???
-12,*,170,ピアストル,Piastol,False,0,Strategy,22,???,35,???
-13,*,170,ピアストル,Piastol,False,0,Strategy,26,???,36,???
-14,*,170,ピアストル,Piastol,False,0,Strategy,30,???,34,???
-15,*,170,ピアストル,Piastol,False,0,Strategy,23,???,34,???
-16,*,170,ピアストル,Piastol,False,0,Strategy,24,???,37,???
-17,*,170,ピアストル,Piastol,False,0,Strategy,30,???,38,???
-18,*,170,ピアストル,Piastol,False,0,Strategy,24,???,36,???
-19,*,170,ピアストル,Piastol,False,0,Strategy,22,???,34,???
-20,*,170,ピアストル,Piastol,False,0,Strategy,24,???,39,???
-21,*,170,ピアストル,Piastol,False,0,Strategy,24,???,37,???
-22,*,170,ピアストル,Piastol,False,0,Strategy,30,???,38,???
-23,*,170,ピアストル,Piastol,False,0,Strategy,24,???,35,???
-24,*,170,ピアストル,Piastol,False,0,Strategy,25,???,36,???
-25,*,170,ピアストル,Piastol,False,0,Strategy,30,???,37,???
-26,*,170,ピアストル,Piastol,False,0,Strategy,50,???,31,???
-27,*,170,ピアストル,Piastol,False,0,Strategy,49,???,29,???
-28,*,170,ピアストル,Piastol,False,0,Strategy,30,???,37,???
-29,*,170,ピアストル,Piastol,False,0,Strategy,27,???,35,???
-30,*,170,ピアストル,Piastol,False,0,Strategy,30,???,36,???
-31,*,170,ピアストル,Piastol,False,0,Strategy,25,???,37,???
-32,*,170,ピアストル,Piastol,False,0,Strategy,26,???,38,???
-33,*,170,ピアストル,Piastol,False,0,Strategy,30,???,34,???
-34,*,170,ピアストル,Piastol,False,1,Action,550,Attack,2,Random character
-35,*,170,ピアストル,Piastol,False,1,Action,304,Tempest Dance,3,Character with most HP
-36,*,170,ピアストル,Piastol,False,1,Action,306,Deluge,-1,None
-37,*,170,ピアストル,Piastol,False,1,Action,518,Eternes,-1,None
-38,*,170,ピアストル,Piastol,False,1,Action,531,Wevlum,2,Random character
-39,*,170,ピアストル,Piastol,False,1,Action,551,Guard,-1,None
-1,*,171,ピアストル,Piastol,False,0,Strategy,2,???,23,???
-2,*,171,ピアストル,Piastol,False,0,Strategy,17,???,26,???
-3,*,171,ピアストル,Piastol,False,0,Strategy,19,???,5,???
-4,*,171,ピアストル,Piastol,False,0,Strategy,30,???,26,???
-5,*,171,ピアストル,Piastol,False,0,Strategy,1,???,18,???
-6,*,171,ピアストル,Piastol,False,0,Strategy,50,???,15,???
-7,*,171,ピアストル,Piastol,False,0,Strategy,49,???,12,???
-8,*,171,ピアストル,Piastol,False,0,Strategy,22,???,35,???
-9,*,171,ピアストル,Piastol,False,0,Strategy,24,???,34,???
-10,*,171,ピアストル,Piastol,False,0,Strategy,28,???,36,???
-11,*,171,ピアストル,Piastol,False,0,Strategy,30,???,38,???
-12,*,171,ピアストル,Piastol,False,0,Strategy,22,???,35,???
-13,*,171,ピアストル,Piastol,False,0,Strategy,26,???,36,???
-14,*,171,ピアストル,Piastol,False,0,Strategy,30,???,34,???
-15,*,171,ピアストル,Piastol,False,0,Strategy,23,???,34,???
-16,*,171,ピアストル,Piastol,False,0,Strategy,24,???,37,???
-17,*,171,ピアストル,Piastol,False,0,Strategy,30,???,38,???
-18,*,171,ピアストル,Piastol,False,0,Strategy,24,???,36,???
-19,*,171,ピアストル,Piastol,False,0,Strategy,22,???,34,???
-20,*,171,ピアストル,Piastol,False,0,Strategy,24,???,39,???
-21,*,171,ピアストル,Piastol,False,0,Strategy,24,???,37,???
-22,*,171,ピアストル,Piastol,False,0,Strategy,30,???,38,???
-23,*,171,ピアストル,Piastol,False,0,Strategy,24,???,35,???
-24,*,171,ピアストル,Piastol,False,0,Strategy,25,???,36,???
-25,*,171,ピアストル,Piastol,False,0,Strategy,30,???,37,???
-26,*,171,ピアストル,Piastol,False,0,Strategy,50,???,31,???
-27,*,171,ピアストル,Piastol,False,0,Strategy,49,???,29,???
-28,*,171,ピアストル,Piastol,False,0,Strategy,30,???,37,???
-29,*,171,ピアストル,Piastol,False,0,Strategy,27,???,35,???
-30,*,171,ピアストル,Piastol,False,0,Strategy,30,???,36,???
-31,*,171,ピアストル,Piastol,False,0,Strategy,25,???,37,???
-32,*,171,ピアストル,Piastol,False,0,Strategy,26,???,38,???
-33,*,171,ピアストル,Piastol,False,0,Strategy,30,???,34,???
-34,*,171,ピアストル,Piastol,False,1,Action,550,Attack,2,Random character
-35,*,171,ピアストル,Piastol,False,1,Action,304,Tempest Dance,3,Character with most HP
-36,*,171,ピアストル,Piastol,False,1,Action,306,Deluge,-1,None
-37,*,171,ピアストル,Piastol,False,1,Action,518,Eternes,-1,None
-38,*,171,ピアストル,Piastol,False,1,Action,531,Wevlum,2,Random character
-39,*,171,ピアストル,Piastol,False,1,Action,551,Guard,-1,None
+1,*,170,アルシノ,Kantor,True,0,Strategy,50,???,4,???
+2,*,170,アルシノ,Kantor,True,0,Strategy,23,???,6,???
+3,*,170,アルシノ,Kantor,True,0,Strategy,30,???,7,???
+4,*,170,アルシノ,Kantor,True,0,Strategy,27,???,6,???
+5,*,170,アルシノ,Kantor,True,0,Strategy,30,???,7,???
+6,*,170,アルシノ,Kantor,True,1,Action,550,Attack,2,Random character
+7,*,170,アルシノ,Kantor,True,1,Action,5,Thunder of Fury,2,Random character
+1,*,171,アルシノ,Kantor,True,0,Strategy,50,???,4,???
+2,*,171,アルシノ,Kantor,True,0,Strategy,23,???,6,???
+3,*,171,アルシノ,Kantor,True,0,Strategy,30,???,7,???
+4,*,171,アルシノ,Kantor,True,0,Strategy,27,???,6,???
+5,*,171,アルシノ,Kantor,True,0,Strategy,30,???,7,???
+6,*,171,アルシノ,Kantor,True,1,Action,550,Attack,2,Random character
+7,*,171,アルシノ,Kantor,True,1,Action,5,Thunder of Fury,2,Random character
 1,*,172,ピアストル,Piastol,False,0,Strategy,2,???,23,???
 2,*,172,ピアストル,Piastol,False,0,Strategy,17,???,26,???
 3,*,172,ピアストル,Piastol,False,0,Strategy,19,???,5,???

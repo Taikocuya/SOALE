@@ -39,7 +39,7 @@ Entry ID,[Entry name],[Finalized],Category ID,[Category name],Effect ID,[Effect 
 37,Focus,True,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 38,Eternal Freeze,False,0,Super Move,0,Damage,2,All characters,16,12,2,Purple,0,Physical,0,0,0,Poison,0
 39,Lightning Strike,False,0,Super Move,0,Damage,1,One character,16,20,4,Yellow,0,Physical,0,0,0,Poison,0
-40,Terrible Bite,False,0,Super Move,72,Add Fatigue + Damage,1,One character,16,15,0,Green,0,Physical,16,17,6,Fatigue,20
+40,Terrible Bite,True,0,Super Move,72,Add Fatigue + Damage,1,One character,16,20,0,Green,0,Physical,16,17,6,Fatigue,20
 41,Deep Sleep,False,0,Super Move,63,Add Regenerate + Add Sleep,5,User,400,65280,0,Green,0,Physical,0,0,0,Poison,0
 42,Avalauncher,False,0,Super Move,0,Damage,102,Character line #2,16,35,2,Purple,0,Physical,0,0,0,Poison,0
 43,Silver Eclipse,False,0,Super Move,0,Damage,2,All characters,16,25,5,Silver,0,Physical,0,0,0,Poison,0
@@ -63,7 +63,7 @@ Entry ID,[Entry name],[Finalized],Category ID,[Category name],Effect ID,[Effect 
 61,Laser Blast,False,0,Super Move,8,Add Stone + Damage,1,One character,16,20,5,Silver,0,Physical,16,17,2,Stone,50
 62,Call Allies,False,0,Super Move,43,Call enemy,0,None,12,0,0,Green,0,Physical,0,0,0,Poison,0
 63,Digest,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
-64,Terrible Bite,False,0,Super Move,72,Add Fatigue + Damage,1,One character,16,15,2,Purple,0,Physical,16,17,6,Fatigue,20
+64,Terrible Bite,True,0,Super Move,72,Add Fatigue + Damage,1,One character,16,20,2,Purple,0,Physical,16,17,6,Fatigue,20
 65,Neglora,False,0,Super Move,17,Remove positive states,2,All characters,16,5,-1,None,-1,None,-1,-1,-1,None,-1
 66,Ice Storm,False,0,Super Move,0,Damage,2,All characters,16,20,2,Purple,0,Physical,0,0,0,Poison,0
 67,Call Allies,False,0,Super Move,43,Call enemy,0,None,60,0,0,Green,0,Physical,0,0,0,Poison,0
@@ -161,7 +161,7 @@ Entry ID,[Entry name],[Finalized],Category ID,[Category name],Effect ID,[Effect 
 159,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 160,Search,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 161,Poison Gas,False,0,Super Move,4,Add Poison + Damage,96,Character area #0,16,15,0,Green,0,Physical,16,17,0,Poison,50
-162,Fatigue Gas,False,0,Super Move,72,Add Fatigue + Damage,96,Character area #0,16,15,4,Yellow,0,Physical,16,17,6,Fatigue,20
+162,Fatigue Gas,True,0,Super Move,72,Add Fatigue + Damage,96,Character area #0,16,15,4,Yellow,0,Physical,16,17,6,Fatigue,20
 163,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 164,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 165,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
@@ -219,7 +219,7 @@ Entry ID,[Entry name],[Finalized],Category ID,[Category name],Effect ID,[Effect 
 217,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 218,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 219,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
-220,Rapid Fire,False,0,Super Move,0,Damage,1,One character,16,30,4,Yellow,0,Physical,0,0,0,Poison,0
+220,Rapid Fire,True,0,Super Move,0,Damage,1,One character,16,30,4,Yellow,0,Physical,0,0,0,Poison,0
 221,欠番,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 222,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 223,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
@@ -269,8 +269,8 @@ Entry ID,[Entry name],[Finalized],Category ID,[Category name],Effect ID,[Effect 
 267,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 268,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 269,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
-270,Self-destruct,False,0,Super Move,62,Damage + Defeat user,200,Characters nearby #0,16,40,0,Green,0,Physical,16,17,0,Poison,100
-271,Poison Explode,False,0,Super Move,62,Damage + Defeat user,200,Characters nearby #0,16,40,0,Green,0,Physical,16,17,0,Poison,50
+270,Self-destruct,True,0,Super Move,62,Damage + Defeat user,200,Characters nearby #0,16,40,0,Green,0,Physical,16,17,0,Poison,100
+271,Poison Explode,True,0,Super Move,62,Damage + Defeat user,200,Characters nearby #0,16,40,0,Green,0,Physical,16,17,0,Poison,50
 272,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 273,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
 274,ダミー,False,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0
