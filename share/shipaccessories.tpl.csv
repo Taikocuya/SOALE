@@ -12,7 +12,7 @@ Entry ID,[Entry name],[Finalized],Ship flags,[LJ0],[LJ1],[D0],[D1],[D2],Feat. #0
 450,Engine Cover,True,62,X,X,X,X,X,7,Value,800,4,Quick,9,6,Dodge%,1,-1,None,0,800,50
 451,Turbo Kit,True,62,X,X,X,X,X,7,Value,1520,4,Quick,15,6,Dodge%,1,-1,None,0,1520,50
 452,Bore-up Kit,True,62,X,X,X,X,X,7,Value,2400,4,Quick,19,6,Dodge%,1,-1,None,0,2400,50
-453,Twin Propellers,False,62,X,X,X,X,X,7,Value,3200,4,Quick,25,6,Dodge%,3,-1,None,0,3200,50
+453,Twin Propellers,True,62,X,X,X,X,X,7,Value,3200,4,Quick,25,6,Dodge%,3,-1,None,0,3200,50
 454,Air Intake,False,62,X,X,X,X,X,7,Value,6800,4,Quick,30,6,Dodge%,3,-1,None,0,6800,50
 455,Twin Turbo,False,62,X,X,X,X,X,7,Value,8800,4,Quick,40,6,Dodge%,3,-1,None,0,8800,50
 456,Timing Valve,False,62,X,X,X,X,X,7,Value,10800,4,Quick,55,6,Dodge%,5,-1,None,0,10800,50

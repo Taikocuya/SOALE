@@ -62,15 +62,15 @@ Entry ID,[Location],[Finalized],Item ID,[Item name],Item amount
 60,Moonstone Mountain,True,252,Glyph of Might,2
 61,Moonstone Mountain,True,254,Healing Salve,2
 62,Moonstone Mountain,True,253,Glyph of Speed,2
-63,,False,56,Ruin Arm,1
-64,,False,284,Golden Mask,1
-65,,False,136,Light Coat,1
-66,,False,258,Moonberry,1
-67,,False,261,Icyl Seed,1
-68,,False,517,Gold,1186
-69,,False,243,Sacrulen Crystal,2
-70,,False,10,Stonecutter,1
-71,,False,250,Risan Crystal,3
+63,Rixis,True,56,Ruin Arm,1
+64,Rixis,True,284,Golden Mask,1
+65,Rixis,True,134,Female Armor,1
+66,Rixis,True,258,Moonberry,1
+67,Rixis,True,244,Magic Droplet,6
+68,Rixis,True,517,Gold,1186
+69,Rixis,True,242,Sacrum Crystal,2
+70,Rixis,True,10,Stonecutter,1
+71,Rixis,True,261,Icyl Seed,1
 72,,False,243,Sacrulen Crystal,2
 73,,False,17,Skywing,1
 74,,False,519,Gold,2001

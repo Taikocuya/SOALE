@@ -53,9 +53,9 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 131,Silver Armor,False,63,X,X,X,X,X,X,100,51,8580,17,Defense,160,18,MagDef,160,37,Silver,-2,84,Random encounter%,2
 132,Victory Mail,True,63,X,X,X,X,X,X,100,22,620,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5
 133,Flame Mantle,True,39,X,,,X,X,X,100,16,390,17,Defense,74,18,MagDef,69,84,Random encounter%,2,-1,None,0
-134,Female Armor,False,24,,X,X,,,,100,23,660,17,Defense,92,18,MagDef,99,84,Random encounter%,2,-1,None,0
+134,Female Armor,True,24,,X,X,,,,100,23,660,17,Defense,92,18,MagDef,99,84,Random encounter%,2,-1,None,0
 135,Ghost Mail,False,53,X,X,,X,,X,100,37,1310,17,Defense,128,18,MagDef,128,84,Random encounter%,2,-1,None,0
-136,Light Coat,False,10,,,X,,X,,100,30,830,17,Defense,103,18,MagDef,103,19,Hit%,10,20,Dodge%,5
+136,Light Coat,True,10,,,X,,X,,100,30,830,17,Defense,103,18,MagDef,103,19,Hit%,10,20,Dodge%,5
 137,Fiber Mail,False,37,X,,,X,,X,100,47,2180,17,Defense,164,18,MagDef,139,84,Random encounter%,2,-1,None,0
 138,Moon Robe,False,26,,X,X,,X,,100,42,1300,17,Defense,125,18,MagDef,146,84,Random encounter%,2,-1,None,0
 139,ダミー防具,True,0,,,,,,,0,-1,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0

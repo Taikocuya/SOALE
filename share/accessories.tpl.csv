@@ -25,7 +25,7 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 183,Silvite Ring,True,63,X,X,X,X,X,X,100,100,49,Death,-3,37,Silver,-2,17,Defense,5,18,MagDef,5
 184,Gem of Fluidity,True,63,X,X,X,X,X,X,100,100,50,Stone,-3,17,Defense,10,18,MagDef,10,84,Random encounter%,2
 185,Wind Gem Ring,True,63,X,X,X,X,X,X,100,100,51,Sleep,-3,35,Blue,-2,17,Defense,5,18,MagDef,5
-186,Eye of Truth,False,63,X,X,X,X,X,X,100,100,52,Confuse,-3,34,Purple,-2,17,Defense,5,18,MagDef,5
+186,Eye of Truth,True,63,X,X,X,X,X,X,100,100,52,Confuse,-3,34,Purple,-2,17,Defense,5,18,MagDef,5
 187,Revered Voice,True,63,X,X,X,X,X,X,100,100,53,Silence,-3,34,Purple,-2,17,Defense,5,18,MagDef,5
 188,Everlasting Gem,True,63,X,X,X,X,X,X,100,100,54,Fatigue,-3,17,Defense,10,18,MagDef,10,84,Random encounter%,2
 189,Behemoth's Ring,True,63,X,X,X,X,X,X,100,100,56,Weak,-3,36,Yellow,-2,17,Defense,5,18,MagDef,5
