@@ -13,7 +13,7 @@ Entry ID,[Finalized],Magic EXP,Chara. #0 ID,[Chara. #0 name],Chara. #0 X,Chara. 
 11,True,2,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,17,Tsirat,2,4,17,Tsirat,8,4,17,Tsirat,3,3,17,Tsirat,5,3,17,Tsirat,7,3,17,Tsirat,4,2,17,Tsirat,6,2,39,0,Must not lose,0,Can escape,58
 12,True,2,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,73,Mine Patrol,4,2,73,Mine Patrol,6,2,73,Mine Patrol,2,1,73,Mine Patrol,8,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,42,1,May try again,1,Cannot escape,58
 13,True,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,136,Antonio 2,4,2,170,Kantor,0,1,171,Kantor,8,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,44,1,May try again,1,Cannot escape,60
-14,False,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,137,Rik'talish,4,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,48,1,May try again,1,Cannot escape,60
+14,True,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,137,Rik'talish,4,1,172,Polraxis,2,2,174,Polraxis,8,2,175,Polraxis,5,5,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,48,1,May try again,1,Cannot escape,60
 15,False,2,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,155,Gordo,5,1,156,Mad Chef,5,3,156,Mad Chef,3,1,156,Mad Chef,7,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,94,1,May try again,1,Cannot escape,60
 16,False,2,0,Vyse,4,6,1,Aika,6,6,2,Fina,3,7,3,Drachma,7,7,32,Enforcer,4,3,32,Enforcer,6,3,32,Enforcer,3,4,32,Enforcer,7,4,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,98,1,May try again,1,Cannot escape,58
 17,False,4,0,Vyse,6,4,1,Aika,4,4,2,Fina,4,6,5,Gilder,6,6,138,Sinistra,1,1,139,Destra,7,7,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,104,1,May try again,1,Cannot escape,60

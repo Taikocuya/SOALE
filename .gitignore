@@ -48,28 +48,64 @@ Thumbs.db
 !/share/**/title/ts900000s.mld
 
 # Enemy 165 (Spell Warden)
-!/share/**/beff/f05000a5.mlk
 !/share/**/bchara/mg037.mld
 !/share/**/bchara/mg037.std
 !/share/**/bchara/mg0370.std
+!/share/**/beff/f05000a5.mlk
 
 # Enemy 166 (Spell Warden)
-!/share/**/beff/f05000a6.mlk
 !/share/**/bchara/mg038.mld
 !/share/**/bchara/mg038.std
 !/share/**/bchara/mg0380.std
+!/share/**/beff/f05000a6.mlk
 
 # Enemy 167 (Royal Guard)
-!/share/**/beff/f05000a7.mlk
 !/share/**/bchara/mg039.mld
 !/share/**/bchara/mg039.std
 !/share/**/bchara/mg0390.std
+!/share/**/beff/f05000a7.mlk
 
 # Enemy 169 (Kantor)
-!/share/**/beff/b7025641_L.dsp
-!/share/**/bchara/b7025641_R.dsp
-!/share/**/bchara/f05000a9.mlk
-!/share/**/bchara/f29005a9.mlk
 !/share/**/bchara/mg041.mld
 !/share/**/bchara/mg041.std
 !/share/**/bchara/mg0410.std
+!/share/**/beff/f05000a9.mlk
+!/share/**/beff/f29005a9.mlk
+!/share/**/sound/b7025641_L.dsp
+!/share/**/sound/b7025641_R.dsp
+
+# Enemy 170 (Kantor)
+!/share/**/bchara/mg042.mld
+!/share/**/bchara/mg042.std
+!/share/**/bchara/mg0420.std
+!/share/**/beff/f05000aa.mlk
+!/share/**/beff/f29005aa.mlk
+!/share/**/sound/b7025642_L.dsp
+!/share/**/sound/b7025642_R.dsp
+
+# Enemy 171 (Kantor)
+!/share/**/bchara/mg043.mld
+!/share/**/bchara/mg043.std
+!/share/**/bchara/mg0430.std
+!/share/**/beff/f05000ab.mlk
+!/share/**/beff/f29005ab.mlk
+!/share/**/sound/b7025643_L.dsp
+!/share/**/sound/b7025643_R.dsp
+
+# Enemy 172 (Polraxis)
+!/share/**/bchara/mg044.mld
+!/share/**/bchara/mg044.std
+!/share/**/bchara/mg0440.std
+!/share/**/beff/f05000ac.mlk
+
+# Enemy 174 (Polraxis)
+!/share/**/bchara/mg046.mld
+!/share/**/bchara/mg046.std
+!/share/**/bchara/mg0460.std
+!/share/**/beff/f05000ae.mlk
+
+# Enemy 175 (Polraxis)
+!/share/**/bchara/mg047.mld
+!/share/**/bchara/mg047.std
+!/share/**/bchara/mg0470.std
+!/share/**/beff/f05000af.mlk

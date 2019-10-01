@@ -1,10 +1,10 @@
 Entry ID,[Entry name],[Finalized],Occ. flags,[Menu],[Battle],[Ship battle],Effect ID,[Effect name],Scope ID,[Scope name],Consume%,Retail price in %,Purchase price,Effect value,Element ID,[Element name],Type ID,[Type name],State ID,[State name],Hit%
 240,Sacri Crystal,True,6,X,X,,31,Recover HP,1,One character,100,50,100,400,0,Green,1,Magical,-1,None,0
 241,Sacres Crystal,True,6,X,X,,31,Recover HP,1,One character,100,50,300,800,0,Green,1,Magical,-1,None,0
-242,Sacrum Crystal,False,6,X,X,,31,Recover HP,2,All characters,100,50,900,800,0,Green,1,Magical,-1,None,0
+242,Sacrum Crystal,True,6,X,X,,31,Recover HP,2,All characters,100,50,900,800,0,Green,1,Magical,-1,None,0
 243,Sacrulen Crystal,False,6,X,X,,31,Recover HP,1,One character,100,50,500,1600,0,Green,1,Magical,-1,None,0
 244,Magic Droplet,True,7,X,X,X,48,Recover MP,1,One character,100,50,50,1,-1,None,-1,None,-1,None,0
-245,Magic Dew,False,7,X,X,X,48,Recover MP,1,One character,100,50,200,3,-1,None,-1,None,-1,None,0
+245,Magic Dew,True,7,X,X,X,48,Recover MP,1,One character,100,50,200,3,-1,None,-1,None,-1,None,0
 246,Aura of Valor,True,3,,X,X,35,Recover SP,2,All characters,100,100,1000,40,-1,None,-1,None,-1,None,0
 247,Soul Crystal,True,0,,,,-1,None,0,None,0,100,3000,0,-1,None,-1,None,-1,None,0
 248,Unholy Dagger,True,0,,,,-1,None,0,None,0,100,4000,0,-1,None,-1,None,-1,None,0
