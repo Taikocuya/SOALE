@@ -10,7 +10,7 @@ Entry ID,[Entry name],[Finalized],Occ. flags,[Menu],[Battle],[Ship battle],Ship 
 488,Electro Bomb,False,1,,,X,106,Add Weak (Ship),2,100,1000,50,0,4,Yellow,0,1,60
 489,Wave Bomb,False,1,,,X,107,Damage (Ship),-1,100,1000,50,240,3,Blue,1,0,0
 490,Repair Kit,True,5,X,,X,100,Recover HP (Ship),-1,100,200,50,400,0,Green,0,0,0
-491,Deluxe Kit,False,5,X,,X,100,Recover HP (Ship),-1,100,600,50,800,0,Green,0,0,0
+491,Deluxe Kit,True,5,X,,X,100,Recover HP (Ship),-1,100,600,50,800,0,Green,0,0,0
 492,Magic Kit,False,5,X,,X,101,Recover HP to 100% (Ship),-1,100,5000,50,0,0,Green,0,0,0
 493,Complete Kit,False,5,X,,X,100,Recover HP (Ship),-1,100,700,50,1600,0,Green,0,0,0
 494,Gear Grease,False,1,,,X,102,Recover Spirit (Ship),-1,100,1600,100,10,6,Neutral,0,0,0
