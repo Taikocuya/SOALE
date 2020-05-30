@@ -1,81 +1,81 @@
 Entry ID,US entry name,Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Order by prio.,US order by ABC,Pad. #0,Purchase price,Feat. #0 ID,[Feat. #0 name],Pad. #1,Feat. #0 value,Feat. #1 ID,[Feat. #1 name],Pad. #2,Feat. #1 value,Feat. #2 ID,[Feat. #2 name],Pad. #3,Feat. #2 value,Feat. #3 ID,[Feat. #3 name],Pad. #4,Feat. #3 value,[US descr. pos.],[US descr. size],US descr. str.
-80,Vyse's Uniform,49,X,X,"","","",X,50,0,58,0,60,17,Defense,0,20,18,MagDef,0,20,84,Random encounter%,0,2,-1,None,0,0,2922260,56,Uniform of the Blue Rogues.\nGiven to him by his father.
-81,Aika's Shorts,24,"",X,X,"","","",50,1,1,0,50,17,Defense,0,19,18,MagDef,0,21,84,Random encounter%,0,2,-1,None,0,0,2922316,64,"Aika's favorite pair of shorts, given to her\nby Vyse's mother."
-82,Fina's Robe,26,"",X,X,"",X,"",50,11,19,0,510,17,Defense,0,55,18,MagDef,0,64,84,Random encounter%,0,2,-1,None,0,0,2922380,72,"A traditional Silvite Dress, worn by women of\nthe Silver Civilization."
-83,Drachma's Shirt,4,"","","",X,"","",50,4,13,0,340,17,Defense,0,45,18,MagDef,0,42,84,Random encounter%,0,2,-1,None,0,0,2922452,76,"An extra large, heavy shirt that's been well\nworn by years of hard work."
-84,Enrique's Coat,2,"","","","",X,"",50,33,15,0,3390,17,Defense,0,119,18,MagDef,0,119,19,Hit%,0,10,20,Dodge%,0,5,2922528,80,The light armor of the Valuan Imperial Court.\nIt improves the wearer's agility.
-85,Gilder's Mail,37,X,"","",X,"",X,50,27,24,0,2840,17,Defense,0,116,18,MagDef,0,99,84,Random encounter%,0,2,-1,None,0,0,2922608,92,"Light armor, worn by Gilder under his coat.\nGilder likes to have fun, but he's no dummy."
-86,Light Robe,26,"",X,X,"",X,"",50,3,32,0,130,17,Defense,0,29,18,MagDef,0,34,84,Random encounter%,0,2,-1,None,0,0,2922700,64,A lightweight robe crafted from magically\nresistant fabric.
-87,Valuan Uniform,53,X,X,"",X,"",X,50,2,55,0,170,17,Defense,0,32,18,MagDef,0,32,84,Random encounter%,0,2,-1,None,0,0,2922764,56,A uniform stolen from a low-ranking Valuan\nnavigator.
-88,Sailor Uniform,53,X,X,"",X,"",X,50,5,49,0,330,17,Defense,0,44,18,MagDef,0,44,84,Random encounter%,0,2,-1,None,0,0,2922820,80,"Inexpensive, light weight, and durable, this\nis the preferred dress of sailors."
-89,Mystic Dress,24,"",X,X,"","","",75,6,40,0,310,17,Defense,0,42,18,MagDef,0,46,84,Random encounter%,0,2,-1,None,0,0,2922900,92,A dress made of magically resistant fabric that\nenables the wearer to resist magic attacks.
-90,Valuan Armor,37,X,"","",X,"",X,50,7,54,0,480,17,Defense,0,51,18,MagDef,0,44,84,Random encounter%,0,2,-1,None,0,0,2922992,68,On old suit of armor worn by guards in the\nValuan Imperial Palace.
-91,Elastamor,63,X,X,X,X,X,X,50,8,14,0,580,17,Defense,0,54,18,MagDef,0,54,36,Yellow,0,-2,84,Random encounter%,0,2,2923060,68,A tight-fitting suit that resists damage from\nyellow magic spells.
-92,Raincoat,53,X,X,"",X,"",X,50,9,46,0,560,17,Defense,0,56,18,MagDef,0,56,84,Random encounter%,0,2,-1,None,0,0,2923128,72,Durable coat worn by sailors to protect them\nfrom the harsh elements.
-93,Nasrean Mail,63,X,X,X,X,X,X,50,12,43,0,920,17,Defense,0,66,18,MagDef,0,66,33,Red,0,-2,84,Random encounter%,0,2,2923200,92,"Durable, lightweight outfit made for desert\ntravel. Defends the wearer against Red Magic."
-94,Ceramic Armor,37,X,"","",X,"",X,50,13,8,0,1040,17,Defense,0,73,18,MagDef,0,62,84,Random encounter%,0,2,-1,None,0,0,2923292,84,"Light, but very durable armor created from\nbaking different types of Nasrean Clay."
-95,Agile Robe,10,"","",X,"",X,"",50,14,0,0,930,17,Defense,0,65,18,MagDef,0,65,19,Hit%,0,10,20,Dodge%,0,5,2923376,56,A lightweight robe that increases the wearer's\nAgile.
-96,Miner's Overalls,39,X,"","",X,X,X,25,18,35,0,910,17,Defense,0,87,18,MagDef,0,80,84,Random encounter%,0,2,-1,None,0,0,2923432,88,"Thick overalls, worn by miners. It is very\ndifficult to find a pair that isn't dirty."
-97,Fiber Robe,26,"",X,X,"",X,"",50,19,18,0,1040,17,Defense,0,77,18,MagDef,0,90,84,Random encounter%,0,2,-1,None,0,0,2923520,76,Ceremonial Robe woven from plants.\nProtects the user from magic attacks.
-98,Golden Armor,37,X,"","",X,"",X,100,20,25,0,2480,17,Defense,0,90,18,MagDef,0,77,84,Random encounter%,0,2,-1,None,0,0,2923596,52,Extremely heavy armor forged from Ixa'takan\ngold.
-99,Ixa'takan Armor,63,X,X,X,X,X,X,50,31,29,0,2790,17,Defense,0,109,18,MagDef,0,109,32,Green,0,-2,84,Random encounter%,0,2,2923648,84,"A cloth tunic worn in the jungle, designed to\nprotect the wearer from Green Magic."
-100,Naval Uniform,53,X,X,"",X,"",X,50,32,44,0,2470,17,Defense,0,112,18,MagDef,0,112,84,Random encounter%,0,2,-1,None,0,0,2923732,64,"A fairly light type of armor, designed for\nstealth missions."
-101,Nasr Uniform,39,X,"","",X,X,X,50,24,42,0,2070,17,Defense,0,104,18,MagDef,0,96,84,Random encounter%,0,2,-1,None,0,0,2923796,92,"A uniform designed for the Nasr Sailors. It's\nin good condition, but has no rank markings."
-102,Caravan Armor,53,X,X,"",X,"",X,50,25,7,0,1930,17,Defense,0,100,18,MagDef,0,100,84,Random encounter%,0,2,-1,None,0,0,2923888,56,Thick armor made from the hides of the desert\nanimals.
-103,Holy Robe,26,"",X,X,"",X,"",50,26,27,0,1520,17,Defense,0,92,18,MagDef,0,108,84,Random encounter%,0,2,-1,None,0,0,2923944,80,Sacred Robes worn by the Priests of Nasr.\nProtects the user from magic attacks.
-104,Daccat's Tunic,63,X,X,X,X,X,X,50,34,10,0,3500,17,Defense,0,121,18,MagDef,0,121,35,Blue,0,-2,84,Random encounter%,0,2,2924024,88,A Legendary Tunic said to have been worn by\nDaccat. Protects the user from Blue Magic.
-105,Battleworn Armor,37,X,"","",X,"",X,50,35,3,0,3810,17,Defense,0,133,18,MagDef,0,114,84,Random encounter%,0,2,-1,None,0,0,2924112,92,A well-worn suit of armor that has apparently\nsaved the previous owner's life many times.
-106,Miracle Robe,26,"",X,X,"",X,"",50,36,36,0,2400,17,Defense,0,114,18,MagDef,0,133,84,Random encounter%,0,2,-1,None,0,0,2924204,92,A robe worn by a monk who miraculously returned\nunharmed after being lost in the Dark Rift.
-107,Scale Mail,39,X,"","",X,X,X,50,39,50,0,3990,17,Defense,0,141,18,MagDef,0,130,84,Random encounter%,0,2,-1,None,0,0,2924296,88,"Extremely effective armor from the east, crafted\nfrom the scales of large creatures."
-108,Soranchu Robe,53,X,X,"",X,"",X,50,40,52,0,3750,17,Defense,0,136,18,MagDef,0,136,84,Random encounter%,0,2,-1,None,0,0,2924384,92,"A robe belonging to a legendary Yafutoman\nadventurer, who earned the nickname [Sky King.]"
-109,Long Robe,10,"","",X,"",X,"",50,41,33,0,4110,17,Defense,0,130,18,MagDef,0,130,19,Hit%,0,20,20,Dodge%,0,10,2924476,76,"A long cloth, designed to wrap around the\nwearer's body. Increases Agile."
-110,Captain's Cloak,53,X,X,"",X,"",X,50,44,6,0,4500,17,Defense,0,148,18,MagDef,0,148,84,Random encounter%,0,2,-1,None,0,0,2924552,80,"A thick cloak, designed to protect a ship's\ncaptain as he braves the elements."
-111,Blessed Robe,10,"","",X,"",X,"",50,45,5,0,4980,17,Defense,0,142,18,MagDef,0,142,19,Hit%,0,30,20,Dodge%,0,15,2924632,84,"Robe blessed in holy water, it's light weight\nallows the wearer to be more agile."
-112,Insulated Mail,63,X,X,X,X,X,X,50,46,28,0,5180,17,Defense,0,145,18,MagDef,0,145,34,Purple,0,-2,84,Random encounter%,0,2,2924716,88,An insulated tunic made from very thin fabric.\nProtects the wearer from Purple Magic.
-113,Vengeance Armor,39,X,"","",X,X,X,50,48,56,0,6460,17,Defense,0,162,18,MagDef,0,149,73,Counter%,0,10,84,Random encounter%,0,2,2924804,68,Enchanted Armor that improves the wearer's\ncounterattacking skills.
-114,Swift Dress,24,"",X,X,"","","",75,49,53,0,5670,17,Defense,0,149,18,MagDef,0,170,4,Quick,0,20,84,Random encounter%,0,2,2924872,56,An enchanted dress that increases the wearer's\nspeed.
-115,Gaia Cape,53,X,X,"",X,"",X,50,52,22,0,5910,17,Defense,0,168,18,MagDef,0,168,84,Random encounter%,0,2,-1,None,0,0,2924928,92,An enchanted Cape that protects the wearer as\nhe enters new lands in search of adventure.
-116,Robe of Faith,10,"","",X,"",X,"",50,53,47,0,6510,17,Defense,0,161,18,MagDef,0,161,19,Hit%,0,30,20,Dodge%,0,15,2925020,76,For the pure of heart. This robe will protect\nthe user from enemy attacks.
-117,Plated Armor,37,X,"","",X,"",X,50,54,45,0,7430,17,Defense,0,181,18,MagDef,0,154,84,Random encounter%,0,2,-1,None,0,0,2925096,76,Finely crafted armor forged by the greatest\nsmiths in Arcadia's history.
-118,Robe of Truth,26,"",X,X,"",X,"",50,55,48,0,4590,17,Defense,0,154,18,MagDef,0,181,84,Random encounter%,0,2,-1,None,0,0,2925172,64,A lightweight robe that allows the user to\nresist magic spells.
-119,Berzerker Mail,39,X,"","",X,X,X,50,56,4,0,4020,17,Defense,0,140,18,MagDef,0,140,16,Attack,0,20,19,Hit%,0,20,2925236,80,Armor made by Lapen. It greatly increases the\nwearer's attacking capabilities.
-120,Light Dress,24,"",X,X,"","","",75,57,31,0,940,17,Defense,0,70,18,MagDef,0,70,20,Dodge%,0,30,4,Quick,0,30,2925316,88,"Very light, yet durable armor made for women.\nIt greatly increases the wearer's speed."
-121,Focus Robe,24,"",X,X,"","","",75,58,21,0,970,17,Defense,0,70,18,MagDef,0,70,1,Will,0,100,84,Random encounter%,0,2,2925404,80,"A Robe that allows the wearer to mentally\nchannel energy, increasing her will."
-122,Nasr Combat Mail,63,X,X,X,X,X,X,100,15,41,0,320,17,Defense,0,66,18,MagDef,0,66,16,Attack,0,5,1,Will,0,5,2925484,80,An old uniform worn in the Valua-Nasr War.\nIt boosts attack power and spirit.
-123,De Loco Armor,37,X,"","",X,"",X,100,50,11,0,2420,17,Defense,0,172,18,MagDef,0,147,84,Random encounter%,0,2,-1,None,0,0,2925564,72,"An incredibly ugly, yet effective suit of armor\ndesigned by De Loco."
-124,Maiden's Armor,24,"",X,X,"","","",100,28,34,0,840,17,Defense,0,103,18,MagDef,0,112,84,Random encounter%,0,2,-1,None,0,0,2925636,60,Legendary armor given to a great female warrior\nby Daccat.
-125,Heavy Armor,39,X,"","",X,X,X,100,10,26,0,230,17,Defense,0,58,18,MagDef,0,53,84,Random encounter%,0,2,-1,None,0,0,2925696,88,Very thick and heavy armor made for a man.\nOffers protection against physical attacks.
-126,Ancient Robe,26,"",X,X,"",X,"",100,17,2,0,370,17,Defense,0,69,18,MagDef,0,82,84,Random encounter%,0,2,-1,None,0,0,2925784,60,"A robe belonging to a long-dead, but once\npowerful wizard."
-127,De Loco Mail,37,X,"","",X,"",X,100,21,12,0,730,17,Defense,0,99,18,MagDef,0,84,84,Random encounter%,0,2,-1,None,0,0,2925844,88,"A suit of armor crafted by De Loco, designed\nto protect the wearer from enemy attacks."
-128,Daccat's Armor,53,X,X,"",X,"",X,100,29,9,0,910,17,Defense,0,108,18,MagDef,0,108,84,Random encounter%,0,2,-1,None,0,0,2925932,60,"Very durable, light armor, engraved with \nDaccat's seal."
-129,Moss Armor,10,"","",X,"",X,"",100,38,39,0,1280,17,Defense,0,126,18,MagDef,0,126,19,Hit%,0,20,20,Dodge%,0,10,2925992,64,An old suit of armor crafted from moss found in\nthe Dark Rift.
-130,Moonlight Robe,24,"",X,X,"","","",100,43,38,0,4460,17,Defense,0,134,18,MagDef,0,145,20,Dodge%,0,20,84,Random encounter%,0,2,2926056,88,"A shimmering robe that reflects moonlight, the\nway a calm lake reflects light at night."
-131,Silver Armor,63,X,X,X,X,X,X,100,51,51,0,8580,17,Defense,0,160,18,MagDef,0,160,37,Silver,0,-2,84,Random encounter%,0,2,2926144,72,A silver suit of armor that has a high\nresistance to Silver attacks.
-132,Victory Mail,63,X,X,X,X,X,X,100,22,57,0,620,17,Defense,0,90,18,MagDef,0,90,16,Attack,0,5,1,Will,0,5,2926216,80,Enchanted suit of armor that raises the attack\npower and will of the wearer.
-133,Flame Mantle,39,X,"","",X,X,X,100,16,20,0,390,17,Defense,0,74,18,MagDef,0,69,84,Random encounter%,0,2,-1,None,0,0,2926296,52,A dress crafted from extremely light weight\nfabric.
-134,Female Armor,24,"",X,X,"","","",100,23,16,0,660,17,Defense,0,92,18,MagDef,0,99,84,Random encounter%,0,2,-1,None,0,0,2926348,72,"Armor crafted to fit a woman's body, and\nprotect it from enemy attacks."
-135,Ghost Mail,53,X,X,"",X,"",X,100,37,23,0,1310,17,Defense,0,128,18,MagDef,0,128,84,Random encounter%,0,2,-1,None,0,0,2926420,88,"A strange outfit that appears translucent in\nlight, and floats eerily when released."
-136,Light Coat,10,"","",X,"",X,"",100,30,30,0,830,17,Defense,0,103,18,MagDef,0,103,19,Hit%,0,10,20,Dodge%,0,5,2926508,56,A lightweight coat that increases the wearer's\nagility.
-137,Fiber Mail,37,X,"","",X,"",X,100,47,17,0,2180,17,Defense,0,164,18,MagDef,0,139,84,Random encounter%,0,2,-1,None,0,0,2926564,80,Very effective armor woven from a special type\nof moss found in the Dark Rift.
-138,Moon Robe,26,"",X,X,"",X,"",100,42,37,0,1300,17,Defense,0,125,18,MagDef,0,146,84,Random encounter%,0,2,-1,None,0,0,2926644,76,A beautiful robe that glows blue in the night.\nResists enemy magic spells.
-139,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-140,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-141,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-142,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-143,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-144,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-145,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-146,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-147,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-148,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-149,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-150,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-151,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-152,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-153,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-154,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-155,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-156,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-157,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-158,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
-159,ダミー防具,0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0,0,""
+80,Vyse's Uniform,0x31,X,X,"","","",X,50,0,58,0,60,17,Defense,0,20,18,MagDef,0,20,-1,None,0,0,-1,None,0,0,0x2c9714,56,Uniform of the Blue Rogues.\nGiven to him by his father.
+81,Aika's Shorts,0x18,"",X,X,"","","",50,1,1,0,50,17,Defense,0,19,18,MagDef,0,21,-1,None,0,0,-1,None,0,0,0x2c974c,64,"Aika's favorite pair of shorts, given to her\nby Vyse's mother."
+82,Fina's Robe,0x1a,"",X,X,"",X,"",50,11,19,0,510,17,Defense,0,55,18,MagDef,0,64,-1,None,0,0,-1,None,0,0,0x2c978c,72,"A traditional Silvite Dress, worn by women of\nthe Silver Civilization."
+83,Drachma's Shirt,0x4,"","","",X,"","",50,4,13,0,340,17,Defense,0,45,18,MagDef,0,42,-1,None,0,0,-1,None,0,0,0x2c97d4,76,"An extra large, heavy shirt that's been well\nworn by years of hard work."
+84,Enrique's Coat,0x2,"","","","",X,"",50,33,15,0,3390,17,Defense,0,119,18,MagDef,0,119,19,Hit%,0,10,20,Dodge%,0,5,0x2c9820,80,The light armor of the Valuan Imperial Court.\nIt improves the wearer's agility.
+85,Gilder's Mail,0x25,X,"","",X,"",X,50,27,24,0,2840,17,Defense,0,116,18,MagDef,0,99,-1,None,0,0,-1,None,0,0,0x2c9870,92,"Light armor, worn by Gilder under his coat.\nGilder likes to have fun, but he's no dummy."
+86,Light Robe,0x1a,"",X,X,"",X,"",50,3,32,0,130,17,Defense,0,29,18,MagDef,0,34,-1,None,0,0,-1,None,0,0,0x2c98cc,64,A lightweight robe crafted from magically\nresistant fabric. 
+87,Valuan Uniform,0x35,X,X,"",X,"",X,50,2,55,0,170,17,Defense,0,32,18,MagDef,0,32,-1,None,0,0,-1,None,0,0,0x2c990c,56,A uniform stolen from a low-ranking Valuan\nnavigator.
+88,Sailor Uniform,0x35,X,X,"",X,"",X,50,5,49,0,330,17,Defense,0,44,18,MagDef,0,44,-1,None,0,0,-1,None,0,0,0x2c9944,80,"Inexpensive, light weight, and durable, this\nis the preferred dress of sailors."
+89,Mystic Dress,0x18,"",X,X,"","","",75,6,40,0,310,17,Defense,0,42,18,MagDef,0,46,-1,None,0,0,-1,None,0,0,0x2c9994,92,A dress made of magically resistant fabric that\nenables the wearer to resist magic attacks.
+90,Valuan Armor,0x25,X,"","",X,"",X,50,7,54,0,480,17,Defense,0,51,18,MagDef,0,44,-1,None,0,0,-1,None,0,0,0x2c99f0,68,On old suit of armor worn by guards in the\nValuan Imperial Palace.
+91,Elastamor,0x3f,X,X,X,X,X,X,50,8,14,0,580,17,Defense,0,54,18,MagDef,0,54,36,Yellow,0,-2,-1,None,0,0,0x2c9a34,68,A tight-fitting suit that resists damage from\nyellow magic spells.
+92,Raincoat,0x35,X,X,"",X,"",X,50,9,46,0,560,17,Defense,0,56,18,MagDef,0,56,-1,None,0,0,-1,None,0,0,0x2c9a78,72,Durable coat worn by sailors to protect them\nfrom the harsh elements.
+93,Nasrean Mail,0x3f,X,X,X,X,X,X,50,12,43,0,920,17,Defense,0,66,18,MagDef,0,66,33,Red,0,-2,-1,None,0,0,0x2c9ac0,92,"Durable, lightweight outfit made for desert\ntravel. Defends the wearer against Red Magic."
+94,Ceramic Armor,0x25,X,"","",X,"",X,50,13,8,0,1040,17,Defense,0,73,18,MagDef,0,62,-1,None,0,0,-1,None,0,0,0x2c9b1c,84,"Light, but very durable armor created from\nbaking different types of Nasrean Clay."
+95,Agile Robe,0xa,"","",X,"",X,"",50,14,0,0,930,17,Defense,0,65,18,MagDef,0,65,19,Hit%,0,10,20,Dodge%,0,5,0x2c9b70,56,A lightweight robe that increases the wearer's\nAgile.
+96,Miner's Overalls,0x27,X,"","",X,X,X,25,18,35,0,910,17,Defense,0,87,18,MagDef,0,80,-1,None,0,0,-1,None,0,0,0x2c9ba8,88,"Thick overalls, worn by miners. It is very\ndifficult to find a pair that isn't dirty."
+97,Fiber Robe,0x1a,"",X,X,"",X,"",50,19,18,0,1040,17,Defense,0,77,18,MagDef,0,90,-1,None,0,0,-1,None,0,0,0x2c9c00,76,Ceremonial Robe woven from plants.\nProtects the user from magic attacks.
+98,Golden Armor,0x25,X,"","",X,"",X,100,20,25,0,2480,17,Defense,0,90,18,MagDef,0,77,-1,None,0,0,-1,None,0,0,0x2c9c4c,52,Extremely heavy armor forged from Ixa'takan\ngold.
+99,Ixa'takan Armor,0x3f,X,X,X,X,X,X,50,31,29,0,2790,17,Defense,0,109,18,MagDef,0,109,32,Green,0,-2,-1,None,0,0,0x2c9c80,84,"A cloth tunic worn in the jungle, designed to\nprotect the wearer from Green Magic."
+100,Naval Uniform,0x35,X,X,"",X,"",X,50,32,44,0,2470,17,Defense,0,112,18,MagDef,0,112,-1,None,0,0,-1,None,0,0,0x2c9cd4,64,"A fairly light type of armor, designed for\nstealth missions."
+101,Nasr Uniform,0x27,X,"","",X,X,X,50,24,42,0,2070,17,Defense,0,104,18,MagDef,0,96,-1,None,0,0,-1,None,0,0,0x2c9d14,92,"A uniform designed for the Nasr Sailors. It's\nin good condition, but has no rank markings."
+102,Caravan Armor,0x35,X,X,"",X,"",X,50,25,7,0,1930,17,Defense,0,100,18,MagDef,0,100,-1,None,0,0,-1,None,0,0,0x2c9d70,56,Thick armor made from the hides of the desert\nanimals.
+103,Holy Robe,0x1a,"",X,X,"",X,"",50,26,27,0,1520,17,Defense,0,92,18,MagDef,0,108,-1,None,0,0,-1,None,0,0,0x2c9da8,80,Sacred Robes worn by the Priests of Nasr.\nProtects the user from magic attacks.
+104,Daccat's Tunic,0x3f,X,X,X,X,X,X,50,34,10,0,3500,17,Defense,0,121,18,MagDef,0,121,35,Blue,0,-2,-1,None,0,0,0x2c9df8,88,A Legendary Tunic said to have been worn by\nDaccat. Protects the user from Blue Magic.
+105,Battleworn Armor,0x25,X,"","",X,"",X,50,35,3,0,3810,17,Defense,0,133,18,MagDef,0,114,-1,None,0,0,-1,None,0,0,0x2c9e50,92,A well-worn suit of armor that has apparently\nsaved the previous owner's life many times.
+106,Miracle Robe,0x1a,"",X,X,"",X,"",50,36,36,0,2400,17,Defense,0,114,18,MagDef,0,133,-1,None,0,0,-1,None,0,0,0x2c9eac,92,A robe worn by a monk who miraculously returned\nunharmed after being lost in the Dark Rift.
+107,Scale Mail,0x27,X,"","",X,X,X,50,39,50,0,3990,17,Defense,0,141,18,MagDef,0,130,-1,None,0,0,-1,None,0,0,0x2c9f08,88,"Extremely effective armor from the east, crafted\nfrom the scales of large creatures."
+108,Soranchu Robe,0x35,X,X,"",X,"",X,50,40,52,0,3750,17,Defense,0,136,18,MagDef,0,136,-1,None,0,0,-1,None,0,0,0x2c9f60,92,"A robe belonging to a legendary Yafutoman\nadventurer, who earned the nickname [Sky King.]"
+109,Long Robe,0xa,"","",X,"",X,"",50,41,33,0,4110,17,Defense,0,130,18,MagDef,0,130,19,Hit%,0,20,20,Dodge%,0,10,0x2c9fbc,76,"A long cloth, designed to wrap around the\nwearer's body. Increases Agile."
+110,Captain's Cloak,0x35,X,X,"",X,"",X,50,44,6,0,4500,17,Defense,0,148,18,MagDef,0,148,-1,None,0,0,-1,None,0,0,0x2ca008,80,"A thick cloak, designed to protect a ship's\ncaptain as he braves the elements."
+111,Blessed Robe,0xa,"","",X,"",X,"",50,45,5,0,4980,17,Defense,0,142,18,MagDef,0,142,19,Hit%,0,30,20,Dodge%,0,15,0x2ca058,84,"Robe blessed in holy water, it's light weight\nallows the wearer to be more agile."
+112,Insulated Mail,0x3f,X,X,X,X,X,X,50,46,28,0,5180,17,Defense,0,145,18,MagDef,0,145,34,Purple,0,-2,-1,None,0,0,0x2ca0ac,88,An insulated tunic made from very thin fabric.\nProtects the wearer from Purple Magic.
+113,Vengeance Armor,0x27,X,"","",X,X,X,50,48,56,0,6460,17,Defense,0,162,18,MagDef,0,149,73,Counter%,0,10,-1,None,0,0,0x2ca104,68,Enchanted Armor that improves the wearer's\ncounterattacking skills.
+114,Swift Dress,0x18,"",X,X,"","","",75,49,53,0,5670,17,Defense,0,149,18,MagDef,0,170,4,Quick,0,20,-1,None,0,0,0x2ca148,56,An enchanted dress that increases the wearer's\nspeed.
+115,Gaia Cape,0x35,X,X,"",X,"",X,50,52,22,0,5910,17,Defense,0,168,18,MagDef,0,168,-1,None,0,0,-1,None,0,0,0x2ca180,92,An enchanted Cape that protects the wearer as\nhe enters new lands in search of adventure.
+116,Robe of Faith,0xa,"","",X,"",X,"",50,53,47,0,6510,17,Defense,0,161,18,MagDef,0,161,19,Hit%,0,30,20,Dodge%,0,15,0x2ca1dc,76,For the pure of heart. This robe will protect\nthe user from enemy attacks.
+117,Plated Armor,0x25,X,"","",X,"",X,50,54,45,0,7430,17,Defense,0,181,18,MagDef,0,154,-1,None,0,0,-1,None,0,0,0x2ca228,76,Finely crafted armor forged by the greatest\nsmiths in Arcadia's history.
+118,Robe of Truth,0x1a,"",X,X,"",X,"",50,55,48,0,4590,17,Defense,0,154,18,MagDef,0,181,-1,None,0,0,-1,None,0,0,0x2ca274,64,A lightweight robe that allows the user to\nresist magic spells.
+119,Berzerker Mail,0x27,X,"","",X,X,X,50,56,4,0,4020,17,Defense,0,140,18,MagDef,0,140,16,Attack,0,20,19,Hit%,0,20,0x2ca2b4,80,Armor made by Lapen. It greatly increases the\nwearer's attacking capabilities.
+120,Light Dress,0x18,"",X,X,"","","",75,57,31,0,940,17,Defense,0,70,18,MagDef,0,70,20,Dodge%,0,30,4,Quick,0,30,0x2ca304,88,"Very light, yet durable armor made for women.\nIt greatly increases the wearer's speed."
+121,Focus Robe,0x18,"",X,X,"","","",75,58,21,0,970,17,Defense,0,70,18,MagDef,0,70,1,Will,0,100,-1,None,0,0,0x2ca35c,80,"A Robe that allows the wearer to mentally\nchannel energy, increasing her will."
+122,Nasr Combat Mail,0x3f,X,X,X,X,X,X,100,15,41,0,320,17,Defense,0,66,18,MagDef,0,66,16,Attack,0,5,1,Will,0,5,0x2ca3ac,80,An old uniform worn in the Valua-Nasr War.\nIt boosts attack power and spirit.
+123,De Loco Armor,0x25,X,"","",X,"",X,100,50,11,0,2420,17,Defense,0,172,18,MagDef,0,147,-1,None,0,0,-1,None,0,0,0x2ca3fc,72,"An incredibly ugly, yet effective suit of armor\ndesigned by De Loco."
+124,Maiden's Armor,0x18,"",X,X,"","","",100,28,34,0,840,17,Defense,0,103,18,MagDef,0,112,-1,None,0,0,-1,None,0,0,0x2ca444,60,Legendary armor given to a great female warrior\nby Daccat.
+125,Heavy Armor,0x27,X,"","",X,X,X,100,10,26,0,230,17,Defense,0,58,18,MagDef,0,53,-1,None,0,0,-1,None,0,0,0x2ca480,88,Very thick and heavy armor made for a man.\nOffers protection against physical attacks.
+126,Ancient Robe,0x1a,"",X,X,"",X,"",100,17,2,0,370,17,Defense,0,69,18,MagDef,0,82,-1,None,0,0,-1,None,0,0,0x2ca4d8,60,"A robe belonging to a long-dead, but once\npowerful wizard."
+127,De Loco Mail,0x25,X,"","",X,"",X,100,21,12,0,730,17,Defense,0,99,18,MagDef,0,84,-1,None,0,0,-1,None,0,0,0x2ca514,88,"A suit of armor crafted by De Loco, designed\nto protect the wearer from enemy attacks."
+128,Daccat's Armor,0x35,X,X,"",X,"",X,100,29,9,0,910,17,Defense,0,108,18,MagDef,0,108,-1,None,0,0,-1,None,0,0,0x2ca56c,60,"Very durable, light armor, engraved with \nDaccat's seal."
+129,Moss Armor,0xa,"","",X,"",X,"",100,38,39,0,1280,17,Defense,0,126,18,MagDef,0,126,19,Hit%,0,20,20,Dodge%,0,10,0x2ca5a8,64,An old suit of armor crafted from moss found in\nthe Dark Rift.
+130,Moonlight Robe,0x18,"",X,X,"","","",100,43,38,0,4460,17,Defense,0,134,18,MagDef,0,145,20,Dodge%,0,20,-1,None,0,0,0x2ca5e8,88,"A shimmering robe that reflects moonlight, the\nway a calm lake reflects light at night."
+131,Silver Armor,0x3f,X,X,X,X,X,X,100,51,51,0,8580,17,Defense,0,160,18,MagDef,0,160,37,Silver,0,-2,-1,None,0,0,0x2ca640,72,A silver suit of armor that has a high\nresistance to Silver attacks.
+132,Victory Mail,0x3f,X,X,X,X,X,X,100,22,57,0,620,17,Defense,0,90,18,MagDef,0,90,16,Attack,0,5,1,Will,0,5,0x2ca688,80,Enchanted suit of armor that raises the attack\npower and will of the wearer.
+133,Flame Mantle,0x27,X,"","",X,X,X,100,16,20,0,390,17,Defense,0,74,18,MagDef,0,69,-1,None,0,0,-1,None,0,0,0x2ca6d8,52,A dress crafted from extremely light weight\nfabric.
+134,Female Armor,0x18,"",X,X,"","","",100,23,16,0,660,17,Defense,0,92,18,MagDef,0,99,-1,None,0,0,-1,None,0,0,0x2ca70c,72,"Armor crafted to fit a woman's body, and\nprotect it from enemy attacks."
+135,Ghost Mail,0x35,X,X,"",X,"",X,100,37,23,0,1310,17,Defense,0,128,18,MagDef,0,128,-1,None,0,0,-1,None,0,0,0x2ca754,88,"A strange outfit that appears translucent in\nlight, and floats eerily when released."
+136,Light Coat,0xa,"","",X,"",X,"",100,30,30,0,830,17,Defense,0,103,18,MagDef,0,103,19,Hit%,0,10,20,Dodge%,0,5,0x2ca7ac,56,A lightweight coat that increases the wearer's\nagility.
+137,Fiber Mail,0x25,X,"","",X,"",X,100,47,17,0,2180,17,Defense,0,164,18,MagDef,0,139,-1,None,0,0,-1,None,0,0,0x2ca7e4,80,Very effective armor woven from a special type\nof moss found in the Dark Rift.
+138,Moon Robe,0x1a,"",X,X,"",X,"",100,42,37,0,1300,17,Defense,0,125,18,MagDef,0,146,-1,None,0,0,-1,None,0,0,0x2ca834,76,A beautiful robe that glows blue in the night.\nResists enemy magic spells.
+139,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+140,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+141,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+142,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+143,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+144,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+145,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+146,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+147,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+148,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+149,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+150,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+151,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+152,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+153,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+154,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+155,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+156,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+157,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+158,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""
+159,ダミー防具,0x0,"","","","","","",0,-1,-1,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""

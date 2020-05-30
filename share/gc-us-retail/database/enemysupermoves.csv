@@ -1,6 +1,6 @@
 Entry ID,US entry name,Pad. #0,Pad. #1,Pad. #2,Pad. #3,Category ID,[Category name],Effect ID,[Effect name],Scope ID,[Scope name],Effect value #0,Effect value #1,Element ID,[Element name],Type ID,[Type name],Unk. #0,Unk. #1,State ID,[State name],State miss%,Pad. #4,Pad. #5
 0,Volcanic Blast,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,1,Red,0,Physical,0,0,0,Poison,0,0,0
-1,Cinder Storm,0,0,0,0,0,Super Move,8,Add Stone + Damage,1,One character,16,5,1,Red,0,Physical,16,17,2,Stone,70,0,0
+1,Cinder Storm,0,0,0,0,0,Super Move,8,Add Stone + Damage,1,One character,16,5,1,Red,0,Physical,16,17,2,Stone,30,0,0
 2,Feather Slash,0,0,0,0,0,Super Move,0,Damage,102,Character line #2,16,30,0,Green,0,Physical,0,0,0,Poison,0,0,0
 3,欠番,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
 4,Laser,0,0,0,0,0,Super Move,0,Damage,1,One character,16,20,5,Silver,0,Physical,0,0,0,Poison,0,0,0
@@ -39,7 +39,7 @@ Entry ID,US entry name,Pad. #0,Pad. #1,Pad. #2,Pad. #3,Category ID,[Category nam
 37,Focus,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
 38,Eternal Freeze,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,12,2,Purple,0,Physical,0,0,0,Poison,0,0,0
 39,Lightning Strike,0,0,0,0,0,Super Move,0,Damage,1,One character,16,20,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
-40,Terrible Bite,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,1,One character,16,15,0,Green,0,Physical,16,17,6,Fatigue,20,0,0
+40,Terrible Bite,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,1,One character,16,20,0,Green,0,Physical,16,17,6,Fatigue,20,0,0
 41,Deep Sleep,0,0,0,0,0,Super Move,63,Add Regenerate + Add Sleep,5,User,400,65280,0,Green,0,Physical,0,0,0,Poison,0,0,0
 42,Avalauncher,0,0,0,0,0,Super Move,0,Damage,102,Character line #2,16,35,2,Purple,0,Physical,0,0,0,Poison,0,0,0
 43,Silver Eclipse,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,25,5,Silver,0,Physical,0,0,0,Poison,0,0,0
@@ -57,13 +57,13 @@ Entry ID,US entry name,Pad. #0,Pad. #1,Pad. #2,Pad. #3,Category ID,[Category nam
 55,Engage,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
 56,Thunder Storm,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,4,Yellow,0,Physical,0,0,0,Poison,0,0,0
 57,Eerie Wail,0,0,0,0,0,Super Move,0,Damage,107,Character line #4,16,15,2,Purple,0,Physical,0,0,0,Poison,0,0,0
-58,Assess Damage,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
+58,Assess Damage,0,0,0,0,0,Super Move,67,Invulnerable,5,User,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
 59,Death Waltz,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,40,6,Neutral,0,Physical,0,0,0,Poison,0,0,0
 60,Vigoro's Charm,0,0,0,0,0,Super Move,70,Add Confusion + Damage,1,One character,16,5,1,Red,0,Physical,16,17,4,Confusion,0,0,0
 61,Laser Blast,0,0,0,0,0,Super Move,8,Add Stone + Damage,1,One character,16,20,5,Silver,0,Physical,16,17,2,Stone,50,0,0
 62,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,12,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
 63,Digest,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
-64,Terrible Bite,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,1,One character,16,15,2,Purple,0,Physical,16,17,6,Fatigue,20,0,0
+64,Terrible Bite,0,0,0,0,0,Super Move,72,Add Fatigue + Damage,1,One character,16,20,2,Purple,0,Physical,16,17,6,Fatigue,20,0,0
 65,Neglora,0,0,0,0,0,Super Move,17,Remove positive states,2,All characters,16,5,-1,None,-1,None,-1,-1,-1,None,-1,0,0
 66,Ice Storm,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,20,2,Purple,0,Physical,0,0,0,Poison,0,0,0
 67,Call Allies,0,0,0,0,0,Super Move,43,Call enemy,0,None,60,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
@@ -179,7 +179,7 @@ Entry ID,US entry name,Pad. #0,Pad. #1,Pad. #2,Pad. #3,Category ID,[Category nam
 177,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
 178,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
 179,ダミー,0,0,0,0,0,Super Move,-1,None,0,None,0,0,0,Green,0,Physical,0,0,0,Poison,0,0,0
-180,Lava Storm,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,10,1,Red,0,Physical,0,0,0,Poison,0,0,0
+180,Lava Storm,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,15,1,Red,0,Physical,0,0,0,Poison,0,0,0
 181,Blast Breath,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,15,1,Red,0,Physical,0,0,0,Poison,0,0,0
 182,Loqua Spray,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,25,1,Red,0,Physical,0,0,0,Poison,0,0,0
 183,Frost Breath,0,0,0,0,0,Super Move,0,Damage,2,All characters,16,15,2,Purple,0,Physical,0,0,0,Poison,0,0,0

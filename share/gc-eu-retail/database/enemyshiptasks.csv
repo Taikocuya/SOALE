@@ -119,38 +119,38 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unk.,Task rating,Task A type
 33,r507a.tec,11,Lynx,-1,0,4,Nothing,-1,None,1,Target Lost,0,0,Attack,0,Lynx Cannon,-1,None,0
 34,r507a.tec,11,Lynx,-1,0,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,0,Lynx Cannon,-1,None,0
 35,r507a.tec,11,Lynx,1,50,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-0,r509a.tec,12,Chameleon,3,30,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,2,Type D Torpedo,-1,None,3
-1,r509a.tec,12,Chameleon,3,80,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,-1,None,0
-2,r509a.tec,12,Chameleon,3,40,4,Nothing,-1,None,0,Awaiting Orders,0,2,Focus,-1,None,0,Focus,0
-3,r509a.tec,12,Chameleon,3,20,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,1,Type D Subcannon,-1,None,0
-4,r509a.tec,12,Chameleon,-1,0,0,Attack,2,Type D Torpedo,-1,None,3,0,Attack,2,Type D Torpedo,-1,None,3
-5,r509a.tec,12,Chameleon,-1,0,0,Attack,1,Type D Subcannon,-1,None,2,0,Attack,1,Type D Subcannon,-1,None,2
-6,r509a.tec,12,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-7,r509a.tec,12,Chameleon,-1,0,3,Guard,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
-8,r509a.tec,12,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-9,r509a.tec,12,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
+0,r509a.tec,12,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+1,r509a.tec,12,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+2,r509a.tec,12,Chameleon,3,50,0,Attack,1,Type D Subcannon,-1,None,0,3,Guard,-1,None,-1,None,0
+3,r509a.tec,12,Chameleon,-1,0,0,Attack,1,Type D Subcannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
+4,r509a.tec,12,Chameleon,-1,0,0,Attack,1,Type D Subcannon,-1,None,1,0,Attack,0,Revolver Cannon,-1,None,0
+5,r509a.tec,12,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
+6,r509a.tec,12,Chameleon,3,70,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+7,r509a.tec,12,Chameleon,-1,0,0,Attack,0,Revolver Cannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
+8,r509a.tec,12,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,0,Attack,1,Type D Subcannon,-1,None,1
+9,r509a.tec,12,Chameleon,3,50,3,Guard,-1,None,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
 10,r509a.tec,12,Chameleon,-1,0,0,Attack,0,Revolver Cannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
-11,r509a.tec,12,Chameleon,-1,0,0,Attack,3,Flamethrower,-1,None,0,0,Attack,3,Flamethrower,-1,None,0
-12,r509a.tec,12,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-13,r509a.tec,12,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-14,r509a.tec,12,Chameleon,-1,0,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,0,Awaiting Orders,0
-15,r509a.tec,12,Chameleon,-1,0,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,0,Awaiting Orders,0
-16,r509a.tec,12,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,4,Nothing,-1,None,0,Awaiting Orders,0
-17,r509a.tec,12,Chameleon,-1,0,0,Attack,1,Type D Subcannon,-1,None,3,0,Attack,1,Type D Subcannon,-1,None,3
-18,r509a.tec,12,Chameleon,-1,0,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,3,Flamethrower,-1,None,1
-19,r509a.tec,12,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,4,Nothing,-1,None,0,Awaiting Orders,0
-20,r509a.tec,12,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-21,r509a.tec,12,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
+11,r509a.tec,12,Chameleon,-1,0,0,Attack,3,Flamethrower,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
+12,r509a.tec,12,Chameleon,3,80,0,Attack,2,Type D Torpedo,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
+13,r509a.tec,12,Chameleon,3,80,1,Magic,-1,None,13,Quika,0,2,Focus,-1,None,0,Focus,0
+14,r509a.tec,12,Chameleon,3,70,4,Nothing,-1,None,1,Target Lost,0,3,Guard,-1,None,-1,None,0
+15,r509a.tec,12,Chameleon,3,70,4,Nothing,-1,None,1,Target Lost,0,3,Guard,-1,None,-1,None,0
+16,r509a.tec,12,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,0,Attack,1,Type D Subcannon,-1,None,0
+17,r509a.tec,12,Chameleon,-1,0,0,Attack,1,Type D Subcannon,-1,None,2,0,Attack,0,Revolver Cannon,-1,None,0
+18,r509a.tec,12,Chameleon,-1,0,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,0,Revolver Cannon,-1,None,0
+19,r509a.tec,12,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+20,r509a.tec,12,Chameleon,3,50,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,2
+21,r509a.tec,12,Chameleon,3,30,3,Guard,-1,None,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
 22,r509a.tec,12,Chameleon,-1,0,0,Attack,0,Revolver Cannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
-23,r509a.tec,12,Chameleon,-1,0,0,Attack,3,Flamethrower,-1,None,0,0,Attack,3,Flamethrower,-1,None,0
-24,r509a.tec,12,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-25,r509a.tec,12,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-26,r509a.tec,12,Chameleon,-1,0,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,0,Awaiting Orders,0
-27,r509a.tec,12,Chameleon,-1,0,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,0,Awaiting Orders,0
-28,r509a.tec,12,Chameleon,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
-29,r509a.tec,12,Chameleon,-1,0,0,Attack,2,Type D Torpedo,-1,None,3,0,Attack,2,Type D Torpedo,-1,None,3
-30,r509a.tec,12,Chameleon,-1,0,0,Attack,1,Type D Subcannon,-1,None,2,0,Attack,1,Type D Subcannon,-1,None,2
-31,r509a.tec,12,Chameleon,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
+23,r509a.tec,12,Chameleon,-1,0,0,Attack,3,Flamethrower,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
+24,r509a.tec,12,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
+25,r509a.tec,12,Chameleon,3,80,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,2
+26,r509a.tec,12,Chameleon,3,70,4,Nothing,-1,None,1,Target Lost,0,3,Guard,-1,None,-1,None,0
+27,r509a.tec,12,Chameleon,3,70,4,Nothing,-1,None,1,Target Lost,0,3,Guard,-1,None,-1,None,0
+28,r509a.tec,12,Chameleon,-1,0,1,Magic,-1,None,6,Sacri,0,0,Attack,0,Revolver Cannon,-1,None,0
+29,r509a.tec,12,Chameleon,3,50,0,Attack,1,Type D Subcannon,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+30,r509a.tec,12,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,3,Guard,-1,None,-1,None,0
+31,r509a.tec,12,Chameleon,-1,0,0,Attack,1,Type D Subcannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
 0,r510a.tec,4,Valuan Gunboat,0,50,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
 1,r510a.tec,4,Valuan Gunboat,0,20,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
 2,r510a.tec,4,Valuan Gunboat,3,30,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
@@ -203,98 +203,98 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unk.,Task rating,Task A type
 33,r513a.tec,35,Roc,-1,0,0,Attack,3,Grab,-1,None,0,0,Attack,0,Blast Voice,-1,None,0
 34,r513a.tec,35,Roc,3,50,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Blast Voice,-1,None,0
 35,r513a.tec,35,Roc,-1,0,0,Attack,0,Blast Voice,-1,None,0,0,Attack,0,Blast Voice,-1,None,0
-0,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,3
-1,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,1
-2,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,4,Nothing,-1,None,-1,None,0
-3,r514a.tec,13,Chameleon,-1,1,0,Attack,1,Type D Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
-4,r514a.tec,13,Chameleon,-1,0,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
-5,r514a.tec,13,Chameleon,-1,0,4,Nothing,0,Handgun,0,Awaiting Orders,0,-1,None,-1,None,-1,None,0
-6,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,1,0,Attack,0,Handgun,-1,None,0
-7,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-8,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
-9,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
-10,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
+0,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,2
+1,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,2
+2,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+3,r514a.tec,13,Chameleon,-1,0,0,Attack,1,Type D Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
+4,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+5,r514a.tec,13,Chameleon,3,50,3,Guard,-1,None,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
+6,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
+7,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,3,Guard,-1,None,-1,None,0
+8,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+9,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+10,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,1,Taking Aim,0,1,Magic,-1,None,6,Sacri,0
 11,r514a.tec,13,Chameleon,-1,0,0,Attack,3,Test Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-12,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
-13,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
-14,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
+12,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+13,r514a.tec,13,Chameleon,3,70,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,2
+14,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,1,Taking Aim,0,1,Magic,-1,None,6,Sacri,0
 15,r514a.tec,13,Chameleon,-1,0,0,Attack,3,Test Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-16,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,-1,None,0
-17,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,3,Guard,-1,None,0,Evasive Action,0
+16,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+17,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
 18,r514a.tec,13,Chameleon,-1,0,0,Attack,0,Handgun,-1,None,0,-1,None,-1,None,-1,None,0
-19,r514a.tec,13,Chameleon,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,-1,None,-1,None,-1,None,0
-20,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,-1,None,0
-21,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,3,Guard,-1,None,0,Evasive Action,0
-22,r514a.tec,13,Chameleon,3,70,0,Attack,0,Handgun,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-23,r514a.tec,13,Chameleon,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,-1,None,-1,None,-1,None,0
-24,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
-25,r514a.tec,13,Chameleon,-1,0,0,Attack,1,Type D Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
-26,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
+19,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+20,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+21,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+22,r514a.tec,13,Chameleon,3,70,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
+23,r514a.tec,13,Chameleon,3,50,0,Attack,1,Type D Subcannon,-1,None,0,1,Magic,-1,None,6,Sacri,0
+24,r514a.tec,13,Chameleon,-1,0,0,Attack,2,Type D Torpedo,-1,None,2,-1,None,-1,None,-1,None,0
+25,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+26,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,1,Taking Aim,0,1,Magic,-1,None,6,Sacri,0
 27,r514a.tec,13,Chameleon,-1,0,0,Attack,3,Test Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-28,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
-29,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
-30,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
+28,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+29,r514a.tec,13,Chameleon,3,70,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,2
+30,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,1,Taking Aim,0,1,Magic,-1,None,6,Sacri,0
 31,r514a.tec,13,Chameleon,-1,0,0,Attack,3,Test Cannon,1,None,0,-1,None,-1,None,-1,None,0
-32,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,-1,None,0
-33,r514a.tec,13,Chameleon,-1,0,0,Attack,2,Type D Torpedo,-1,None,2,3,Guard,-1,None,0,Evasive Action,0
+32,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+33,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
 34,r514a.tec,13,Chameleon,-1,0,0,Attack,0,Handgun,-1,None,0,-1,None,-1,None,-1,None,0
-35,r514a.tec,13,Chameleon,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,-1,None,-1,None,-1,None,0
-36,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,-1,None,0
-37,r514a.tec,13,Chameleon,3,50,0,Attack,1,Type D Subcannon,-1,None,1,3,Guard,-1,None,0,Evasive Action,0
-38,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-39,r514a.tec,13,Chameleon,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,-1,None,-1,None,-1,None,0
-40,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,-1,None,0
-41,r514a.tec,13,Chameleon,-1,0,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,-1,None,-1,None,0
-42,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,3,Guard,-1,None,0,Evasive Action,0
+35,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,0,Handgun,-1,None,0
+36,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+37,r514a.tec,13,Chameleon,3,50,0,Attack,1,Type D Subcannon,-1,None,1,0,Attack,1,Type D Subcannon,-1,None,2
+38,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,1
+39,r514a.tec,13,Chameleon,3,50,3,Guard,-1,None,-1,None,0,1,Magic,-1,None,6,Sacri,0
+40,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+41,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
+42,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,0,Handgun,-1,None,0
 43,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,0
-44,r514a.tec,13,Chameleon,-1,0,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
-45,r514a.tec,13,Chameleon,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,-1,None,-1,None,-1,None,0
-46,r514a.tec,13,Chameleon,3,50,0,Attack,1,Type D Subcannon,-1,None,0,0,Attack,0,Handgun,-1,None,3
-47,r514a.tec,13,Chameleon,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,-1,None,-1,None,-1,None,0
-48,r514a.tec,13,Chameleon,-1,0,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
-49,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,1,0,Attack,0,Handgun,-1,None,0
-50,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-51,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
+44,r514a.tec,13,Chameleon,3,50,1,Magic,-1,None,6,Sacri,0,3,Guard,-1,None,0,Evasive Action,0
+45,r514a.tec,13,Chameleon,3,50,0,Attack,1,Type D Subcannon,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
+46,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
+47,r514a.tec,13,Chameleon,3,50,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+48,r514a.tec,13,Chameleon,3,50,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+49,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
+50,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
+51,r514a.tec,13,Chameleon,3,50,0,Attack,0,Handgun,-1,None,0,1,Magic,-1,None,6,Sacri,0
 0,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
-1,r515a.tec,25,Grendel,-1,0,2,Focus,-1,None,2,Preparing Attack,0,2,Focus,-1,None,2,Preparing Attack,0
-2,r515a.tec,25,Grendel,-1,0,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
+1,r515a.tec,25,Grendel,3,50,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Fist of Grendel,-1,None,0
+2,r515a.tec,25,Grendel,3,50,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,2,Stomp,-1,None,0
 3,r515a.tec,25,Grendel,-1,0,0,Attack,1,Boulder Throw,-1,None,0,0,Attack,1,Boulder Throw,-1,None,0
 4,r515a.tec,25,Grendel,9,0,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Fist of Grendel,-1,None,0
-5,r515a.tec,25,Grendel,-1,0,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
-6,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
-7,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
-8,r515a.tec,25,Grendel,-1,0,2,Focus,-1,None,2,Preparing Attack,0,2,Focus,-1,None,2,Preparing Attack,0
+5,r515a.tec,25,Grendel,3,50,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,1,Boulder Throw,-1,None,0
+6,r515a.tec,25,Grendel,-1,0,1,Magic,-1,None,0,Increm,0,4,Nothing,-1,None,2,Assessing Damage,0
+7,r515a.tec,25,Grendel,3,50,4,Nothing,-1,None,2,Assessing Damage,0,3,Guard,-1,None,0,Evasive Action,0
+8,r515a.tec,25,Grendel,3,50,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Fist of Grendel,-1,None,0
 9,r515a.tec,25,Grendel,9,0,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Fist of Grendel,-1,None,0
-10,r515a.tec,25,Grendel,-1,0,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
+10,r515a.tec,25,Grendel,3,50,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,1,Boulder Throw,-1,None,0
 11,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
 12,r515a.tec,25,Grendel,-1,0,2,Focus,-1,None,2,Preparing Attack,0,2,Focus,-1,None,2,Preparing Attack,0
 13,r515a.tec,25,Grendel,-1,0,0,Attack,1,Boulder Throw,-1,None,0,0,Attack,1,Boulder Throw,-1,None,0
-14,r515a.tec,25,Grendel,-1,0,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
-15,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
+14,r515a.tec,25,Grendel,3,50,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,2,Stomp,-1,None,0
+15,r515a.tec,25,Grendel,3,50,4,Nothing,-1,None,2,Assessing Damage,0,3,Guard,-1,None,0,Evasive Action,0
 16,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,1,Target Lost,0
-17,r515a.tec,25,Grendel,-1,0,0,Attack,1,Boulder Throw,-1,None,0,0,Attack,1,Boulder Throw,-1,None,0
+17,r515a.tec,25,Grendel,3,50,0,Attack,1,Boulder Throw,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
 18,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,1,Target Lost,0
-19,r515a.tec,25,Grendel,-1,0,0,Attack,1,Boulder Throw,-1,None,0,0,Attack,1,Boulder Throw,-1,None,0
-20,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
+19,r515a.tec,25,Grendel,3,50,0,Attack,1,Boulder Throw,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
+20,r515a.tec,25,Grendel,3,50,4,Nothing,-1,None,2,Assessing Damage,0,3,Guard,-1,None,0,Evasive Action,0
 21,r515a.tec,25,Grendel,-1,0,2,Focus,-1,None,2,Preparing Attack,0,2,Focus,-1,None,2,Preparing Attack,0
 22,r515a.tec,25,Grendel,-1,0,0,Attack,2,Stomp,-1,None,0,0,Attack,2,Stomp,-1,None,0
-23,r515a.tec,25,Grendel,-1,0,0,Attack,1,Boulder Throw,-1,None,0,0,Attack,1,Boulder Throw,-1,None,0
-24,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
+23,r515a.tec,25,Grendel,3,50,0,Attack,1,Boulder Throw,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
+24,r515a.tec,25,Grendel,-1,0,1,Magic,-1,None,0,Increm,0,4,Nothing,-1,None,2,Assessing Damage,0
 25,r515a.tec,25,Grendel,-1,0,2,Focus,-1,None,2,Preparing Attack,0,2,Focus,-1,None,2,Preparing Attack,0
-26,r515a.tec,25,Grendel,3,80,0,Attack,0,Fist of Grendel,-1,None,0,4,Nothing,-1,None,2,Assessing Damage,0
+26,r515a.tec,25,Grendel,3,50,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,1,Boulder Throw,-1,None,0
 27,r515a.tec,25,Grendel,4,0,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Fist of Grendel,-1,None,0
-28,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
-29,r515a.tec,25,Grendel,-1,0,2,Focus,-1,None,2,Preparing Attack,0,2,Focus,-1,None,2,Preparing Attack,0
-30,r515a.tec,25,Grendel,-1,0,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
-31,r515a.tec,25,Grendel,-1,0,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
+28,r515a.tec,25,Grendel,3,50,4,Nothing,-1,None,2,Assessing Damage,0,3,Guard,-1,None,0,Evasive Action,0
+29,r515a.tec,25,Grendel,3,50,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Fist of Grendel,-1,None,0
+30,r515a.tec,25,Grendel,3,50,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,1,Boulder Throw,-1,None,0
+31,r515a.tec,25,Grendel,3,50,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,2,Stomp,-1,None,0
 32,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,1,Target Lost,0
-33,r515a.tec,25,Grendel,-1,0,2,Focus,-1,None,2,Preparing Attack,0,2,Focus,-1,None,2,Preparing Attack,0
-34,r515a.tec,25,Grendel,-1,0,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
-35,r515a.tec,25,Grendel,0,50,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Fist of Grendel,-1,None,0
-36,r515a.tec,25,Grendel,-1,0,2,Focus,-1,None,2,Preparing Attack,0,2,Focus,-1,None,2,Preparing Attack,0
+33,r515a.tec,25,Grendel,3,50,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Fist of Grendel,-1,None,0
+34,r515a.tec,25,Grendel,3,50,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,2,Stomp,-1,None,0
+35,r515a.tec,25,Grendel,3,50,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Fist of Grendel,-1,None,0
+36,r515a.tec,25,Grendel,3,50,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Fist of Grendel,-1,None,0
 37,r515a.tec,25,Grendel,9,0,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Fist of Grendel,-1,None,0
-38,r515a.tec,25,Grendel,-1,0,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,0,Fist of Grendel,-1,None,0
-39,r515a.tec,25,Grendel,-1,0,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
+38,r515a.tec,25,Grendel,3,50,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,2,Stomp,-1,None,0
+39,r515a.tec,25,Grendel,3,50,4,Nothing,-1,None,2,Assessing Damage,0,3,Guard,-1,None,0,Evasive Action,0
 0,r518a.tec,4,Valuan Gunboat,-1,0,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
 1,r518a.tec,4,Valuan Gunboat,3,80,0,Attack,1,Heavy Subcannon,-1,None,1,4,Nothing,0,Large Cannon,0,Awaiting Orders,0
 2,r518a.tec,4,Valuan Gunboat,-1,0,0,Attack,0,Large Cannon,-1,None,0,0,Attack,-1,None,-1,None,0
@@ -316,13 +316,13 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unk.,Task rating,Task A type
 2,r519a.tec,38,Fortress Gates,-1,0,0,Attack,0,Small Cannon,-1,None,0,0,Attack,0,Small Cannon,-1,None,0
 3,r519a.tec,38,Fortress Gates,-1,0,0,Attack,0,Small Cannon,-1,None,0,0,Attack,0,Small Cannon,-1,None,0
 0,r520a.tec,9,Gregorio Cruiser,-1,0,0,Attack,0,Main Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-1,r520a.tec,9,Gregorio Cruiser,3,25,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation,-1,None,1
+1,r520a.tec,9,Gregorio Cruiser,3,25,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation ,-1,None,1
 2,r520a.tec,9,Gregorio Cruiser,-1,0,0,Attack,0,Main Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-3,r520a.tec,9,Gregorio Cruiser,3,20,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation,-1,None,0
-4,r520a.tec,9,Gregorio Cruiser,-1,0,0,Attack,1,Fragmentation,-1,None,0,-1,None,-1,None,-1,None,0
-5,r520a.tec,9,Gregorio Cruiser,3,50,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation,-1,None,1
+3,r520a.tec,9,Gregorio Cruiser,3,20,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation ,-1,None,0
+4,r520a.tec,9,Gregorio Cruiser,-1,0,0,Attack,1,Fragmentation ,-1,None,0,-1,None,-1,None,-1,None,0
+5,r520a.tec,9,Gregorio Cruiser,3,50,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation ,-1,None,1
 6,r520a.tec,9,Gregorio Cruiser,-1,0,0,Attack,0,Main Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-7,r520a.tec,9,Gregorio Cruiser,3,30,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation,-1,None,0
+7,r520a.tec,9,Gregorio Cruiser,3,30,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation ,-1,None,0
 0,r521a.tec,10,Gregorio Gunboat,-1,0,3,Guard,-1,None,-1,None,0,0,Attack,0,Main Cannon,-1,None,0
 1,r521a.tec,10,Gregorio Gunboat,-1,0,2,Focus,-1,None,1,Taking Aim,0,0,Attack,0,Main Cannon,-1,None,0
 2,r521a.tec,10,Gregorio Gunboat,-1,0,0,Attack,0,Main Cannon,-1,None,0,0,Attack,0,Main Cannon,-1,None,0
@@ -468,22 +468,22 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unk.,Task rating,Task A type
 62,r524a.tec,29,Anguila,-1,0,0,Attack,0,Poison Spray,-1,None,0,0,Attack,0,Poison Spray,-1,None,0
 63,r524a.tec,29,Anguila,-1,0,3,Guard,-1,None,-1,None,0,3,Guard,-1,None,-1,None,0
 0,r525a.tec,44,Tenkou Spellship,3,20,0,Attack,2,Houroku Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
-1,r525a.tec,44,Tenkou Spellship,3,50,0,Attack,0,Cannon,-1,None,0,1,Magic,-1,None,21,Wevles,0
+1,r525a.tec,44,Tenkou Spellship,3,50,0,Attack,0,Cannon ,-1,None,0,1,Magic,-1,None,21,Wevles,0
 2,r525a.tec,44,Tenkou Spellship,3,50,3,Guard,-1,None,0,Evasive Action,0,0,Attack,2,Houroku Torpedo,-1,None,1
-3,r525a.tec,44,Tenkou Spellship,3,50,0,Attack,0,Cannon,-1,None,0,1,Magic,-1,None,26,Crystali,0
-4,r525a.tec,44,Tenkou Spellship,-1,0,0,Attack,0,Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+3,r525a.tec,44,Tenkou Spellship,3,50,0,Attack,0,Cannon ,-1,None,0,1,Magic,-1,None,26,Crystali,0
+4,r525a.tec,44,Tenkou Spellship,-1,0,0,Attack,0,Cannon ,-1,None,0,-1,None,-1,None,-1,None,0
 5,r525a.tec,44,Tenkou Spellship,-1,0,1,Magic,-1,None,21,Wevles,0,-1,None,-1,None,-1,None,0
 6,r525a.tec,44,Tenkou Spellship,3,80,1,Magic,-1,None,26,Crystali,0,0,Attack,2,Houroku Torpedo,-1,None,1
 7,r525a.tec,44,Tenkou Spellship,1,20,1,Magic,-1,None,6,Sacri,0,2,Focus,-1,None,0,Focus,0
 8,r525a.tec,44,Tenkou Spellship,3,50,1,Magic,-1,None,26,Crystali,0,1,Magic,-1,None,21,Wevles,0
 9,r525a.tec,44,Tenkou Spellship,3,50,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,2,Houroku Torpedo,-1,None,1
-10,r525a.tec,44,Tenkou Spellship,3,50,0,Attack,0,Cannon,-1,None,0,2,Focus,-1,None,-1,None,0
+10,r525a.tec,44,Tenkou Spellship,3,50,0,Attack,0,Cannon ,-1,None,0,2,Focus,-1,None,-1,None,0
 11,r525a.tec,44,Tenkou Spellship,3,90,3,Guard,-1,None,-1,None,0,1,Magic,-1,None,6,Sacri,0
-12,r525a.tec,44,Tenkou Spellship,3,50,0,Attack,0,Cannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-13,r525a.tec,44,Tenkou Spellship,-1,0,0,Attack,0,Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+12,r525a.tec,44,Tenkou Spellship,3,50,0,Attack,0,Cannon ,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
+13,r525a.tec,44,Tenkou Spellship,-1,0,0,Attack,0,Cannon ,-1,None,0,-1,None,-1,None,-1,None,0
 14,r525a.tec,44,Tenkou Spellship,3,50,2,Focus,-1,None,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-15,r525a.tec,44,Tenkou Spellship,4,2,1,Magic,-1,None,26,Crystali,0,0,Attack,0,Cannon,-1,None,0
-16,r525a.tec,44,Tenkou Spellship,-1,0,0,Attack,0,Cannon,-1,None,0,2,Focus,-1,None,-1,None,0
+15,r525a.tec,44,Tenkou Spellship,4,2,1,Magic,-1,None,26,Crystali,0,0,Attack,0,Cannon ,-1,None,0
+16,r525a.tec,44,Tenkou Spellship,-1,0,0,Attack,0,Cannon ,-1,None,0,2,Focus,-1,None,-1,None,0
 17,r525a.tec,44,Tenkou Spellship,4,2,2,Focus,-1,None,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
 18,r525a.tec,44,Tenkou Spellship,4,2,1,Magic,-1,None,6,Sacri,0,4,Nothing,-1,None,0,Awaiting Orders,0
 19,r525a.tec,44,Tenkou Spellship,-1,0,4,Nothing,-1,None,0,Awaiting Orders,0,-1,None,-1,None,-1,None,0
@@ -1243,16 +1243,16 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unk.,Task rating,Task A type
 13,r566a.tec,7,Valuan Spectre,1,30,0,Attack,1,Neo Subcannon,-1,None,3,2,Focus,-1,None,0,Focus,0
 14,r566a.tec,7,Valuan Spectre,1,30,2,Focus,-1,None,0,Focus,0,1,Magic,-1,None,34,Electrum,0
 15,r566a.tec,7,Valuan Spectre,1,30,0,Attack,0,Neo Cannon,-1,None,0,1,Magic,-1,None,34,Electrum,0
-0,r567a.tec,6,Valuan Destroyer,3,50,0,Attack,1,Great Subcannon,-1,None,1,4,Nothing,0,Prototype Cannon,-1,None,0
+0,r567a.tec,6,Valuan Destroyer,3,50,0,Attack,1,Great Subcannon ,-1,None,1,4,Nothing,0,Prototype Cannon,-1,None,0
 1,r567a.tec,6,Valuan Destroyer,3,70,0,Attack,0,Prototype Cannon,-1,None,0,2,Focus,0,Prototype Cannon,-1,None,0
 2,r567a.tec,6,Valuan Destroyer,3,50,0,Attack,0,Prototype Cannon,-1,None,0,0,Attack,2,Great Torpedo,-1,None,1
 3,r567a.tec,6,Valuan Destroyer,3,70,0,Attack,0,Prototype Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
 4,r567a.tec,6,Valuan Destroyer,1,30,3,Guard,-1,None,0,Evasive Action,0,0,Attack,2,Great Torpedo,-1,None,2
-5,r567a.tec,6,Valuan Destroyer,3,30,0,Attack,1,Great Subcannon,-1,None,2,0,Attack,0,Prototype Cannon,-1,None,0
+5,r567a.tec,6,Valuan Destroyer,3,30,0,Attack,1,Great Subcannon ,-1,None,2,0,Attack,0,Prototype Cannon,-1,None,0
 6,r567a.tec,6,Valuan Destroyer,3,50,0,Attack,0,Prototype Cannon,-1,None,0,2,Focus,-1,None,-1,None,0
 7,r567a.tec,6,Valuan Destroyer,3,30,2,Focus,-1,None,0,Focus,0,0,Attack,0,Prototype Cannon,-1,None,0
 8,r567a.tec,6,Valuan Destroyer,-1,0,0,Attack,0,Prototype Cannon,-1,None,0,0,Attack,-1,None,-1,None,0
-9,r567a.tec,6,Valuan Destroyer,3,30,0,Attack,2,Great Torpedo,-1,None,1,0,Attack,1,Great Subcannon,-1,None,2
+9,r567a.tec,6,Valuan Destroyer,3,30,0,Attack,2,Great Torpedo,-1,None,1,0,Attack,1,Great Subcannon ,-1,None,2
 10,r567a.tec,6,Valuan Destroyer,3,50,0,Attack,0,Prototype Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
 11,r567a.tec,6,Valuan Destroyer,3,50,0,Attack,0,Prototype Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
 12,r567a.tec,6,Valuan Destroyer,-1,0,0,Attack,0,Prototype Cannon,-1,None,0,0,Attack,-1,None,-1,None,0
@@ -1347,16 +1347,16 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],Unk.,Task rating,Task A type
 17,r573a.tec,43,The Blackbeard,-1,0,0,Attack,0,Vega Cannon Plus,-1,None,0,0,Attack,0,Vega Cannon Plus,-1,None,0
 18,r573a.tec,43,The Blackbeard,-1,0,0,Attack,0,Vega Cannon Plus,-1,None,0,0,Attack,0,Vega Cannon Plus,-1,None,0
 19,r573a.tec,43,The Blackbeard,-1,0,0,Attack,0,Vega Cannon Plus,-1,None,0,0,Attack,0,Vega Cannon Plus,-1,None,0
-0,r574a.tec,6,Valuan Destroyer,3,50,0,Attack,1,Great Subcannon,-1,None,1,4,Nothing,0,Prototype Cannon,-1,None,0
+0,r574a.tec,6,Valuan Destroyer,3,50,0,Attack,1,Great Subcannon ,-1,None,1,4,Nothing,0,Prototype Cannon,-1,None,0
 1,r574a.tec,6,Valuan Destroyer,3,70,0,Attack,0,Prototype Cannon,-1,None,0,2,Focus,0,Prototype Cannon,-1,None,0
 2,r574a.tec,6,Valuan Destroyer,3,50,0,Attack,0,Prototype Cannon,-1,None,0,0,Attack,2,Great Torpedo,-1,None,1
 3,r574a.tec,6,Valuan Destroyer,3,70,0,Attack,0,Prototype Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
 4,r574a.tec,6,Valuan Destroyer,1,30,3,Guard,-1,None,0,Evasive Action,0,0,Attack,2,Great Torpedo,-1,None,2
-5,r574a.tec,6,Valuan Destroyer,3,30,0,Attack,1,Great Subcannon,-1,None,2,0,Attack,0,Prototype Cannon,-1,None,0
+5,r574a.tec,6,Valuan Destroyer,3,30,0,Attack,1,Great Subcannon ,-1,None,2,0,Attack,0,Prototype Cannon,-1,None,0
 6,r574a.tec,6,Valuan Destroyer,3,50,0,Attack,0,Prototype Cannon,-1,None,0,2,Focus,-1,None,-1,None,0
 7,r574a.tec,6,Valuan Destroyer,3,30,2,Focus,-1,None,0,Focus,0,0,Attack,0,Prototype Cannon,-1,None,0
 8,r574a.tec,6,Valuan Destroyer,-1,0,0,Attack,0,Prototype Cannon,-1,None,0,0,Attack,-1,None,-1,None,0
-9,r574a.tec,6,Valuan Destroyer,3,30,0,Attack,2,Great Torpedo,-1,None,1,0,Attack,1,Great Subcannon,-1,None,2
+9,r574a.tec,6,Valuan Destroyer,3,30,0,Attack,2,Great Torpedo,-1,None,1,0,Attack,1,Great Subcannon ,-1,None,2
 10,r574a.tec,6,Valuan Destroyer,3,50,0,Attack,0,Prototype Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
 11,r574a.tec,6,Valuan Destroyer,3,50,0,Attack,0,Prototype Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
 12,r574a.tec,6,Valuan Destroyer,-1,0,0,Attack,0,Prototype Cannon,-1,None,0,0,Attack,-1,None,-1,None,0

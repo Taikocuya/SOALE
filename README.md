@@ -68,6 +68,6 @@ software that made this project possible.
 
 ### License
 
-Copyright (C) 2019 Marcel Renner. Skies of Arcadia Legends Encore is 
+Copyright (C) 2020 Marcel Renner. Skies of Arcadia Legends Encore is 
 licensed under the zlib license. See [LICENSE.md](LICENSE.md) for the full 
 license text.
