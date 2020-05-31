@@ -26,7 +26,7 @@ Entry ID,[Entry name],[Finalized],Occ. flags,[M],[B],[S],Effect ID,[Effect name]
 264,Sylph Seed,True,0x4,X,,,58,Increase Quick,1,One character,100,100,1000,3,-1,None,-1,None,-1,None,0
 265,Vidal Seed,True,0x4,X,,,59,Increase MAXHP,1,One character,100,100,1000,30,-1,None,-1,None,-1,None,0
 266,Magus Seed,True,0x4,X,,,60,Increase MAXMP,1,One character,100,100,1000,1,-1,None,-1,None,-1,None,0
-267,Pyri Box,False,0x2,,X,,0,Damage,4,All enemies,16,1,700,70,1,Red,1,Magical,-1,None,0
+267,Pyri Box,True,0x2,,X,,0,Damage,4,All enemies,16,1,700,70,1,Red,1,Magical,-1,None,0
 268,Pyrum Box,False,0x2,,X,,0,Damage,4,All enemies,32,1,2400,360,1,Red,1,Magical,-1,None,0
 269,Crystales Box,False,0x2,,X,,0,Damage,3,One enemy,32,1,1600,330,2,Purple,1,Magical,-1,None,0
 270,Crystalen Box,False,0x2,,X,,0,Damage,3,One enemy,32,1,3600,600,2,Purple,1,Magical,-1,None,0
@@ -34,12 +34,12 @@ Entry ID,[Entry name],[Finalized],Occ. flags,[M],[B],[S],Effect ID,[Effect name]
 272,Wevlen Box,False,0x2,,X,,0,Damage,34,Enemy area #2,32,1,3600,525,3,Blue,1,Magical,-1,None,0
 273,Electri Box,True,0x2,,X,,0,Damage,36,Enemy line #0,16,1,500,90,4,Yellow,1,Magical,-1,None,0
 274,Electrum Box,False,0x2,,X,,0,Damage,37,Enemy line #1,32,1,2400,420,4,Yellow,1,Magical,-1,None,0
-275,Sacri Box,Undefined,0x2,,X,,31,Recover HP,1,One character,16,1,500,400,0,Green,1,Magical,-1,None,0
+275,Sacri Box,True,0x2,,X,,31,Recover HP,1,One character,16,1,500,400,0,Green,1,Magical,-1,None,0
 276,Sacrum Box,False,0x2,,X,,31,Recover HP,2,All characters,32,1,4000,800,0,Green,1,Magical,-1,None,0
 277,Riselem Box,False,0x2,,X,,28,Revive with 100% of HP,1,One character,48,1,4200,0,5,Silver,1,Magical,7,Revival,0
-278,Sylenis Box,Undefined,0x2,,X,,12,Add Silence,3,One enemy,32,1,300,0,2,Purple,1,Magical,5,Silence,30
-279,Panika Box,Undefined,0x2,,X,,11,Add Confusion,3,One enemy,32,1,300,0,2,Purple,1,Magical,4,Confusion,30
-280,Driln Box,Undefined,0x2,,X,,26,Add Weak,3,One enemy,32,1,1000,0,4,Yellow,1,Magical,8,Weak,60
+278,Sylenis Box,True,0x2,,X,,12,Add Silence,3,One enemy,32,1,300,0,2,Purple,1,Magical,5,Silence,30
+279,Panika Box,True,0x2,,X,,11,Add Confusion,3,One enemy,32,1,300,0,2,Purple,1,Magical,4,Confusion,30
+280,Driln Box,True,0x2,,X,,26,Add Weak,3,One enemy,32,1,1000,0,4,Yellow,1,Magical,8,Weak,60
 281,Slipara Box,Undefined,0x2,,X,,9,Add Sleep,4,All enemies,32,1,3000,0,3,Blue,1,Magical,3,Sleep,60
 282,Eternum Box,False,0x2,,X,,6,Add Unconscious + Damage #1,3,One enemy,48,1,8000,250,5,Silver,1,Magical,1,Unconscious,90
 283,Rune of Ill Omen,Undefined,0x0,,,,-1,None,0,None,0,100,1000,0,-1,None,-1,None,-1,None,0

@@ -6,7 +6,7 @@ Entry ID,Item ID,[Item name],Item amount
 4,258,Moonberry,1
 5,514,Gold,200
 6,490,Repair Kit,1
-7,240,Sacri Crystal,3
+7,240,Sacri Crystal,2
 8,258,Moonberry,1
 9,244,Magic Droplet,4
 10,281,Slipara Box,1
@@ -114,7 +114,7 @@ Entry ID,Item ID,[Item name],Item amount
 112,258,Moonberry,1
 113,263,Dexus Seed,1
 114,258,Moonberry,1
-115,240,Sacri Crystal,3
-116,244,Magic Droplet,5
+115,240,Sacri Crystal,4
+116,244,Magic Droplet,4
 117,243,Sacrulen Crystal,4
 118,242,Sacrum Crystal,3
