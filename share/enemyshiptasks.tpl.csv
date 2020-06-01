@@ -19,14 +19,14 @@ Entry ID,[Filter],[Enemy ship ID],[Enemy ship name],[Finalized],Unk.,Task rating
 17,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
 18,r500a.tec,23,Blackbeard,True,3,50,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
 19,r500a.tec,23,Blackbeard,True,0,0,0,Attack,0,Black Cannon,0,None,0,0,Attack,0,Black Cannon,0,None,0
-0,r501a.tec,2,Valuan Cruiser,Undefined,3,50,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,1,Subcannon,-1,None,2
-1,r501a.tec,2,Valuan Cruiser,Undefined,3,50,0,Attack,1,Subcannon,-1,None,2,0,Attack,1,Subcannon,-1,None,1
-2,r501a.tec,2,Valuan Cruiser,Undefined,-1,0,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,0,Standard Cannon,-1,None,0
-3,r501a.tec,2,Valuan Cruiser,Undefined,0,0,0,Attack,0,Standard Cannon,0,None,0,0,Attack,0,Standard Cannon,0,None,0
-4,r501a.tec,2,Valuan Cruiser,Undefined,3,50,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,1,Subcannon,-1,None,2
-5,r501a.tec,2,Valuan Cruiser,Undefined,3,50,0,Attack,1,Subcannon,-1,None,2,0,Attack,1,Subcannon,-1,None,1
-6,r501a.tec,2,Valuan Cruiser,Undefined,-1,0,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,0,Standard Cannon,-1,None,0
-7,r501a.tec,2,Valuan Cruiser,Undefined,0,0,0,Attack,0,Standard Cannon,0,None,0,0,Attack,0,Standard Cannon,0,None,0
+0,r501a.tec,2,Valuan Cruiser,True,3,50,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,1,Subcannon,-1,None,2
+1,r501a.tec,2,Valuan Cruiser,True,3,50,0,Attack,1,Subcannon,-1,None,2,0,Attack,1,Subcannon,-1,None,1
+2,r501a.tec,2,Valuan Cruiser,True,-1,0,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,0,Standard Cannon,-1,None,0
+3,r501a.tec,2,Valuan Cruiser,True,0,0,0,Attack,0,Standard Cannon,0,None,0,0,Attack,0,Standard Cannon,0,None,0
+4,r501a.tec,2,Valuan Cruiser,True,3,50,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,1,Subcannon,-1,None,2
+5,r501a.tec,2,Valuan Cruiser,True,3,50,0,Attack,1,Subcannon,-1,None,2,0,Attack,1,Subcannon,-1,None,1
+6,r501a.tec,2,Valuan Cruiser,True,-1,0,0,Attack,0,Standard Cannon,-1,None,0,0,Attack,0,Standard Cannon,-1,None,0
+7,r501a.tec,2,Valuan Cruiser,True,0,0,0,Attack,0,Standard Cannon,0,None,0,0,Attack,0,Standard Cannon,0,None,0
 0,r503a.tec,21,Black Pirates,Undefined,3,20,2,Focus,-1,None,0,Focus,0,0,Attack,0,Black Cannon,-1,None,0
 1,r503a.tec,21,Black Pirates,Undefined,3,20,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,1,Black Torpedo,-1,None,2
 2,r503a.tec,21,Black Pirates,Undefined,-1,0,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0

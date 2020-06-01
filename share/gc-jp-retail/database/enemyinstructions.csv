@@ -473,19 +473,22 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],Instr. type ID,[Instr. type name],I
 18,*,34,Dralnog,1,Action,271,毒自爆,-1,None
 19,*,34,Dralnog,1,Action,517,ジェダ,2,Random character
 20,*,34,Dralnog,1,Action,100,Ж術？,-1,None
-1,epevent.evp,34,Dralnog,0,Strategy,2,???,6,???
-2,epevent.evp,34,Dralnog,0,Strategy,30,???,7,???
-3,epevent.evp,34,Dralnog,0,Strategy,28,???,12,???
-4,epevent.evp,34,Dralnog,0,Strategy,1,???,9,???
-5,epevent.evp,34,Dralnog,0,Strategy,30,???,10,???
-6,epevent.evp,34,Dralnog,0,Strategy,24,???,12,???
-7,epevent.evp,34,Dralnog,0,Strategy,35,???,12,???
-8,epevent.evp,34,Dralnog,0,Strategy,22,???,13,???
-9,epevent.evp,34,Dralnog,0,Strategy,22,???,12,???
-10,epevent.evp,34,Dralnog,0,Strategy,27,???,11,???
-11,epevent.evp,34,Dralnog,1,Action,550,Attack,2,Random character
-12,epevent.evp,34,Dralnog,1,Action,271,毒自爆,-1,None
-13,epevent.evp,34,Dralnog,1,Action,517,ジェダ,2,Random character
+1,epevent.evp,34,Dralnog,0,Strategy,35,???,3,???
+2,epevent.evp,34,Dralnog,0,Strategy,24,???,16,???
+3,epevent.evp,34,Dralnog,0,Strategy,2,???,8,???
+4,epevent.evp,34,Dralnog,0,Strategy,30,???,9,???
+5,epevent.evp,34,Dralnog,0,Strategy,28,???,14,???
+6,epevent.evp,34,Dralnog,0,Strategy,1,???,11,???
+7,epevent.evp,34,Dralnog,0,Strategy,30,???,12,???
+8,epevent.evp,34,Dralnog,0,Strategy,24,???,14,???
+9,epevent.evp,34,Dralnog,0,Strategy,35,???,14,???
+10,epevent.evp,34,Dralnog,0,Strategy,22,???,15,???
+11,epevent.evp,34,Dralnog,0,Strategy,22,???,14,???
+12,epevent.evp,34,Dralnog,0,Strategy,27,???,13,???
+13,epevent.evp,34,Dralnog,1,Action,550,Attack,2,Random character
+14,epevent.evp,34,Dralnog,1,Action,271,毒自爆,-1,None
+15,epevent.evp,34,Dralnog,1,Action,517,ジェダ,2,Random character
+16,epevent.evp,34,Dralnog,1,Action,517,ジェダ,21,Character with highest Attack
 1,*,35,Que'lak,0,Strategy,45,???,3,???
 2,*,35,Que'lak,0,Strategy,30,???,4,???
 3,*,35,Que'lak,0,Strategy,28,???,15,???
@@ -1738,27 +1741,29 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],Instr. type ID,[Instr. type name],I
 10,*,129,Sentinel,1,Action,550,Attack,2,Random character
 11,*,129,Sentinel,1,Action,9,ターゲットサーチ,-1,None
 12,*,129,Sentinel,1,Action,99,ブラスター,2,Random character
-1,*,130,Bleigock,0,Strategy,11,???,5,???
-2,*,130,Bleigock,0,Strategy,12,???,7,???
-3,*,130,Bleigock,0,Strategy,50,???,17,???
-4,*,130,Bleigock,0,Strategy,30,???,14,???
-5,*,130,Bleigock,0,Strategy,25,???,20,???
-6,*,130,Bleigock,0,Strategy,30,???,19,???
+1,*,130,Bleigock,0,Strategy,1,???,18,???
+2,*,130,Bleigock,0,Strategy,11,???,5,???
+3,*,130,Bleigock,0,Strategy,12,???,7,???
+4,*,130,Bleigock,0,Strategy,30,???,11,???
+5,*,130,Bleigock,0,Strategy,27,???,23,???
+6,*,130,Bleigock,0,Strategy,30,???,21,???
 7,*,130,Bleigock,0,Strategy,50,???,9,???
-8,*,130,Bleigock,0,Strategy,25,???,21,???
-9,*,130,Bleigock,0,Strategy,24,???,21,???
-10,*,130,Bleigock,0,Strategy,30,???,19,???
-11,*,130,Bleigock,0,Strategy,21,???,21,???
-12,*,130,Bleigock,0,Strategy,25,???,20,???
-13,*,130,Bleigock,0,Strategy,30,???,19,???
-14,*,130,Bleigock,0,Strategy,25,???,21,???
-15,*,130,Bleigock,0,Strategy,22,???,20,???
-16,*,130,Bleigock,0,Strategy,30,???,19,???
-17,*,130,Bleigock,0,Strategy,22,???,20,???
-18,*,130,Bleigock,0,Strategy,30,???,19,???
-19,*,130,Bleigock,1,Action,550,Attack,2,Random character
-20,*,130,Bleigock,1,Action,183,フロストブレス,-1,None
-21,*,130,Bleigock,1,Action,25,毒ゲロ,-1,None
+8,*,130,Bleigock,0,Strategy,30,???,23,???
+9,*,130,Bleigock,0,Strategy,27,???,22,???
+10,*,130,Bleigock,0,Strategy,30,???,21,???
+11,*,130,Bleigock,0,Strategy,50,???,15,???
+12,*,130,Bleigock,0,Strategy,21,???,21,???
+13,*,130,Bleigock,0,Strategy,26,???,22,???
+14,*,130,Bleigock,0,Strategy,30,???,23,???
+15,*,130,Bleigock,0,Strategy,23,???,21,???
+16,*,130,Bleigock,0,Strategy,23,???,22,???
+17,*,130,Bleigock,0,Strategy,30,???,23,???
+18,*,130,Bleigock,0,Strategy,50,???,15,???
+19,*,130,Bleigock,0,Strategy,22,???,22,???
+20,*,130,Bleigock,0,Strategy,30,???,23,???
+21,*,130,Bleigock,1,Action,550,Attack,2,Random character
+22,*,130,Bleigock,1,Action,183,フロストブレス,-1,None
+23,*,130,Bleigock,1,Action,25,毒ゲロ,-1,None
 1,*,131,Executioner,0,Strategy,17,???,28,???
 2,*,131,Executioner,0,Strategy,16,???,20,???
 3,*,131,Executioner,0,Strategy,11,???,7,???
@@ -1794,7 +1799,7 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],Instr. type ID,[Instr. type name],I
 33,*,131,Executioner,0,Strategy,26,???,38,???
 34,*,131,Executioner,0,Strategy,30,???,39,???
 35,*,131,Executioner,1,Action,550,Attack,2,Random character
-36,*,131,Executioner,1,Action,11,キャノンボール,3,Character with most HP
+36,*,131,Executioner,1,Action,11,キャノンボール,2,Random character
 37,*,131,Executioner,1,Action,251,ブロードソニック,2,Random character
 38,*,131,Executioner,1,Action,533,ボルティ,2,Random character
 39,*,131,Executioner,1,Action,551,Guard,-1,None

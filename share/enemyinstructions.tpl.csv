@@ -56,29 +56,29 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 9,*,4,Grouder,True,1,Action,503,Panika,14,Character without Confusion
 10,*,4,Grouder,True,1,Action,520,Wevli,2,Random character
 11,*,4,Grouder,True,1,Action,57,Eerie Wail,2,Random character
-1,*,7,Spell Warden,Undefined,0,Strategy,35,???,8,???
-2,*,7,Spell Warden,Undefined,0,Strategy,24,???,18,???
-3,*,7,Spell Warden,Undefined,0,Strategy,17,???,23,???
-4,*,7,Spell Warden,Undefined,0,Strategy,32,???,8,???
-5,*,7,Spell Warden,Undefined,0,Strategy,39,???,19,???
-6,*,7,Spell Warden,Undefined,0,Strategy,11,???,8,???
-7,*,7,Spell Warden,Undefined,0,Strategy,22,???,20,???
-8,*,7,Spell Warden,Undefined,0,Strategy,37,???,12,???
-9,*,7,Spell Warden,Undefined,0,Strategy,25,???,21,???
-10,*,7,Spell Warden,Undefined,0,Strategy,26,???,17,???
-11,*,7,Spell Warden,Undefined,0,Strategy,30,???,23,???
-12,*,7,Spell Warden,Undefined,0,Strategy,24,???,21,???
-13,*,7,Spell Warden,Undefined,0,Strategy,24,???,17,???
-14,*,7,Spell Warden,Undefined,0,Strategy,24,???,22,???
-15,*,7,Spell Warden,Undefined,0,Strategy,25,???,20,???
-16,*,7,Spell Warden,Undefined,0,Strategy,30,???,23,???
-17,*,7,Spell Warden,Undefined,1,Action,550,Attack,1,Common character
-18,*,7,Spell Warden,Undefined,1,Action,500,Increm,8,Enemy with highest ID
-19,*,7,Spell Warden,Undefined,1,Action,506,Sacri,7,Injured enemy
-20,*,7,Spell Warden,Undefined,1,Action,506,Sacri,8,Enemy with highest ID
-21,*,7,Spell Warden,Undefined,1,Action,526,Crystali,2,Random character
-22,*,7,Spell Warden,Undefined,1,Action,500,Increm,11,Enemy without Strengthen
-23,*,7,Spell Warden,Undefined,1,Action,551,Guard,-1,None
+1,*,7,Spell Warden,True,0,Strategy,35,???,8,???
+2,*,7,Spell Warden,True,0,Strategy,24,???,18,???
+3,*,7,Spell Warden,True,0,Strategy,17,???,23,???
+4,*,7,Spell Warden,True,0,Strategy,32,???,8,???
+5,*,7,Spell Warden,True,0,Strategy,39,???,19,???
+6,*,7,Spell Warden,True,0,Strategy,11,???,8,???
+7,*,7,Spell Warden,True,0,Strategy,22,???,20,???
+8,*,7,Spell Warden,True,0,Strategy,37,???,12,???
+9,*,7,Spell Warden,True,0,Strategy,25,???,21,???
+10,*,7,Spell Warden,True,0,Strategy,26,???,17,???
+11,*,7,Spell Warden,True,0,Strategy,30,???,23,???
+12,*,7,Spell Warden,True,0,Strategy,24,???,21,???
+13,*,7,Spell Warden,True,0,Strategy,24,???,17,???
+14,*,7,Spell Warden,True,0,Strategy,24,???,22,???
+15,*,7,Spell Warden,True,0,Strategy,25,???,20,???
+16,*,7,Spell Warden,True,0,Strategy,30,???,23,???
+17,*,7,Spell Warden,True,1,Action,550,Attack,1,Common character
+18,*,7,Spell Warden,True,1,Action,500,Increm,8,Enemy with highest ID
+19,*,7,Spell Warden,True,1,Action,506,Sacri,7,Injured enemy
+20,*,7,Spell Warden,True,1,Action,506,Sacri,8,Enemy with highest ID
+21,*,7,Spell Warden,True,1,Action,526,Crystali,2,Random character
+22,*,7,Spell Warden,True,1,Action,500,Increm,11,Enemy without Strengthen
+23,*,7,Spell Warden,True,1,Action,551,Guard,-1,None
 1,*,8,Flestik,True,0,Strategy,44,???,3,???
 2,*,8,Flestik,True,0,Strategy,30,???,4,???
 3,*,8,Flestik,True,0,Strategy,28,???,16,???
@@ -95,25 +95,25 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 14,*,8,Flestik,True,1,Action,550,Attack,1,Common character
 15,*,8,Flestik,True,1,Action,551,Guard,-1,None
 16,*,8,Flestik,True,1,Action,552,Run,-1,None
-1,*,9,Basallish,Undefined,0,Strategy,44,???,3,???
-2,*,9,Basallish,Undefined,0,Strategy,30,???,4,???
-3,*,9,Basallish,Undefined,0,Strategy,29,???,16,???
-4,*,9,Basallish,Undefined,0,Strategy,2,???,12,???
-5,*,9,Basallish,Undefined,0,Strategy,4,???,7,???
-6,*,9,Basallish,Undefined,0,Strategy,30,???,9,???
-7,*,9,Basallish,Undefined,0,Strategy,29,???,14,???
-8,*,9,Basallish,Undefined,0,Strategy,30,???,16,???
-9,*,9,Basallish,Undefined,0,Strategy,27,???,14,???
-10,*,9,Basallish,Undefined,0,Strategy,24,???,15,???
-11,*,9,Basallish,Undefined,0,Strategy,30,???,16,???
-12,*,9,Basallish,Undefined,0,Strategy,25,???,16,???
-13,*,9,Basallish,Undefined,0,Strategy,30,???,9,???
-14,*,9,Basallish,Undefined,1,Action,550,Attack,1,Common character
-15,*,9,Basallish,Undefined,1,Action,551,Guard,-1,None
-16,*,9,Basallish,Undefined,1,Action,552,Run,-1,None
-1,*,10,Mind Stealer,Undefined,0,Strategy,21,???,3,???
-2,*,10,Mind Stealer,Undefined,1,Action,550,Attack,1,Common character
-3,*,10,Mind Stealer,Undefined,1,Action,551,Guard,-1,None
+1,*,9,Basallish,True,0,Strategy,44,???,3,???
+2,*,9,Basallish,True,0,Strategy,30,???,4,???
+3,*,9,Basallish,True,0,Strategy,29,???,16,???
+4,*,9,Basallish,True,0,Strategy,2,???,12,???
+5,*,9,Basallish,True,0,Strategy,4,???,7,???
+6,*,9,Basallish,True,0,Strategy,30,???,9,???
+7,*,9,Basallish,True,0,Strategy,29,???,14,???
+8,*,9,Basallish,True,0,Strategy,30,???,16,???
+9,*,9,Basallish,True,0,Strategy,27,???,14,???
+10,*,9,Basallish,True,0,Strategy,24,???,15,???
+11,*,9,Basallish,True,0,Strategy,30,???,16,???
+12,*,9,Basallish,True,0,Strategy,25,???,16,???
+13,*,9,Basallish,True,0,Strategy,30,???,9,???
+14,*,9,Basallish,True,1,Action,550,Attack,1,Common character
+15,*,9,Basallish,True,1,Action,551,Guard,-1,None
+16,*,9,Basallish,True,1,Action,552,Run,-1,None
+1,*,10,Mind Stealer,True,0,Strategy,21,???,3,???
+2,*,10,Mind Stealer,True,1,Action,550,Attack,1,Common character
+3,*,10,Mind Stealer,True,1,Action,551,Guard,-1,None
 1,*,11,Walrenk,False,0,Strategy,33,???,3,???
 2,*,11,Walrenk,False,0,Strategy,22,???,9,???
 3,*,11,Walrenk,False,0,Strategy,35,???,5,???
@@ -187,23 +187,23 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 14,*,14,Zivilyn Bane,Undefined,1,Action,550,Attack,4,Character with least HP
 15,*,14,Zivilyn Bane,Undefined,1,Action,22,Burst,2,Random character
 16,*,14,Zivilyn Bane,Undefined,1,Action,551,Guard,-1,None
-1,*,15,Ghastling,Undefined,0,Strategy,44,???,3,???
-2,*,15,Ghastling,Undefined,0,Strategy,30,???,4,???
-3,*,15,Ghastling,Undefined,0,Strategy,28,???,16,???
-4,*,15,Ghastling,Undefined,0,Strategy,0,???,7,???
-5,*,15,Ghastling,Undefined,0,Strategy,46,???,7,???
-6,*,15,Ghastling,Undefined,0,Strategy,29,???,15,???
-7,*,15,Ghastling,Undefined,0,Strategy,9,???,11,???
-8,*,15,Ghastling,Undefined,0,Strategy,27,???,14,???
-9,*,15,Ghastling,Undefined,0,Strategy,28,???,16,???
-10,*,15,Ghastling,Undefined,0,Strategy,30,???,17,???
-11,*,15,Ghastling,Undefined,0,Strategy,27,???,14,???
-12,*,15,Ghastling,Undefined,0,Strategy,28,???,15,???
-13,*,15,Ghastling,Undefined,0,Strategy,30,???,17,???
-14,*,15,Ghastling,Undefined,1,Action,550,Attack,1,Common character
-15,*,15,Ghastling,Undefined,1,Action,210,HP Absorb,3,Character with most HP
-16,*,15,Ghastling,Undefined,1,Action,552,Run,-1,None
-17,*,15,Ghastling,Undefined,1,Action,551,Guard,-1,None
+1,*,15,Ghastling,True,0,Strategy,44,???,3,???
+2,*,15,Ghastling,True,0,Strategy,30,???,4,???
+3,*,15,Ghastling,True,0,Strategy,28,???,16,???
+4,*,15,Ghastling,True,0,Strategy,0,???,7,???
+5,*,15,Ghastling,True,0,Strategy,46,???,7,???
+6,*,15,Ghastling,True,0,Strategy,29,???,15,???
+7,*,15,Ghastling,True,0,Strategy,9,???,11,???
+8,*,15,Ghastling,True,0,Strategy,27,???,14,???
+9,*,15,Ghastling,True,0,Strategy,28,???,16,???
+10,*,15,Ghastling,True,0,Strategy,30,???,17,???
+11,*,15,Ghastling,True,0,Strategy,27,???,14,???
+12,*,15,Ghastling,True,0,Strategy,28,???,15,???
+13,*,15,Ghastling,True,0,Strategy,30,???,17,???
+14,*,15,Ghastling,True,1,Action,550,Attack,1,Common character
+15,*,15,Ghastling,True,1,Action,210,HP Absorb,3,Character with most HP
+16,*,15,Ghastling,True,1,Action,552,Run,-1,None
+17,*,15,Ghastling,True,1,Action,551,Guard,-1,None
 1,*,16,Florast,False,0,Strategy,45,???,3,???
 2,*,16,Florast,False,0,Strategy,30,???,4,???
 3,*,16,Florast,False,0,Strategy,26,???,16,???
@@ -224,44 +224,44 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 18,*,16,Florast,False,1,Action,511,Noxus,-1,None
 19,*,16,Florast,False,1,Action,100,Magic?,-1,None
 20,*,16,Florast,False,1,Action,551,Guard,-1,None
-1,*,17,Tsirat,Undefined,0,Strategy,44,???,3,???
-2,*,17,Tsirat,Undefined,0,Strategy,30,???,4,???
-3,*,17,Tsirat,Undefined,0,Strategy,24,???,12,???
-4,*,17,Tsirat,Undefined,0,Strategy,0,???,7,???
-5,*,17,Tsirat,Undefined,0,Strategy,46,???,7,???
-6,*,17,Tsirat,Undefined,0,Strategy,25,???,13,???
-7,*,17,Tsirat,Undefined,0,Strategy,33,???,9,???
-8,*,17,Tsirat,Undefined,0,Strategy,24,???,14,???
-9,*,17,Tsirat,Undefined,0,Strategy,21,???,12,???
-10,*,17,Tsirat,Undefined,0,Strategy,21,???,15,???
-11,*,17,Tsirat,Undefined,1,Action,550,Attack,2,Random character
-12,*,17,Tsirat,Undefined,1,Action,552,Run,-1,None
-13,*,17,Tsirat,Undefined,1,Action,211,HP Absorb,3,Character with most HP
-14,*,17,Tsirat,Undefined,1,Action,532,Electri,2,Random character
-15,*,17,Tsirat,Undefined,1,Action,551,Guard,-1,None
-1,*,18,Thorkyn,Undefined,0,Strategy,44,???,3,???
-2,*,18,Thorkyn,Undefined,0,Strategy,30,???,4,???
-3,*,18,Thorkyn,Undefined,0,Strategy,24,???,13,???
-4,*,18,Thorkyn,Undefined,0,Strategy,40,???,15,???
-5,*,18,Thorkyn,Undefined,0,Strategy,11,???,7,???
-6,*,18,Thorkyn,Undefined,0,Strategy,30,???,8,???
-7,*,18,Thorkyn,Undefined,0,Strategy,25,???,14,???
-8,*,18,Thorkyn,Undefined,0,Strategy,27,???,11,???
-9,*,18,Thorkyn,Undefined,0,Strategy,27,???,12,???
-10,*,18,Thorkyn,Undefined,0,Strategy,30,???,13,???
-11,*,18,Thorkyn,Undefined,1,Action,550,Attack,2,Random character
-12,*,18,Thorkyn,Undefined,1,Action,551,Guard,-1,None
-13,*,18,Thorkyn,Undefined,1,Action,552,Run,-1,None
-14,*,18,Thorkyn,Undefined,1,Action,20,Gather Strength,-1,None
-15,*,18,Thorkyn,Undefined,1,Action,170,Needle Storm,2,Random character
-1,*,19,Scorfly,Undefined,0,Strategy,45,???,3,???
-2,*,19,Scorfly,Undefined,0,Strategy,30,???,4,???
-3,*,19,Scorfly,Undefined,0,Strategy,24,???,7,???
-4,*,19,Scorfly,Undefined,0,Strategy,21,???,7,???
-5,*,19,Scorfly,Undefined,0,Strategy,21,???,8,???
-6,*,19,Scorfly,Undefined,1,Action,550,Attack,1,Common character
-7,*,19,Scorfly,Undefined,1,Action,552,Run,-1,None
-8,*,19,Scorfly,Undefined,1,Action,551,Guard,-1,None
+1,*,17,Tsirat,True,0,Strategy,44,???,3,???
+2,*,17,Tsirat,True,0,Strategy,30,???,4,???
+3,*,17,Tsirat,True,0,Strategy,24,???,12,???
+4,*,17,Tsirat,True,0,Strategy,0,???,7,???
+5,*,17,Tsirat,True,0,Strategy,46,???,7,???
+6,*,17,Tsirat,True,0,Strategy,25,???,13,???
+7,*,17,Tsirat,True,0,Strategy,33,???,9,???
+8,*,17,Tsirat,True,0,Strategy,24,???,14,???
+9,*,17,Tsirat,True,0,Strategy,21,???,12,???
+10,*,17,Tsirat,True,0,Strategy,21,???,15,???
+11,*,17,Tsirat,True,1,Action,550,Attack,2,Random character
+12,*,17,Tsirat,True,1,Action,552,Run,-1,None
+13,*,17,Tsirat,True,1,Action,211,HP Absorb,3,Character with most HP
+14,*,17,Tsirat,True,1,Action,532,Electri,2,Random character
+15,*,17,Tsirat,True,1,Action,551,Guard,-1,None
+1,*,18,Thorkyn,True,0,Strategy,44,???,3,???
+2,*,18,Thorkyn,True,0,Strategy,30,???,4,???
+3,*,18,Thorkyn,True,0,Strategy,24,???,13,???
+4,*,18,Thorkyn,True,0,Strategy,40,???,15,???
+5,*,18,Thorkyn,True,0,Strategy,11,???,7,???
+6,*,18,Thorkyn,True,0,Strategy,30,???,8,???
+7,*,18,Thorkyn,True,0,Strategy,25,???,14,???
+8,*,18,Thorkyn,True,0,Strategy,27,???,11,???
+9,*,18,Thorkyn,True,0,Strategy,27,???,12,???
+10,*,18,Thorkyn,True,0,Strategy,30,???,13,???
+11,*,18,Thorkyn,True,1,Action,550,Attack,2,Random character
+12,*,18,Thorkyn,True,1,Action,551,Guard,-1,None
+13,*,18,Thorkyn,True,1,Action,552,Run,-1,None
+14,*,18,Thorkyn,True,1,Action,20,Gather Strength,-1,None
+15,*,18,Thorkyn,True,1,Action,170,Needle Storm,2,Random character
+1,*,19,Scorfly,True,0,Strategy,45,???,3,???
+2,*,19,Scorfly,True,0,Strategy,30,???,4,???
+3,*,19,Scorfly,True,0,Strategy,24,???,7,???
+4,*,19,Scorfly,True,0,Strategy,21,???,7,???
+5,*,19,Scorfly,True,0,Strategy,21,???,8,???
+6,*,19,Scorfly,True,1,Action,550,Attack,1,Common character
+7,*,19,Scorfly,True,1,Action,552,Run,-1,None
+8,*,19,Scorfly,True,1,Action,551,Guard,-1,None
 1,*,20,Centralk,False,0,Strategy,44,???,3,???
 2,*,20,Centralk,False,0,Strategy,30,???,4,???
 3,*,20,Centralk,False,0,Strategy,28,???,16,???
@@ -314,21 +314,21 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 16,*,22,Ferlith,Undefined,1,Action,510,Noxi,16,Character without Sleep
 17,*,22,Ferlith,Undefined,1,Action,89,Call Allies,-1,None
 18,*,22,Ferlith,Undefined,1,Action,115,Call Allies,-1,None
-1,*,23,Crylhound,Undefined,0,Strategy,45,???,3,???
-2,*,23,Crylhound,Undefined,0,Strategy,30,???,4,???
-3,*,23,Crylhound,Undefined,0,Strategy,26,???,13,???
-4,*,23,Crylhound,Undefined,0,Strategy,44,???,6,???
-5,*,23,Crylhound,Undefined,0,Strategy,30,???,7,???
-6,*,23,Crylhound,Undefined,0,Strategy,23,???,13,???
-7,*,23,Crylhound,Undefined,0,Strategy,11,???,10,???
-8,*,23,Crylhound,Undefined,0,Strategy,29,???,12,???
-9,*,23,Crylhound,Undefined,0,Strategy,30,???,13,???
-10,*,23,Crylhound,Undefined,0,Strategy,23,???,14,???
-11,*,23,Crylhound,Undefined,0,Strategy,21,???,15,???
-12,*,23,Crylhound,Undefined,1,Action,550,Attack,2,Random character
-13,*,23,Crylhound,Undefined,1,Action,552,Run,-1,None
-14,*,23,Crylhound,Undefined,1,Action,513,Quika,-1,None
-15,*,23,Crylhound,Undefined,1,Action,551,Guard,-1,None
+1,*,23,Crylhound,True,0,Strategy,45,???,3,???
+2,*,23,Crylhound,True,0,Strategy,30,???,4,???
+3,*,23,Crylhound,True,0,Strategy,26,???,13,???
+4,*,23,Crylhound,True,0,Strategy,44,???,6,???
+5,*,23,Crylhound,True,0,Strategy,30,???,7,???
+6,*,23,Crylhound,True,0,Strategy,23,???,13,???
+7,*,23,Crylhound,True,0,Strategy,11,???,10,???
+8,*,23,Crylhound,True,0,Strategy,29,???,12,???
+9,*,23,Crylhound,True,0,Strategy,30,???,13,???
+10,*,23,Crylhound,True,0,Strategy,23,???,14,???
+11,*,23,Crylhound,True,0,Strategy,21,???,15,???
+12,*,23,Crylhound,True,1,Action,550,Attack,2,Random character
+13,*,23,Crylhound,True,1,Action,552,Run,-1,None
+14,*,23,Crylhound,True,1,Action,513,Quika,-1,None
+15,*,23,Crylhound,True,1,Action,551,Guard,-1,None
 1,*,24,Magma Tiki,Undefined,0,Strategy,41,???,9,???
 2,*,24,Magma Tiki,Undefined,0,Strategy,2,???,7,???
 3,*,24,Magma Tiki,Undefined,0,Strategy,5,???,8,???
@@ -398,17 +398,17 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 4,*,28,Death's Head,Undefined,1,Action,550,Attack,1,Common character
 5,*,28,Death's Head,Undefined,1,Action,15,Stone Breath,13,Character without Stone
 6,*,28,Death's Head,Undefined,1,Action,551,Guard,-1,None
-1,*,29,Looper,Undefined,0,Strategy,1,???,9,???
-2,*,29,Looper,Undefined,0,Strategy,25,???,9,???
-3,*,29,Looper,Undefined,0,Strategy,24,???,7,???
-4,*,29,Looper,Undefined,0,Strategy,23,???,8,???
-5,*,29,Looper,Undefined,0,Strategy,33,???,11,???
-6,*,29,Looper,Undefined,0,Strategy,30,???,10,???
-7,*,29,Looper,Undefined,1,Action,550,Attack,2,Random character
-8,*,29,Looper,Undefined,1,Action,551,Guard,-1,None
-9,*,29,Looper,Undefined,1,Action,552,Run,-1,None
-10,*,29,Looper,Undefined,1,Action,523,Pyri,-1,None
-11,*,29,Looper,Undefined,1,Action,100,Magic?,-1,None
+1,*,29,Looper,True,0,Strategy,1,???,9,???
+2,*,29,Looper,True,0,Strategy,25,???,9,???
+3,*,29,Looper,True,0,Strategy,24,???,7,???
+4,*,29,Looper,True,0,Strategy,23,???,8,???
+5,*,29,Looper,True,0,Strategy,33,???,11,???
+6,*,29,Looper,True,0,Strategy,30,???,10,???
+7,*,29,Looper,True,1,Action,550,Attack,2,Random character
+8,*,29,Looper,True,1,Action,551,Guard,-1,None
+9,*,29,Looper,True,1,Action,552,Run,-1,None
+10,*,29,Looper,True,1,Action,523,Pyri,-1,None
+11,*,29,Looper,True,1,Action,100,Magic?,-1,None
 1,*,30,Loopalon,Undefined,0,Strategy,1,???,11,???
 2,*,30,Loopalon,Undefined,0,Strategy,25,???,11,???
 3,*,30,Loopalon,Undefined,0,Strategy,11,???,5,???
@@ -453,39 +453,42 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 7,*,33,Serpentis,Undefined,1,Action,524,Pyres,-1,None
 8,*,33,Serpentis,Undefined,1,Action,40,Terrible Bite,1,Common character
 9,*,33,Serpentis,Undefined,1,Action,551,Guard,-1,None
-1,*,34,Dralnog,Undefined,0,Strategy,44,???,3,???
-2,*,34,Dralnog,Undefined,0,Strategy,30,???,4,???
-3,*,34,Dralnog,Undefined,0,Strategy,26,???,17,???
-4,*,34,Dralnog,Undefined,0,Strategy,2,???,6,???
-5,*,34,Dralnog,Undefined,0,Strategy,30,???,7,???
-6,*,34,Dralnog,Undefined,0,Strategy,28,???,18,???
-7,*,34,Dralnog,Undefined,0,Strategy,1,???,9,???
-8,*,34,Dralnog,Undefined,0,Strategy,30,???,10,???
-9,*,34,Dralnog,Undefined,0,Strategy,24,???,18,???
-10,*,34,Dralnog,Undefined,0,Strategy,35,???,12,???
-11,*,34,Dralnog,Undefined,0,Strategy,22,???,19,???
-12,*,34,Dralnog,Undefined,0,Strategy,22,???,18,???
-13,*,34,Dralnog,Undefined,0,Strategy,27,???,16,???
-14,*,34,Dralnog,Undefined,0,Strategy,26,???,20,???
-15,*,34,Dralnog,Undefined,0,Strategy,30,???,17,???
-16,*,34,Dralnog,Undefined,1,Action,550,Attack,2,Random character
-17,*,34,Dralnog,Undefined,1,Action,552,Run,-1,None
-18,*,34,Dralnog,Undefined,1,Action,271,Poison Explode,-1,None
-19,*,34,Dralnog,Undefined,1,Action,517,Eterni,2,Random character
-20,*,34,Dralnog,Undefined,1,Action,100,Magic?,-1,None
-1,epevent.evp,34,Dralnog,False,0,Strategy,2,???,6,???
-2,epevent.evp,34,Dralnog,False,0,Strategy,30,???,7,???
-3,epevent.evp,34,Dralnog,False,0,Strategy,28,???,12,???
-4,epevent.evp,34,Dralnog,False,0,Strategy,1,???,9,???
-5,epevent.evp,34,Dralnog,False,0,Strategy,30,???,10,???
-6,epevent.evp,34,Dralnog,False,0,Strategy,24,???,12,???
-7,epevent.evp,34,Dralnog,False,0,Strategy,35,???,12,???
-8,epevent.evp,34,Dralnog,False,0,Strategy,22,???,13,???
-9,epevent.evp,34,Dralnog,False,0,Strategy,22,???,12,???
-10,epevent.evp,34,Dralnog,False,0,Strategy,27,???,11,???
-11,epevent.evp,34,Dralnog,False,1,Action,550,Attack,2,Random character
-12,epevent.evp,34,Dralnog,False,1,Action,271,Poison Explode,-1,None
-13,epevent.evp,34,Dralnog,False,1,Action,517,Eterni,2,Random character
+1,*,34,Dralnog,True,0,Strategy,44,???,3,???
+2,*,34,Dralnog,True,0,Strategy,30,???,4,???
+3,*,34,Dralnog,True,0,Strategy,26,???,17,???
+4,*,34,Dralnog,True,0,Strategy,2,???,6,???
+5,*,34,Dralnog,True,0,Strategy,30,???,7,???
+6,*,34,Dralnog,True,0,Strategy,28,???,18,???
+7,*,34,Dralnog,True,0,Strategy,1,???,9,???
+8,*,34,Dralnog,True,0,Strategy,30,???,10,???
+9,*,34,Dralnog,True,0,Strategy,24,???,18,???
+10,*,34,Dralnog,True,0,Strategy,35,???,12,???
+11,*,34,Dralnog,True,0,Strategy,22,???,19,???
+12,*,34,Dralnog,True,0,Strategy,22,???,18,???
+13,*,34,Dralnog,True,0,Strategy,27,???,16,???
+14,*,34,Dralnog,True,0,Strategy,26,???,20,???
+15,*,34,Dralnog,True,0,Strategy,30,???,17,???
+16,*,34,Dralnog,True,1,Action,550,Attack,2,Random character
+17,*,34,Dralnog,True,1,Action,552,Run,-1,None
+18,*,34,Dralnog,True,1,Action,271,Poison Explode,-1,None
+19,*,34,Dralnog,True,1,Action,517,Eterni,2,Random character
+20,*,34,Dralnog,True,1,Action,100,Magic?,-1,None
+1,epevent.evp,34,Dralnog,True,0,Strategy,35,???,3,???
+2,epevent.evp,34,Dralnog,True,0,Strategy,24,???,16,???
+3,epevent.evp,34,Dralnog,True,0,Strategy,2,???,8,???
+4,epevent.evp,34,Dralnog,True,0,Strategy,30,???,9,???
+5,epevent.evp,34,Dralnog,True,0,Strategy,28,???,14,???
+6,epevent.evp,34,Dralnog,True,0,Strategy,1,???,11,???
+7,epevent.evp,34,Dralnog,True,0,Strategy,30,???,12,???
+8,epevent.evp,34,Dralnog,True,0,Strategy,24,???,14,???
+9,epevent.evp,34,Dralnog,True,0,Strategy,35,???,14,???
+10,epevent.evp,34,Dralnog,True,0,Strategy,22,???,15,???
+11,epevent.evp,34,Dralnog,True,0,Strategy,22,???,14,???
+12,epevent.evp,34,Dralnog,True,0,Strategy,27,???,13,???
+13,epevent.evp,34,Dralnog,True,1,Action,550,Attack,2,Random character
+14,epevent.evp,34,Dralnog,True,1,Action,271,Poison Explode,-1,None
+15,epevent.evp,34,Dralnog,True,1,Action,517,Eterni,2,Random character
+16,epevent.evp,34,Dralnog,True,1,Action,517,Eterni,21,Character with highest Attack
 1,*,35,Que'lak,Undefined,0,Strategy,45,???,3,???
 2,*,35,Que'lak,Undefined,0,Strategy,30,???,4,???
 3,*,35,Que'lak,Undefined,0,Strategy,28,???,15,???
@@ -1005,25 +1008,25 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 14,*,71,Tenkou,False,1,Action,116,Power Potion,11,Enemy without Strengthen
 15,*,71,Tenkou,False,1,Action,117,Speed Potion,-1,None
 16,*,71,Tenkou,False,1,Action,118,Sacres Crystal,7,Injured enemy
-1,*,72,Patrol Guard,Undefined,0,Strategy,11,???,4,???
-2,*,72,Patrol Guard,Undefined,0,Strategy,12,???,6,???
-3,*,72,Patrol Guard,Undefined,0,Strategy,30,???,7,???
-4,*,72,Patrol Guard,Undefined,0,Strategy,23,???,17,???
-5,*,72,Patrol Guard,Undefined,0,Strategy,30,???,7,???
-6,*,72,Patrol Guard,Undefined,0,Strategy,23,???,19,???
-7,*,72,Patrol Guard,Undefined,0,Strategy,26,???,15,???
-8,*,72,Patrol Guard,Undefined,0,Strategy,25,???,16,???
-9,*,72,Patrol Guard,Undefined,0,Strategy,25,???,11,???
-10,*,72,Patrol Guard,Undefined,0,Strategy,30,???,13,???
-11,*,72,Patrol Guard,Undefined,0,Strategy,33,???,15,???
-12,*,72,Patrol Guard,Undefined,0,Strategy,30,???,18,???
-13,*,72,Patrol Guard,Undefined,0,Strategy,42,???,15,???
-14,*,72,Patrol Guard,Undefined,0,Strategy,30,???,19,???
-15,*,72,Patrol Guard,Undefined,1,Action,550,Attack,2,Random character
-16,*,72,Patrol Guard,Undefined,1,Action,551,Guard,-1,None
-17,*,72,Patrol Guard,Undefined,1,Action,513,Quika,-1,None
-18,*,72,Patrol Guard,Undefined,1,Action,532,Electri,2,Random character
-19,*,72,Patrol Guard,Undefined,1,Action,80,Sacres Crystal,7,Injured enemy
+1,*,72,Patrol Guard,True,0,Strategy,11,???,4,???
+2,*,72,Patrol Guard,True,0,Strategy,12,???,6,???
+3,*,72,Patrol Guard,True,0,Strategy,30,???,7,???
+4,*,72,Patrol Guard,True,0,Strategy,23,???,17,???
+5,*,72,Patrol Guard,True,0,Strategy,30,???,7,???
+6,*,72,Patrol Guard,True,0,Strategy,23,???,19,???
+7,*,72,Patrol Guard,True,0,Strategy,26,???,15,???
+8,*,72,Patrol Guard,True,0,Strategy,25,???,16,???
+9,*,72,Patrol Guard,True,0,Strategy,25,???,11,???
+10,*,72,Patrol Guard,True,0,Strategy,30,???,13,???
+11,*,72,Patrol Guard,True,0,Strategy,33,???,15,???
+12,*,72,Patrol Guard,True,0,Strategy,30,???,18,???
+13,*,72,Patrol Guard,True,0,Strategy,42,???,15,???
+14,*,72,Patrol Guard,True,0,Strategy,30,???,19,???
+15,*,72,Patrol Guard,True,1,Action,550,Attack,2,Random character
+16,*,72,Patrol Guard,True,1,Action,551,Guard,-1,None
+17,*,72,Patrol Guard,True,1,Action,513,Quika,-1,None
+18,*,72,Patrol Guard,True,1,Action,532,Electri,2,Random character
+19,*,72,Patrol Guard,True,1,Action,80,Sacres Crystal,7,Injured enemy
 1,*,73,Mine Patrol,Undefined,0,Strategy,11,???,4,???
 2,*,73,Mine Patrol,Undefined,0,Strategy,12,???,6,???
 3,*,73,Mine Patrol,Undefined,0,Strategy,30,???,7,???
@@ -1726,108 +1729,110 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 19,*,128,Antonio,True,1,Action,550,Attack,2,Random character
 20,*,128,Antonio,True,1,Action,5,Thunder of Fury,2,Random character
 21,*,128,Antonio,True,1,Action,34,Assess Damage,-1,None
-1,*,129,Sentinel,Undefined,0,Strategy,48,???,8,???
-2,*,129,Sentinel,Undefined,0,Strategy,5,???,6,???
-3,*,129,Sentinel,Undefined,0,Strategy,0,???,6,???
-4,*,129,Sentinel,Undefined,0,Strategy,26,???,10,???
-5,*,129,Sentinel,Undefined,0,Strategy,30,???,11,???
-6,*,129,Sentinel,Undefined,0,Strategy,29,???,11,???
-7,*,129,Sentinel,Undefined,0,Strategy,30,???,10,???
-8,*,129,Sentinel,Undefined,0,Strategy,28,???,12,???
-9,*,129,Sentinel,Undefined,0,Strategy,30,???,10,???
-10,*,129,Sentinel,Undefined,1,Action,550,Attack,2,Random character
-11,*,129,Sentinel,Undefined,1,Action,9,Target Search,-1,None
-12,*,129,Sentinel,Undefined,1,Action,99,Blaster,2,Random character
-1,*,130,Bleigock,Undefined,0,Strategy,11,???,5,???
-2,*,130,Bleigock,Undefined,0,Strategy,12,???,7,???
-3,*,130,Bleigock,Undefined,0,Strategy,50,???,17,???
-4,*,130,Bleigock,Undefined,0,Strategy,30,???,14,???
-5,*,130,Bleigock,Undefined,0,Strategy,25,???,20,???
-6,*,130,Bleigock,Undefined,0,Strategy,30,???,19,???
-7,*,130,Bleigock,Undefined,0,Strategy,50,???,9,???
-8,*,130,Bleigock,Undefined,0,Strategy,25,???,21,???
-9,*,130,Bleigock,Undefined,0,Strategy,24,???,21,???
-10,*,130,Bleigock,Undefined,0,Strategy,30,???,19,???
-11,*,130,Bleigock,Undefined,0,Strategy,21,???,21,???
-12,*,130,Bleigock,Undefined,0,Strategy,25,???,20,???
-13,*,130,Bleigock,Undefined,0,Strategy,30,???,19,???
-14,*,130,Bleigock,Undefined,0,Strategy,25,???,21,???
-15,*,130,Bleigock,Undefined,0,Strategy,22,???,20,???
-16,*,130,Bleigock,Undefined,0,Strategy,30,???,19,???
-17,*,130,Bleigock,Undefined,0,Strategy,22,???,20,???
-18,*,130,Bleigock,Undefined,0,Strategy,30,???,19,???
-19,*,130,Bleigock,Undefined,1,Action,550,Attack,2,Random character
-20,*,130,Bleigock,Undefined,1,Action,183,Frost Breath,-1,None
-21,*,130,Bleigock,Undefined,1,Action,25,Poisonous Bile,-1,None
-1,*,131,Executioner,Undefined,0,Strategy,17,???,28,???
-2,*,131,Executioner,Undefined,0,Strategy,16,???,20,???
-3,*,131,Executioner,Undefined,0,Strategy,11,???,7,???
-4,*,131,Executioner,Undefined,0,Strategy,12,???,9,???
-5,*,131,Executioner,Undefined,0,Strategy,13,???,9,???
-6,*,131,Executioner,Undefined,0,Strategy,30,???,13,???
-7,*,131,Executioner,Undefined,0,Strategy,25,???,35,???
-8,*,131,Executioner,Undefined,0,Strategy,30,???,37,???
-9,*,131,Executioner,Undefined,0,Strategy,50,???,11,???
-10,*,131,Executioner,Undefined,0,Strategy,30,???,36,???
-11,*,131,Executioner,Undefined,0,Strategy,25,???,35,???
-12,*,131,Executioner,Undefined,0,Strategy,30,???,38,???
-13,*,131,Executioner,Undefined,0,Strategy,50,???,17,???
-14,*,131,Executioner,Undefined,0,Strategy,24,???,37,???
-15,*,131,Executioner,Undefined,0,Strategy,27,???,36,???
-16,*,131,Executioner,Undefined,0,Strategy,30,???,35,???
-17,*,131,Executioner,Undefined,0,Strategy,25,???,35,???
-18,*,131,Executioner,Undefined,0,Strategy,28,???,38,???
-19,*,131,Executioner,Undefined,0,Strategy,30,???,39,???
-20,*,131,Executioner,Undefined,0,Strategy,50,???,25,???
-21,*,131,Executioner,Undefined,0,Strategy,22,???,35,???
-22,*,131,Executioner,Undefined,0,Strategy,24,???,37,???
-23,*,131,Executioner,Undefined,0,Strategy,28,???,36,???
-24,*,131,Executioner,Undefined,0,Strategy,30,???,39,???
-25,*,131,Executioner,Undefined,0,Strategy,25,???,35,???
-26,*,131,Executioner,Undefined,0,Strategy,26,???,37,???
-27,*,131,Executioner,Undefined,0,Strategy,30,???,39,???
-28,*,131,Executioner,Undefined,0,Strategy,50,???,31,???
-29,*,131,Executioner,Undefined,0,Strategy,25,???,36,???
-30,*,131,Executioner,Undefined,0,Strategy,30,???,37,???
-31,*,131,Executioner,Undefined,0,Strategy,24,???,35,???
-32,*,131,Executioner,Undefined,0,Strategy,24,???,37,???
-33,*,131,Executioner,Undefined,0,Strategy,26,???,38,???
-34,*,131,Executioner,Undefined,0,Strategy,30,???,39,???
-35,*,131,Executioner,Undefined,1,Action,550,Attack,2,Random character
-36,*,131,Executioner,Undefined,1,Action,11,Tackle,3,Character with most HP
-37,*,131,Executioner,Undefined,1,Action,251,Sonic Wave,2,Random character
-38,*,131,Executioner,Undefined,1,Action,533,Electres,2,Random character
-39,*,131,Executioner,Undefined,1,Action,551,Guard,-1,None
-1,*,132,Galcian,Undefined,0,Strategy,1,???,13,???
-2,*,132,Galcian,Undefined,0,Strategy,11,???,7,???
-3,*,132,Galcian,Undefined,0,Strategy,12,???,7,???
-4,*,132,Galcian,Undefined,0,Strategy,25,???,9,???
-5,*,132,Galcian,Undefined,0,Strategy,26,???,10,???
-6,*,132,Galcian,Undefined,0,Strategy,30,???,11,???
-7,*,132,Galcian,Undefined,0,Strategy,25,???,9,???
-8,*,132,Galcian,Undefined,0,Strategy,30,???,12,???
-9,*,132,Galcian,Undefined,1,Action,550,Attack,2,Random character
-10,*,132,Galcian,Undefined,1,Action,518,Eternes,-1,None
-11,*,132,Galcian,Undefined,1,Action,534,Electrum,2,Random character
-12,*,132,Galcian,Undefined,1,Action,24,Devolver,-1,None
-13,*,132,Galcian,Undefined,1,Action,509,Sacrulen,22,Self as target
-1,*,133,Royal Guard,Undefined,0,Strategy,5,???,11,???
-2,*,133,Royal Guard,Undefined,0,Strategy,38,???,8,???
-3,*,133,Royal Guard,Undefined,0,Strategy,25,???,14,???
-4,*,133,Royal Guard,Undefined,0,Strategy,24,???,16,???
-5,*,133,Royal Guard,Undefined,0,Strategy,25,???,17,???
-6,*,133,Royal Guard,Undefined,0,Strategy,28,???,15,???
-7,*,133,Royal Guard,Undefined,0,Strategy,30,???,15,???
-8,*,133,Royal Guard,Undefined,0,Strategy,25,???,17,???
-9,*,133,Royal Guard,Undefined,0,Strategy,32,???,11,???
-10,*,133,Royal Guard,Undefined,0,Strategy,30,???,15,???
-11,*,133,Royal Guard,Undefined,0,Strategy,24,???,14,???
-12,*,133,Royal Guard,Undefined,0,Strategy,25,???,16,???
-13,*,133,Royal Guard,Undefined,0,Strategy,30,???,17,???
-14,*,133,Royal Guard,Undefined,1,Action,550,Attack,4,Character with least HP
-15,*,133,Royal Guard,Undefined,1,Action,506,Sacri,7,Injured enemy
-16,*,133,Royal Guard,Undefined,1,Action,533,Electres,23,Aika as target
-17,*,133,Royal Guard,Undefined,1,Action,19,Counter Stance,-1,None
+1,*,129,Sentinel,True,0,Strategy,48,???,8,???
+2,*,129,Sentinel,True,0,Strategy,5,???,6,???
+3,*,129,Sentinel,True,0,Strategy,0,???,6,???
+4,*,129,Sentinel,True,0,Strategy,26,???,10,???
+5,*,129,Sentinel,True,0,Strategy,30,???,11,???
+6,*,129,Sentinel,True,0,Strategy,29,???,11,???
+7,*,129,Sentinel,True,0,Strategy,30,???,10,???
+8,*,129,Sentinel,True,0,Strategy,28,???,12,???
+9,*,129,Sentinel,True,0,Strategy,30,???,10,???
+10,*,129,Sentinel,True,1,Action,550,Attack,2,Random character
+11,*,129,Sentinel,True,1,Action,9,Target Search,-1,None
+12,*,129,Sentinel,True,1,Action,99,Blaster,2,Random character
+1,*,130,Bleigock,True,0,Strategy,1,???,18,???
+2,*,130,Bleigock,True,0,Strategy,11,???,5,???
+3,*,130,Bleigock,True,0,Strategy,12,???,7,???
+4,*,130,Bleigock,True,0,Strategy,30,???,11,???
+5,*,130,Bleigock,True,0,Strategy,27,???,23,???
+6,*,130,Bleigock,True,0,Strategy,30,???,21,???
+7,*,130,Bleigock,True,0,Strategy,50,???,9,???
+8,*,130,Bleigock,True,0,Strategy,30,???,23,???
+9,*,130,Bleigock,True,0,Strategy,27,???,22,???
+10,*,130,Bleigock,True,0,Strategy,30,???,21,???
+11,*,130,Bleigock,True,0,Strategy,50,???,15,???
+12,*,130,Bleigock,True,0,Strategy,21,???,21,???
+13,*,130,Bleigock,True,0,Strategy,26,???,22,???
+14,*,130,Bleigock,True,0,Strategy,30,???,23,???
+15,*,130,Bleigock,True,0,Strategy,23,???,21,???
+16,*,130,Bleigock,True,0,Strategy,23,???,22,???
+17,*,130,Bleigock,True,0,Strategy,30,???,23,???
+18,*,130,Bleigock,True,0,Strategy,50,???,15,???
+19,*,130,Bleigock,True,0,Strategy,22,???,22,???
+20,*,130,Bleigock,True,0,Strategy,30,???,23,???
+21,*,130,Bleigock,True,1,Action,550,Attack,2,Random character
+22,*,130,Bleigock,True,1,Action,183,Frost Breath,-1,None
+23,*,130,Bleigock,True,1,Action,25,Poisonous Bile,-1,None
+1,*,131,Executioner,True,0,Strategy,17,???,28,???
+2,*,131,Executioner,True,0,Strategy,16,???,20,???
+3,*,131,Executioner,True,0,Strategy,11,???,7,???
+4,*,131,Executioner,True,0,Strategy,12,???,9,???
+5,*,131,Executioner,True,0,Strategy,13,???,9,???
+6,*,131,Executioner,True,0,Strategy,30,???,13,???
+7,*,131,Executioner,True,0,Strategy,25,???,35,???
+8,*,131,Executioner,True,0,Strategy,30,???,37,???
+9,*,131,Executioner,True,0,Strategy,50,???,11,???
+10,*,131,Executioner,True,0,Strategy,30,???,36,???
+11,*,131,Executioner,True,0,Strategy,25,???,35,???
+12,*,131,Executioner,True,0,Strategy,30,???,38,???
+13,*,131,Executioner,True,0,Strategy,50,???,17,???
+14,*,131,Executioner,True,0,Strategy,24,???,37,???
+15,*,131,Executioner,True,0,Strategy,27,???,36,???
+16,*,131,Executioner,True,0,Strategy,30,???,35,???
+17,*,131,Executioner,True,0,Strategy,25,???,35,???
+18,*,131,Executioner,True,0,Strategy,28,???,38,???
+19,*,131,Executioner,True,0,Strategy,30,???,39,???
+20,*,131,Executioner,True,0,Strategy,50,???,25,???
+21,*,131,Executioner,True,0,Strategy,22,???,35,???
+22,*,131,Executioner,True,0,Strategy,24,???,37,???
+23,*,131,Executioner,True,0,Strategy,28,???,36,???
+24,*,131,Executioner,True,0,Strategy,30,???,39,???
+25,*,131,Executioner,True,0,Strategy,25,???,35,???
+26,*,131,Executioner,True,0,Strategy,26,???,37,???
+27,*,131,Executioner,True,0,Strategy,30,???,39,???
+28,*,131,Executioner,True,0,Strategy,50,???,31,???
+29,*,131,Executioner,True,0,Strategy,25,???,36,???
+30,*,131,Executioner,True,0,Strategy,30,???,37,???
+31,*,131,Executioner,True,0,Strategy,24,???,35,???
+32,*,131,Executioner,True,0,Strategy,24,???,37,???
+33,*,131,Executioner,True,0,Strategy,26,???,38,???
+34,*,131,Executioner,True,0,Strategy,30,???,39,???
+35,*,131,Executioner,True,1,Action,550,Attack,2,Random character
+36,*,131,Executioner,True,1,Action,11,Tackle,2,Random character
+37,*,131,Executioner,True,1,Action,251,Sonic Wave,2,Random character
+38,*,131,Executioner,True,1,Action,533,Electres,2,Random character
+39,*,131,Executioner,True,1,Action,551,Guard,-1,None
+1,*,132,Galcian,True,0,Strategy,1,???,13,???
+2,*,132,Galcian,True,0,Strategy,11,???,7,???
+3,*,132,Galcian,True,0,Strategy,12,???,7,???
+4,*,132,Galcian,True,0,Strategy,25,???,9,???
+5,*,132,Galcian,True,0,Strategy,26,???,10,???
+6,*,132,Galcian,True,0,Strategy,30,???,11,???
+7,*,132,Galcian,True,0,Strategy,25,???,9,???
+8,*,132,Galcian,True,0,Strategy,30,???,12,???
+9,*,132,Galcian,True,1,Action,550,Attack,2,Random character
+10,*,132,Galcian,True,1,Action,518,Eternes,-1,None
+11,*,132,Galcian,True,1,Action,534,Electrum,2,Random character
+12,*,132,Galcian,True,1,Action,24,Devolver,-1,None
+13,*,132,Galcian,True,1,Action,509,Sacrulen,22,Self as target
+1,*,133,Royal Guard,True,0,Strategy,5,???,11,???
+2,*,133,Royal Guard,True,0,Strategy,38,???,8,???
+3,*,133,Royal Guard,True,0,Strategy,25,???,14,???
+4,*,133,Royal Guard,True,0,Strategy,24,???,16,???
+5,*,133,Royal Guard,True,0,Strategy,25,???,17,???
+6,*,133,Royal Guard,True,0,Strategy,28,???,15,???
+7,*,133,Royal Guard,True,0,Strategy,30,???,15,???
+8,*,133,Royal Guard,True,0,Strategy,25,???,17,???
+9,*,133,Royal Guard,True,0,Strategy,32,???,11,???
+10,*,133,Royal Guard,True,0,Strategy,30,???,15,???
+11,*,133,Royal Guard,True,0,Strategy,24,???,14,???
+12,*,133,Royal Guard,True,0,Strategy,25,???,16,???
+13,*,133,Royal Guard,True,0,Strategy,30,???,17,???
+14,*,133,Royal Guard,True,1,Action,550,Attack,4,Character with least HP
+15,*,133,Royal Guard,True,1,Action,506,Sacri,7,Injured enemy
+16,*,133,Royal Guard,True,1,Action,533,Electres,23,Aika as target
+17,*,133,Royal Guard,True,1,Action,19,Counter Stance,-1,None
 1,*,134,Rockwyrm,Undefined,0,Strategy,35,???,3,???
 2,*,134,Rockwyrm,Undefined,0,Strategy,25,???,14,???
 3,*,134,Rockwyrm,Undefined,0,Strategy,1,???,8,???
@@ -1844,13 +1849,13 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 14,*,134,Rockwyrm,Undefined,1,Action,550,Attack,2,Random character
 15,*,134,Rockwyrm,Undefined,1,Action,0,Volcanic Blast,-1,None
 16,*,134,Rockwyrm,Undefined,1,Action,1,Cinder Storm,13,Character without Stone
-1,*,136,Antonio 2,False,0,Strategy,50,???,4,???
-2,*,136,Antonio 2,False,0,Strategy,23,???,6,???
-3,*,136,Antonio 2,False,0,Strategy,30,???,7,???
-4,*,136,Antonio 2,False,0,Strategy,27,???,6,???
-5,*,136,Antonio 2,False,0,Strategy,30,???,7,???
-6,*,136,Antonio 2,False,1,Action,550,Attack,2,Random character
-7,*,136,Antonio 2,False,1,Action,5,Thunder of Fury,2,Random character
+1,*,136,Antonio 2,Undefined,0,Strategy,50,???,4,???
+2,*,136,Antonio 2,Undefined,0,Strategy,23,???,6,???
+3,*,136,Antonio 2,Undefined,0,Strategy,30,???,7,???
+4,*,136,Antonio 2,Undefined,0,Strategy,27,???,6,???
+5,*,136,Antonio 2,Undefined,0,Strategy,30,???,7,???
+6,*,136,Antonio 2,Undefined,1,Action,550,Attack,2,Random character
+7,*,136,Antonio 2,Undefined,1,Action,5,Thunder of Fury,2,Random character
 1,*,137,Rik'talish,Undefined,0,Strategy,11,???,11,???
 2,*,137,Rik'talish,Undefined,0,Strategy,12,???,11,???
 3,*,137,Rik'talish,Undefined,0,Strategy,1,???,15,???
@@ -2663,20 +2668,20 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 5,*,169,Kantor,True,0,Strategy,30,???,7,???
 6,*,169,Kantor,True,1,Action,550,Attack,2,Random character
 7,*,169,Kantor,True,1,Action,5,Thunder of Fury,2,Random character
-1,*,170,Kantor,Undefined,0,Strategy,50,???,4,???
-2,*,170,Kantor,Undefined,0,Strategy,23,???,6,???
-3,*,170,Kantor,Undefined,0,Strategy,30,???,7,???
-4,*,170,Kantor,Undefined,0,Strategy,27,???,6,???
-5,*,170,Kantor,Undefined,0,Strategy,30,???,7,???
-6,*,170,Kantor,Undefined,1,Action,550,Attack,2,Random character
-7,*,170,Kantor,Undefined,1,Action,5,Thunder of Fury,2,Random character
-1,*,171,Kantor,Undefined,0,Strategy,50,???,4,???
-2,*,171,Kantor,Undefined,0,Strategy,23,???,6,???
-3,*,171,Kantor,Undefined,0,Strategy,30,???,7,???
-4,*,171,Kantor,Undefined,0,Strategy,27,???,6,???
-5,*,171,Kantor,Undefined,0,Strategy,30,???,7,???
-6,*,171,Kantor,Undefined,1,Action,550,Attack,2,Random character
-7,*,171,Kantor,Undefined,1,Action,5,Thunder of Fury,2,Random character
+1,*,170,Kantor,True,0,Strategy,50,???,4,???
+2,*,170,Kantor,True,0,Strategy,23,???,6,???
+3,*,170,Kantor,True,0,Strategy,30,???,7,???
+4,*,170,Kantor,True,0,Strategy,27,???,6,???
+5,*,170,Kantor,True,0,Strategy,30,???,7,???
+6,*,170,Kantor,True,1,Action,550,Attack,2,Random character
+7,*,170,Kantor,True,1,Action,5,Thunder of Fury,2,Random character
+1,*,171,Kantor,True,0,Strategy,50,???,4,???
+2,*,171,Kantor,True,0,Strategy,23,???,6,???
+3,*,171,Kantor,True,0,Strategy,30,???,7,???
+4,*,171,Kantor,True,0,Strategy,27,???,6,???
+5,*,171,Kantor,True,0,Strategy,30,???,7,???
+6,*,171,Kantor,True,1,Action,550,Attack,2,Random character
+7,*,171,Kantor,True,1,Action,5,Thunder of Fury,2,Random character
 1,*,172,Polraxis,Undefined,0,Strategy,21,???,3,???
 2,*,172,Polraxis,Undefined,1,Action,550,Attack,2,Random character
 3,*,172,Polraxis,Undefined,1,Action,551,Guard,-1,None
