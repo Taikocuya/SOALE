@@ -1,4 +1,4 @@
-Entry ID,[Filter],[Finalized],Party vigor,Magic EXP,Enemy #0 ID,[JP enemy #0 name],Enemy #1 ID,[JP enemy #1 name],Enemy #2 ID,[JP enemy #2 name],Enemy #3 ID,[JP enemy #3 name],Enemy #4 ID,[JP enemy #4 name],Enemy #5 ID,[JP enemy #5 name],Enemy #6 ID,[JP enemy #6 name],Enemy #7 ID,[JP enemy #7 name]
+Entry ID,[Filter],[Finalized],Initiative,Magic EXP,Enemy #0 ID,[JP enemy #0 name],Enemy #1 ID,[JP enemy #1 name],Enemy #2 ID,[JP enemy #2 name],Enemy #3 ID,[JP enemy #3 name],Enemy #4 ID,[JP enemy #4 name],Enemy #5 ID,[JP enemy #5 name],Enemy #6 ID,[JP enemy #6 name],Enemy #7 ID,[JP enemy #7 name]
 0,a017a_ep.enp,False,102,2,42,Grapor,255,None,255,None,255,None,255,None,255,None,255,None,255,None
 1,a017a_ep.enp,False,102,2,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None,255,None,255,None
 2,a017a_ep.enp,False,102,2,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None,255,None
