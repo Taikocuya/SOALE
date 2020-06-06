@@ -21,18 +21,18 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 179,Ancient Bracer,False,0x35,X,X,,X,,X,100,10,16,Attack,20,17,Defense,20,19,Hit%,20,20,Dodge%,10
 180,Counter Bracer,Undefined,0x35,X,X,,X,,X,100,10,73,Counter%,20,16,Attack,20,19,Hit%,20,-1,None,0
 181,Defensive Aura,False,0x18,,X,X,,,,100,10,65,Block attacks,1,77,Recover spirit,-1,54,Fatigue,-10,-1,None,0
-182,Ivy Band,True,0x3f,X,X,X,X,X,X,100,100,48,Poison,-3,32,Green,-2,17,Defense,5,18,MagDef,5
-183,Silvite Ring,Undefined,0x3f,X,X,X,X,X,X,100,100,49,Death,-3,37,Silver,-2,17,Defense,5,18,MagDef,5
-184,Gem of Fluidity,Undefined,0x3f,X,X,X,X,X,X,100,100,50,Stone,-3,17,Defense,10,18,MagDef,10,-1,None,0
-185,Wind Gem Ring,Undefined,0x3f,X,X,X,X,X,X,100,100,51,Sleep,-3,35,Blue,-2,17,Defense,5,18,MagDef,5
-186,Eye of Truth,Undefined,0x3f,X,X,X,X,X,X,100,100,52,Confuse,-3,34,Purple,-2,17,Defense,5,18,MagDef,5
-187,Revered Voice,True,0x3f,X,X,X,X,X,X,100,100,53,Silence,-3,34,Purple,-2,17,Defense,5,18,MagDef,5
-188,Everlasting Gem,Undefined,0x3f,X,X,X,X,X,X,100,100,54,Fatigue,-3,17,Defense,10,18,MagDef,10,-1,None,0
-189,Behemoth's Ring,Undefined,0x3f,X,X,X,X,X,X,100,100,56,Weak,-3,36,Yellow,-2,17,Defense,5,18,MagDef,5
+182,Ivy Band,True,0x3f,X,X,X,X,X,X,100,100,48,Poison,-2,32,Green,-2,17,Defense,10,18,MagDef,10
+183,Silvite Ring,True,0x3f,X,X,X,X,X,X,100,100,49,Death,-2,37,Silver,-2,17,Defense,10,18,MagDef,10
+184,Gem of Fluidity,True,0x3f,X,X,X,X,X,X,100,100,50,Stone,-2,17,Defense,10,18,MagDef,10,-1,None,0
+185,Wind Gem Ring,Undefined,0x3f,X,X,X,X,X,X,100,100,51,Sleep,-2,35,Blue,-2,17,Defense,10,18,MagDef,10
+186,Eye of Truth,Undefined,0x3f,X,X,X,X,X,X,100,100,52,Confuse,-2,34,Purple,-2,17,Defense,10,18,MagDef,10
+187,Revered Voice,True,0x3f,X,X,X,X,X,X,100,100,53,Silence,-2,34,Purple,-2,17,Defense,10,18,MagDef,10
+188,Everlasting Gem,True,0x3f,X,X,X,X,X,X,100,100,54,Fatigue,-2,17,Defense,10,18,MagDef,10,-1,None,0
+189,Behemoth's Ring,True,0x3f,X,X,X,X,X,X,100,100,56,Weak,-2,36,Yellow,-2,17,Defense,10,18,MagDef,10
 190,Constitution Gem,False,0x5,,,,X,,X,100,1000,79,Block negative states,-3,17,Defense,10,18,MagDef,10,-1,None,0
-191,Nomadic Veil,Undefined,0x3f,X,X,X,X,X,X,50,640,17,Defense,15,18,MagDef,15,-1,None,0,-1,None,0
+191,Nomadic Veil,True,0x3f,X,X,X,X,X,X,50,640,17,Defense,15,18,MagDef,15,-1,None,0,-1,None,0
 192,Radiant Fur,False,0x3f,X,X,X,X,X,X,50,3580,17,Defense,24,18,MagDef,24,-1,None,0,-1,None,0
-193,Sand Storm Ring,Undefined,0x3f,X,X,X,X,X,X,50,770,16,Attack,15,1,Will,15,-1,None,0,-1,None,0
+193,Sand Storm Ring,True,0x3f,X,X,X,X,X,X,50,770,16,Attack,15,1,Will,15,-1,None,0,-1,None,0
 194,Skull Cap,False,0x3f,X,X,X,X,X,X,50,4300,16,Attack,24,1,Will,24,-1,None,0,-1,None,0
 195,Mage's Bane,True,0x3f,X,X,X,X,X,X,50,480,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
 196,Blue Rogue Patch,False,0x3f,X,X,X,X,X,X,50,6820,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
@@ -49,17 +49,17 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 207,Gem of Purity,True,0x5,,,,X,,X,50,300,79,Block negative states,-1,17,Defense,8,-1,None,0,-1,None,0
 208,Shard of Purity,False,0x5,,,,X,,X,50,4760,79,Block negative states,-2,17,Defense,38,-1,None,0,-1,None,0
 209,Fortune Ring,False,0x18,,X,X,,,,50,2145,20,Dodge%,75,17,Defense,8,-1,None,0,-1,None,0
-210,Black Map,Undefined,0x20,X,,,,,,100,777,84,Random encounter%,100,80,First strike%,25,82,???,0,83,Enemy run%,0
+210,Black Map,True,0x20,X,,,,,,100,777,84,Random encounter%,100,80,First strike%,25,82,???,0,83,Enemy run%,0
 211,White Map,False,0x20,X,,,,,,100,666,84,Random encounter%,5,80,First strike%,0,82,???,0,81,Run%,100
 212,Captain's Hat,False,0x20,X,,,,,,100,10,16,Attack,45,-1,None,0,-1,None,0,-1,None,0
 213,Mesh Tights,False,0x10,,X,,,,,100,10,16,Attack,40,1,Will,40,-1,None,0,-1,None,0
-214,Black Eyepatch,Undefined,0x25,X,,,X,,X,100,10,16,Attack,7,-1,None,0,-1,None,0,-1,None,0
-215,Silver Veil,False,0x18,,X,X,,,,100,100,1,Will,16,18,MagDef,16,-1,None,0,-1,None,0
+214,Black Eyepatch,True,0x25,X,,,X,,X,100,10,16,Attack,7,-1,None,0,-1,None,0,-1,None,0
+215,Silver Veil,True,0x18,,X,X,,,,100,100,1,Will,16,18,MagDef,16,-1,None,0,-1,None,0
 216,Imperial Crest,False,0x2,,,,,X,,100,1000,17,Defense,20,18,MagDef,20,-1,None,0,-1,None,0
 217,Gilder's Amulet,False,0x31,X,X,,,,X,100,500,17,Defense,11,18,MagDef,11,16,Attack,11,1,Will,11
 218,Valuan Medallion,False,0x3f,X,X,X,X,X,X,100,5000,49,Death,-3,17,Defense,30,18,MagDef,30,-1,None,0
 219,Immunity Ring,False,0x5,,,,X,,X,50,1490,79,Block negative states,-2,17,Defense,21,-1,None,0,-1,None,0
-220,Thermo Ring,True,0x3f,X,X,X,X,X,X,50,200,33,Red,-1,34,Purple,-1,-1,None,0,-1,None,0
+220,Thermo Ring,True,0x3f,X,X,X,X,X,X,50,700,33,Red,-1,34,Purple,-1,1,Will,15,18,MagDef,15
 221,Slayer Ring,True,0x3f,X,X,X,X,X,X,50,600,1,Will,8,17,Defense,8,19,Hit%,10,4,Quick,8
 222,Chance Ring,False,0x3f,X,X,X,X,X,X,100,1000,79,Block negative states,90,17,Defense,45,18,MagDef,45,-1,None,0
 223,ダミーアクセサリ,True,0x0,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0

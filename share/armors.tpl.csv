@@ -1,19 +1,19 @@
 Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Order by prio.,Purchase price,Feat. #0 ID,[Feat. #0 name],Feat. #0 value,Feat. #1 ID,[Feat. #1 name],Feat. #1 value,Feat. #2 ID,[Feat. #2 name],Feat. #2 value,Feat. #3 ID,[Feat. #3 name],Feat. #3 value
 80,Vyse's Uniform,True,0x31,X,X,,,,X,50,0,60,17,Defense,20,18,MagDef,20,-1,None,0,-1,None,0
 81,Aika's Shorts,True,0x18,,X,X,,,,50,1,50,17,Defense,19,18,MagDef,21,-1,None,0,-1,None,0
-82,Fina's Robe,False,0x1a,,X,X,,X,,50,11,510,17,Defense,55,18,MagDef,64,-1,None,0,-1,None,0
-83,Drachma's Shirt,Undefined,0x4,,,,X,,,50,4,340,17,Defense,45,18,MagDef,42,-1,None,0,-1,None,0
-84,Enrique's Coat,False,0x2,,,,,X,,50,33,3390,17,Defense,119,18,MagDef,119,19,Hit%,10,20,Dodge%,5
-85,Gilder's Mail,False,0x25,X,,,X,,X,50,27,2840,17,Defense,116,18,MagDef,99,-1,None,0,-1,None,0
+82,Fina's Robe,True,0x1a,,X,X,,X,,50,11,510,17,Defense,55,18,MagDef,64,-1,None,0,-1,None,0
+83,Drachma's Shirt,True,0x4,,,,X,,,50,4,340,17,Defense,45,18,MagDef,42,-1,None,0,-1,None,0
+84,Enrique's Coat,True,0x2,,,,,X,,50,33,3390,17,Defense,119,18,MagDef,119,19,Hit%,10,20,Dodge%,5
+85,Gilder's Mail,True,0x25,X,,,X,,X,50,27,2840,17,Defense,116,18,MagDef,99,-1,None,0,-1,None,0
 86,Light Robe,True,0x1a,,X,X,,X,,50,3,130,17,Defense,29,18,MagDef,34,-1,None,0,-1,None,0
 87,Valuan Uniform,True,0x35,X,X,,X,,X,50,2,170,17,Defense,32,18,MagDef,32,-1,None,0,-1,None,0
 88,Sailor Uniform,True,0x35,X,X,,X,,X,50,5,330,17,Defense,44,18,MagDef,44,-1,None,0,-1,None,0
 89,Mystic Dress,True,0x18,,X,X,,,,75,6,310,17,Defense,42,18,MagDef,46,-1,None,0,-1,None,0
 90,Valuan Armor,True,0x25,X,,,X,,X,50,7,480,17,Defense,51,18,MagDef,44,-1,None,0,-1,None,0
-91,Elastamor,Undefined,0x3f,X,X,X,X,X,X,50,8,580,17,Defense,54,18,MagDef,54,36,Yellow,-2,-1,None,0
-92,Raincoat,Undefined,0x35,X,X,,X,,X,50,9,560,17,Defense,56,18,MagDef,56,-1,None,0,-1,None,0
-93,Nasrean Mail,Undefined,0x3f,X,X,X,X,X,X,50,12,920,17,Defense,66,18,MagDef,66,33,Red,-2,-1,None,0
-94,Ceramic Armor,Undefined,0x25,X,,,X,,X,50,13,1040,17,Defense,73,18,MagDef,62,-1,None,0,-1,None,0
+91,Elastamor,True,0x3f,X,X,X,X,X,X,50,8,580,17,Defense,54,18,MagDef,54,36,Yellow,-2,-1,None,0
+92,Raincoat,True,0x35,X,X,,X,,X,50,9,560,17,Defense,56,18,MagDef,56,-1,None,0,-1,None,0
+93,Nasrean Mail,True,0x3f,X,X,X,X,X,X,50,12,920,17,Defense,66,18,MagDef,66,33,Red,-2,-1,None,0
+94,Ceramic Armor,True,0x25,X,,,X,,X,50,13,1040,17,Defense,73,18,MagDef,62,-1,None,0,-1,None,0
 95,Agile Robe,False,0xa,,,X,,X,,50,14,930,17,Defense,65,18,MagDef,65,19,Hit%,10,20,Dodge%,5
 96,Miner's Overalls,Undefined,0x27,X,,,X,X,X,25,18,910,17,Defense,87,18,MagDef,80,-1,None,0,-1,None,0
 97,Fiber Robe,Undefined,0x1a,,X,X,,X,,50,19,1040,17,Defense,77,18,MagDef,90,-1,None,0,-1,None,0
@@ -41,18 +41,18 @@ Entry ID,[Entry name],[Finalized],Chara. flags,[V],[A],[F],[D],[E],[G],Retail pr
 119,Berzerker Mail,False,0x27,X,,,X,X,X,50,56,4020,17,Defense,140,18,MagDef,140,16,Attack,20,19,Hit%,20
 120,Light Dress,False,0x18,,X,X,,,,75,57,940,17,Defense,70,18,MagDef,70,20,Dodge%,30,4,Quick,30
 121,Focus Robe,False,0x18,,X,X,,,,75,58,970,17,Defense,70,18,MagDef,70,1,Will,100,-1,None,0
-122,Nasr Combat Mail,Undefined,0x3f,X,X,X,X,X,X,100,15,320,17,Defense,66,18,MagDef,66,16,Attack,5,1,Will,5
+122,Nasr Combat Mail,True,0x3f,X,X,X,X,X,X,100,15,320,17,Defense,66,18,MagDef,66,16,Attack,5,1,Will,5
 123,De Loco Armor,False,0x25,X,,,X,,X,100,50,2420,17,Defense,172,18,MagDef,147,-1,None,0,-1,None,0
 124,Maiden's Armor,False,0x18,,X,X,,,,100,28,840,17,Defense,103,18,MagDef,112,-1,None,0,-1,None,0
 125,Heavy Armor,Undefined,0x27,X,,,X,X,X,100,10,230,17,Defense,58,18,MagDef,53,-1,None,0,-1,None,0
-126,Ancient Robe,Undefined,0x1a,,X,X,,X,,100,17,370,17,Defense,69,18,MagDef,82,-1,None,0,-1,None,0
+126,Ancient Robe,True,0x1a,,X,X,,X,,100,17,370,17,Defense,69,18,MagDef,82,-1,None,0,-1,None,0
 127,De Loco Mail,False,0x25,X,,,X,,X,100,21,730,17,Defense,99,18,MagDef,84,-1,None,0,-1,None,0
 128,Daccat's Armor,False,0x35,X,X,,X,,X,100,29,910,17,Defense,108,18,MagDef,108,-1,None,0,-1,None,0
 129,Moss Armor,False,0xa,,,X,,X,,100,38,1280,17,Defense,126,18,MagDef,126,19,Hit%,20,20,Dodge%,10
 130,Moonlight Robe,False,0x18,,X,X,,,,100,43,4460,17,Defense,134,18,MagDef,145,20,Dodge%,20,-1,None,0
 131,Silver Armor,False,0x3f,X,X,X,X,X,X,100,51,8580,17,Defense,160,18,MagDef,160,37,Silver,-2,-1,None,0
 132,Victory Mail,Undefined,0x3f,X,X,X,X,X,X,100,22,620,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5
-133,Flame Mantle,Undefined,0x27,X,,,X,X,X,100,16,390,17,Defense,74,18,MagDef,69,-1,None,0,-1,None,0
+133,Flame Mantle,True,0x27,X,,,X,X,X,100,16,390,17,Defense,74,18,MagDef,69,-1,None,0,-1,None,0
 134,Female Armor,Undefined,0x18,,X,X,,,,100,23,660,17,Defense,92,18,MagDef,99,-1,None,0,-1,None,0
 135,Ghost Mail,False,0x35,X,X,,X,,X,100,37,1310,17,Defense,128,18,MagDef,128,-1,None,0,-1,None,0
 136,Light Coat,Undefined,0xa,,,X,,X,,100,30,830,17,Defense,103,18,MagDef,103,19,Hit%,10,20,Dodge%,5

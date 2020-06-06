@@ -21,14 +21,14 @@ Entry ID,US entry name,Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Or
 179,Ancient Bracer,0x35,X,X,"",X,"",X,100,20,0,0,10,16,Attack,0,20,17,Defense,0,20,19,Hit%,0,20,20,Dodge%,0,10,0x2cae88,88,"A bracer used by ancient gladiators. Improves\nAttack Power, Defense, Hit% and Dodge%."
 180,Counter Bracer,0x35,X,X,"",X,"",X,100,21,10,0,10,73,Counter%,0,20,16,Attack,0,20,19,Hit%,0,20,-1,None,0,0,0x2caee0,92,"Improves physical attributes slightly, as well\nas Counterattacking, Attack Power and Hit%."
 181,Defensive Aura,0x18,"",X,X,"","","",100,22,15,0,10,65,Block attack,0,1,77,Recover spirit,0,-1,54,Fatigue,0,-10,-1,None,0,0,0x2caf3c,84,"Renders the wearer invulnerable to normal\nAttacks, but uses a little Spirit.    "
-182,Ivy Band,0x3f,X,X,X,X,X,X,100,23,28,0,100,48,Poison,0,-3,32,Green,0,-2,17,Defense,0,5,18,MagDef,0,5,0x2caf90,88,"Boosts Defense & Magic Defense, especially to\nGreen Magic, & protects against Poison."
-183,Silvite Ring,0x3f,X,X,X,X,X,X,100,30,47,0,100,49,Unconscious,0,-3,37,Silver,0,-2,17,Defense,0,5,18,MagDef,0,5,0x2cafe8,88,"Boosts Defense & Magic Defense, especially to\nSilver Magic, & protects against Death."
-184,Gem of Fluidity,0x3f,X,X,X,X,X,X,100,29,21,0,100,50,Stone,0,-3,17,Defense,0,10,18,MagDef,0,10,-1,None,0,0,0x2cb040,60,"Boosts Defense & Magic Defense, & protects\nagainst Stone."
-185,Wind Gem Ring,0x3f,X,X,X,X,X,X,100,24,62,0,100,51,Sleep,0,-3,35,Blue,0,-2,17,Defense,0,5,18,MagDef,0,5,0x2cb07c,84,"Boosts Defense & Magic Defense, especially to\nBlue Magic, & protects against Sleep."
-186,Eye of Truth,0x3f,X,X,X,X,X,X,100,25,18,0,100,52,Confuse,0,-3,34,Purple,0,-2,17,Defense,0,5,18,MagDef,0,5,0x2cb0d0,92,"Boosts Defense & Magic Defense, especially to\nPurple Magic, & protects against Confusion."
-187,Revered Voice,0x3f,X,X,X,X,X,X,100,26,42,0,100,53,Silence,0,-3,34,Purple,0,-2,17,Defense,0,5,18,MagDef,0,5,0x2cb12c,88,"Boosts Defense & Magic Defense, especially to\nPurple Magic, & protects against Silence."
-188,Everlasting Gem,0x3f,X,X,X,X,X,X,100,28,17,0,100,54,Fatigue,0,-3,17,Defense,0,10,18,MagDef,0,10,-1,None,0,0,0x2cb184,64,"Boosts Defense & Magic Defense, & protects\nagainst Fatigue. "
-189,Behemoth's Ring,0x3f,X,X,X,X,X,X,100,27,2,0,100,56,Weak,0,-3,36,Yellow,0,-2,17,Defense,0,5,18,MagDef,0,5,0x2cb1c4,88,"Boosts Defense & Magic Defense, especially to\nYellow Magic, & protects against Weak."
+182,Ivy Band,0x3f,X,X,X,X,X,X,100,23,28,0,100,48,Poison,0,-2,32,Green,0,-2,17,Defense,0,10,18,MagDef,0,10,0x2caf90,88,"Boosts Defense & Magic Defense, especially to\nGreen Magic, & protects against Poison."
+183,Silvite Ring,0x3f,X,X,X,X,X,X,100,30,47,0,100,49,Unconscious,0,-2,37,Silver,0,-2,17,Defense,0,10,18,MagDef,0,10,0x2cafe8,88,"Boosts Defense & Magic Defense, especially to\nSilver Magic, & protects against Death."
+184,Gem of Fluidity,0x3f,X,X,X,X,X,X,100,29,21,0,100,50,Stone,0,-2,17,Defense,0,10,18,MagDef,0,10,-1,None,0,0,0x2cb040,60,"Boosts Defense & Magic Defense, & protects\nagainst Stone."
+185,Wind Gem Ring,0x3f,X,X,X,X,X,X,100,24,62,0,100,51,Sleep,0,-2,35,Blue,0,-2,17,Defense,0,10,18,MagDef,0,10,0x2cb07c,84,"Boosts Defense & Magic Defense, especially to\nBlue Magic, & protects against Sleep."
+186,Eye of Truth,0x3f,X,X,X,X,X,X,100,25,18,0,100,52,Confuse,0,-2,34,Purple,0,-2,17,Defense,0,10,18,MagDef,0,10,0x2cb0d0,92,"Boosts Defense & Magic Defense, especially to\nPurple Magic, & protects against Confusion."
+187,Revered Voice,0x3f,X,X,X,X,X,X,100,26,42,0,100,53,Silence,0,-2,34,Purple,0,-2,17,Defense,0,10,18,MagDef,0,10,0x2cb12c,88,"Boosts Defense & Magic Defense, especially to\nPurple Magic, & protects against Silence."
+188,Everlasting Gem,0x3f,X,X,X,X,X,X,100,28,17,0,100,54,Fatigue,0,-2,17,Defense,0,10,18,MagDef,0,10,-1,None,0,0,0x2cb184,64,"Boosts Defense & Magic Defense, & protects\nagainst Fatigue. "
+189,Behemoth's Ring,0x3f,X,X,X,X,X,X,100,27,2,0,100,56,Weak,0,-2,36,Yellow,0,-2,17,Defense,0,10,18,MagDef,0,10,0x2cb1c4,88,"Boosts Defense & Magic Defense, especially to\nYellow Magic, & protects against Weak."
 190,Constitution Gem,0x5,"","","",X,"",X,100,31,9,0,1000,79,Block negative states,0,-3,17,Defense,0,10,18,MagDef,0,10,-1,None,0,0,0x2cb21c,92,"A miraculous stone that prevents all adverse\neffects, and boosts Defense & Magic Defense."
 191,Nomadic Veil,0x3f,X,X,X,X,X,X,50,34,37,0,640,17,Defense,0,15,18,MagDef,0,15,-1,None,0,0,-1,None,0,0,0x2cb278,80,A veil worn by tribes of nomads in Nasr.\nImproves Defense and Magic Defense.
 192,Radiant Fur,0x3f,X,X,X,X,X,X,50,39,41,0,3580,17,Defense,0,24,18,MagDef,0,24,-1,None,0,0,-1,None,0,0,0x2cb2c8,96,"A thick fur, designed to protect sailors from \nthe cold. Improves Defense and Magic Defense."
@@ -59,7 +59,7 @@ Entry ID,US entry name,Chara. flags,[V],[A],[F],[D],[E],[G],Retail price in %,Or
 217,Gilder's Amulet,0x31,X,X,"","","",X,100,54,24,0,500,17,Defense,0,11,18,MagDef,0,11,16,Attack,0,11,1,Will,0,11,0x2cbacc,84,"Worn around Gilder's neck. Improves Defense,\nMagic Defense, Attack Power, and Will."
 218,Valuan Medallion,0x3f,X,X,X,X,X,X,100,60,57,0,5000,49,Unconscious,0,-3,17,Defense,0,30,18,MagDef,0,30,-1,None,0,0,0x2cbb20,76,Enchanted medallion worn by officers in the\nArmada. Negates Eterni spells.
 219,Immunity Ring,0x5,"","","",X,"",X,50,50,26,0,1490,79,Block negative states,0,-2,17,Defense,0,21,-1,None,0,0,-1,None,0,0,0x2cbb6c,64,Sacred Ring. Boosts Defense and Resistance to\nadverse effects.
-220,Thermo Ring,0x3f,X,X,X,X,X,X,50,58,53,0,200,33,Red,0,-1,34,Purple,0,-1,-1,None,0,0,-1,None,0,0,0x2cbbac,64,A ring that increases resistance to Red and \nPurple Attacks.
+220,Thermo Ring,0x3f,X,X,X,X,X,X,50,58,53,0,700,33,Red,0,-1,34,Purple,0,-1,1,Will,0,15,18,MagDef,0,15,0x2cbbac,64,A ring that increases resistance to Red and \nPurple Attacks.
 221,Slayer Ring,0x3f,X,X,X,X,X,X,50,59,50,0,600,1,Will,0,8,17,Defense,0,8,19,Hit%,0,10,4,Quick,0,8,0x2cbbec,68,"Raises Defense, Hit%, Will, and Quick.\nIts background is unknown."
 222,Chance Ring,0x3f,X,X,X,X,X,X,100,32,8,0,1000,79,Block negative states,0,90,17,Defense,0,45,18,MagDef,0,45,-1,None,0,0,0x2cbc30,88,"Boosts Defense and Magic Defense, but leaves\nthe wearer susceptible to adverse effects."
 223,ダミーアクセサリ,0x0,"","","","","","",0,63,63,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x0,0,""

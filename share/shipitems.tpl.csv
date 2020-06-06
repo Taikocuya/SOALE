@@ -1,5 +1,5 @@
 Entry ID,[Entry name],[Finalized],Occ. flags,[M],[B],[S],Ship effect ID,[Ship effect name],Ship effect turns,Consume%,Purchase price,Retail price in %,Ship effect amount,Element ID,[Element name],Unk. #0,Unk. #1,Hit%
-480,Bomb,Undefined,1,,,X,107,Damage (Ship),-1,100,300,50,90,6,Neutral,0,0,0
+480,Bomb,True,1,,,X,107,Damage (Ship),-1,100,300,50,90,6,Neutral,0,0,0
 481,Big Bomb,Undefined,1,,,X,107,Damage (Ship),-1,100,500,50,140,6,Neutral,0,0,0
 482,Concussion Bomb,False,1,,,X,107,Damage (Ship),-1,100,700,50,190,6,Neutral,0,0,0
 483,Shredder Bomb,False,1,,,X,107,Damage (Ship),-1,100,1000,50,240,6,Neutral,0,0,0

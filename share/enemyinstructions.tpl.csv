@@ -151,26 +151,26 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 26,*,12,Varkris,Undefined,1,Action,62,Call Allies,-1,None
 27,*,12,Varkris,Undefined,1,Action,107,Call Allies,-1,None
 28,*,12,Varkris,Undefined,1,Action,552,Run,-1,None
-1,*,13,Azbeth,Undefined,0,Strategy,44,???,3,???
-2,*,13,Azbeth,Undefined,0,Strategy,30,???,4,???
-3,*,13,Azbeth,Undefined,0,Strategy,27,???,15,???
-4,*,13,Azbeth,Undefined,0,Strategy,25,???,13,???
-5,*,13,Azbeth,Undefined,0,Strategy,24,???,8,???
-6,*,13,Azbeth,Undefined,0,Strategy,27,???,11,???
-7,*,13,Azbeth,Undefined,0,Strategy,30,???,14,???
-8,*,13,Azbeth,Undefined,0,Strategy,25,???,16,???
-9,*,13,Azbeth,Undefined,0,Strategy,24,???,17,???
-10,*,13,Azbeth,Undefined,0,Strategy,30,???,18,???
-11,*,13,Azbeth,Undefined,0,Strategy,35,???,20,???
-12,*,13,Azbeth,Undefined,0,Strategy,30,???,19,???
-13,*,13,Azbeth,Undefined,1,Action,550,Attack,2,Random character
-14,*,13,Azbeth,Undefined,1,Action,551,Guard,-1,None
-15,*,13,Azbeth,Undefined,1,Action,552,Run,-1,None
-16,*,13,Azbeth,Undefined,1,Action,200,Call Allies,-1,None
-17,*,13,Azbeth,Undefined,1,Action,201,Call Allies,-1,None
-18,*,13,Azbeth,Undefined,1,Action,108,Call Allies,-1,None
-19,*,13,Azbeth,Undefined,1,Action,517,Eterni,2,Random character
-20,*,13,Azbeth,Undefined,1,Action,100,Magic?,-1,None
+1,*,13,Azbeth,True,0,Strategy,44,???,3,???
+2,*,13,Azbeth,True,0,Strategy,30,???,4,???
+3,*,13,Azbeth,True,0,Strategy,27,???,15,???
+4,*,13,Azbeth,True,0,Strategy,25,???,13,???
+5,*,13,Azbeth,True,0,Strategy,24,???,8,???
+6,*,13,Azbeth,True,0,Strategy,27,???,11,???
+7,*,13,Azbeth,True,0,Strategy,30,???,14,???
+8,*,13,Azbeth,True,0,Strategy,25,???,16,???
+9,*,13,Azbeth,True,0,Strategy,24,???,17,???
+10,*,13,Azbeth,True,0,Strategy,30,???,18,???
+11,*,13,Azbeth,True,0,Strategy,35,???,20,???
+12,*,13,Azbeth,True,0,Strategy,30,???,19,???
+13,*,13,Azbeth,True,1,Action,550,Attack,2,Random character
+14,*,13,Azbeth,True,1,Action,551,Guard,-1,None
+15,*,13,Azbeth,True,1,Action,552,Run,-1,None
+16,*,13,Azbeth,True,1,Action,200,Call Allies,-1,None
+17,*,13,Azbeth,True,1,Action,201,Call Allies,-1,None
+18,*,13,Azbeth,True,1,Action,108,Call Allies,-1,None
+19,*,13,Azbeth,True,1,Action,517,Eterni,2,Random character
+20,*,13,Azbeth,True,1,Action,100,Magic?,-1,None
 1,*,14,Zivilyn Bane,Undefined,0,Strategy,11,???,4,???
 2,*,14,Zivilyn Bane,Undefined,0,Strategy,12,???,6,???
 3,*,14,Zivilyn Bane,Undefined,0,Strategy,30,???,8,???
@@ -329,29 +329,29 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 13,*,23,Crylhound,True,1,Action,552,Run,-1,None
 14,*,23,Crylhound,True,1,Action,513,Quika,-1,None
 15,*,23,Crylhound,True,1,Action,551,Guard,-1,None
-1,*,24,Magma Tiki,Undefined,0,Strategy,41,???,9,???
-2,*,24,Magma Tiki,Undefined,0,Strategy,2,???,7,???
-3,*,24,Magma Tiki,Undefined,0,Strategy,5,???,8,???
-4,*,24,Magma Tiki,Undefined,0,Strategy,1,???,8,???
-5,*,24,Magma Tiki,Undefined,0,Strategy,24,???,8,???
-6,*,24,Magma Tiki,Undefined,0,Strategy,21,???,10,???
-7,*,24,Magma Tiki,Undefined,1,Action,550,Attack,1,Common character
-8,*,24,Magma Tiki,Undefined,1,Action,47,Tremble,-1,None
-9,*,24,Magma Tiki,Undefined,1,Action,180,Lava Storm,-1,None
-10,*,24,Magma Tiki,Undefined,1,Action,551,Guard,-1,None
-1,*,25,Salamander,Undefined,0,Strategy,33,???,5,???
-2,*,25,Salamander,Undefined,0,Strategy,28,???,9,???
-3,*,25,Salamander,Undefined,0,Strategy,25,???,10,???
-4,*,25,Salamander,Undefined,0,Strategy,30,???,13,???
-5,*,25,Salamander,Undefined,0,Strategy,26,???,9,???
-6,*,25,Salamander,Undefined,0,Strategy,25,???,11,???
-7,*,25,Salamander,Undefined,0,Strategy,25,???,13,???
-8,*,25,Salamander,Undefined,0,Strategy,30,???,12,???
-9,*,25,Salamander,Undefined,1,Action,550,Attack,2,Random character
-10,*,25,Salamander,Undefined,1,Action,523,Pyri,-1,None
-11,*,25,Salamander,Undefined,1,Action,100,Magic?,-1,None
-12,*,25,Salamander,Undefined,1,Action,552,Run,-1,None
-13,*,25,Salamander,Undefined,1,Action,551,Guard,-1,None
+1,*,24,Magma Tiki,True,0,Strategy,41,???,9,???
+2,*,24,Magma Tiki,True,0,Strategy,2,???,7,???
+3,*,24,Magma Tiki,True,0,Strategy,5,???,8,???
+4,*,24,Magma Tiki,True,0,Strategy,1,???,8,???
+5,*,24,Magma Tiki,True,0,Strategy,24,???,8,???
+6,*,24,Magma Tiki,True,0,Strategy,21,???,10,???
+7,*,24,Magma Tiki,True,1,Action,550,Attack,1,Common character
+8,*,24,Magma Tiki,True,1,Action,47,Tremble,-1,None
+9,*,24,Magma Tiki,True,1,Action,180,Lava Storm,-1,None
+10,*,24,Magma Tiki,True,1,Action,551,Guard,-1,None
+1,*,25,Salamander,True,0,Strategy,33,???,5,???
+2,*,25,Salamander,True,0,Strategy,28,???,9,???
+3,*,25,Salamander,True,0,Strategy,25,???,10,???
+4,*,25,Salamander,True,0,Strategy,30,???,13,???
+5,*,25,Salamander,True,0,Strategy,26,???,9,???
+6,*,25,Salamander,True,0,Strategy,25,???,11,???
+7,*,25,Salamander,True,0,Strategy,25,???,13,???
+8,*,25,Salamander,True,0,Strategy,30,???,12,???
+9,*,25,Salamander,True,1,Action,550,Attack,2,Random character
+10,*,25,Salamander,True,1,Action,523,Pyri,-1,None
+11,*,25,Salamander,True,1,Action,100,Magic?,-1,None
+12,*,25,Salamander,True,1,Action,552,Run,-1,None
+13,*,25,Salamander,True,1,Action,551,Guard,-1,None
 1,*,26,Baroo,False,0,Strategy,44,???,3,???
 2,*,26,Baroo,False,0,Strategy,30,???,4,???
 3,*,26,Baroo,False,0,Strategy,29,???,16,???
@@ -368,36 +368,36 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 14,*,26,Baroo,False,1,Action,550,Attack,1,Common character
 15,*,26,Baroo,False,1,Action,551,Guard,-1,None
 16,*,26,Baroo,False,1,Action,552,Run,-1,None
-1,*,27,Dung Fly,Undefined,0,Strategy,17,???,15,???
-2,*,27,Dung Fly,Undefined,0,Strategy,36,???,10,???
-3,*,27,Dung Fly,Undefined,0,Strategy,22,???,19,???
-4,*,27,Dung Fly,Undefined,0,Strategy,23,???,20,???
-5,*,27,Dung Fly,Undefined,0,Strategy,24,???,18,???
-6,*,27,Dung Fly,Undefined,0,Strategy,24,???,21,???
-7,*,27,Dung Fly,Undefined,0,Strategy,24,???,22,???
-8,*,27,Dung Fly,Undefined,0,Strategy,25,???,23,???
-9,*,27,Dung Fly,Undefined,0,Strategy,30,???,24,???
-10,*,27,Dung Fly,Undefined,0,Strategy,25,???,18,???
-11,*,27,Dung Fly,Undefined,0,Strategy,24,???,21,???
-12,*,27,Dung Fly,Undefined,0,Strategy,26,???,22,???
-13,*,27,Dung Fly,Undefined,0,Strategy,25,???,23,???
-14,*,27,Dung Fly,Undefined,0,Strategy,30,???,24,???
-15,*,27,Dung Fly,Undefined,0,Strategy,24,???,21,???
-16,*,27,Dung Fly,Undefined,0,Strategy,25,???,22,???
-17,*,27,Dung Fly,Undefined,0,Strategy,30,???,23,???
-18,*,27,Dung Fly,Undefined,1,Action,550,Attack,2,Random character
-19,*,27,Dung Fly,Undefined,1,Action,504,Driln,17,Character without Weak
-20,*,27,Dung Fly,Undefined,1,Action,512,Slipara,16,Character without Sleep
-21,*,27,Dung Fly,Undefined,1,Action,28,Call Allies,-1,None
-22,*,27,Dung Fly,Undefined,1,Action,110,Call Allies,-1,None
-23,*,27,Dung Fly,Undefined,1,Action,552,Run,-1,None
-24,*,27,Dung Fly,Undefined,1,Action,551,Guard,-1,None
-1,*,28,Death's Head,Undefined,0,Strategy,26,???,4,???
-2,*,28,Death's Head,Undefined,0,Strategy,28,???,5,???
-3,*,28,Death's Head,Undefined,0,Strategy,30,???,6,???
-4,*,28,Death's Head,Undefined,1,Action,550,Attack,1,Common character
-5,*,28,Death's Head,Undefined,1,Action,15,Stone Breath,13,Character without Stone
-6,*,28,Death's Head,Undefined,1,Action,551,Guard,-1,None
+1,*,27,Dung Fly,True,0,Strategy,17,???,15,???
+2,*,27,Dung Fly,True,0,Strategy,36,???,10,???
+3,*,27,Dung Fly,True,0,Strategy,22,???,19,???
+4,*,27,Dung Fly,True,0,Strategy,23,???,20,???
+5,*,27,Dung Fly,True,0,Strategy,24,???,18,???
+6,*,27,Dung Fly,True,0,Strategy,24,???,21,???
+7,*,27,Dung Fly,True,0,Strategy,24,???,22,???
+8,*,27,Dung Fly,True,0,Strategy,25,???,23,???
+9,*,27,Dung Fly,True,0,Strategy,30,???,24,???
+10,*,27,Dung Fly,True,0,Strategy,25,???,18,???
+11,*,27,Dung Fly,True,0,Strategy,24,???,21,???
+12,*,27,Dung Fly,True,0,Strategy,26,???,22,???
+13,*,27,Dung Fly,True,0,Strategy,25,???,23,???
+14,*,27,Dung Fly,True,0,Strategy,30,???,24,???
+15,*,27,Dung Fly,True,0,Strategy,24,???,21,???
+16,*,27,Dung Fly,True,0,Strategy,25,???,22,???
+17,*,27,Dung Fly,True,0,Strategy,30,???,23,???
+18,*,27,Dung Fly,True,1,Action,550,Attack,2,Random character
+19,*,27,Dung Fly,True,1,Action,504,Driln,17,Character without Weak
+20,*,27,Dung Fly,True,1,Action,512,Slipara,16,Character without Sleep
+21,*,27,Dung Fly,True,1,Action,28,Call Allies,-1,None
+22,*,27,Dung Fly,True,1,Action,110,Call Allies,-1,None
+23,*,27,Dung Fly,True,1,Action,552,Run,-1,None
+24,*,27,Dung Fly,True,1,Action,551,Guard,-1,None
+1,*,28,Death's Head,True,0,Strategy,26,???,4,???
+2,*,28,Death's Head,True,0,Strategy,28,???,5,???
+3,*,28,Death's Head,True,0,Strategy,30,???,6,???
+4,*,28,Death's Head,True,1,Action,550,Attack,1,Common character
+5,*,28,Death's Head,True,1,Action,15,Stone Breath,13,Character without Stone
+6,*,28,Death's Head,True,1,Action,551,Guard,-1,None
 1,*,29,Looper,True,0,Strategy,1,???,9,???
 2,*,29,Looper,True,0,Strategy,25,???,9,???
 3,*,29,Looper,True,0,Strategy,24,???,7,???
@@ -409,19 +409,19 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 9,*,29,Looper,True,1,Action,552,Run,-1,None
 10,*,29,Looper,True,1,Action,523,Pyri,-1,None
 11,*,29,Looper,True,1,Action,100,Magic?,-1,None
-1,*,30,Loopalon,Undefined,0,Strategy,1,???,11,???
-2,*,30,Loopalon,Undefined,0,Strategy,25,???,11,???
-3,*,30,Loopalon,Undefined,0,Strategy,11,???,5,???
-4,*,30,Loopalon,Undefined,0,Strategy,30,???,6,???
-5,*,30,Loopalon,Undefined,0,Strategy,25,???,12,???
-6,*,30,Loopalon,Undefined,0,Strategy,25,???,9,???
-7,*,30,Loopalon,Undefined,0,Strategy,25,???,10,???
-8,*,30,Loopalon,Undefined,0,Strategy,30,???,13,???
-9,*,30,Loopalon,Undefined,1,Action,550,Attack,2,Random character
-10,*,30,Loopalon,Undefined,1,Action,551,Guard,-1,None
-11,*,30,Loopalon,Undefined,1,Action,552,Run,-1,None
-12,*,30,Loopalon,Undefined,1,Action,500,Increm,11,Enemy without Strengthen
-13,*,30,Loopalon,Undefined,1,Action,100,Magic?,-1,None
+1,*,30,Loopalon,True,0,Strategy,1,???,11,???
+2,*,30,Loopalon,True,0,Strategy,25,???,11,???
+3,*,30,Loopalon,True,0,Strategy,11,???,5,???
+4,*,30,Loopalon,True,0,Strategy,30,???,6,???
+5,*,30,Loopalon,True,0,Strategy,25,???,12,???
+6,*,30,Loopalon,True,0,Strategy,25,???,9,???
+7,*,30,Loopalon,True,0,Strategy,25,???,10,???
+8,*,30,Loopalon,True,0,Strategy,30,???,13,???
+9,*,30,Loopalon,True,1,Action,550,Attack,2,Random character
+10,*,30,Loopalon,True,1,Action,551,Guard,-1,None
+11,*,30,Loopalon,True,1,Action,552,Run,-1,None
+12,*,30,Loopalon,True,1,Action,500,Increm,11,Enemy without Strengthen
+13,*,30,Loopalon,True,1,Action,100,Magic?,-1,None
 1,*,31,Tsurak,False,0,Strategy,44,???,3,???
 2,*,31,Tsurak,False,0,Strategy,30,???,4,???
 3,*,31,Tsurak,False,0,Strategy,28,???,16,???
@@ -1305,30 +1305,30 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 15,*,92,Langry,Undefined,1,Action,98,Call Allies,-1,None
 16,*,92,Langry,Undefined,1,Action,552,Run,-1,None
 17,*,92,Langry,Undefined,1,Action,551,Guard,-1,None
-1,*,93,Durel Beetle,Undefined,0,Strategy,17,???,15,???
-2,*,93,Durel Beetle,Undefined,0,Strategy,36,???,10,???
-3,*,93,Durel Beetle,Undefined,0,Strategy,22,???,19,???
-4,*,93,Durel Beetle,Undefined,0,Strategy,23,???,20,???
-5,*,93,Durel Beetle,Undefined,0,Strategy,24,???,18,???
-6,*,93,Durel Beetle,Undefined,0,Strategy,24,???,21,???
-7,*,93,Durel Beetle,Undefined,0,Strategy,24,???,22,???
-8,*,93,Durel Beetle,Undefined,0,Strategy,25,???,23,???
-9,*,93,Durel Beetle,Undefined,0,Strategy,30,???,24,???
-10,*,93,Durel Beetle,Undefined,0,Strategy,25,???,18,???
-11,*,93,Durel Beetle,Undefined,0,Strategy,24,???,21,???
-12,*,93,Durel Beetle,Undefined,0,Strategy,26,???,22,???
-13,*,93,Durel Beetle,Undefined,0,Strategy,25,???,23,???
-14,*,93,Durel Beetle,Undefined,0,Strategy,30,???,24,???
-15,*,93,Durel Beetle,Undefined,0,Strategy,24,???,21,???
-16,*,93,Durel Beetle,Undefined,0,Strategy,25,???,22,???
-17,*,93,Durel Beetle,Undefined,0,Strategy,30,???,23,???
-18,*,93,Durel Beetle,Undefined,1,Action,550,Attack,2,Random character
-19,*,93,Durel Beetle,Undefined,1,Action,504,Driln,17,Character without Weak
-20,*,93,Durel Beetle,Undefined,1,Action,512,Slipara,16,Character without Sleep
-21,*,93,Durel Beetle,Undefined,1,Action,78,Call Allies,-1,None
-22,*,93,Durel Beetle,Undefined,1,Action,111,Call Allies,-1,None
-23,*,93,Durel Beetle,Undefined,1,Action,552,Run,-1,None
-24,*,93,Durel Beetle,Undefined,1,Action,551,Guard,-1,None
+1,*,93,Durel Beetle,True,0,Strategy,17,???,15,???
+2,*,93,Durel Beetle,True,0,Strategy,36,???,10,???
+3,*,93,Durel Beetle,True,0,Strategy,22,???,19,???
+4,*,93,Durel Beetle,True,0,Strategy,23,???,20,???
+5,*,93,Durel Beetle,True,0,Strategy,24,???,18,???
+6,*,93,Durel Beetle,True,0,Strategy,24,???,21,???
+7,*,93,Durel Beetle,True,0,Strategy,24,???,22,???
+8,*,93,Durel Beetle,True,0,Strategy,25,???,23,???
+9,*,93,Durel Beetle,True,0,Strategy,30,???,24,???
+10,*,93,Durel Beetle,True,0,Strategy,25,???,18,???
+11,*,93,Durel Beetle,True,0,Strategy,24,???,21,???
+12,*,93,Durel Beetle,True,0,Strategy,26,???,22,???
+13,*,93,Durel Beetle,True,0,Strategy,25,???,23,???
+14,*,93,Durel Beetle,True,0,Strategy,30,???,24,???
+15,*,93,Durel Beetle,True,0,Strategy,24,???,21,???
+16,*,93,Durel Beetle,True,0,Strategy,25,???,22,???
+17,*,93,Durel Beetle,True,0,Strategy,30,???,23,???
+18,*,93,Durel Beetle,True,1,Action,550,Attack,2,Random character
+19,*,93,Durel Beetle,True,1,Action,504,Driln,17,Character without Weak
+20,*,93,Durel Beetle,True,1,Action,512,Slipara,16,Character without Sleep
+21,*,93,Durel Beetle,True,1,Action,78,Call Allies,-1,None
+22,*,93,Durel Beetle,True,1,Action,111,Call Allies,-1,None
+23,*,93,Durel Beetle,True,1,Action,552,Run,-1,None
+24,*,93,Durel Beetle,True,1,Action,551,Guard,-1,None
 1,*,94,Totelm,Undefined,0,Strategy,11,???,5,???
 2,*,94,Totelm,Undefined,0,Strategy,28,???,7,???
 3,*,94,Totelm,Undefined,0,Strategy,25,???,8,???
@@ -1353,16 +1353,16 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 13,*,95,Thryllak,False,1,Action,552,Run,-1,None
 14,*,95,Thryllak,False,1,Action,20,Gather Strength,-1,None
 15,*,95,Thryllak,False,1,Action,170,Needle Storm,2,Random character
-1,*,96,Stonebeak,Undefined,0,Strategy,44,???,3,???
-2,*,96,Stonebeak,Undefined,0,Strategy,30,???,4,???
-3,*,96,Stonebeak,Undefined,0,Strategy,27,???,8,???
-4,*,96,Stonebeak,Undefined,0,Strategy,26,???,7,???
-5,*,96,Stonebeak,Undefined,0,Strategy,28,???,9,???
-6,*,96,Stonebeak,Undefined,0,Strategy,30,???,10,???
-7,*,96,Stonebeak,Undefined,1,Action,550,Attack,2,Random character
-8,*,96,Stonebeak,Undefined,1,Action,552,Run,-1,None
-9,*,96,Stonebeak,Undefined,1,Action,93,Fatigue Breath,2,Random character
-10,*,96,Stonebeak,Undefined,1,Action,551,Guard,-1,None
+1,*,96,Stonebeak,True,0,Strategy,44,???,3,???
+2,*,96,Stonebeak,True,0,Strategy,30,???,4,???
+3,*,96,Stonebeak,True,0,Strategy,27,???,8,???
+4,*,96,Stonebeak,True,0,Strategy,26,???,7,???
+5,*,96,Stonebeak,True,0,Strategy,28,???,9,???
+6,*,96,Stonebeak,True,0,Strategy,30,???,10,???
+7,*,96,Stonebeak,True,1,Action,550,Attack,2,Random character
+8,*,96,Stonebeak,True,1,Action,552,Run,-1,None
+9,*,96,Stonebeak,True,1,Action,93,Fatigue Breath,2,Random character
+10,*,96,Stonebeak,True,1,Action,551,Guard,-1,None
 1,*,97,Razorbeak,False,0,Strategy,44,???,3,???
 2,*,97,Razorbeak,False,0,Strategy,30,???,4,???
 3,*,97,Razorbeak,False,0,Strategy,27,???,8,???
