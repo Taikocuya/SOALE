@@ -171,22 +171,22 @@ Entry ID,[Filter],[Enemy ID],[JP enemy name],[Finalized],Instr. type ID,[Instr. 
 18,*,13,Azbeth,True,1,Action,108,Call Allies,-1,None
 19,*,13,Azbeth,True,1,Action,517,Eterni,2,Random character
 20,*,13,Azbeth,True,1,Action,100,Magic?,-1,None
-1,*,14,Zivilyn Bane,Undefined,0,Strategy,11,???,4,???
-2,*,14,Zivilyn Bane,Undefined,0,Strategy,12,???,6,???
-3,*,14,Zivilyn Bane,Undefined,0,Strategy,30,???,8,???
-4,*,14,Zivilyn Bane,Undefined,0,Strategy,27,???,14,???
-5,*,14,Zivilyn Bane,Undefined,0,Strategy,30,???,15,???
-6,*,14,Zivilyn Bane,Undefined,0,Strategy,50,???,14,???
-7,*,14,Zivilyn Bane,Undefined,0,Strategy,30,???,15,???
-8,*,14,Zivilyn Bane,Undefined,0,Strategy,50,???,11,???
-9,*,14,Zivilyn Bane,Undefined,0,Strategy,23,???,14,???
-10,*,14,Zivilyn Bane,Undefined,0,Strategy,30,???,15,???
-11,*,14,Zivilyn Bane,Undefined,0,Strategy,27,???,14,???
-12,*,14,Zivilyn Bane,Undefined,0,Strategy,26,???,15,???
-13,*,14,Zivilyn Bane,Undefined,0,Strategy,30,???,16,???
-14,*,14,Zivilyn Bane,Undefined,1,Action,550,Attack,4,Character with least HP
-15,*,14,Zivilyn Bane,Undefined,1,Action,22,Burst,2,Random character
-16,*,14,Zivilyn Bane,Undefined,1,Action,551,Guard,-1,None
+1,*,14,Zivilyn Bane,True,0,Strategy,11,???,4,???
+2,*,14,Zivilyn Bane,True,0,Strategy,12,???,6,???
+3,*,14,Zivilyn Bane,True,0,Strategy,30,???,8,???
+4,*,14,Zivilyn Bane,True,0,Strategy,27,???,14,???
+5,*,14,Zivilyn Bane,True,0,Strategy,30,???,15,???
+6,*,14,Zivilyn Bane,True,0,Strategy,50,???,14,???
+7,*,14,Zivilyn Bane,True,0,Strategy,30,???,15,???
+8,*,14,Zivilyn Bane,True,0,Strategy,50,???,11,???
+9,*,14,Zivilyn Bane,True,0,Strategy,23,???,14,???
+10,*,14,Zivilyn Bane,True,0,Strategy,30,???,15,???
+11,*,14,Zivilyn Bane,True,0,Strategy,27,???,14,???
+12,*,14,Zivilyn Bane,True,0,Strategy,26,???,15,???
+13,*,14,Zivilyn Bane,True,0,Strategy,30,???,16,???
+14,*,14,Zivilyn Bane,True,1,Action,550,Attack,4,Character with least HP
+15,*,14,Zivilyn Bane,True,1,Action,22,Burst,2,Random character
+16,*,14,Zivilyn Bane,True,1,Action,551,Guard,-1,None
 1,*,15,Ghastling,True,0,Strategy,44,???,3,???
 2,*,15,Ghastling,True,0,Strategy,30,???,4,???
 3,*,15,Ghastling,True,0,Strategy,28,???,16,???
