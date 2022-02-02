@@ -52,13 +52,14 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 
 ## Element Efficiency
 
-Each attribute affects one another in certain ways, and you will be able to 
-give greater damages by attacking with the attribute which the enemy is more 
-vulnerable with. The effects differ according to the combination of attributes. 
-Also, your party members now have strengths and weaknesses against certain 
-attributes, which must be considered when choosing the right strategy. The 
-chart below indicates the effects of attacking with attributes and defending 
-with party members.
+The elements have been significantly balanced compared to the original game, 
+which opens up new strategic possibilities. Also, your party members now have 
+strengths and weaknesses against certain attributes, which must be considered 
+when choosing the right strategy. Each attribute affects one another in certain 
+ways, and you will be able to give greater damages by attacking with the 
+attribute which the enemy is more vulnerable with. The effects differ according 
+to the combination of attributes. The chart below indicates the effects of 
+attacking with attributes and defending with certain party members.
 
 | Enemy   | Attack With  | Defend As      | Avoid Attacking | Avoid Defending |
 |:-------:|:------------:|:--------------:|:---------------:|:---------------:|
