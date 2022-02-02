@@ -52,14 +52,14 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 
 ## Element Efficiency
 
-| Vulnerable To | Element | Strong Against | Weak Against   |
-|--------------:|:-------:|:---------------|:---------------|
-|  ![][G]![][S] | ![][GE] | ![][B]![][Y]   | ![][R]![][S]   |
-|  ![][P]![][B] | ![][RE] | ![][G]![][P]   | ![][R]![][B]   |
-|  ![][R]![][Y] | ![][PE] | ![][R]![][B]   | ![][P]![][Y]   |
-|  ![][G]![][P] | ![][BE] | ![][R]![][S]   | ![][G]![][P]   |
-|  ![][G]![][S] | ![][YE] | ![][P]![][S]   | ![][G]![][Y]   |
-|  ![][B]![][Y] | ![][SE] | ![][G]![][Y]   | ![][B]![][S]   |
+| Enemy Is | Attack With  | Avoid Attacking With |
+|:---------|:-------------|:---------------------|
+| ![][GE]  | ![][B]![][Y] | ![][R]![][S]         |
+| ![][RE]  | ![][G]![][P] | ![][R]![][B]         |
+| ![][PE]  | ![][R]![][B] | ![][P]![][Y]         |
+| ![][BE]  | ![][R]![][S] | ![][G]![][P]         |
+| ![][YE]  | ![][P]![][S] | ![][G]![][Y]         |
+| ![][SE]  | ![][G]![][Y] | ![][B]![][S]         |
 
 [G]: doc/greenstone.png
 [R]: doc/redstone.png
