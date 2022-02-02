@@ -14,98 +14,110 @@ Thumbs.db
 # LibreOffice
 .~lock.*#
 
-# SOALE directories
+# ALX directories
+/bin/
 /build/
-/share/**/*.[Bb][Ii][Nn]
-/share/**/*.ect
-/share/**/*.dsp
-/share/**/*.gvr
-/share/**/*.ldr
-/share/**/*.info
-/share/**/*.mld
-/share/**/*.mlk
-/share/**/*.mll
-/share/**/*.samp
-/share/**/*.sml
-/share/**/*.sct
-/share/**/*.sst
-/share/**/*.std
-/share/**/FontData.EU
-/share/**/FontData.jp
-/share/**/FontData.US
-/share/*/archive/
-/share/*/snapshot
-/thirdparty/
-/tools/
+/config/
+/lib/
+/log/
+/misc/
+/temp/
+/tool/
+/vendor/
+
+# SOALE directories
+/dist/**/*.[Bb][Ii][Nn]
+/dist/**/*.ect
+/dist/**/*.dsp
+/dist/**/*.gvr
+/dist/**/*.ldr
+/dist/**/*.info
+/dist/**/*.mld
+/dist/**/*.mlk
+/dist/**/*.mll
+/dist/**/*.samp
+/dist/**/*.sml
+/dist/**/*.sct
+/dist/**/*.sst
+/dist/**/*.std
+/dist/**/FontData.EU
+/dist/**/FontData.jp
+/dist/**/FontData.US
+/dist/*/backup/
+/dist/*/cache/
+/dist/*/data/scripttask.bak/
+/dist/*/image/
 
 # SOALE files
-!/share/**/field/a299a02.mld
-!/share/**/sound/m0[1234]_[lr].dsp
-!/share/**/sound/m0367.info
-!/share/**/title/ts900000.mld
-!/share/**/title/ts900000f.mld
-!/share/**/title/ts900000g.mld
-!/share/**/title/ts900000s.mld
+!/dist/**/field/a299a02.mld
+!/dist/**/sound/m0367.info
+!/dist/**/title/ts900000.mld
+!/dist/**/title/ts900000f.mld
+!/dist/**/title/ts900000g.mld
+!/dist/**/title/ts900000s.mld
 
-# Enemy 165 (Spell Warden)
-!/share/**/bchara/mg037.mld
-!/share/**/bchara/mg037.std
-!/share/**/bchara/mg0370.std
-!/share/**/beff/f05000a5.mlk
+# Magic Droplet at New Game
+!/dist/**/field/me201a.sct
 
 # Enemy 166 (Spell Warden)
-!/share/**/bchara/mg038.mld
-!/share/**/bchara/mg038.std
-!/share/**/bchara/mg0380.std
-!/share/**/beff/f05000a6.mlk
+!/dist/**/bchara/mg038.mld
+!/dist/**/bchara/mg038.std
+!/dist/**/bchara/mg0380.std
+!/dist/**/beff/f05000a6.mlk
 
-# Enemy 167 (Royal Guard)
-!/share/**/bchara/mg039.mld
-!/share/**/bchara/mg039.std
-!/share/**/bchara/mg0390.std
-!/share/**/beff/f05000a7.mlk
+# Enemy 167 (Spell Warden)
+!/dist/**/bchara/mg039.mld
+!/dist/**/bchara/mg039.std
+!/dist/**/bchara/mg0390.std
+!/dist/**/beff/f05000a7.mlk
 
-# Enemy 169 (Kantor)
-!/share/**/bchara/mg041.mld
-!/share/**/bchara/mg041.std
-!/share/**/bchara/mg0410.std
-!/share/**/beff/f05000a9.mlk
-!/share/**/beff/f29005a9.mlk
-!/share/**/sound/b7025641_L.dsp
-!/share/**/sound/b7025641_R.dsp
-
-# Enemy 170 (Kantor)
-!/share/**/bchara/mg042.mld
-!/share/**/bchara/mg042.std
-!/share/**/bchara/mg0420.std
-!/share/**/beff/f05000aa.mlk
-!/share/**/beff/f29005aa.mlk
-!/share/**/sound/b7025642_L.dsp
-!/share/**/sound/b7025642_R.dsp
+# Enemy 170 (Royal Guard)
+!/dist/**/bchara/mg042.mld
+!/dist/**/bchara/mg042.std
+!/dist/**/bchara/mg0420.std
+!/dist/**/beff/f05000aa.mlk
 
 # Enemy 171 (Kantor)
-!/share/**/bchara/mg043.mld
-!/share/**/bchara/mg043.std
-!/share/**/bchara/mg0430.std
-!/share/**/beff/f05000ab.mlk
-!/share/**/beff/f29005ab.mlk
-!/share/**/sound/b7025643_L.dsp
-!/share/**/sound/b7025643_R.dsp
+!/dist/**/bchara/mg043.mld
+!/dist/**/bchara/mg043.std
+!/dist/**/bchara/mg0430.std
+!/dist/**/beff/f05000ab.mlk
+!/dist/**/beff/f29005ab.mlk
+!/dist/**/sound/b7025643_L.dsp
+!/dist/**/sound/b7025643_R.dsp
 
-# Enemy 172 (Polraxis)
-!/share/**/bchara/mg044.mld
-!/share/**/bchara/mg044.std
-!/share/**/bchara/mg0440.std
-!/share/**/beff/f05000ac.mlk
+# Enemy 172 (Kantor)
+!/dist/**/bchara/mg044.mld
+!/dist/**/bchara/mg044.std
+!/dist/**/bchara/mg0440.std
+!/dist/**/beff/f05000ac.mlk
+!/dist/**/beff/f29005ac.mlk
+!/dist/**/sound/b7025644_L.dsp
+!/dist/**/sound/b7025644_R.dsp
 
-# Enemy 174 (Polraxis)
-!/share/**/bchara/mg046.mld
-!/share/**/bchara/mg046.std
-!/share/**/bchara/mg0460.std
-!/share/**/beff/f05000ae.mlk
+# Enemy 174 (Kantor)
+!/dist/**/bchara/mg046.mld
+!/dist/**/bchara/mg046.std
+!/dist/**/bchara/mg0460.std
+!/dist/**/beff/f05000ae.mlk
+!/dist/**/beff/f29005ae.mlk
+!/dist/**/sound/b7025646_L.dsp
+!/dist/**/sound/b7025646_R.dsp
 
 # Enemy 175 (Polraxis)
-!/share/**/bchara/mg047.mld
-!/share/**/bchara/mg047.std
-!/share/**/bchara/mg0470.std
-!/share/**/beff/f05000af.mlk
+!/dist/**/bchara/mg047.mld
+!/dist/**/bchara/mg047.std
+!/dist/**/bchara/mg0470.std
+!/dist/**/beff/f05000af.mlk
+
+# Enemy 176 (Polraxis)
+!/dist/**/bchara/mg048.mld
+!/dist/**/bchara/mg048.std
+!/dist/**/bchara/mg0480.std
+!/dist/**/beff/f05000b0.mlk
+
+# Enemy 177 (Polraxis)
+!/dist/**/bchara/mg049.mld
+!/dist/**/bchara/mg049.std
+!/dist/**/bchara/mg0490.std
+!/dist/**/beff/f05000b1.mlk

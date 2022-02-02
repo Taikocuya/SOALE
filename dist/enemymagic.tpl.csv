@@ -1,0 +1,37 @@
+Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect Name],Scope ID,[Scope Name],Effect Param ID,Effect Param Name,Effect Base,Element ID,[Element Name],Type ID,[Type Name],State Inflict ID,State Inflict Name,State Resist ID,State Resist Name,State ID,[State Name],State Miss%
+0,Increm,True,1,Magic,21,Incr Attack & Defense,3,Single EC,0,Power,0,1,Red,1,Magical,0,Power,0,Power,-1,None,0
+1,Incremus,True,1,Magic,21,Incr Attack & Defense,4,All ECs,0,Power,0,1,Red,1,Magical,0,Power,0,Power,-1,None,0
+2,Sylenis,True,1,Magic,12,Silence,1,Single PC,0,Power,0,2,Purple,1,Magical,1,Will,1,Will,5,Silence,30
+3,Panika,True,1,Magic,11,Confusion,1,Single PC,0,Power,0,2,Purple,1,Magical,1,Will,1,Will,4,Confusion,30
+4,Driln,True,1,Magic,26,Decr All Attr,1,Single PC,0,Power,0,4,Yellow,1,Magical,1,Will,1,Will,8,Weak,30
+5,Drilnos,True,1,Magic,26,Decr All Attr,2,All PCs,0,Power,0,4,Yellow,1,Magical,1,Will,1,Will,8,Weak,60
+6,Sacri,True,1,Magic,31,Recover HP,3,Single EC,500,HP,0,0,Green,1,Magical,0,Power,0,Power,-1,None,0
+7,Sacres,True,1,Magic,31,Recover HP,3,Single EC,1000,HP,0,0,Green,1,Magical,0,Power,0,Power,-1,None,0
+8,Sacrum,True,1,Magic,31,Recover HP,4,All ECs,500,HP,0,0,Green,1,Magical,0,Power,0,Power,-1,None,0
+9,Sacrulen,True,1,Magic,31,Recover HP,3,Single EC,2000,HP,0,0,Green,1,Magical,0,Power,0,Power,-1,None,0
+10,Noxi,True,1,Magic,4,Poison + Damage,1,Single PC,1,Will,60,0,Green,1,Magical,1,Will,1,Will,0,Poison,30
+11,Noxus,True,1,Magic,4,Poison + Damage,2,All PCs,1,Will,110,0,Green,1,Magical,1,Will,1,Will,0,Poison,60
+12,Slipara,True,1,Magic,9,Sleep,2,All PCs,0,Power,0,3,Blue,1,Magical,1,Will,1,Will,3,Sleep,60
+13,Quika,True,1,Magic,20,Incr Quick,4,All ECs,0,Power,0,3,Blue,1,Magical,0,Power,0,Power,-1,None,0
+14,Curia,True,1,Magic,30,Rem Neg States B,3,Single EC,0,Power,0,5,Silver,1,Magical,0,Power,0,Power,-1,None,0
+15,Risan,False,1,Magic,27,Revive w/ HP of 50%,3,Single EC,0,Power,0,5,Silver,1,Magical,55,Revival,55,Revival,7,Revival,-1
+16,Riselem,True,1,Magic,28,Revive w/ HP of 100%,3,Single EC,0,Power,0,5,Silver,1,Magical,0,Power,0,Power,7,Revival,0
+17,Eterni,True,1,Magic,68,Unconscious + Damage B,1,Single PC,1,Will,60,5,Silver,1,Magical,1,Will,1,Will,1,Unconscious,90
+18,Eternes,True,1,Magic,68,Unconscious + Damage B,2,All PCs,1,Will,180,5,Silver,1,Magical,1,Will,1,Will,1,Unconscious,90
+19,Eternum,True,1,Magic,68,Unconscious + Damage B,1,Single PC,1,Will,210,5,Silver,1,Magical,1,Will,1,Will,1,Unconscious,90
+20,Wevli,True,1,Magic,0,Damage,96,PC Square S3,1,Will,60,3,Blue,1,Magical,0,Power,0,Power,-1,None,0
+21,Wevles,True,1,Magic,0,Damage,97,PC Square S5,1,Will,110,3,Blue,1,Magical,0,Power,0,Power,-1,None,0
+22,Wevlen,True,1,Magic,0,Damage,98,PC Square S7,1,Will,210,3,Blue,1,Magical,0,Power,0,Power,-1,None,0
+23,Pyri,True,1,Magic,0,Damage,2,All PCs,1,Will,30,1,Red,1,Magical,0,Power,0,Power,-1,None,0
+24,Pyres,True,1,Magic,0,Damage,2,All PCs,1,Will,80,1,Red,1,Magical,0,Power,0,Power,-1,None,0
+25,Pyrum,True,1,Magic,0,Damage,2,All PCs,1,Will,130,1,Red,1,Magical,0,Power,0,Power,-1,None,0
+26,Crystali,True,1,Magic,0,Damage,1,Single PC,1,Will,60,2,Purple,1,Magical,0,Power,0,Power,-1,None,0
+27,Crystales,True,1,Magic,0,Damage,1,Single PC,1,Will,110,2,Purple,1,Magical,0,Power,0,Power,-1,None,0
+28,Crystalum,True,1,Magic,0,Damage,1,Single PC,1,Will,160,2,Purple,1,Magical,0,Power,0,Power,-1,None,0
+29,Crystalen,True,1,Magic,0,Damage,1,Single PC,1,Will,210,2,Purple,1,Magical,0,Power,0,Power,-1,None,0
+30,Pyrulen,True,1,Magic,0,Damage,2,All PCs,1,Will,180,1,Red,1,Magical,0,Power,0,Power,-1,None,0
+31,Wevlum,True,1,Magic,0,Damage,97,PC Square S5,1,Will,160,3,Blue,1,Magical,0,Power,0,Power,-1,None,0
+32,Electri,True,1,Magic,0,Damage,100,PC Ray S1,1,Will,60,4,Yellow,1,Magical,0,Power,0,Power,-1,None,0
+33,Electres,True,1,Magic,0,Damage,101,PC Ray S3,1,Will,110,4,Yellow,1,Magical,0,Power,0,Power,-1,None,0
+34,Electrum,True,1,Magic,0,Damage,101,PC Ray S3,1,Will,160,4,Yellow,1,Magical,0,Power,0,Power,-1,None,0
+35,Electrulen,True,1,Magic,0,Damage,102,PC Ray S5,1,Will,210,4,Yellow,1,Magical,0,Power,0,Power,-1,None,0

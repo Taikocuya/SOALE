@@ -1,0 +1,23 @@
+Entry ID,[Entry Name],[Finalized],Pos ID,[Pos Name],Trait ID,[Trait Name],Trait Value,Ship Eff ID,[Ship Eff Name],Ship Eff SP,Ship Eff Turns,Ship Eff Base,Unk
+0,Lawrence,Undefined,0,Helmsman,4,Quick,20,-1,None,-1,-1,0,0
+1,Don,Undefined,0,Helmsman,6,Dodge%,3,-1,None,-1,-1,0,0
+2,Brabham,Undefined,1,Engineer,2,Defense,20,-1,None,-1,-1,0,0
+3,Hans,Undefined,1,Engineer,3,MagDef,20,-1,None,-1,-1,0,0
+4,Belle,Undefined,2,Gunner,64,Sec Cannon Atk,50,-1,None,-1,-1,0,0
+5,Khazim,Undefined,2,Gunner,48,Main Cannon Atk,25,-1,None,-1,-1,0,0
+6,Tikatika,Undefined,3,Lookout,81,Torpedo Hit%,10,-1,None,-1,-1,0,0
+7,Domingo,Undefined,3,Lookout,-1,None,0,112,Incr Critical%,6,0,0,0
+8,Osman,Undefined,4,Merchant,-1,None,0,-1,None,-1,-1,0,0
+9,Kalifa,Undefined,4,Merchant,-1,None,0,-1,None,-1,-1,0,0
+10,Izmael,Undefined,5,Builder,96,Special Attack,50,-1,None,-1,-1,0,0
+11,Kirala,Undefined,5,Builder,-1,None,0,101,Recover HP by 100%,10,0,0,1
+12,Polly,Undefined,6,Cook,-1,None,0,117,Recover MP,6,-1,10,130
+13,Urala,Undefined,6,Cook,-1,None,0,102,Recover SP,15,-1,55,9
+14,Ryu-kan,Undefined,7,Artisan,-1,None,0,105,Incr Attack + Defense,4,2,0,0
+15,Ilchymis,Undefined,7,Artisan,-1,None,0,108,Incr All Attr,6,1,50,0
+16,Marco,Undefined,8,Sailor,-1,None,0,114,Recover SP by 200%,6,0,0,0
+17,Robinson,Undefined,8,Sailor,-1,None,0,113,Consume SP by 50%,6,0,0,0
+18,Pow,Undefined,9,Jester,-1,None,0,111,Incr First Strike%,4,0,0,0
+19,Merida,Undefined,9,Jester,7,Value,10000,-1,None,-1,-1,0,0
+20,Moegi,Undefined,10,Delegate,-1,None,0,110,Block Magic,2,0,0,0
+21,Pinta,Undefined,10,Delegate,-1,None,0,109,Block Attack,10,0,0,0

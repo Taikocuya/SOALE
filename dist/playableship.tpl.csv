@@ -1,0 +1,6 @@
+Entry ID,Entry US Name,[Finalized],MAXHP,MAXSP,SP,Defense,MagDef,Quick,Dodge%,Green,Red,Purple,Blue,Yellow,Silver,Cannon 1 ID,[Cannon 1 Name],Cannon 2 ID,[Cannon 2 Name],Cannon 3 ID,[Cannon 3 Name],Cannon 4 ID,[Cannon 4 Name],Cannon 5 ID,[Cannon 5 Name],Value,MAXHP Growth,MAXSP Growth,SP Growth,Defense Growth,MagDef Growth,Quick Growth,Dodge% Growth
+0,Little Jack,True,10000,10,3,20,50,55,10,10,12,10,8,8,12,400,Main Cannon,400,Main Cannon,400,Main Cannon,400,Main Cannon,430,Harpoon Cannon,200000,1000,0,0,3,3,3,0
+1,Little Jack,True,9000,5,2,15,40,50,7,10,12,10,8,8,12,400,Main Cannon,400,Main Cannon,400,Main Cannon,400,Main Cannon,-1,None,150000,1000,0,0,3,3,3,0
+2,Delphinus,True,40000,5,2,40,80,50,5,12,10,8,10,8,12,405,Prototype Cannon,405,Prototype Cannon,405,Prototype Cannon,405,Prototype Cannon,431,MoonStone Cannon,10000000,2000,0,0,5,5,5,0
+3,Delphinus,True,50000,10,3,50,100,60,5,12,10,8,10,8,12,405,Prototype Cannon,405,Prototype Cannon,405,Prototype Cannon,405,Prototype Cannon,431,MoonStone Cannon,11000000,2000,0,0,5,5,5,0
+4,Delphinus,True,60000,20,4,70,140,70,5,12,10,8,10,8,12,405,Prototype Cannon,405,Prototype Cannon,405,Prototype Cannon,405,Prototype Cannon,431,MoonStone Cannon,12000000,2000,0,0,5,5,5,0

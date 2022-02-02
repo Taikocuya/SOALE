@@ -1,0 +1,81 @@
+Entry ID,Entry US Name,Sell%,US Order 1,US Order 2,Buy,[US Descr Pos],[US Descr Size],US Descr Str
+320,Green Crystal,0,7,12,0,0x2cd4ec,92,An ancient gem that contains the power of life.\nIt has the power to summon the Green Gigas.
+321,Red Crystal,0,6,24,0,0x2cd548,92,An ancient gem that contains the power of fire.\nIt has the power to summon the Red Gigas.
+322,Purple Crystal,0,9,21,0,0x2cd5a4,92,An ancient gem that contains the power of ice.\nIt has the power to summon the Purple Gigas.
+323,Blue Crystal,0,8,0,0,0x2cd600,92,An ancient gem with the power of wind and water.\nIt has the power to summon the Blue Gigas.
+324,Yellow Crystal,0,10,33,0,0x2cd65c,92,An ancient gem with the power of lightning.\nIt has the power to summon the Yellow Gigas.
+325,銀月晶,0,38,-1,0,0x2cd6b8,12,カット。
+326,Green Moon Stone,0,0,13,0,0x2cd6c4,84,A Moon Stone from the Green Moon. It can infuse\nweapons with the powers of nature.
+327,Red Moon Stone,0,1,25,0,0x2cd718,80,A Moon Stone from the Red Moon. It can infuse\nweapons with the powers of fire.
+328,Purple MoonStone,0,2,22,0,0x2cd768,84,A Moon Stone from the Purple Moon. It can infuse\nweapons with the powers of ice.
+329,Blue Moon Stone,0,3,1,0,0x2cd7bc,92,A Moon Stone from the Blue Moon. It can infuse\nweapons with the powers of wind and water.
+330,Yellow MoonStone,0,4,34,0,0x2cd818,88,A Moon Stone from the Yellow Moon. It can infuse\nweapons with the powers of lightning.
+331,Silver MoonStone,0,5,27,0,0x2cd870,92,A Moon Stone from the Silver Moon. It can infuse\nweapons with the powers of life and death.
+332,Underwater Suit,0,26,28,0,0x2cd8cc,88,"Using a Blue Moon Stone, this water-proof suit\nallows the wearer to breathe underwater."
+333,Note in a Bottle,0,12,19,0,0x2cd924,88,"A note found in a bottle that says, “Quetya…\nPlease send warriors to help us fight.”"
+334,Cannon Room Key,0,24,3,0,0x2cd97c,92,"A large, steel key to the Cannon Room of the\nGrand Fortress. It is embossed with a dragon."
+335,Ship Schematics,0,28,26,0,0x2cd9d8,84,Design for a ship that can submerge under the\nGreat Cloud Sea and go into Deep Sky.
+336,Gonzales' Map,0,21,9,0,0x2cda2c,88,Map found on the remains of Gonzales. It appears\nthat the map has been ripped in half.
+337,Pedro's Map,0,22,20,0,0x2cda84,92,Map received from Pedro while in Nasrad. It\nappears that the map has been ripped in half.
+338,アルフォンソの鍵,0,39,35,0,0x0,0,""
+339,Golden Man's Eye,0,16,8,0,0x2cdae0,76,"A beautiful, orange gem found set into the eye\nof the Golden Man statue."
+340,Great Bird's Eye,0,17,11,0,0x2cdb2c,68,"A beautiful, blue gem found set into the eyes\nof the Great Bird."
+341,Raw Moon Stone,0,11,23,0,0x2cdb70,84,A rock containing Moon Stone ore found on Shrine\nIsland. Unusable unless refined.
+342,Daccat's Coin,100,23,5,20000,0x2cdbc4,84,"A gold coin minted by the great Air Pirate\nDaccat, it bears his symbol on one side."
+343,シシカバブ,0,35,-1,0,0x2cdc18,16,コンバート。
+344,Kabal,0,32,15,0,0x2cdc28,84,"The meat of a desert beast of burden, it is\nconsidered by many to be very tasty."
+345,Gentum,0,33,7,500,0x2cdc7c,88,A fragrant fruit from northern Nasr.\nSecret ingredient used in making Kabal Skewers.
+346,Khale,0,34,16,0,0x2cdcd4,88,"An expensive spice, grown in the East.\nSecret ingredient used in making Kabal Skewers."
+347,究極のシシカバブ,0,36,-1,0,0x0,0,""
+348,Valuan Passport,0,13,29,0,0x2cdd2c,92,A passport necessary to enter the Valuan Empire.\nReceived from a Nasr merchant as a gift.
+349,Moon Stone Fuel,0,15,18,0,0x2cdd88,100,A Moon Stone refined for use as fuel for a ship.\nGiven to Vyse by Hans when they met in Horteka.
+350,Clara's Purse,0,19,4,0,0x2cddec,72,A bright pink purse containing money given to\nAika and Fina by Clara.
+351,Book of Polarity,0,27,2,0,0x2cde34,100,An old Yafutoman text explaining the process of\nenabling ships to fly to high and low altitudes.
+352,Velorium,0,29,30,0,0x2cde98,88,A rare type of metal found in Deep Sky.\nIt is many times stronger than normal steel.
+353,Velorium,0,30,31,0,0x0,0,""
+354,最終兵器３,0,37,-1,0,0x0,0,""
+355,Harbor Key,0,25,14,0,0x2cdef0,84,"A small, brass key to the Valuan Imperial\nharbor. It has a dragon embossed on it."
+356,Magic Cannon,0,14,17,0,0x2cdf44,84,A device attached to cannons that allows them\nto fire shots empowered with magic.
+357,Wages,0,20,32,0,0x2cdf98,92,"Contains the 5,000 gold that Aika and Fina\nearned while working at the tavern in Nasrad."
+358,Grapor Meat,0,18,10,0,0x2cdff4,96,"Meat from the rare fish, the Grapor. This fish\nis only found in the forests of Crescent Isle."
+359,Domingo's Title,0,31,6,0,0x2ce054,88,A certificate from Domingo proclaiming Vyse to\nbe a “Treasure Hunter Extraordinaire.”
+360,Moonfish,0,43,-2,0,0x2ce0ac,88,A fish that is invisible to the naked eye. It\nseems to be Maria's bird's favorite food.
+361,Black Spot,0,39,-6,0,0x2ce104,96,"A note written in red ink, on jet black paper.\n""I await you, west of Sailors' Island -Piastol"""
+362,Black Spot,0,40,-5,0,0x2ce164,96,"A note written in red ink, on jet black paper.\n""I await you at the place we fought. -Piastol"""
+363,Black Spot,0,41,-4,0,0x2ce1c4,92,"A note written in red ink, on jet black paper.\n""I await you at the same location. -Piastol"""
+364,Black Spot,0,42,-3,0,0x0,0,""
+365,ダミークリア,0,-1,-1,0,0x0,0,""
+366,ダミークリア,0,-1,-1,0,0x0,0,""
+367,ダミークリア,0,-1,-1,0,0x0,0,""
+368,ダミークリア,0,-1,-1,0,0x0,0,""
+369,ダミークリア,0,-1,-1,0,0x0,0,""
+370,ダミークリア,0,-1,-1,0,0x0,0,""
+371,ダミークリア,0,-1,-1,0,0x0,0,""
+372,ダミークリア,0,-1,-1,0,0x0,0,""
+373,ダミークリア,0,-1,-1,0,0x0,0,""
+374,ダミークリア,0,-1,-1,0,0x0,0,""
+375,ダミークリア,0,-1,-1,0,0x0,0,""
+376,ダミークリア,0,-1,-1,0,0x0,0,""
+377,ダミークリア,0,-1,-1,0,0x0,0,""
+378,ダミークリア,0,-1,-1,0,0x0,0,""
+379,ダミークリア,0,-1,-1,0,0x0,0,""
+380,ダミークリア,0,-1,-1,0,0x0,0,""
+381,ダミークリア,0,-1,-1,0,0x0,0,""
+382,ダミークリア,0,-1,-1,0,0x0,0,""
+383,ダミークリア,0,-1,-1,0,0x0,0,""
+384,ダミークリア,0,-1,-1,0,0x0,0,""
+385,ダミークリア,0,-1,-1,0,0x0,0,""
+386,ダミークリア,0,-1,-1,0,0x0,0,""
+387,ダミークリア,0,-1,-1,0,0x0,0,""
+388,ダミークリア,0,-1,-1,0,0x0,0,""
+389,ダミークリア,0,-1,-1,0,0x0,0,""
+390,ダミークリア,0,-1,-1,0,0x0,0,""
+391,ダミークリア,0,-1,-1,0,0x0,0,""
+392,ダミークリア,0,-1,-1,0,0x0,0,""
+393,ダミークリア,0,-1,-1,0,0x0,0,""
+394,ダミークリア,0,-1,-1,0,0x0,0,""
+395,ダミークリア,0,-1,-1,0,0x0,0,""
+396,ダミークリア,0,-1,-1,0,0x0,0,""
+397,ダミークリア,0,-1,-1,0,0x0,0,""
+398,ダミークリア,0,-1,-1,0,0x0,0,""
+399,ダミークリア,0,-1,-1,0,0x0,0,""

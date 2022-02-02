@@ -1,0 +1,81 @@
+Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],Buy,Attack,Hit%,Trait ID,[Trait Name],Pad 1,Trait Value
+0,Cutlass,True,0,Vyse,50,-1,None,70,20,90,-1,None,0,0
+1,Pirate Cutlass,True,0,Vyse,50,-1,None,170,33,90,-1,None,0,0
+2,Sky Cutlass,Undefined,0,Vyse,50,-1,None,450,45,90,-1,None,0,0
+3,Admiral Cutlass,False,0,Vyse,50,-1,None,4970,128,90,-1,None,0,0
+4,Assassin Blade,Undefined,0,Vyse,50,0,Poison by 10%,830,58,90,-1,None,0,0
+5,Thunder Cutlass,False,0,Vyse,50,-1,None,8610,160,90,36,Yellow,0,-2
+6,Iron-cutter,False,0,Vyse,50,-1,None,3870,112,90,-1,None,0,0
+7,Nasr Cutlass,Undefined,0,Vyse,50,-1,None,1340,70,90,-1,None,0,0
+8,Sword of Daccat,False,0,Vyse,50,1,Sleep by 50%,4690,120,90,-1,None,0,0
+9,Hunter's Sword,Undefined,0,Vyse,50,-1,None,2280,87,90,-1,None,0,0
+10,Stonecutter,Undefined,0,Vyse,50,-1,None,3120,99,90,-1,None,0,0
+11,Dream Cutlass,False,0,Vyse,50,-1,None,6690,137,90,35,Blue,0,-2
+12,Windslicer,False,0,Vyse,50,-1,None,8760,153,90,-1,None,0,0
+13,Vorlik Blade,False,0,Vyse,50,-1,None,16500,200,90,-1,None,0,0
+14,Suiran Blade,False,0,Vyse,50,-1,None,7500,141,90,-1,None,0,0
+15,Soul Sword,False,0,Vyse,50,16,Unconscious by 5%,12340,174,90,-1,None,0,0
+16,Boomerang,True,1,Aika,50,-1,None,70,19,110,-1,None,0,0
+17,Skywing,False,1,Aika,50,-1,None,3670,107,110,-1,None,0,0
+18,Scout Wing,Undefined,1,Aika,50,-1,None,680,53,110,-1,None,0,0
+19,Ice Splitter,False,1,Aika,50,-1,None,7390,142,110,34,Purple,0,-2
+20,Leather Crescent,True,1,Aika,50,-1,None,140,30,110,-1,None,0,0
+21,Throwing Blade,Undefined,1,Aika,50,-1,None,310,38,110,-1,None,0,0
+22,Hunting Arc,Undefined,1,Aika,50,-1,None,1820,80,110,-1,None,0,0
+23,Valuarang,Undefined,1,Aika,50,-1,None,480,46,110,-1,None,0,0
+24,Yin Wing,False,1,Aika,50,17,Sleep by 5%,5930,130,110,-1,None,0,0
+25,Dancing Arc,Undefined,1,Aika,50,-1,None,1100,65,110,-1,None,0,0
+26,Wing of Hope,False,1,Aika,50,-1,None,4760,119,110,-1,None,0,0
+27,Storm Wing,Undefined,1,Aika,50,2,Weak by 10%,1280,69,150,-1,None,0,0
+28,Moon Wing,False,1,Aika,50,-1,None,10170,161,110,-1,None,0,0
+29,Hydra Wing,False,1,Aika,50,-1,None,11390,168,110,-1,None,0,0
+30,Grendel Wing,Undefined,1,Aika,50,-1,None,2820,96,150,32,Green,0,-2
+31,Flutter Blade,False,1,Aika,50,3,Confusion by 20%,8910,153,110,-1,None,0,0
+32,Cupil,True,2,Fina,0,-1,None,0,58,120,-1,None,0,0
+33,Cupil Lance,Undefined,2,Fina,0,-1,None,0,110,120,-1,None,0,0
+34,Cupil Star,Undefined,2,Fina,0,-1,None,0,103,120,-1,None,0,0
+35,Cupicone,Undefined,2,Fina,0,-1,None,0,73,120,-1,None,0,0
+36,Cupil Spear,Undefined,2,Fina,0,-1,None,0,147,120,-1,None,0,0
+37,Cupil Blade,Undefined,2,Fina,0,4,Silence by 20%,0,67,115,-1,None,0,0
+38,Cupil Sword,Undefined,2,Fina,0,4,Silence by 20%,0,90,115,-1,None,0,0
+39,Cupil Cutlass,Undefined,2,Fina,0,4,Silence by 20%,0,127,115,-1,None,0,0
+40,Cupil Claymore,Undefined,2,Fina,0,4,Silence by 20%,0,157,115,-1,None,0,0
+41,Cupil Cannon,Undefined,2,Fina,0,-1,None,0,86,105,20,Dodge%,0,5
+42,Cupil Spike,Undefined,2,Fina,0,-1,None,0,141,105,20,Dodge%,0,10
+43,Cupil Weight,Undefined,2,Fina,0,-1,None,0,172,105,20,Dodge%,0,15
+44,Cupil Pan,Undefined,2,Fina,0,-1,None,0,145,110,-1,None,0,0
+45,Cupil Club,Undefined,2,Fina,0,-1,None,0,99,110,-1,None,0,0
+46,Cupil Hammer,Undefined,2,Fina,0,-1,None,0,122,110,-1,None,0,0
+47,Final Cupil,Undefined,2,Fina,0,-1,None,0,300,100,-1,None,0,0
+48,Artificial Arm,True,3,Drachma,50,-1,None,390,43,80,-1,None,0,0
+49,Hook Hand,Undefined,3,Drachma,50,-1,None,580,51,80,-1,None,0,0
+50,Mace Hand,False,3,Drachma,50,-1,None,2000,125,0,-1,None,0,0
+51,Mining Arm,False,3,Drachma,50,-1,None,9980,172,80,-1,None,0,0
+52,Dragon Arm,False,3,Drachma,50,-1,None,11850,181,80,-1,None,0,0
+53,Beak Hand,Undefined,3,Drachma,50,5,Confusion by 20%,880,60,80,-1,None,0,0
+54,De Loco Drill,False,3,Drachma,50,6,Unconscious by 10%,2600,95,80,-1,None,0,0
+55,Excavation Arm,Undefined,3,Drachma,50,-1,None,1340,73,80,-1,None,0,0
+56,Ruin Arm,Undefined,3,Drachma,50,-1,None,3860,112,80,-1,None,0,0
+57,Silver Arm,False,3,Drachma,50,-1,None,13710,190,80,37,Silver,0,-2
+58,Rapier,False,4,Enrique,50,12,Silence by 20%,4200,122,95,-1,None,0,0
+59,Stoneblade,False,4,Enrique,50,13,Stone by 10%,9850,171,95,-1,None,0,0
+60,Imperial Blade,False,4,Enrique,50,7,Silence by 20%,8660,163,95,-1,None,0,0
+61,Serpent Strike,False,4,Enrique,50,8,Stone by 10%,11150,179,95,-1,None,0,0
+62,Frostblade,False,4,Enrique,50,14,Confusion by 20%,7020,150,95,-1,None,0,0
+63,Blade of Slumber,False,4,Enrique,50,15,Sleep by 10%,5690,138,95,-1,None,0,0
+64,Gilder's Own,True,5,Gilder,50,-1,None,2910,104,100,-1,None,0,0
+65,Nasr Pistol,False,5,Gilder,50,-1,None,3520,112,100,33,Red,0,-2
+66,Warrior's Pistol,False,5,Gilder,50,-1,None,10920,176,100,-1,None,0,0
+67,Valuan Pistol,False,5,Gilder,50,-1,None,8140,160,100,-1,None,0,0
+68,Marksman Gun,False,5,Gilder,50,10,Unconscious by 20%,3000,100,200,-1,None,0,0
+69,Daccat Custom,False,5,Gilder,50,9,Sleep by 50%,4290,120,100,-1,None,0,0
+70,Gilder Special,False,5,Gilder,50,-1,None,9460,168,100,-1,None,0,0
+71,Tuna Cutlass,False,0,Vyse,100,-1,None,22222,150,0,-1,None,0,0
+72,Swirlmerang,False,1,Aika,100,11,Confusion by 100%,11111,100,0,-1,None,0,0
+73,Sky Fang,False,0,Vyse,50,-1,None,50000,220,95,-1,None,0,0
+74,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+75,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+76,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+77,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+78,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+79,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0

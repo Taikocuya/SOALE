@@ -1,0 +1,22 @@
+Entry ID,Entry JP Name,[Descr Str],Effect ID,[Effect Name],State ID,[State Name],State Miss%
+0,Poison,Poison by 10%,4,Poison + Damage,0,Poison,90
+1,Sleep,Sleep by 50%,69,Sleep + Damage,3,Sleep,50
+2,Weak,Weak by 10%,73,Weak + Damage,8,Weak,90
+3,Confusion,Confusion by 20%,70,Confusion + Damage,4,Confusion,80
+4,Silence,Silence by 20%,71,Silence + Damage,5,Silence,80
+5,Confusion,Confusion by 20%,70,Confusion + Damage,4,Confusion,80
+6,Unconscious,Unconscious by 10%,68,Unconscious + Damage B,1,Unconscious,90
+7,Silence,Silence by 20%,71,Silence + Damage,5,Silence,80
+8,Stone,Stone by 10%,8,Stone + Damage,2,Stone,90
+9,Sleep,Sleep by 50%,69,Sleep + Damage,3,Sleep,50
+10,Unconscious,Unconscious by 20%,68,Unconscious + Damage B,1,Unconscious,80
+11,Confusion,Confusion by 100%,70,Confusion + Damage,4,Confusion,0
+12,Silence,Silence by 20%,71,Silence + Damage,5,Silence,80
+13,Stone,Stone by 10%,8,Stone + Damage,2,Stone,90
+14,Confusion,Confusion by 20%,70,Confusion + Damage,4,Confusion,80
+15,Sleep,Sleep by 10%,69,Sleep + Damage,3,Sleep,90
+16,Unconscious,Unconscious by 5%,68,Unconscious + Damage B,1,Unconscious,95
+17,Sleep,Sleep by 5%,69,Sleep + Damage,3,Sleep,95
+18,"",None,0,Damage,0,Poison,0
+19,"",None,0,Damage,0,Poison,0
+20,"",None,0,Damage,0,Poison,0

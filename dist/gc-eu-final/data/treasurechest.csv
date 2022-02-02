@@ -1,0 +1,120 @@
+Entry ID,[Location],Item ID,[Item Name],Item Amount
+0,Pirate Isle Village,244,Magic Droplet,1
+1,Pirate Isle Village,244,Magic Droplet,2
+2,Pirate Isle Village,240,Sacri Crystal,2
+3,Pirate Isle Underground,513,Gold,150
+4,Pirate Isle Underground,258,Moonberry,1
+5,Sailors' Island,514,Gold,200
+6,Sailors' Island,490,Repair Kit,1
+7,Lower City,250,Risan Crystal,1
+8,Lower City,258,Moonberry,1
+9,Maramba,249,Curia Crystal,3
+10,Maramba,515,Gold,300
+11,Maramba,281,Slipara Box,1
+12,Maramba,258,Moonberry,1
+13,Maramba,122,Nasr Combat Mail,1
+14,Maramba,241,Sacres Crystal,2
+15,Maramba,55,Excavation Arm,1
+16,Horteka,258,Moonberry,1
+17,Horteka,275,Sacri Box,1
+18,Horteka,260,Paranta Seed,1
+19,Horteka,244,Magic Droplet,25
+20,Nasrad,264,Sylph Seed,1
+21,Deserted Island,258,Moonberry,1
+22,Deserted Island,520,Gold,1827
+23,Nasrad,258,Moonberry,1
+24,Esparanza,258,Moonberry,1
+25,Esparanza,87,Valuan Uniform,3
+26,Esparanza,522,Gold,2248
+27,Yafutoma,258,Moonberry,1
+28,Yafutoma,524,Gold,3000
+29,Great Silver Shrine,131,Silver Armor,1
+30,Great Silver Shrine,258,Moonberry,1
+31,Great Silver Shrine,258,Moonberry,1
+32,Great Silver Shrine,131,Silver Armor,1
+33,Delphinus,258,Moonberry,1
+34,Valuan Battle Ship,244,Magic Droplet,1
+35,Valuan Battle Ship,240,Sacri Crystal,1
+36,Valuan Battle Ship,512,???,50
+37,Valuan Battle Ship,244,Magic Droplet,2
+38,Shrine Island,244,Magic Droplet,1
+39,Shrine Island,258,Moonberry,1
+40,Shrine Island,275,Sacri Box,1
+41,Catacombs,244,Magic Droplet,1
+42,Catacombs,267,Pyri Box,1
+43,Catacombs,172,Crylhound's Claw,1
+44,Catacombs,249,Curia Crystal,3
+45,Temple of Pyrynn,516,Gold,527
+46,Temple of Pyrynn,126,Ancient Robe,1
+47,Temple of Pyrynn,241,Sacres Crystal,3
+48,Temple of Pyrynn,25,Dancing Arc,1
+49,Temple of Pyrynn,517,Gold,774
+50,Temple of Pyrynn,258,Moonberry,1
+51,Temple of Pyrynn,244,Magic Droplet,5
+52,Temple of Pyrynn,283,Rune of Ill Omen,1
+53,Moonstone Mountain,518,Gold,800
+54,Moonstone Mountain,127,De Loco Mail,1
+55,Moonstone Mountain,258,Moonberry,1
+56,Moonstone Mountain,262,Zaal Seed,1
+57,Moonstone Mountain,413,"8"" Cannon",1
+58,Moonstone Mountain,54,De Loco Drill,1
+59,Moonstone Mountain,421,Guided Torpedo,1
+60,Moonstone Mountain,252,Glyph of Might,2
+61,Moonstone Mountain,254,Healing Salve,2
+62,Moonstone Mountain,253,Glyph of Speed,2
+63,Rixis,56,Ruin Arm,1
+64,Rixis,284,Golden Mask,1
+65,Rixis,134,Female Armor,1
+66,Rixis,258,Moonberry,1
+67,Rixis,244,Magic Droplet,6
+68,Rixis,519,Gold,1186
+69,Rixis,242,Sacrum Crystal,2
+70,Rixis,10,Stonecutter,1
+71,Rixis,261,Icyl Seed,1
+72,Daccat's Island,243,Sacrulen Crystal,2
+73,Daccat's Island,17,Skywing,1
+74,Daccat's Island,521,Gold,2001
+75,Daccat's Island,247,Soul Crystal,1
+76,Daccat's Island,128,Daccat's Armor,1
+77,Daccat's Island,244,Magic Droplet,4
+78,Daccat's Island,124,Maiden's Armor,2
+79,Daccat's Island,245,Magic Dew,1
+80,Daccat's Island,258,Moonberry,1
+81,Daccat's Island,258,Moonberry,1
+82,Daccat's Island,250,Risan Crystal,2
+83,Daccat's Island,274,Electrum Box,1
+84,Daccat's Island,265,Vidal Seed,1
+85,Grand Fortress,248,Unholy Dagger,1
+86,Grand Fortress,258,Moonberry,1
+87,Mount Kazai,256,Windsong Orb,1
+88,Mount Kazai,258,Moonberry,1
+89,The Dark Rift,11,Dream Cutlass,1
+90,The Dark Rift,266,Magus Seed,1
+91,The Dark Rift,129,Moss Armor,1
+92,The Dark Rift,258,Moonberry,1
+93,The Dark Rift,255,Chalice of Blood,1
+94,The Dark Rift,246,Aura of Valor,1
+95,The Dark Rift,523,Gold,2731
+96,The Dark Rift,258,Moonberry,1
+97,Glacia,19,Ice Splitter,1
+98,Glacia,257,Winter Orb,1
+99,Glacia,62,Frostblade,1
+100,Glacia,258,Moonberry,1
+101,Glacia,258,Moonberry,1
+102,Hydra,245,Magic Dew,2
+103,Dangral Island,525,Gold,4000
+104,Dangral Island,258,Moonberry,1
+105,Dangral Island,242,Sacrum Crystal,2
+106,Hydra,409,X Cannon,1
+107,Dangral Island,60,Imperial Blade,1
+108,Hydra,243,Sacrulen Crystal,3
+109,Hydra,258,Moonberry,1
+110,Soltis,293,Orb of Serenity,1
+111,Soltis,258,Moonberry,1
+112,Soltis,258,Moonberry,1
+113,Maw of Tartas,263,Dexus Seed,1
+114,Maw of Tartas,258,Moonberry,1
+115,Catacombs,4,Assassin Blade,1
+116,Catacombs,244,Magic Droplet,2
+117,Yafutoma,243,Sacrulen Crystal,4
+118,The Dark Rift,242,Sacrum Crystal,3

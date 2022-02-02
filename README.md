@@ -1,28 +1,24 @@
 ![Skies of Arcadia Legends Encore](doc/logomlt.png)
 
-## Skies of Arcadia Legends Encore
+# Skies of Arcadia Legends Encore
 
 Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore 
 (エターナルアルカディアレジェンドＥｎｃｏｒｅ) is a rebalancing and difficulty hack.
 
-### Features
-
-* See [CHANGELOG.md](CHANGELOG.md) for more details.
-
-### Prerequisites
+## Prerequisites
 
 * GCM or ISO image of Skies of Arcadia Legends or Eternal Arcadia Legends
   (エターナルアルカディアレジェンド)
 * [GCRebuilder](http://www.romhacking.net/utilities/619/)
 
-### Download
+## Download
 
 * Latest official release on the
   [SourceForge project website](https://sf.net/projects/soale)
 * Current development version from the
   [GitHub repository](https://github.com/Taikocuya/SOALE)
 
-### Installation
+## Installation
 
 1. Obtain a GCM or an ISO of Skies of Arcadia Legends or Eternal Arcadia 
    Legends (エターナルアルカディアレジェンド).
@@ -37,11 +33,11 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
    with all game contents will be created. After the export is finished, 
    choose `Image > Close`.
    ![GCRebuilder](doc/install5.png)
-6. Open the correct directory `share/gc-*-retail/gameroot` that match with your 
-   `Region` attribute from step 4 and copy all contents of that folder.
-    * `share/gc-eu-retail/gameroot` for `EUR/PAL` region 
-    * `share/gc-jp-retail/gameroot` for `JAP/NTSC` region 
-    * `share/gc-us-retail/gameroot` for `USA/NTSC` region 
+6. Open the correct `dist/gc-*-final/gameroot` directory which match with 
+   your `Region` attribute from step 4 and copy all contents of that folder.
+    * `dist/gc-eu-final/gameroot` for `EUR/PAL` region 
+    * `dist/gc-jp-final/gameroot` for `JAP/NTSC` region 
+    * `dist/gc-us-final/gameroot` for `USA/NTSC` region 
 7. Paste all contents into your extracted `root` folder from step 5 and 
    replace the files.
    ![File Explorer](doc/install7.png)
@@ -54,20 +50,38 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
    can use in Dolphin Emulator, Nintendont or any other Gamecube emulation 
    software.
 
-### Resources
+## Element Efficiency
+
+| Vulnerable To | Element                        | Strong Against |
+|--------------:|:------------------------------:|:---------------|
+|  ![][G]![][S] |  ![Green](doc/greencrest.png)  | ![][B]![][Y]   |
+|  ![][P]![][B] |    ![Red](doc/redcrest.png)    | ![][G]![][P]   |
+|  ![][R]![][Y] | ![Purple](doc/purplecrest.png) | ![][R]![][B]   |
+|  ![][G]![][P] |   ![Blue](doc/bluecrest.png)   | ![][R]![][S]   |
+|  ![][G]![][S] | ![Yellow](doc/yellowcrest.png) | ![][P]![][S]   |
+|  ![][B]![][Y] | ![Silver](doc/silvercrest.png) | ![][G]![][Y]   |
+
+[G]: doc/green.png "Green"
+[R]: doc/red.png "Red"
+[P]: doc/purple.png "Purple"
+[B]: doc/blue.png "Blue"
+[Y]: doc/yellow.png "Yellow"
+[S]: doc/silver.png "Silver"
+
+## Resources
 
 ![Title](doc/title.png)
 ![Antonio](doc/antonio.png)
 ![Recumen](doc/recumen.png)
 ![Rik'talish](doc/riktalish.png)
 
-### Acknowledgments
+## Acknowledgments
 
 See [CREDITS.md](CREDITS.md) for a full list of the awesome people, groups and 
 software that made this project possible.
 
-### License
+## License
 
-Copyright (C) 2020 Marcel Renner. Skies of Arcadia Legends Encore is 
+Copyright (C) 2022 Marcel Renner. Skies of Arcadia Legends Encore is 
 licensed under the zlib license. See [LICENSE.md](LICENSE.md) for the full 
 license text.

@@ -1,58 +1,39 @@
-## Acknowledgments
+# Acknowledgments
 
-### Developer
+## Developer
 
 * Marcel Renner — [@Taikocuya](https://twitter.com/Taikocuya)
 
-### Software
+## Software
 
-* [ALX](https://sourceforge.net/projects/aex/) — Skies of Arcadia editor
+* [ALX](https://sourceforge.net/projects/aex/) — Skies of Arcadia Editor
 * [Audacity with GameCube DSPADPCM](https://github.com/jackoalan/audacity) — 
-  DSP editor
+  DSP Editor
 * [BMP2BNR](https://github.com/Cuyler36/BMP2BNR) — BNR editor
-* [BrawlBox](https://github.com/libertyernie/brawltools) — TPL editor
-* [Dolphin Emulator](https://dolphin-emu.org/) — GameCube emulator
-* [Eclipse](https://www.eclipse.org/) — Source code editor
+* [BrawlBox](https://github.com/libertyernie/brawltools) — TPL Editor
+* [Dolphin Emulator](https://dolphin-emu.org/) — GameCube Emulator
+* [Eclipse](https://www.eclipse.org/) — Source Eode Editor
 * [Free Hex Editor Neo](https://www.hhdsoftware.com/free-hex-editor) — 
-  HEX editor
-* [GCRebuilder](http://www.romhacking.net/utilities/619/) — GCM/ISO editor
-* [GIMP](https://www.gimp.org/) — Graphics editor
-* [LibreOffice](https://www.libreoffice.org/) — CSV editor
-* [Puyo Tools](https://github.com/nickworonekin/puyotools) — GVR editor
-* [SOALEditor](https://www.romhacking.net/utilities/788/) — MLD editor
+  HEX Editor
+* [GCRebuilder](http://www.romhacking.net/utilities/619/) — GCM/ISO Editor
+* [GIMP](https://www.gimp.org/) — Graphics Editor
+* [LibreOffice](https://www.libreoffice.org/) — CSV Editor
+* [Puyo Tools](https://github.com/nickworonekin/puyotools) — GVR Editor
+* [SOALEditor](https://www.romhacking.net/utilities/788/) — MLD Editor
 * [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) — 
-  Image scaling tool
-* [WinMerge](https://winmerge.org/) — File comparison tool
+  Image Scaling Tool
+* [WinMerge](https://winmerge.org/) — File Comparison Tool
 
-### Web services
+## Web Services
 
 * [DeepL Translator](https://www.deepl.com/) — Translator
-* [GitHub](https://github.com/) — Project hosting
+* [GitHub](https://github.com/) — Project Hosting
 * [Google Translator](https://translate.google.de/) — Translator
-* [SourceForge](https://sourceforge.net/) — Project hosting
-* [Textcraft](https://textcraft.net/) — Logo generator
+* [SourceForge](https://sourceforge.net/) — Project Hosting
+* [Textcraft](https://textcraft.net/) — Logo Generator
 
-### Music samples
+## See Also
 
-* *“To the Horizon”* by Jorito feat. Ronin Op F, Keadrin Cain, JohnStacy, Gamer
-  of the Winds, Damian Nguyen, Bassoonify, Lauren the Flute, Earth Kid,
-  BardicKnowledge and DrumUltimA from
-  [OverClocked ReMix](https://ocremix.org/album/90/arcadia-legends)
-* *“Hearth and Home”* by Juke from
-  [OverClocked ReMix](https://ocremix.org/album/90/arcadia-legends)
-* *“Shining Silver”* by Sam Dillard from
-  [OverClocked ReMix](https://ocremix.org/album/90/arcadia-legends)
-
-### Sound samples
-
-* *“Passing Swoosh Exploding”* by FxProSound (Robinhood76) from
-  [Freesound](https://freesound.org/people/Robinhood76/sounds/188698/)
-* *“Swooshy Trailer Punch”* by FxProSound (Robinhood76) from
-  [Freesound](https://freesound.org/people/Robinhood76/sounds/333124/)
-* *“Title Bang (Steel)”* by celldroid from
-  [Freesound](https://freesound.org/people/celldroid/sounds/174055/)
-
-### See also
-
-* [@Ares_Arcadia](https://twitter.com/Ares_Arcadia)
+* [@AresArcadia](https://twitter.com/AresArcadia)
+* [Skies of Arcadia Community Discord](https://discord.gg/wMnXkhu)
 * [Skies of Arcadia Wiki](https://skiesofarcadia.gamepedia.com/)
