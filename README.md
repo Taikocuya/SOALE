@@ -52,7 +52,7 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 
 ## Element Efficiency
 
-The elements have been significantly balanced compared to the original game, 
+The elements have been significantly rebalanced compared to the original game, 
 which opens up new strategic possibilities. Also, your party members now have 
 strengths and weaknesses against certain attributes, which must be considered 
 when choosing the right strategy. Each attribute affects one another in certain 
