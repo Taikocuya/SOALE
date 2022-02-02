@@ -52,14 +52,14 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 
 ## Element Efficiency
 
-| Enemy Is | Attack With  | Avoid Attacking With |
-|:---------|:-------------|:---------------------|
-| ![][GE]  | ![][B]![][Y] | ![][R]![][S]         |
-| ![][RE]  | ![][G]![][P] | ![][R]![][B]         |
-| ![][PE]  | ![][R]![][B] | ![][P]![][Y]         |
-| ![][BE]  | ![][R]![][S] | ![][G]![][P]         |
-| ![][YE]  | ![][P]![][S] | ![][G]![][Y]         |
-| ![][SE]  | ![][G]![][Y] | ![][B]![][S]         |
+| Enemy   | Attack       | Defend         | Avoid Attacking | Avoid Defending |
+|:--------|:-------------|:---------------|:----------------|:----------------|
+| ![][Gr] | ![][R]![][S] | ![][Vy]![][Ai] | ![][B]![][Y]    | ![][Fi]![][Gi]  |
+| ![][Re] | ![][P]![][B] | ![][Dr]![][En] | ![][G]![][R]    | ![][Vy]![][Gi]  |
+| ![][Pu] | ![][R]![][Y] | ![][Vy]![][Gi] | ![][P]![][B]    | ![][Ai]![][En]  |
+| ![][Bl] | ![][G]![][P] | ![][Fi]![][Gi] | ![][R]![][S]    | ![][Dr]![][En]  |
+| ![][Ye] | ![][G]![][S] | ![][Fi]![][En] | ![][P]![][Y]    | ![][Ai]![][Dr]  |
+| ![][Si] | ![][B]![][Y] | ![][Ai]![][Dr] | ![][G]![][S]    | ![][Vy]![][Fi]  |
 
 [G]: doc/greenstone.png
 [R]: doc/redstone.png
@@ -67,12 +67,18 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 [B]: doc/bluestone.png
 [Y]: doc/yellowstone.png
 [S]: doc/silverstone.png
-[GE]: doc/greencrest.png
-[RE]: doc/redcrest.png
-[PE]: doc/purplecrest.png
-[BE]: doc/bluecrest.png
-[YE]: doc/yellowcrest.png
-[SE]: doc/silvercrest.png
+[Vy]: doc/vyse.png
+[Ai]: doc/aika.png
+[Fi]: doc/fina.png
+[Dr]: doc/drachma.png
+[En]: doc/enrique.png
+[Gi]: doc/gilder.png
+[Gr]: doc/greencrest.png
+[Re]: doc/redcrest.png
+[Pu]: doc/purplecrest.png
+[Bl]: doc/bluecrest.png
+[Ye]: doc/yellowcrest.png
+[Si]: doc/silvercrest.png
 
 ## Resources
 
