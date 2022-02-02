@@ -61,7 +61,7 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 |  ![][G]![][S] | ![][YC] | ![][P]![][S]   |    |
 |  ![][B]![][Y] | ![][SC] | ![][G]![][Y]   |    |
 
-[Green]: ![Green](doc/greenstone.png "Green") 
+[Green]: ![Test](doc/greenstone.png "Green") 
 [G]: doc/greenstone.png "Green"
 [R]: doc/redstone.png "Red"
 [P]: doc/purplestone.png "Purple"
