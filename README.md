@@ -69,24 +69,24 @@ with party members.
 | ![][Ye] | ![][G]![][S] | ![][Fi]![][En] | ![][P]![][Y]    | ![][Ai]![][Dr]  |
 | ![][Si] | ![][B]![][Y] | ![][Ai]![][Dr] | ![][G]![][S]    | ![][Vy]![][Fi]  |
 
-[G]: doc/greenstone.png
-[R]: doc/redstone.png
-[P]: doc/purplestone.png
-[B]: doc/bluestone.png
-[Y]: doc/yellowstone.png
-[S]: doc/silverstone.png
-[Vy]: doc/vyse.png
-[Ai]: doc/aika.png
-[Fi]: doc/fina.png
-[Dr]: doc/drachma.png
-[En]: doc/enrique.png
-[Gi]: doc/gilder.png
-[Gr]: doc/greencrest.png
-[Re]: doc/redcrest.png
-[Pu]: doc/purplecrest.png
-[Bl]: doc/bluecrest.png
-[Ye]: doc/yellowcrest.png
-[Si]: doc/silvercrest.png
+[G]: doc/greenstone.png "Green"
+[R]: doc/redstone.png "Red"
+[P]: doc/purplestone.png "Purple"
+[B]: doc/bluestone.png "Blue"
+[Y]: doc/yellowstone.png "Yellow"
+[S]: doc/silverstone.png "Silver"
+[Vy]: doc/vyse.png "Vyse (Blue)"
+[Ai]: doc/aika.png "Aika (Yellow)"
+[Fi]: doc/fina.png "Fina (Silver)"
+[Dr]: doc/drachma.png "Drachma (Green)"
+[En]: doc/enrique.png "Enrique (Purple)"
+[Gi]: doc/gilder.png "Gilder (Red)"
+[Gr]: doc/greencrest.png "Green"
+[Re]: doc/redcrest.png "Red"
+[Pu]: doc/purplecrest.png "Purple"
+[Bl]: doc/bluecrest.png "Blue"
+[Ye]: doc/yellowcrest.png "Yellow"
+[Si]: doc/silvercrest.png "Silver"
 
 ## Resources
 
