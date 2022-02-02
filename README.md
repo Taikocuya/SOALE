@@ -54,26 +54,25 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 
 | Vulnerable To | Element | Strong Against | Weak Against   |
 |--------------:|:-------:|:---------------|:---------------|
-|  ![G][G]![S][S] | ![][GE] | ![][B]![][Y]   | [GT]   |
-|  ![P][P]![P][B] | ![][RE] | ![][G]![][P]   |    |
-|  ![][R]![][Y] | ![][PE] | ![][R]![][B]   |    |
-|  ![][G]![][P] | ![][BE] | ![][R]![][S]   |    |
-|  ![][G]![][S] | ![][YE] | ![][P]![][S]   |    |
-|  ![][B]![][Y] | ![][SE] | ![][G]![][Y]   |    |
+|  ![G]![][S] | ![][GE] | ![][B]![][Y]   | ![][R]![][S]   |
+|  ![][P]![][B] | ![][RE] | ![][G]![][P]   | ![][R]![][B]   |
+|  ![][R]![][Y] | ![][PE] | ![][R]![][B]   | ![][P]![][Y]   |
+|  ![][G]![][P] | ![][BE] | ![][R]![][S]   | ![][G]![][P]   |
+|  ![][G]![][S] | ![][YE] | ![][P]![][S]   | ![][G]![][Y]   |
+|  ![][B]![][Y] | ![][SE] | ![][G]![][Y]   | ![][B]![][S]   |
 
-[GT]: <img src="doc/greenstone.png" alt="G" title="Green">
-[G]: doc/greenstone.png "Green"
-[R]: doc/redstone.png "Red"
-[P]: doc/purplestone.png "Purple"
-[B]: doc/bluestone.png "Blue"
-[Y]: doc/yellowstone.png "Yellow"
-[S]: doc/silverstone.png "Silver"
-[GE]: doc/greencrest.png "Green Element"
-[RE]: doc/redcrest.png "Red Element"
-[PE]: doc/purplecrest.png "Purple Element"
-[BE]: doc/bluecrest.png "Blue Element"
-[YE]: doc/yellowcrest.png "Yellow Element"
-[SE]: doc/silvercrest.png ""Silver Element"
+[G]: []doc/greenstone.png
+[R]: doc/redstone.png
+[P]: doc/purplestone.png
+[B]: doc/bluestone.png
+[Y]: doc/yellowstone.png
+[S]: doc/silverstone.png
+[GE]: doc/greencrest.png
+[RE]: doc/redcrest.png
+[PE]: doc/purplecrest.png
+[BE]: doc/bluecrest.png
+[YE]: doc/yellowcrest.png
+[SE]: doc/silvercrest.png
 
 ## Resources
 
