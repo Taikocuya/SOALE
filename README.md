@@ -61,14 +61,14 @@ attribute which the enemy is more vulnerable with. The effects differ according
 to the combination of attributes. The chart below indicates the effects of 
 attacking with attributes and defending with certain party members.
 
-| Enemy   | Attack With  | Defend As      | Avoid Attacking | Avoid Defending |
-|:-------:|:------------:|:--------------:|:---------------:|:---------------:|
-| ![][Gr] | ![][R]![][S] | ![][Vy]![][Ai] | ![][B]![][Y]    | ![][Fi]![][Gi]  |
-| ![][Re] | ![][P]![][B] | ![][Dr]![][En] | ![][G]![][R]    | ![][Vy]![][Gi]  |
-| ![][Pu] | ![][R]![][Y] | ![][Vy]![][Gi] | ![][P]![][B]    | ![][Ai]![][En]  |
-| ![][Bl] | ![][G]![][P] | ![][Fi]![][Gi] | ![][R]![][S]    | ![][Dr]![][En]  |
-| ![][Ye] | ![][G]![][S] | ![][Fi]![][En] | ![][P]![][Y]    | ![][Ai]![][Dr]  |
-| ![][Si] | ![][B]![][Y] | ![][Ai]![][Dr] | ![][G]![][S]    | ![][Vy]![][Fi]  |
+| Enemy   | Attack With  | Avoid Attacking | Defend As      | Avoid Defending |
+|:-------:|:------------:|:---------------:|:--------------:|:---------------:|
+| ![][Gr] | ![][R]![][S] | ![][B]![][Y]    | ![][Vy]![][Ai] | ![][Fi]![][Gi]  |
+| ![][Re] | ![][P]![][B] | ![][G]![][R]    | ![][Dr]![][En] | ![][Vy]![][Gi]  |
+| ![][Pu] | ![][R]![][Y] | ![][P]![][B]    | ![][Vy]![][Gi] | ![][Ai]![][En]  |
+| ![][Bl] | ![][G]![][P] | ![][R]![][S]    | ![][Fi]![][Gi] | ![][Dr]![][En]  |
+| ![][Ye] | ![][G]![][S] | ![][P]![][Y]    | ![][Fi]![][En] | ![][Ai]![][Dr]  |
+| ![][Si] | ![][B]![][Y] | ![][G]![][S]    | ![][Ai]![][Dr] | ![][Vy]![][Fi]  |
 
 [G]: doc/greenstone.png "Green"
 [R]: doc/redstone.png "Red"
