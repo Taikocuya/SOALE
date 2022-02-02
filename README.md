@@ -54,14 +54,14 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 
 | Vulnerable To | Element | Strong Against | Weak Against   |
 |--------------:|:-------:|:---------------|:---------------|
-|  ![G]![][S] | ![][GE] | ![][B]![][Y]   | ![][R]![][S]   |
+|  ![][G]![][S] | ![][GE] | ![][B]![][Y]   | ![][R]![][S]   |
 |  ![][P]![][B] | ![][RE] | ![][G]![][P]   | ![][R]![][B]   |
 |  ![][R]![][Y] | ![][PE] | ![][R]![][B]   | ![][P]![][Y]   |
 |  ![][G]![][P] | ![][BE] | ![][R]![][S]   | ![][G]![][P]   |
 |  ![][G]![][S] | ![][YE] | ![][P]![][S]   | ![][G]![][Y]   |
 |  ![][B]![][Y] | ![][SE] | ![][G]![][Y]   | ![][B]![][S]   |
 
-[G]: []doc/greenstone.png
+[G]: doc/greenstone.png
 [R]: doc/redstone.png
 [P]: doc/purplestone.png
 [B]: doc/bluestone.png
