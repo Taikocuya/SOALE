@@ -53,7 +53,7 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 ## Element Efficiency
 
 | Enemy   | Attack       | Defend         | Avoid Attacking | Avoid Defending |
-|:--------|:-------------|:---------------|:----------------|:----------------|
+|:-------:|:------------:|:--------------:|:---------------:|:---------------:|
 | ![][Gr] | ![][R]![][S] | ![][Vy]![][Ai] | ![][B]![][Y]    | ![][Fi]![][Gi]  |
 | ![][Re] | ![][P]![][B] | ![][Dr]![][En] | ![][G]![][R]    | ![][Vy]![][Gi]  |
 | ![][Pu] | ![][R]![][Y] | ![][Vy]![][Gi] | ![][P]![][B]    | ![][Ai]![][En]  |
