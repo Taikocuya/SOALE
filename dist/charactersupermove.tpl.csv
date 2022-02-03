@@ -3,7 +3,7 @@ Entry ID,[Entry Name],[Finalized],Element ID,[Element Name],Order,Occasion Flags
 37,Rain of Swords,Undefined,6,Neutral,202,0b0010,,X,,0,Damage,4,All ECs,0,Vyse,1,14,15,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 38,Pirates' Wrath,Undefined,6,Neutral,204,0b0010,,X,,0,Damage,3,Single EC,0,Vyse,1,21,75,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 39,Omega Psyclone,False,1,Red,214,0b0010,,X,,0,Damage,4,All ECs,1,Aika,1,12,230,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
-40,Alpha Storm,False,1,Red,210,0b0010,,X,,0,Damage,39,EC Ray S3,1,Aika,1,4,60,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
+40,Alpha Storm,True,1,Red,210,0b0010,,X,,0,Damage,39,EC Ray S3,1,Aika,1,4,60,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 41,Lambda Burst,False,1,Red,212,0b0010,,X,,0,Damage,4,All ECs,1,Aika,1,8,130,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 42,Lunar Glyph,Undefined,5,Silver,221,0b0010,,X,,8,Stone + Damage,3,Single EC,2,Fina,1,4,110,0,Physical,2,Stone,30,0,Magic Cannon,0,0,Damage,0,0,0,0
 43,Lunar Winds,Undefined,5,Silver,223,0b0010,,X,,17,Rem Pos States + Damage,4,All ECs,2,Fina,1,10,180,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
@@ -13,7 +13,7 @@ Entry ID,[Entry Name],[Finalized],Element ID,[Element Name],Order,Occasion Flags
 47,The Judgement,Undefined,6,Neutral,242,0b0010,,X,,0,Damage,3,Single EC,4,Enrique,1,16,80,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 48,Gunslinger,Undefined,6,Neutral,250,0b0010,,X,,0,Damage,43,EC Triangle 60°,5,Gilder,1,9,20,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 49,The Claudia,Undefined,6,Neutral,252,0b0010,,X,,0,Damage,4,All ECs,5,Gilder,1,18,15,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
-50,Counterstrike,False,6,Neutral,301,0b0010,,X,,38,Counter% to 100% + Guard,5,Self,0,Vyse,2,0,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
+50,Counterstrike,True,6,Neutral,301,0b0010,,X,,38,Counter% to 100% + Guard,5,Self,0,Vyse,2,0,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 51,Skull Shield,False,6,Neutral,303,0b0010,,X,,46,Counter% to 100% + Block Attack,2,All PCs,0,Vyse,2,5,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 52,Delta Shield,False,6,Neutral,311,0b0010,,X,,39,Block Magic,2,All PCs,1,Aika,2,6,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 53,Epsilon Mirror,False,6,Neutral,313,0b0010,,X,,77,Recover MP + Invulnerable,5,Self,1,Aika,2,6,10,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0

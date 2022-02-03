@@ -20,7 +20,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 18,Scout Wing,Undefined,1,Aika,50,-1,None,680,53,110,-1,None,0,0
 19,Ice Splitter,False,1,Aika,50,-1,None,7390,142,110,34,Purple,0,-2
 20,Leather Crescent,True,1,Aika,50,-1,None,140,30,110,-1,None,0,0
-21,Throwing Blade,Undefined,1,Aika,50,-1,None,310,38,110,-1,None,0,0
+21,Throwing Blade,True,1,Aika,50,-1,None,310,38,110,-1,None,0,0
 22,Hunting Arc,Undefined,1,Aika,50,-1,None,1820,80,110,-1,None,0,0
 23,Valuarang,Undefined,1,Aika,50,-1,None,480,46,110,-1,None,0,0
 24,Yin Wing,False,1,Aika,50,17,Sleep by 5%,5930,130,110,-1,None,0,0

@@ -8,7 +8,7 @@ Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect N
 246,Aura of Valor,Undefined,0b0011,,X,X,35,Recover SP,2,All PCs,100,100,1000,40,-1,None,-1,None,-1,None,0
 247,Soul Crystal,Undefined,0b0000,,,,-1,None,0,None,0,100,3000,0,-1,None,-1,None,-1,None,0
 248,Unholy Dagger,Undefined,0b0000,,,,-1,None,0,None,0,100,4000,0,-1,None,-1,None,-1,None,0
-249,Curia Crystal,Undefined,0b0010,,X,,30,Rem Neg States B,1,Single PC,100,50,100,0,5,Silver,1,Magical,-1,None,0
+249,Curia Crystal,True,0b0010,,X,,30,Rem Neg States B,1,Single PC,100,50,100,0,5,Silver,1,Magical,-1,None,0
 250,Risan Crystal,True,0b0010,,X,,27,Revive w/ HP of 50%,1,Single PC,100,50,300,0,5,Silver,1,Magical,7,Revival,-1
 251,Riselem Crystal,Assigned,0b0010,,X,,28,Revive w/ HP of 100%,1,Single PC,100,50,900,0,5,Silver,1,Magical,7,Revival,0
 252,Glyph of Might,Undefined,0b0010,,X,,21,Incr Attack & Defense,1,Single PC,100,50,2000,0,1,Red,1,Magical,-1,None,0
@@ -34,7 +34,7 @@ Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect N
 272,Wevlen Box,False,0b0010,,X,,0,Damage,34,EC Square S7,32,1,3600,525,3,Blue,1,Magical,-1,None,0
 273,Electri Box,True,0b0010,,X,,0,Damage,36,EC Ray S1,16,1,500,90,4,Yellow,1,Magical,-1,None,0
 274,Electrum Box,False,0b0010,,X,,0,Damage,37,EC Ray S3,32,1,2400,420,4,Yellow,1,Magical,-1,None,0
-275,Sacri Box,Undefined,0b0010,,X,,31,Recover HP,1,Single PC,20,1,700,500,0,Green,1,Magical,-1,None,0
+275,Sacri Box,True,0b0010,,X,,31,Recover HP,1,Single PC,20,1,700,500,0,Green,1,Magical,-1,None,0
 276,Sacrum Box,False,0b0010,,X,,31,Recover HP,2,All PCs,32,1,4000,1000,0,Green,1,Magical,-1,None,0
 277,Riselem Box,False,0b0010,,X,,28,Revive w/ HP of 100%,1,Single PC,48,1,4200,0,5,Silver,1,Magical,7,Revival,0
 278,Sylenis Box,Undefined,0b0010,,X,,12,Silence,3,Single EC,32,1,300,0,2,Purple,1,Magical,5,Silence,30

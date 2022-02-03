@@ -2,23 +2,23 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 0,Volcanic Blast,Undefined,0,S-Move,0,Damage,2,All PCs,16,Attack,20,1,Red,0,Physical,0,Power,0,Power,-1,None,0
 1,Cinder Storm,Undefined,0,S-Move,8,Stone + Damage,1,Single PC,16,Attack,5,1,Red,0,Physical,16,Attack,17,Defense,2,Stone,30
 2,Feather Slash,False,0,S-Move,0,Damage,102,PC Ray S5,16,Attack,30,0,Green,0,Physical,0,Power,0,Power,-1,None,0
-3,欠番,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+3,欠番,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 4,Laser,True,0,S-Move,0,Damage,1,Single PC,16,Attack,20,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
 5,Thunder of Fury,True,0,S-Move,0,Damage,101,PC Ray S3,16,Attack,30,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
-6,欠番,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+6,欠番,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 7,Circle of Panic,False,0,S-Move,11,Confusion,1,Single PC,0,Power,0,6,Neutral,0,Physical,16,Attack,17,Defense,4,Confusion,0
 8,Ring of Sleep,False,0,S-Move,9,Sleep,1,Single PC,0,Power,0,6,Neutral,0,Physical,16,Attack,17,Defense,3,Sleep,0
 9,Target Search,True,0,S-Move,38,Counter% to 100% + Guard,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-10,欠番,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+10,欠番,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 11,Tackle,True,0,S-Move,0,Damage,102,PC Ray S5,16,Attack,40,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
 12,Death Strike,False,0,S-Move,68,Unconscious + Damage B,1,Single PC,16,Attack,5,5,Silver,0,Physical,16,Attack,17,Defense,1,Unconscious,70
 13,Charge,False,0,S-Move,-1,None,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 14,Poison Gas,False,0,S-Move,4,Poison + Damage,96,PC Square S3,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50
 15,Stone Breath,Undefined,0,S-Move,8,Stone + Damage,1,Single PC,16,Attack,15,0,Green,0,Physical,16,Attack,17,Defense,2,Stone,60
-16,欠番,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+16,欠番,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 17,Random Fire,False,0,S-Move,0,Damage,98,PC Square S7,16,Attack,25,1,Red,0,Physical,0,Power,0,Power,-1,None,0
-18,欠番,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-19,Counter Stance,Undefined,0,S-Move,38,Counter% to 100% + Guard,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+18,欠番,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+19,Counter Stance,True,0,S-Move,38,Counter% to 100% + Guard,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 20,Gather Strength,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 21,Counter Stance,False,0,S-Move,38,Counter% to 100% + Guard,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 22,Burst,Undefined,0,S-Move,0,Damage,97,PC Square S5,16,Attack,40,1,Red,0,Physical,0,Power,0,Power,-1,None,0
@@ -34,7 +34,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 32,Crypt Laser,False,0,S-Move,68,Unconscious + Damage B,1,Single PC,16,Attack,5,5,Silver,0,Physical,16,Attack,17,Defense,1,Unconscious,60
 33,Death Laser,False,0,S-Move,68,Unconscious + Damage B,1,Single PC,16,Attack,5,5,Silver,0,Physical,16,Attack,17,Defense,1,Unconscious,60
 34,Assess Damage,True,0,S-Move,38,Counter% to 100% + Guard,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-35,欠番,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+35,欠番,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 36,Steelskin,False,0,S-Move,67,Invulnerable,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 37,Focus,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 38,Eternal Freeze,False,0,S-Move,0,Damage,2,All PCs,16,Attack,12,2,Purple,0,Physical,0,Power,0,Power,-1,None,0
@@ -90,21 +90,21 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 88,Call Allies,False,0,S-Move,43,Call EC,0,None,21,Feralisk,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 89,Call Allies,False,0,S-Move,43,Call EC,0,None,22,Ferlith,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 90,Silver Eclipse,False,0,S-Move,0,Damage,2,All PCs,16,Attack,25,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
-91,使ってないよねえ,False,0,S-Move,8,Stone + Damage,1,Single PC,16,Attack,15,6,Neutral,0,Physical,16,Attack,17,Defense,2,Stone,70
+91,使ってないよねえ,True,0,S-Move,8,Stone + Damage,1,Single PC,16,Attack,15,6,Neutral,0,Physical,16,Attack,17,Defense,2,Stone,70
 92,Fatigue Breath,Undefined,0,S-Move,72,Fatigue + Damage,1,Single PC,16,Attack,15,0,Green,0,Physical,16,Attack,17,Defense,6,Fatigue,20
 93,Fatigue Breath,Undefined,0,S-Move,72,Fatigue + Damage,1,Single PC,16,Attack,15,1,Red,0,Physical,16,Attack,17,Defense,6,Fatigue,20
 94,Lunar Blessing,False,0,S-Move,33,Regenerate,5,Self,600,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-95,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-96,欠番,False,0,S-Move,0,Damage,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+95,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+96,欠番,True,0,S-Move,0,Damage,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 97,Emergency,False,0,S-Move,64,Call EC + Defeat All ECs,0,None,99,Kantor,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 98,Call Allies,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 99,Blaster,True,0,S-Move,0,Damage,101,PC Ray S3,16,Attack,25,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
 100,Magic?,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-101,予備ブランク,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-102,予備ブランク,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-103,予備ブランク,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-104,予備ブランク,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-105,予備ブランク,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+101,予備ブランク,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+102,予備ブランク,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+103,予備ブランク,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+104,予備ブランク,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+105,予備ブランク,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 106,Call Allies,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 107,Call Allies,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 108,Call Allies,Undefined,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
@@ -119,166 +119,166 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 117,Speed Potion,False,0,S-Move,20,Incr Quick,4,All ECs,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 118,Sacres Crystal,False,0,S-Move,31,Recover HP,3,Single EC,800,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 119,Death Tackle,False,0,S-Move,0,Damage,102,PC Ray S5,16,Attack,40,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
-120,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-121,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-122,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-123,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-124,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-125,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-126,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-127,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-128,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-129,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-130,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-131,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-132,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-133,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-134,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-135,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-136,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-137,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-138,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-139,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-140,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-141,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-142,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-143,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-144,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-145,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-146,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-147,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-148,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-149,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-150,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-151,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-152,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-153,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-154,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-155,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-156,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-157,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-158,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-159,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+120,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+121,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+122,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+123,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+124,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+125,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+126,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+127,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+128,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+129,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+130,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+131,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+132,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+133,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+134,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+135,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+136,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+137,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+138,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+139,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+140,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+141,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+142,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+143,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+144,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+145,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+146,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+147,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+148,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+149,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+150,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+151,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+152,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+153,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+154,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+155,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+156,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+157,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+158,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+159,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 160,Search,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 161,Poison Gas,False,0,S-Move,4,Poison + Damage,96,PC Square S3,16,Attack,15,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50
 162,Fatigue Gas,Undefined,0,S-Move,72,Fatigue + Damage,96,PC Square S3,16,Attack,15,4,Yellow,0,Physical,16,Attack,17,Defense,6,Fatigue,20
-163,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-164,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-165,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-166,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-167,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-168,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-169,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+163,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+164,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+165,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+166,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+167,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+168,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+169,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 170,Needle Storm,True,0,S-Move,0,Damage,1,Single PC,16,Attack,40,3,Blue,0,Physical,0,Power,0,Power,-1,None,0
-171,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-172,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-173,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-174,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-175,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-176,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-177,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-178,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-179,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+171,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+172,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+173,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+174,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+175,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+176,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+177,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+178,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+179,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 180,Lava Storm,Undefined,0,S-Move,0,Damage,2,All PCs,16,Attack,15,1,Red,0,Physical,0,Power,0,Power,-1,None,0
 181,Blast Breath,False,0,S-Move,0,Damage,2,All PCs,16,Attack,15,1,Red,0,Physical,0,Power,0,Power,-1,None,0
 182,Loqua Spray,False,0,S-Move,0,Damage,2,All PCs,16,Attack,25,1,Red,0,Physical,0,Power,0,Power,-1,None,0
 183,Frost Breath,True,0,S-Move,17,Rem Pos States + Damage,2,All PCs,16,Attack,15,2,Purple,0,Physical,0,Power,0,Power,-1,None,0
 184,Frost Breath,False,0,S-Move,17,Rem Pos States + Damage,2,All PCs,16,Attack,15,2,Purple,0,Physical,0,Power,0,Power,-1,None,0
-185,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-186,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-187,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-188,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-189,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+185,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+186,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+187,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+188,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+189,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 190,Damyun,False,0,S-Move,12,Silence,2,All PCs,0,Power,0,3,Blue,0,Physical,16,Attack,17,Defense,5,Silence,40
 191,Slumber Dust,False,0,S-Move,9,Sleep,102,PC Ray S5,0,Power,0,3,Blue,0,Physical,16,Attack,17,Defense,3,Sleep,40
-192,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-193,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-194,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-195,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-196,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-197,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-198,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-199,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+192,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+193,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+194,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+195,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+196,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+197,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+198,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+199,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 200,Call Allies,Undefined,0,S-Move,43,Call EC,0,None,13,Azbeth,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 201,Call Allies,Undefined,0,S-Move,43,Call EC,0,None,96,Stonebeak,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-202,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-203,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-204,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-205,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-206,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-207,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-208,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-209,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+202,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+203,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+204,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+205,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+206,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+207,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+208,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+209,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 210,HP Absorb,True,0,S-Move,44,Absorb HP,1,Single PC,2,Vigor,10,0,Green,0,Physical,0,Power,0,Power,-1,None,0
 211,HP Absorb,Undefined,0,S-Move,44,Absorb HP,1,Single PC,2,Vigor,10,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
 212,HP Absorb,False,0,S-Move,44,Absorb HP,1,Single PC,2,Vigor,20,1,Red,0,Physical,0,Power,0,Power,-1,None,0
 213,HP Absorb,False,0,S-Move,44,Absorb HP,1,Single PC,2,Vigor,20,2,Purple,0,Physical,0,Power,0,Power,-1,None,0
-214,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-215,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-216,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-217,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-218,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-219,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+214,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+215,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+216,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+217,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+218,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+219,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 220,Rapid Fire,Undefined,0,S-Move,0,Damage,1,Single PC,16,Attack,30,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
-221,欠番,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-222,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-223,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-224,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-225,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-226,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-227,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-228,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-229,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+221,欠番,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+222,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+223,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+224,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+225,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+226,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+227,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+228,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+229,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 230,Irnagun,False,0,S-Move,0,Damage,1,Single PC,16,Attack,40,3,Blue,0,Physical,0,Power,0,Power,-1,None,0
-231,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-232,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-233,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-234,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-235,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-236,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-237,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-238,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-239,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-240,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-241,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-242,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-243,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-244,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-245,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-246,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-247,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-248,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-249,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+231,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+232,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+233,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+234,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+235,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+236,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+237,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+238,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+239,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+240,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+241,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+242,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+243,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+244,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+245,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+246,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+247,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+248,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+249,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 250,Wind Slash,False,0,S-Move,0,Damage,103,PC Triangle 60°,16,Attack,15,3,Blue,0,Physical,0,Power,0,Power,-1,None,0
 251,Sonic Wave,True,0,S-Move,0,Damage,103,PC Triangle 60°,16,Attack,15,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
-252,欠番,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-253,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-254,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-255,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-256,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-257,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-258,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-259,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+252,欠番,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+253,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+254,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+255,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+256,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+257,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+258,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+259,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 260,Quake,Undefined,0,S-Move,0,Damage,2,All PCs,16,Attack,20,2,Purple,0,Physical,0,Power,0,Power,-1,None,0
-261,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-262,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-263,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-264,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-265,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-266,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-267,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-268,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-269,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+261,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+262,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+263,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+264,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+265,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+266,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+267,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+268,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+269,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 270,Self-destruct,Undefined,0,S-Move,62,Defeat User + Damage,200,PCs Nearby S1,16,Attack,40,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,100
 271,Poison Explode,True,0,S-Move,62,Defeat User + Damage,200,PCs Nearby S1,16,Attack,40,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50
-272,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-273,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-274,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-275,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-276,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-277,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-278,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-279,ダミー,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+272,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+273,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+274,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+275,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+276,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+277,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+278,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+279,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 280,Chak Mol,False,0,S-Move,72,Fatigue + Damage,2,All PCs,16,Attack,30,0,Green,0,Physical,16,Attack,17,Defense,6,Fatigue,70
 281,Golden Flurry,False,0,S-Move,70,Confusion + Damage,2,All PCs,16,Attack,30,3,Blue,0,Physical,16,Attack,17,Defense,4,Confusion,70
 282,Bodyguard,False,0,S-Move,43,Call EC,0,None,248,Youjin,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
