@@ -55,10 +55,7 @@ Skies of Arcadia Legends Encore also known as Eternal Arcadia Legends Encore
 The elements have been significantly rebalanced compared to the original game, 
 which opens up new strategic possibilities. Also, your party members now have 
 strengths and weaknesses against specific attributes, which must be considered 
-when choosing the right strategy. Each attribute affects one another in certain 
-ways, and you will be able to give greater damages by attacking with the 
-attribute which the enemy is more vulnerable with. The effects differ according 
-to the combination of attributes. The chart below indicates the effects of 
+when choosing the right strategy. The chart below indicates the effects of 
 attacking with attributes and defending with certain party members.
 
 | Enemy   | Attack With  | Avoid Attacking | Defend As      | Avoid Defending |
