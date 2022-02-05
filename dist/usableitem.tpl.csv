@@ -26,22 +26,22 @@ Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect N
 264,Sylph Seed,Undefined,0b0100,X,,,58,Grow Quick,1,Single PC,100,100,500,3,-1,None,-1,None,-1,None,0
 265,Vidal Seed,Undefined,0b0100,X,,,59,Grow MAXHP,1,Single PC,100,100,500,30,-1,None,-1,None,-1,None,0
 266,Magus Seed,Undefined,0b0100,X,,,60,Grow MAXMP,1,Single PC,100,100,500,1,-1,None,-1,None,-1,None,0
-267,Pyri Box,Undefined,0b0010,,X,,0,Damage,4,All ECs,16,1,700,80,1,Red,1,Magical,-1,None,0
-268,Pyrum Box,False,0b0010,,X,,0,Damage,4,All ECs,32,1,2400,360,1,Red,1,Magical,-1,None,0
-269,Crystales Box,False,0b0010,,X,,0,Damage,3,Single EC,32,1,1600,330,2,Purple,1,Magical,-1,None,0
-270,Crystalen Box,False,0b0010,,X,,0,Damage,3,Single EC,32,1,3600,600,2,Purple,1,Magical,-1,None,0
-271,Wevles Box,False,0b0010,,X,,0,Damage,33,EC Square S5,32,1,1000,170,3,Blue,1,Magical,-1,None,0
-272,Wevlen Box,False,0b0010,,X,,0,Damage,34,EC Square S7,32,1,3600,525,3,Blue,1,Magical,-1,None,0
-273,Electri Box,True,0b0010,,X,,0,Damage,36,EC Ray S1,16,1,500,90,4,Yellow,1,Magical,-1,None,0
-274,Electrum Box,False,0b0010,,X,,0,Damage,37,EC Ray S3,32,1,2400,420,4,Yellow,1,Magical,-1,None,0
-275,Sacri Box,True,0b0010,,X,,31,Recover HP,1,Single PC,20,1,700,500,0,Green,1,Magical,-1,None,0
-276,Sacrum Box,False,0b0010,,X,,31,Recover HP,2,All PCs,32,1,4000,1000,0,Green,1,Magical,-1,None,0
-277,Riselem Box,False,0b0010,,X,,28,Revive w/ HP of 100%,1,Single PC,48,1,4200,0,5,Silver,1,Magical,7,Revival,0
-278,Sylenis Box,True,0b0010,,X,,12,Silence,3,Single EC,32,1,300,0,2,Purple,1,Magical,5,Silence,30
-279,Panika Box,Undefined,0b0010,,X,,11,Confusion,3,Single EC,32,1,300,0,2,Purple,1,Magical,4,Confusion,30
-280,Driln Box,Undefined,0b0010,,X,,26,Decr All Attr,3,Single EC,32,1,300,0,4,Yellow,1,Magical,8,Weak,30
-281,Slipara Box,Assigned,0b0010,,X,,9,Sleep,4,All ECs,32,1,3000,0,3,Blue,1,Magical,3,Sleep,60
-282,Eternum Box,False,0b0010,,X,,6,Unconscious + Damage A,3,Single EC,48,1,8000,250,5,Silver,1,Magical,1,Unconscious,90
+267,Pyri Box,Undefined,0b0010,,X,,0,Damage,4,All ECs,16,10,700,80,1,Red,1,Magical,-1,None,0
+268,Pyrum Box,False,0b0010,,X,,0,Damage,4,All ECs,32,10,2400,360,1,Red,1,Magical,-1,None,0
+269,Crystales Box,False,0b0010,,X,,0,Damage,3,Single EC,32,10,1600,330,2,Purple,1,Magical,-1,None,0
+270,Crystalen Box,False,0b0010,,X,,0,Damage,3,Single EC,32,10,3600,600,2,Purple,1,Magical,-1,None,0
+271,Wevles Box,False,0b0010,,X,,0,Damage,33,EC Square S5,32,10,1000,170,3,Blue,1,Magical,-1,None,0
+272,Wevlen Box,False,0b0010,,X,,0,Damage,34,EC Square S7,32,10,3600,525,3,Blue,1,Magical,-1,None,0
+273,Electri Box,True,0b0010,,X,,0,Damage,36,EC Ray S1,16,10,500,90,4,Yellow,1,Magical,-1,None,0
+274,Electrum Box,False,0b0010,,X,,0,Damage,37,EC Ray S3,32,10,2400,420,4,Yellow,1,Magical,-1,None,0
+275,Sacri Box,True,0b0010,,X,,31,Recover HP,1,Single PC,20,10,700,500,0,Green,1,Magical,-1,None,0
+276,Sacrum Box,False,0b0010,,X,,31,Recover HP,2,All PCs,32,10,4000,1000,0,Green,1,Magical,-1,None,0
+277,Riselem Box,False,0b0010,,X,,28,Revive w/ HP of 100%,1,Single PC,48,10,4200,0,5,Silver,1,Magical,7,Revival,0
+278,Sylenis Box,True,0b0010,,X,,12,Silence,3,Single EC,32,10,300,0,2,Purple,1,Magical,5,Silence,30
+279,Panika Box,Undefined,0b0010,,X,,11,Confusion,3,Single EC,32,10,300,0,2,Purple,1,Magical,4,Confusion,30
+280,Driln Box,Undefined,0b0010,,X,,26,Decr All Attr,3,Single EC,32,10,300,0,4,Yellow,1,Magical,8,Weak,30
+281,Slipara Box,Assigned,0b0010,,X,,9,Sleep,4,All ECs,32,10,3000,0,3,Blue,1,Magical,3,Sleep,60
+282,Eternum Box,False,0b0010,,X,,6,Unconscious + Damage A,3,Single EC,48,10,8000,250,5,Silver,1,Magical,1,Unconscious,90
 283,Rune of Ill Omen,Undefined,0b0000,,,,-1,None,0,None,0,100,1000,0,-1,None,-1,None,-1,None,0
 284,Golden Mask,Undefined,0b0000,,,,-1,None,0,None,0,100,2000,0,-1,None,-1,None,-1,None,0
 285,Sky Sardis,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,5,10,-1,None,-1,None,-1,None,0
