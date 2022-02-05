@@ -29,8 +29,15 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 900,*,2,Seeker,True,1,Action,550,Attack,2,Random PC
 1000,*,2,Seeker,True,1,Action,4,Laser,2,Random PC
 1100,*,2,Seeker,True,1,Action,552,Run,-1,None
-0,epevent.evp,2,Seeker,True,0,Branch,50,Used S-Move?,10000,Attack
-10,epevent.evp,2,Seeker,True,0,Branch,24,Rating 40%,10010,Laser
+0,epevent.evp,2,Seeker,True,0,Branch,11,Turn 1,20,Go to 20
+10,epevent.evp,2,Seeker,True,0,Branch,30,Always,30,Go to 30
+20,epevent.evp,2,Seeker,True,0,Branch,24,Rating 40%,10000,Attack
+30,epevent.evp,2,Seeker,True,0,Branch,14,Turn 4,1000,Go to 1000
+40,epevent.evp,2,Seeker,True,0,Branch,37,Turn ≥ 5,1000,Go to 1000
+50,epevent.evp,2,Seeker,True,0,Branch,50,Used S-Move?,1000,Go to 1000
+60,epevent.evp,2,Seeker,True,0,Branch,28,Rating 80%,10010,Laser
+1000,epevent.evp,2,Seeker,True,0,Branch,50,Used S-Move?,10000,Attack
+1010,epevent.evp,2,Seeker,True,0,Branch,24,Rating 40%,10010,Laser
 10000,epevent.evp,2,Seeker,True,1,Action,550,Attack,2,Random PC
 10010,epevent.evp,2,Seeker,True,1,Action,4,Laser,2,Random PC
 100,*,3,Marocca,True,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -1732,22 +1739,22 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10000,*,128,Antonio,True,1,Action,550,Attack,2,Random PC
 10010,*,128,Antonio,True,1,Action,5,Thunder of Fury,2,Random PC
 10020,*,128,Antonio,True,1,Action,34,Assess Damage,-1,None
-0,*,129,Sentinel,Undefined,0,Branch,1,HP < 50%,2000,Go to 2000
-1000,*,129,Sentinel,Undefined,0,Branch,48,Used Target Search?,1100,Go to 1100
-1010,*,129,Sentinel,Undefined,0,Branch,26,Rating 60%,10000,Attack
-1020,*,129,Sentinel,Undefined,0,Branch,30,Always,10010,Target Search
-1100,*,129,Sentinel,Undefined,0,Branch,28,Rating 80%,10020,Blaster
-1110,*,129,Sentinel,Undefined,0,Branch,30,Always,10000,Attack
-2000,*,129,Sentinel,Undefined,0,Branch,48,Used Target Search?,2100,Go to 2100
-2010,*,129,Sentinel,Undefined,0,Branch,50,Used S-Move?,2030,Go to 2030
-2015,*,129,Sentinel,Undefined,0,Branch,62,PCs Alive = 1,2030,Go to 2030
-2020,*,129,Sentinel,Undefined,0,Branch,25,Rating 50%,10020,Blaster
-2030,*,129,Sentinel,Undefined,0,Branch,25,Rating 50%,10000,Attack
-2040,*,129,Sentinel,Undefined,0,Branch,30,Always,10010,Target Search
-2100,*,129,Sentinel,Undefined,0,Branch,29,Rating 90%,10020,Blaster
-10000,*,129,Sentinel,Undefined,1,Action,550,Attack,2,Random PC
-10010,*,129,Sentinel,Undefined,1,Action,9,Target Search,-1,None
-10020,*,129,Sentinel,Undefined,1,Action,99,Blaster,2,Random PC
+0,*,129,Sentinel,True,0,Branch,1,HP < 50%,2000,Go to 2000
+1000,*,129,Sentinel,True,0,Branch,48,Used Target Search?,1100,Go to 1100
+1010,*,129,Sentinel,True,0,Branch,25,Rating 50%,10000,Attack
+1020,*,129,Sentinel,True,0,Branch,30,Always,10010,Target Search
+1100,*,129,Sentinel,True,0,Branch,28,Rating 80%,10020,Blaster
+1110,*,129,Sentinel,True,0,Branch,30,Always,10000,Attack
+2000,*,129,Sentinel,True,0,Branch,48,Used Target Search?,2100,Go to 2100
+2010,*,129,Sentinel,True,0,Branch,50,Used S-Move?,2030,Go to 2030
+2015,*,129,Sentinel,True,0,Branch,62,PCs Alive = 1,2030,Go to 2030
+2020,*,129,Sentinel,True,0,Branch,25,Rating 50%,10020,Blaster
+2030,*,129,Sentinel,True,0,Branch,24,Rating 40%,10000,Attack
+2040,*,129,Sentinel,True,0,Branch,30,Always,10010,Target Search
+2100,*,129,Sentinel,True,0,Branch,29,Rating 90%,10020,Blaster
+10000,*,129,Sentinel,True,1,Action,550,Attack,2,Random PC
+10010,*,129,Sentinel,True,1,Action,9,Target Search,-1,None
+10020,*,129,Sentinel,True,1,Action,99,Blaster,2,Random PC
 0,*,130,Bleigock,Undefined,0,Branch,13,Turn 3,2000,Go to 2000
 10,*,130,Bleigock,Undefined,0,Branch,14,Turn 4,2000,Go to 2000
 20,*,130,Bleigock,Undefined,0,Branch,37,Turn ≥ 5,2000,Go to 2000
