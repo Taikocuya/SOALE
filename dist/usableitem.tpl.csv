@@ -37,7 +37,7 @@ Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect N
 275,Sacri Box,True,0b0010,,X,,31,Recover HP,1,Single PC,20,1,700,500,0,Green,1,Magical,-1,None,0
 276,Sacrum Box,False,0b0010,,X,,31,Recover HP,2,All PCs,32,1,4000,1000,0,Green,1,Magical,-1,None,0
 277,Riselem Box,False,0b0010,,X,,28,Revive w/ HP of 100%,1,Single PC,48,1,4200,0,5,Silver,1,Magical,7,Revival,0
-278,Sylenis Box,Undefined,0b0010,,X,,12,Silence,3,Single EC,32,1,300,0,2,Purple,1,Magical,5,Silence,30
+278,Sylenis Box,True,0b0010,,X,,12,Silence,3,Single EC,32,1,300,0,2,Purple,1,Magical,5,Silence,30
 279,Panika Box,Undefined,0b0010,,X,,11,Confusion,3,Single EC,32,1,300,0,2,Purple,1,Magical,4,Confusion,30
 280,Driln Box,Undefined,0b0010,,X,,26,Decr All Attr,3,Single EC,32,1,300,0,4,Yellow,1,Magical,8,Weak,30
 281,Slipara Box,Assigned,0b0010,,X,,9,Sleep,4,All ECs,32,1,3000,0,3,Blue,1,Magical,3,Sleep,60

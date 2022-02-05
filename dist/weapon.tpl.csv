@@ -1,7 +1,7 @@
 Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],Buy,Attack,Hit%,Trait ID,[Trait Name],Pad 1,Trait Value
 0,Cutlass,True,0,Vyse,50,-1,None,70,20,90,-1,None,0,0
 1,Pirate Cutlass,True,0,Vyse,50,-1,None,170,33,90,-1,None,0,0
-2,Sky Cutlass,Undefined,0,Vyse,50,-1,None,450,45,90,-1,None,0,0
+2,Sky Cutlass,True,0,Vyse,50,-1,None,450,45,90,-1,None,0,0
 3,Admiral Cutlass,False,0,Vyse,50,-1,None,4970,128,90,-1,None,0,0
 4,Assassin Blade,Undefined,0,Vyse,50,0,Poison by 10%,830,58,90,-1,None,0,0
 5,Thunder Cutlass,False,0,Vyse,50,-1,None,8610,160,90,36,Yellow,0,-2
@@ -48,7 +48,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 46,Cupil Hammer,Undefined,2,Fina,0,-1,None,0,122,110,-1,None,0,0
 47,Final Cupil,Undefined,2,Fina,0,-1,None,0,300,100,-1,None,0,0
 48,Artificial Arm,True,3,Drachma,50,-1,None,390,43,80,-1,None,0,0
-49,Hook Hand,Undefined,3,Drachma,50,-1,None,580,51,80,-1,None,0,0
+49,Hook Hand,True,3,Drachma,50,-1,None,580,51,80,-1,None,0,0
 50,Mace Hand,False,3,Drachma,50,-1,None,2000,125,0,-1,None,0,0
 51,Mining Arm,False,3,Drachma,50,-1,None,9980,172,80,-1,None,0,0
 52,Dragon Arm,False,3,Drachma,50,-1,None,11850,181,80,-1,None,0,0

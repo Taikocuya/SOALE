@@ -1,5 +1,5 @@
 Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Trait 1 ID,[Trait 1 Name],Trait 1 Value,Trait 2 ID,[Trait 2 Name],Trait 2 Value,Trait 3 ID,[Trait 3 Name],Trait 3 Value,Trait 4 ID,[Trait 4 Name],Trait 4 Value
-160,Gemstone Ring,Undefined,0b00111010,X,X,X,,X,,50,150,18,MagDef,21,-1,None,0,-1,None,0,-1,None,0
+160,Gemstone Ring,True,0b00111010,X,X,X,,X,,50,150,18,MagDef,21,-1,None,0,-1,None,0,-1,None,0
 161,Prophet's Sand,False,0b00111010,X,X,X,,X,,50,890,18,MagDef,63,-1,None,0,-1,None,0,-1,None,0
 162,Meditation Ring,True,0b00111010,X,X,X,,X,,50,90,1,Will,10,-1,None,0,-1,None,0,-1,None,0
 163,Moondust Ring,False,0b00111010,X,X,X,,X,,50,1530,1,Will,48,-1,None,0,-1,None,0,-1,None,0
@@ -7,7 +7,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 165,Jade Swirl Ring,False,0b00111010,X,X,X,,X,,50,2960,18,MagDef,45,1,Will,45,-1,None,0,-1,None,0
 166,Cupil Ring,False,0b00001000,,,X,,,,100,2200,49,Unconscious,-3,37,Silver,-2,18,MagDef,45,1,Will,45
 167,Warrior's Heart,False,0b00111010,X,X,X,,X,,100,10,77,Recover SP,1,4,Quick,-75,-1,None,0,-1,None,0
-168,Throkryn's Scale,Undefined,0b00110101,X,X,,X,,X,50,300,16,Attack,10,-1,None,0,-1,None,0,-1,None,0
+168,Throkryn's Scale,True,0b00110101,X,X,,X,,X,50,300,16,Attack,10,-1,None,0,-1,None,0,-1,None,0
 169,Thryllak's Scale,False,0b00110101,X,X,,X,,X,50,2300,16,Attack,36,-1,None,0,-1,None,0,-1,None,0
 170,Marocca's Shell,True,0b00110101,X,X,,X,,X,50,100,17,Defense,6,-1,None,0,-1,None,0,-1,None,0
 171,Burocca's Shell,False,0b00110101,X,X,,X,,X,50,1920,17,Defense,36,-1,None,0,-1,None,0,-1,None,0
@@ -60,7 +60,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 218,Valuan Medallion,False,0b00111111,X,X,X,X,X,X,100,5000,49,Unconscious,-3,17,Defense,30,18,MagDef,30,-1,None,0
 219,Immunity Ring,False,0b00000101,,,,X,,X,50,1490,79,Block Neg States,-2,17,Defense,21,-1,None,0,-1,None,0
 220,Thermo Ring,Undefined,0b00111111,X,X,X,X,X,X,50,700,33,Red,-1,34,Purple,-1,1,Will,15,18,MagDef,15
-221,Slayer Ring,Undefined,0b00111111,X,X,X,X,X,X,50,600,1,Will,8,17,Defense,8,19,Hit%,10,4,Quick,8
+221,Slayer Ring,True,0b00111111,X,X,X,X,X,X,50,600,1,Will,8,17,Defense,8,19,Hit%,10,4,Quick,8
 222,Chance Ring,False,0b00111111,X,X,X,X,X,X,100,1000,79,Block Neg States,90,17,Defense,45,18,MagDef,45,-1,None,0
 223,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
 224,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
