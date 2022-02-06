@@ -5,8 +5,8 @@ Entry ID,Entry US Name,PC Flags,[V],[A],[F],[D],[E],[G],Sell%,US Order 1,US Orde
 83,Drachma's Shirt,0b00000100,"","","",X,"","",50,4,13,0,340,17,Defense,0,45,18,MagDef,0,42,-1,None,0,0,-1,None,0,0,0x2c97d4,76,"An extra large, heavy shirt that's been well\nworn by years of hard work."
 84,Enrique's Coat,0b00000010,"","","","",X,"",50,33,15,0,3390,17,Defense,0,119,18,MagDef,0,119,19,Hit%,0,10,20,Dodge%,0,5,0x2c9820,80,The light armor of the Valuan Imperial Court.\nIt improves the wearer's agility.
 85,Gilder's Mail,0b00100101,X,"","",X,"",X,50,27,24,0,2840,17,Defense,0,116,18,MagDef,0,99,-1,None,0,0,-1,None,0,0,0x2c9870,92,"Light armor, worn by Gilder under his coat.\nGilder likes to have fun, but he's no dummy."
-86,Light Robe,0b00011010,"",X,X,"",X,"",50,3,32,0,130,17,Defense,0,26,18,MagDef,0,40,-1,None,0,0,-1,None,0,0,0x2c98cc,64,A lightweight robe crafted from magically\nresistant fabric. 
-87,Valuan Uniform,0b00110101,X,X,"",X,"",X,50,2,55,0,170,17,Defense,0,32,18,MagDef,0,32,-1,None,0,0,-1,None,0,0,0x2c990c,56,A uniform stolen from a low-ranking Valuan\nnavigator.
+86,Light Robe,0b00011010,"",X,X,"",X,"",50,3,32,0,100,17,Defense,0,26,18,MagDef,0,40,-1,None,0,0,-1,None,0,0,0x2c98cc,64,A lightweight robe crafted from magically\nresistant fabric. 
+87,Valuan Uniform,0b00110101,X,X,"",X,"",X,50,2,55,0,130,17,Defense,0,32,18,MagDef,0,32,-1,None,0,0,-1,None,0,0,0x2c990c,56,A uniform stolen from a low-ranking Valuan\nnavigator.
 88,Sailor Uniform,0b00110101,X,X,"",X,"",X,50,5,49,0,330,17,Defense,0,44,18,MagDef,0,44,-1,None,0,0,-1,None,0,0,0x2c9944,80,"Inexpensive, light weight, and durable, this\nis the preferred dress of sailors."
 89,Mystic Dress,0b00011000,"",X,X,"","","",75,6,40,0,310,17,Defense,0,40,18,MagDef,0,50,-1,None,0,0,-1,None,0,0,0x2c9994,92,A dress made of magically resistant fabric that\nenables the wearer to resist magic attacks.
 90,Valuan Armor,0b00100101,X,"","",X,"",X,50,7,54,0,480,17,Defense,0,51,18,MagDef,0,44,-1,None,0,0,-1,None,0,0,0x2c99f0,68,On old suit of armor worn by guards in the\nValuan Imperial Palace.

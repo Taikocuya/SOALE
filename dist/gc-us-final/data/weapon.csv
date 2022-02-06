@@ -1,6 +1,6 @@
 Entry ID,Entry US Name,PC ID,[PC Name],Sell%,US Order 1,US Order 2,Effect ID,[Effect Name],Buy,Attack,Hit%,Trait ID,[Trait Name],Pad 1,Trait Value,[US Descr Pos],[US Descr Size],US Descr Str
 0,Cutlass,0,Vyse,50,0,21,-1,None,70,20,90,-1,None,0,0,0x2c7d9c,96,"Vyse received these swords as a gift from his\nfather, Dyne. It is light, with a short blade."
-1,Pirate Cutlass,0,Vyse,50,1,48,-1,None,220,33,90,-1,None,0,0,0x2c7dfc,96,The favorite sword among Air Pirates in the Mid\nOcean area. It is light and very easy to wield.
+1,Pirate Cutlass,0,Vyse,50,1,48,-1,None,170,33,90,-1,None,0,0,0x2c7dfc,96,The favorite sword among Air Pirates in the Mid\nOcean area. It is light and very easy to wield.
 2,Sky Cutlass,0,Vyse,50,2,54,-1,None,450,45,90,-1,None,0,0,0x2c7e5c,88,A cutlass used by Pirates and fishermen alike.\nIts edge is perfect for cleaning fish.
 3,Admiral Cutlass,0,Vyse,50,9,0,-1,None,4970,128,90,-1,None,0,0,0x2c7eb4,88,An old sword that once belonged to a Valuan\nAdmiral when he was stationed in Esparanza.
 4,Assassin Blade,0,Vyse,50,3,2,0,Poison by 10%,830,58,90,-1,None,0,0,0x2c7f0c,96,"A favorite among assassins of the world, mainly\nbecause it has a chance to poison its target."
@@ -19,7 +19,7 @@ Entry ID,Entry US Name,PC ID,[PC Name],Sell%,US Order 1,US Order 2,Effect ID,[Ef
 17,Skywing,1,Aika,50,26,55,-1,None,3670,107,110,-1,None,0,0,0x2c83a0,92,"A boomerang shaped like a flying bird. It\nalways returns, no matter how far it is thrown."
 18,Scout Wing,1,Aika,50,21,51,-1,None,680,53,110,-1,None,0,0,0x2c83fc,84,"A weapon carried by crews of scouting parties,\nit is meant to be fast and deadly."
 19,Ice Splitter,1,Aika,50,29,38,-1,None,7390,142,110,34,Purple,0,-2,0x2c8450,92,"A boomerang with an icy clear, sharp blade that\nseemingly freezes the air it flies through."
-20,Leather Crescent,1,Aika,50,18,41,-1,None,180,30,110,-1,None,0,0,0x2c84ac,88,"A leather-reinforced boomerang that is very\nsturdy in build, and packs an extra punch."
+20,Leather Crescent,1,Aika,50,18,41,-1,None,140,30,110,-1,None,0,0,0x2c84ac,88,"A leather-reinforced boomerang that is very\nsturdy in build, and packs an extra punch."
 21,Throwing Blade,1,Aika,50,19,63,-1,None,310,38,110,-1,None,0,0,0x2c8504,96,An ancient weapon found near Sailors' Island.\nThought to have been used for wood & stone work.
 22,Hunting Arc,1,Aika,50,24,36,-1,None,1820,80,110,-1,None,0,0,0x2c8564,96,"A traditional Ixa'takan hunting weapon, children\nare taught to use them from a very young age."
 23,Valuarang,1,Aika,50,20,67,-1,None,480,46,110,-1,None,0,0,0x2c85c4,92,A light boomerang used to practice for the\nannual boomerang contest in the Valuan Coliseum.

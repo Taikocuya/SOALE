@@ -29,10 +29,17 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 900,*,2,Seeker,1,Action,550,Attack,2,Random PC
 1000,*,2,Seeker,1,Action,4,レーザー,2,Random PC
 1100,*,2,Seeker,1,Action,552,Run,-1,None
-100,epevent.evp,2,Seeker,0,Branch,50,Used S-Move?,300,Go to 300
-200,epevent.evp,2,Seeker,0,Branch,24,Rating 40%,400,Go to 400
-300,epevent.evp,2,Seeker,1,Action,550,Attack,2,Random PC
-400,epevent.evp,2,Seeker,1,Action,4,レーザー,2,Random PC
+100,epevent.evp,2,Seeker,0,Branch,11,Turn 1,300,Go to 300
+200,epevent.evp,2,Seeker,0,Branch,30,Always,400,Go to 400
+300,epevent.evp,2,Seeker,0,Branch,24,Rating 40%,1000,Go to 1000
+400,epevent.evp,2,Seeker,0,Branch,14,Turn 4,800,Go to 800
+500,epevent.evp,2,Seeker,0,Branch,37,Turn ≥ 5,800,Go to 800
+600,epevent.evp,2,Seeker,0,Branch,50,Used S-Move?,800,Go to 800
+700,epevent.evp,2,Seeker,0,Branch,28,Rating 80%,1100,Go to 1100
+800,epevent.evp,2,Seeker,0,Branch,50,Used S-Move?,1000,Go to 1000
+900,epevent.evp,2,Seeker,0,Branch,24,Rating 40%,1100,Go to 1100
+1000,epevent.evp,2,Seeker,1,Action,550,Attack,2,Random PC
+1100,epevent.evp,2,Seeker,1,Action,4,レーザー,2,Random PC
 100,*,3,Marocca,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,3,Marocca,0,Branch,30,Always,400,Go to 400
 300,*,3,Marocca,0,Branch,26,Rating 60%,800,Go to 800
@@ -1734,7 +1741,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1300,*,128,Antonio,1,Action,34,様子を見る,-1,None
 100,*,129,Sentinel,0,Branch,1,HP < 50%,700,Go to 700
 200,*,129,Sentinel,0,Branch,48,Used Target Search?,500,Go to 500
-300,*,129,Sentinel,0,Branch,26,Rating 60%,1400,Go to 1400
+300,*,129,Sentinel,0,Branch,25,Rating 50%,1400,Go to 1400
 400,*,129,Sentinel,0,Branch,30,Always,1500,Go to 1500
 500,*,129,Sentinel,0,Branch,28,Rating 80%,1600,Go to 1600
 600,*,129,Sentinel,0,Branch,30,Always,1400,Go to 1400
@@ -1742,7 +1749,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 800,*,129,Sentinel,0,Branch,50,Used S-Move?,1100,Go to 1100
 900,*,129,Sentinel,0,Branch,62,PCs Alive = 1,1100,Go to 1100
 1000,*,129,Sentinel,0,Branch,25,Rating 50%,1600,Go to 1600
-1100,*,129,Sentinel,0,Branch,25,Rating 50%,1400,Go to 1400
+1100,*,129,Sentinel,0,Branch,24,Rating 40%,1400,Go to 1400
 1200,*,129,Sentinel,0,Branch,30,Always,1500,Go to 1500
 1300,*,129,Sentinel,0,Branch,29,Rating 90%,1600,Go to 1600
 1400,*,129,Sentinel,1,Action,550,Attack,2,Random PC
@@ -2619,47 +2626,39 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 3500,*,165,Piastol,1,Action,517,ジェダ,2,Random PC
 3600,*,165,Piastol,1,Action,521,ウェイビィ,2,Random PC
 3700,*,165,Piastol,1,Action,551,Guard,-1,None
-100,*,166,Spell Warden,0,Branch,11,Turn 1,800,Go to 800
-200,*,166,Spell Warden,0,Branch,54,ECs Alive ≤ 3,800,Go to 800
+100,*,166,Spell Warden,0,Branch,11,Turn 1,1200,Go to 1200
+200,*,166,Spell Warden,0,Branch,54,ECs Alive ≤ 3,1200,Go to 1200
 300,*,166,Spell Warden,0,Branch,0,HP = 100%,500,Go to 500
-400,*,166,Spell Warden,0,Branch,30,Always,800,Go to 800
-500,*,166,Spell Warden,0,Branch,35,Used State Spells ≥ 1,800,Go to 800
-600,*,166,Spell Warden,0,Branch,25,Rating 50%,3600,Go to 3600
-700,*,166,Spell Warden,0,Branch,13,Turn 3,3600,Go to 3600
-800,*,166,Spell Warden,0,Branch,51,Used Focus?,2700,Go to 2700
-900,*,166,Spell Warden,0,Branch,34,Used Attack Spells ≥ 2,1100,Go to 1100
-1000,*,166,Spell Warden,0,Branch,28,Rating 80%,2700,Go to 2700
-1100,*,166,Spell Warden,0,Branch,49,Used Spell?,1700,Go to 1700
-1200,*,166,Spell Warden,0,Branch,28,Rating 80%,2700,Go to 2700
-1300,*,166,Spell Warden,0,Branch,1,HP < 50%,1600,Go to 1600
-1400,*,166,Spell Warden,0,Branch,17,ECs Alive = 1,1600,Go to 1600
-1500,*,166,Spell Warden,0,Branch,30,Always,1700,Go to 1700
-1600,*,166,Spell Warden,0,Branch,26,Rating 60%,2700,Go to 2700
-1700,*,166,Spell Warden,0,Branch,4,Got Hit?,1900,Go to 1900
-1800,*,166,Spell Warden,0,Branch,30,Always,2300,Go to 2300
-1900,*,166,Spell Warden,0,Branch,24,Rating 40%,2700,Go to 2700
-2000,*,166,Spell Warden,0,Branch,26,Rating 60%,3500,Go to 3500
-2100,*,166,Spell Warden,0,Branch,26,Rating 60%,4100,Go to 4100
-2200,*,166,Spell Warden,0,Branch,30,Always,3400,Go to 3400
-2300,*,166,Spell Warden,0,Branch,22,Rating 20%,2700,Go to 2700
-2400,*,166,Spell Warden,0,Branch,26,Rating 60%,4100,Go to 4100
-2500,*,166,Spell Warden,0,Branch,26,Rating 60%,3500,Go to 3500
-2600,*,166,Spell Warden,0,Branch,30,Always,3400,Go to 3400
-2700,*,166,Spell Warden,0,Branch,54,ECs Alive ≤ 3,3100,Go to 3100
-2800,*,166,Spell Warden,0,Branch,26,Rating 60%,3900,Go to 3900
-2900,*,166,Spell Warden,0,Branch,26,Rating 60%,3700,Go to 3700
-3000,*,166,Spell Warden,0,Branch,30,Always,800,Go to 800
-3100,*,166,Spell Warden,0,Branch,28,Rating 80%,4000,Go to 4000
-3200,*,166,Spell Warden,0,Branch,26,Rating 60%,3800,Go to 3800
-3300,*,166,Spell Warden,0,Branch,30,Always,800,Go to 800
-3400,*,166,Spell Warden,1,Action,550,Attack,1,Same PC
-3500,*,166,Spell Warden,1,Action,551,Guard,-1,None
-3600,*,166,Spell Warden,1,Action,502,サイレシャ,21,PC w/ Most Attack
-3700,*,166,Spell Warden,1,Action,526,グラシャ,20,PC w/ Most Will
-3800,*,166,Spell Warden,1,Action,526,グラシャ,2,Random PC
-3900,*,166,Spell Warden,1,Action,528,グラシェス,20,PC w/ Most Will
-4000,*,166,Spell Warden,1,Action,528,グラシェス,2,Random PC
-4100,*,166,Spell Warden,1,Action,37,ガッツ,-1,None
+400,*,166,Spell Warden,0,Branch,25,Rating 50%,2900,Go to 2900
+500,*,166,Spell Warden,0,Branch,25,Rating 50%,700,Go to 700
+600,*,166,Spell Warden,0,Branch,38,Any EC HP < 50%,3000,Go to 3000
+700,*,166,Spell Warden,0,Branch,12,Turn 2,1100,Go to 1100
+800,*,166,Spell Warden,0,Branch,13,Turn 3,1100,Go to 1100
+900,*,166,Spell Warden,0,Branch,14,Turn 4,1100,Go to 1100
+1000,*,166,Spell Warden,0,Branch,30,Always,1200,Go to 1200
+1100,*,166,Spell Warden,0,Branch,27,Rating 70%,2800,Go to 2800
+1200,*,166,Spell Warden,0,Branch,51,Used Focus?,2100,Go to 2100
+1300,*,166,Spell Warden,0,Branch,33,Used Attack Spells ≥ 1,1500,Go to 1500
+1400,*,166,Spell Warden,0,Branch,27,Rating 70%,2100,Go to 2100
+1500,*,166,Spell Warden,0,Branch,49,Used Spell?,1700,Go to 1700
+1600,*,166,Spell Warden,0,Branch,23,Rating 30%,2100,Go to 2100
+1700,*,166,Spell Warden,0,Branch,22,Rating 20%,3100,Go to 3100
+1800,*,166,Spell Warden,0,Branch,26,Rating 60%,3300,Go to 3300
+1900,*,166,Spell Warden,0,Branch,26,Rating 60%,2700,Go to 2700
+2000,*,166,Spell Warden,0,Branch,30,Always,2600,Go to 2600
+2100,*,166,Spell Warden,0,Branch,54,ECs Alive ≤ 3,2400,Go to 2400
+2200,*,166,Spell Warden,0,Branch,29,Rating 90%,3100,Go to 3100
+2300,*,166,Spell Warden,0,Branch,30,Always,1800,Go to 1800
+2400,*,166,Spell Warden,0,Branch,29,Rating 90%,3200,Go to 3200
+2500,*,166,Spell Warden,0,Branch,30,Always,1800,Go to 1800
+2600,*,166,Spell Warden,1,Action,550,Attack,1,Same PC
+2700,*,166,Spell Warden,1,Action,551,Guard,-1,None
+2800,*,166,Spell Warden,1,Action,502,サイレシャ,21,PC w/ Most Attack
+2900,*,166,Spell Warden,1,Action,506,サプラ,22,Self
+3000,*,166,Spell Warden,1,Action,506,サプラ,7,EC w/ Least HP
+3100,*,166,Spell Warden,1,Action,528,グラシェス,20,PC w/ Most Will
+3200,*,166,Spell Warden,1,Action,528,グラシェス,2,Random PC
+3300,*,166,Spell Warden,1,Action,37,ガッツ,-1,None
 100,*,167,Spell Warden,0,Branch,35,Used State Spells ≥ 1,400,Go to 400
 200,*,167,Spell Warden,0,Branch,25,Rating 50%,3900,Go to 3900
 300,*,167,Spell Warden,0,Branch,12,Turn 2,3900,Go to 3900
@@ -2668,7 +2667,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 600,*,167,Spell Warden,0,Branch,54,ECs Alive ≤ 3,800,Go to 800
 700,*,167,Spell Warden,0,Branch,30,Always,1000,Go to 1000
 800,*,167,Spell Warden,0,Branch,36,Used State Spells ≥ 2,1000,Go to 1000
-900,*,167,Spell Warden,0,Branch,26,Rating 60%,4000,Go to 4000
+900,*,167,Spell Warden,0,Branch,27,Rating 70%,4000,Go to 4000
 1000,*,167,Spell Warden,0,Branch,51,Used Focus?,2900,Go to 2900
 1100,*,167,Spell Warden,0,Branch,34,Used Attack Spells ≥ 2,1300,Go to 1300
 1200,*,167,Spell Warden,0,Branch,28,Rating 80%,2900,Go to 2900
@@ -2682,29 +2681,28 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 2000,*,167,Spell Warden,0,Branch,30,Always,2500,Go to 2500
 2100,*,167,Spell Warden,0,Branch,24,Rating 40%,2900,Go to 2900
 2200,*,167,Spell Warden,0,Branch,26,Rating 60%,3800,Go to 3800
-2300,*,167,Spell Warden,0,Branch,26,Rating 60%,4500,Go to 4500
+2300,*,167,Spell Warden,0,Branch,26,Rating 60%,4400,Go to 4400
 2400,*,167,Spell Warden,0,Branch,30,Always,3700,Go to 3700
 2500,*,167,Spell Warden,0,Branch,22,Rating 20%,2900,Go to 2900
-2600,*,167,Spell Warden,0,Branch,26,Rating 60%,4500,Go to 4500
+2600,*,167,Spell Warden,0,Branch,26,Rating 60%,4400,Go to 4400
 2700,*,167,Spell Warden,0,Branch,26,Rating 60%,3800,Go to 3800
 2800,*,167,Spell Warden,0,Branch,30,Always,3700,Go to 3700
 2900,*,167,Spell Warden,0,Branch,17,ECs Alive = 1,3500,Go to 3500
 3000,*,167,Spell Warden,0,Branch,54,ECs Alive ≤ 3,3300,Go to 3300
-3100,*,167,Spell Warden,0,Branch,28,Rating 80%,4200,Go to 4200
+3100,*,167,Spell Warden,0,Branch,28,Rating 80%,4100,Go to 4100
 3200,*,167,Spell Warden,0,Branch,30,Always,1000,Go to 1000
-3300,*,167,Spell Warden,0,Branch,28,Rating 80%,4300,Go to 4300
+3300,*,167,Spell Warden,0,Branch,28,Rating 80%,4200,Go to 4200
 3400,*,167,Spell Warden,0,Branch,30,Always,1000,Go to 1000
-3500,*,167,Spell Warden,0,Branch,28,Rating 80%,4400,Go to 4400
+3500,*,167,Spell Warden,0,Branch,28,Rating 80%,4300,Go to 4300
 3600,*,167,Spell Warden,0,Branch,30,Always,1000,Go to 1000
 3700,*,167,Spell Warden,1,Action,550,Attack,1,Same PC
 3800,*,167,Spell Warden,1,Action,551,Guard,-1,None
 3900,*,167,Spell Warden,1,Action,500,アパ,22,Self
 4000,*,167,Spell Warden,1,Action,500,アパ,11,EC w/o Strengthen
-4100,*,167,Spell Warden,1,Action,506,サプラ,7,EC w/ Least HP
-4200,*,167,Spell Warden,1,Action,526,グラシャ,21,PC w/ Most Attack
-4300,*,167,Spell Warden,1,Action,526,グラシャ,20,PC w/ Most Will
-4400,*,167,Spell Warden,1,Action,526,グラシャ,2,Random PC
-4500,*,167,Spell Warden,1,Action,37,ガッツ,-1,None
+4100,*,167,Spell Warden,1,Action,526,グラシャ,21,PC w/ Most Attack
+4200,*,167,Spell Warden,1,Action,526,グラシャ,20,PC w/ Most Will
+4300,*,167,Spell Warden,1,Action,526,グラシャ,2,Random PC
+4400,*,167,Spell Warden,1,Action,37,ガッツ,-1,None
 100,*,168,Piastol,0,Branch,2,HP < 25%,2300,Go to 2300
 200,*,168,Piastol,0,Branch,17,ECs Alive = 1,2600,Go to 2600
 300,*,168,Piastol,0,Branch,19,SP ≤ 50%,500,Go to 500
