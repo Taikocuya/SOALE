@@ -6,7 +6,7 @@ Entry ID,[Location],Item ID,[Item Name],Item Amount
 4,Pirate Isle Underground,258,Moonberry,1
 5,Sailors' Island,514,Gold,200
 6,Sailors' Island,490,Repair Kit,1
-7,Lower City,250,Risan Crystal,1
+7,Lower City,90,Valuan Armor,1
 8,Lower City,258,Moonberry,1
 9,Maramba,249,Curia Crystal,3
 10,Maramba,515,Gold,300
@@ -40,10 +40,10 @@ Entry ID,[Location],Item ID,[Item Name],Item Amount
 38,Shrine Island,244,Magic Droplet,1
 39,Shrine Island,258,Moonberry,1
 40,Shrine Island,275,Sacri Box,1
-41,Catacombs,244,Magic Droplet,1
-42,Catacombs,267,Pyri Box,1
-43,Catacombs,172,Crylhound's Claw,1
-44,Catacombs,249,Curia Crystal,3
+41,Catacombs,267,Pyri Box,1
+42,Catacombs,241,Sacres Crystal,1
+43,Catacombs,249,Curia Crystal,3
+44,Catacombs,172,Crylhound's Claw,1
 45,Temple of Pyrynn,516,Gold,527
 46,Temple of Pyrynn,126,Ancient Robe,1
 47,Temple of Pyrynn,241,Sacres Crystal,3
@@ -114,7 +114,7 @@ Entry ID,[Location],Item ID,[Item Name],Item Amount
 112,Soltis,258,Moonberry,1
 113,Maw of Tartas,263,Dexus Seed,1
 114,Maw of Tartas,258,Moonberry,1
-115,Catacombs,4,Assassin Blade,1
-116,Catacombs,244,Magic Droplet,2
+115,Catacombs,240,Sacri Crystal,1
+116,Catacombs,244,Magic Droplet,1
 117,Yafutoma,243,Sacrulen Crystal,4
 118,The Dark Rift,242,Sacrum Crystal,3

@@ -3,7 +3,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 1,Pirate Cutlass,True,0,Vyse,50,-1,None,170,33,90,-1,None,0,0
 2,Sky Cutlass,True,0,Vyse,50,-1,None,450,45,90,-1,None,0,0
 3,Admiral Cutlass,False,0,Vyse,50,-1,None,4970,128,90,-1,None,0,0
-4,Assassin Blade,Undefined,0,Vyse,50,0,Poison by 10%,830,58,90,-1,None,0,0
+4,Assassin Blade,True,0,Vyse,50,0,Poison by 10%,830,58,90,-1,None,0,0
 5,Thunder Cutlass,False,0,Vyse,50,-1,None,8610,160,90,36,Yellow,0,-2
 6,Iron-cutter,False,0,Vyse,50,-1,None,3870,112,90,-1,None,0,0
 7,Nasr Cutlass,Undefined,0,Vyse,50,-1,None,1340,70,90,-1,None,0,0

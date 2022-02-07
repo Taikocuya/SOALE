@@ -559,70 +559,70 @@ Entry ID,[Filter],[Finalized],Initiative,Magic EXP,EC1 ID,[EC1 JP Name],EC2 ID,[
 29,a103e_ep.enp,True,34,1,8,Flestik,8,Flestik,3,Marocca,29,Looper,255,None,255,None,255,None,255,None
 30,a103e_ep.enp,True,34,1,8,Flestik,8,Flestik,3,Marocca,3,Marocca,29,Looper,255,None,255,None,255,None
 31,a103e_ep.enp,True,34,1,8,Flestik,8,Flestik,3,Marocca,3,Marocca,29,Looper,29,Looper,255,None,255,None
-0,a106a_ep.enp,False,52,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
-1,a106a_ep.enp,False,52,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None
-2,a106a_ep.enp,False,42,1,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None,255,None
-3,a106a_ep.enp,False,42,1,10,Mind Stealer,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None
-4,a106a_ep.enp,False,47,1,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None,255,None
-5,a106a_ep.enp,False,47,1,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-6,a106a_ep.enp,False,52,1,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-7,a106a_ep.enp,False,52,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
-8,a106a_ep.enp,False,42,1,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None,255,None
-9,a106a_ep.enp,False,42,1,10,Mind Stealer,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None
-10,a106a_ep.enp,False,42,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
-11,a106a_ep.enp,False,42,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None
-12,a106a_ep.enp,False,37,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
-13,a106a_ep.enp,False,37,1,10,Mind Stealer,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-14,a106a_ep.enp,False,42,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None,255,None
-15,a106a_ep.enp,False,42,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
-16,a106a_ep.enp,False,37,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
-17,a106a_ep.enp,False,52,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-18,a106a_ep.enp,False,52,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
-19,a106a_ep.enp,False,57,1,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-20,a106a_ep.enp,False,57,1,23,Crylhound,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-21,a106a_ep.enp,False,57,1,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-22,a106a_ep.enp,False,57,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
-23,a106a_ep.enp,False,42,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-24,a106a_ep.enp,False,42,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
-25,a106a_ep.enp,False,42,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-26,a106a_ep.enp,False,47,1,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-27,a106a_ep.enp,False,47,1,10,Mind Stealer,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-28,a106a_ep.enp,False,47,1,10,Mind Stealer,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-29,a106a_ep.enp,False,42,1,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None
-30,a106a_ep.enp,False,37,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
-31,a106a_ep.enp,False,37,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None
-0,a106c_ep.enp,False,52,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
-1,a106c_ep.enp,False,52,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None
-2,a106c_ep.enp,False,42,1,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None,255,None
-3,a106c_ep.enp,False,42,1,10,Mind Stealer,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None
-4,a106c_ep.enp,False,47,1,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None,255,None
-5,a106c_ep.enp,False,47,1,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-6,a106c_ep.enp,False,52,1,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-7,a106c_ep.enp,False,52,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
-8,a106c_ep.enp,False,42,1,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None,255,None
-9,a106c_ep.enp,False,42,1,10,Mind Stealer,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None
-10,a106c_ep.enp,False,42,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
-11,a106c_ep.enp,False,42,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None
-12,a106c_ep.enp,False,37,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
-13,a106c_ep.enp,False,37,1,10,Mind Stealer,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-14,a106c_ep.enp,False,42,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None,255,None
-15,a106c_ep.enp,False,42,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
-16,a106c_ep.enp,False,37,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
-17,a106c_ep.enp,False,52,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-18,a106c_ep.enp,False,52,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
-19,a106c_ep.enp,False,57,1,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-20,a106c_ep.enp,False,57,1,23,Crylhound,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-21,a106c_ep.enp,False,57,1,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-22,a106c_ep.enp,False,57,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
-23,a106c_ep.enp,False,42,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-24,a106c_ep.enp,False,42,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
-25,a106c_ep.enp,False,42,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-26,a106c_ep.enp,False,47,1,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-27,a106c_ep.enp,False,47,1,10,Mind Stealer,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-28,a106c_ep.enp,False,47,1,10,Mind Stealer,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-29,a106c_ep.enp,False,42,1,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None
-30,a106c_ep.enp,False,37,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
-31,a106c_ep.enp,False,37,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None
+0,a106a_ep.enp,False,36,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
+1,a106a_ep.enp,False,36,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None
+2,a106a_ep.enp,False,26,1,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None,255,None
+3,a106a_ep.enp,False,26,1,10,Mind Stealer,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None
+4,a106a_ep.enp,False,31,1,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None,255,None
+5,a106a_ep.enp,False,31,1,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+6,a106a_ep.enp,False,36,1,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+7,a106a_ep.enp,False,36,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
+8,a106a_ep.enp,False,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None,255,None
+9,a106a_ep.enp,False,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None
+10,a106a_ep.enp,False,26,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
+11,a106a_ep.enp,False,26,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None
+12,a106a_ep.enp,False,21,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
+13,a106a_ep.enp,False,21,1,10,Mind Stealer,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+14,a106a_ep.enp,False,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None,255,None
+15,a106a_ep.enp,False,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
+16,a106a_ep.enp,False,21,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
+17,a106a_ep.enp,False,36,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+18,a106a_ep.enp,False,36,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
+19,a106a_ep.enp,False,41,1,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+20,a106a_ep.enp,False,41,1,23,Crylhound,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+21,a106a_ep.enp,False,41,1,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+22,a106a_ep.enp,False,41,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
+23,a106a_ep.enp,False,26,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+24,a106a_ep.enp,False,26,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
+25,a106a_ep.enp,False,26,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+26,a106a_ep.enp,False,31,1,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+27,a106a_ep.enp,False,31,1,10,Mind Stealer,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+28,a106a_ep.enp,False,31,1,10,Mind Stealer,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+29,a106a_ep.enp,False,26,1,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None
+30,a106a_ep.enp,False,21,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
+31,a106a_ep.enp,False,21,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None
+0,a106c_ep.enp,False,40,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
+1,a106c_ep.enp,False,40,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None
+2,a106c_ep.enp,False,30,1,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None,255,None
+3,a106c_ep.enp,False,30,1,10,Mind Stealer,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None
+4,a106c_ep.enp,False,35,1,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None,255,None
+5,a106c_ep.enp,False,35,1,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+6,a106c_ep.enp,False,40,1,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+7,a106c_ep.enp,False,40,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
+8,a106c_ep.enp,False,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None,255,None
+9,a106c_ep.enp,False,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None
+10,a106c_ep.enp,False,30,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
+11,a106c_ep.enp,False,30,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None
+12,a106c_ep.enp,False,25,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
+13,a106c_ep.enp,False,25,1,10,Mind Stealer,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+14,a106c_ep.enp,False,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None,255,None
+15,a106c_ep.enp,False,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
+16,a106c_ep.enp,False,25,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
+17,a106c_ep.enp,False,40,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+18,a106c_ep.enp,False,40,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
+19,a106c_ep.enp,False,45,1,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+20,a106c_ep.enp,False,45,1,23,Crylhound,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+21,a106c_ep.enp,False,45,1,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+22,a106c_ep.enp,False,45,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
+23,a106c_ep.enp,False,30,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+24,a106c_ep.enp,False,30,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
+25,a106c_ep.enp,False,30,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+26,a106c_ep.enp,False,35,1,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+27,a106c_ep.enp,False,35,1,10,Mind Stealer,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+28,a106c_ep.enp,False,35,1,10,Mind Stealer,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+29,a106c_ep.enp,False,30,1,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None
+30,a106c_ep.enp,False,25,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
+31,a106c_ep.enp,False,25,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None
 0,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None,255,None
 1,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None
 2,a109b_ep.enp,False,62,2,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None,255,None,255,None

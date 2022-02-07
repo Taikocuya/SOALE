@@ -3,7 +3,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 161,Prophet's Sand,False,0b00111010,X,X,X,,X,,50,890,18,MagDef,63,-1,None,0,-1,None,0,-1,None,0
 162,Meditation Ring,True,0b00111010,X,X,X,,X,,50,90,1,Will,10,-1,None,0,-1,None,0,-1,None,0
 163,Moondust Ring,False,0b00111010,X,X,X,,X,,50,1530,1,Will,48,-1,None,0,-1,None,0,-1,None,0
-164,Lover's Ring,Undefined,0b00111010,X,X,X,,X,,50,300,18,MagDef,12,1,Will,12,-1,None,0,-1,None,0
+164,Lover's Ring,True,0b00111010,X,X,X,,X,,50,300,18,MagDef,12,1,Will,12,-1,None,0,-1,None,0
 165,Jade Swirl Ring,False,0b00111010,X,X,X,,X,,50,2960,18,MagDef,45,1,Will,45,-1,None,0,-1,None,0
 166,Cupil Ring,False,0b00001000,,,X,,,,50,2200,49,Unconscious,-3,37,Silver,-2,18,MagDef,45,1,Will,45
 167,Warrior's Heart,False,0b00111010,X,X,X,,X,,50,10,77,Recover SP,1,4,Quick,-75,-1,None,0,-1,None,0
@@ -11,7 +11,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 169,Thryllak's Scale,False,0b00110101,X,X,,X,,X,50,2300,16,Attack,36,-1,None,0,-1,None,0,-1,None,0
 170,Marocca's Shell,True,0b00110101,X,X,,X,,X,50,100,17,Defense,6,-1,None,0,-1,None,0,-1,None,0
 171,Burocca's Shell,False,0b00110101,X,X,,X,,X,50,1920,17,Defense,36,-1,None,0,-1,None,0,-1,None,0
-172,Crylhound's Claw,Undefined,0b00110101,X,X,,X,,X,50,420,19,Hit%,20,16,Attack,12,-1,None,0,-1,None,0
+172,Crylhound's Claw,True,0b00110101,X,X,,X,,X,50,420,19,Hit%,20,16,Attack,12,-1,None,0,-1,None,0
 173,Hunter's Hand,Undefined,0b00110101,X,X,,X,,X,50,1010,19,Hit%,40,16,Attack,4,-1,None,0,-1,None,0
 174,Thief's Aura,True,0b00111101,X,X,X,X,,X,50,230,20,Dodge%,10,17,Defense,5,-1,None,0,-1,None,0
 175,Quetya Feather,Undefined,0b00111101,X,X,X,X,,X,50,810,20,Dodge%,20,17,Defense,4,-1,None,0,-1,None,0
@@ -21,7 +21,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 179,Ancient Bracer,False,0b00110101,X,X,,X,,X,50,10,16,Attack,20,17,Defense,20,19,Hit%,20,20,Dodge%,10
 180,Counter Bracer,Undefined,0b00110101,X,X,,X,,X,50,10,73,Counter%,20,16,Attack,20,19,Hit%,20,-1,None,0
 181,Defensive Aura,False,0b00011000,,X,X,,,,50,10,65,Block Attack,1,77,Recover SP,-1,54,Fatigue,-10,-1,None,0
-182,Ivy Band,Undefined,0b00111111,X,X,X,X,X,X,50,100,48,Poison,-5,32,Green,-2,17,Defense,10,18,MagDef,10
+182,Ivy Band,True,0b00111111,X,X,X,X,X,X,50,520,48,Poison,-5,32,Green,-2,17,Defense,12,18,MagDef,12
 183,Silvite Ring,Undefined,0b00111111,X,X,X,X,X,X,50,100,49,Unconscious,-5,37,Silver,-2,17,Defense,10,18,MagDef,10
 184,Gem of Fluidity,Undefined,0b00111111,X,X,X,X,X,X,50,100,50,Stone,-5,17,Defense,10,18,MagDef,10,-1,None,0
 185,Wind Gem Ring,Undefined,0b00111111,X,X,X,X,X,X,50,100,51,Sleep,-5,35,Blue,-2,17,Defense,10,18,MagDef,10
@@ -34,7 +34,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 192,Radiant Fur,False,0b00111111,X,X,X,X,X,X,50,3580,17,Defense,24,18,MagDef,24,-1,None,0,-1,None,0
 193,Sand Storm Ring,Undefined,0b00111111,X,X,X,X,X,X,50,770,16,Attack,18,1,Will,18,-1,None,0,-1,None,0
 194,Skull Cap,False,0b00111111,X,X,X,X,X,X,50,4300,16,Attack,24,1,Will,24,-1,None,0,-1,None,0
-195,Mage's Bane,Undefined,0b00111111,X,X,X,X,X,X,50,480,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
+195,Mage's Bane,True,0b00111111,X,X,X,X,X,X,50,480,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
 196,Blue Rogue Patch,False,0b00111111,X,X,X,X,X,X,50,6820,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
 197,Assassin Ring,False,0b00111111,X,X,X,X,X,X,50,3200,80,First Strike%,40,19,Hit%,40,-1,None,0,-1,None,0
 198,Stealth Ring,False,0b00111111,X,X,X,X,X,X,50,3000,81,PC Run%,100,4,Quick,10,20,Dodge%,10,-1,None,0
@@ -46,7 +46,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 204,Skyseer Goggles,True,0b00110000,X,X,,,,,50,40,19,Hit%,5,-1,None,0,-1,None,0,-1,None,0
 205,Nocturnal Sight,False,0b00110000,X,X,,,,,50,1930,19,Hit%,60,16,Attack,6,-1,None,0,-1,None,0
 206,Critical Vision,False,0b00110000,X,X,,,,,50,6660,19,Hit%,50,16,Attack,19,-1,None,0,-1,None,0
-207,Gem of Purity,Undefined,0b00000101,,,,X,,X,50,300,79,Block Neg States,-2,17,Defense,12,-1,None,0,-1,None,0
+207,Gem of Purity,True,0b00000101,,,,X,,X,50,300,79,Block Neg States,-2,17,Defense,12,-1,None,0,-1,None,0
 208,Shard of Purity,False,0b00000101,,,,X,,X,50,4760,79,Block Neg States,-2,17,Defense,38,-1,None,0,-1,None,0
 209,Fortune Ring,False,0b00011000,,X,X,,,,50,2145,20,Dodge%,75,17,Defense,8,-1,None,0,-1,None,0
 210,Black Map,Undefined,0b00100000,X,,,,,,50,777,84,Random Encounter%,100,80,First Strike%,25,82,???,0,83,EC Run%,0

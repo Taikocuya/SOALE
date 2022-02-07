@@ -9,7 +9,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 87,Valuan Uniform,True,0b00110101,X,X,,X,,X,50,130,17,Defense,32,18,MagDef,32,-1,None,0,-1,None,0
 88,Sailor Uniform,True,0b00110101,X,X,,X,,X,50,330,17,Defense,44,18,MagDef,44,-1,None,0,-1,None,0
 89,Mystic Dress,True,0b00011000,,X,X,,,,75,310,17,Defense,40,18,MagDef,50,-1,None,0,-1,None,0
-90,Valuan Armor,Undefined,0b00100101,X,,,X,,X,50,480,17,Defense,51,18,MagDef,44,-1,None,0,-1,None,0
+90,Valuan Armor,True,0b00100101,X,,,X,,X,50,480,17,Defense,51,18,MagDef,44,-1,None,0,-1,None,0
 91,Elastamor,Undefined,0b00111111,X,X,X,X,X,X,50,580,17,Defense,54,18,MagDef,74,36,Yellow,-2,-1,None,0
 92,Raincoat,Undefined,0b00110101,X,X,,X,,X,50,560,17,Defense,56,18,MagDef,76,-1,None,0,-1,None,0
 93,Nasrean Mail,Undefined,0b00111111,X,X,X,X,X,X,50,920,17,Defense,66,18,MagDef,66,33,Red,-2,-1,None,0
@@ -44,7 +44,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 122,Nasr Combat Mail,Undefined,0b00111111,X,X,X,X,X,X,100,320,17,Defense,66,18,MagDef,66,16,Attack,5,1,Will,5
 123,De Loco Armor,False,0b00100101,X,,,X,,X,100,2420,17,Defense,172,18,MagDef,147,-1,None,0,-1,None,0
 124,Maiden's Armor,False,0b00011000,,X,X,,,,100,840,17,Defense,103,18,MagDef,112,-1,None,0,-1,None,0
-125,Heavy Armor,Undefined,0b00100111,X,,,X,X,X,100,230,17,Defense,58,18,MagDef,53,-1,None,0,-1,None,0
+125,Heavy Armor,True,0b00100111,X,,,X,X,X,100,230,17,Defense,58,18,MagDef,53,-1,None,0,-1,None,0
 126,Ancient Robe,Undefined,0b00011010,,X,X,,X,,100,370,17,Defense,69,18,MagDef,82,-1,None,0,-1,None,0
 127,De Loco Mail,False,0b00100101,X,,,X,,X,100,730,17,Defense,99,18,MagDef,84,-1,None,0,-1,None,0
 128,Daccat's Armor,False,0b00110101,X,X,,X,,X,100,910,17,Defense,108,18,MagDef,108,-1,None,0,-1,None,0

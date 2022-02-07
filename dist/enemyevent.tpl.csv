@@ -10,7 +10,7 @@ Entry ID,[Finalized],Magic EXP,PC1 ID,[PC1 Name],PC1 X,PC1 Z,PC2 ID,[PC2 Name],P
 8,Undefined,1,0,Vyse,5,8,1,Aika,6,8,-1,None,-1,-1,-1,None,-1,-1,72,Patrol Guard,5,3,7,Spell Warden,6,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,52,0,Must Not Lose,0,May Escape,58
 9,Undefined,2,0,Vyse,4,8,1,Aika,5,9,-1,None,-1,-1,-1,None,-1,-1,133,Royal Guard,5,5,133,Royal Guard,4,4,7,Spell Warden,5,4,7,Spell Warden,4,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,54,1,May Try Again,1,Must Not Escape,60
 10,Undefined,2,0,Vyse,5,8,1,Aika,3,9,2,Fina,7,9,-1,None,-1,-1,134,Rokwyrm,4,3,24,Magma Tiki,2,6,24,Magma Tiki,8,6,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,68,1,May Try Again,1,Must Not Escape,60
-11,Undefined,1,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,17,Tsirat,2,4,17,Tsirat,8,4,17,Tsirat,3,3,17,Tsirat,5,3,17,Tsirat,7,3,17,Tsirat,4,2,17,Tsirat,6,2,0,0,Must Not Lose,0,May Escape,58
+11,True,1,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,17,Tsirat,2,4,17,Tsirat,8,4,17,Tsirat,3,3,17,Tsirat,5,3,17,Tsirat,7,3,17,Tsirat,4,2,17,Tsirat,6,2,21,0,Must Not Lose,0,May Escape,58
 12,Undefined,2,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,73,Mine Patrol,4,2,73,Mine Patrol,6,2,73,Mine Patrol,2,1,73,Mine Patrol,8,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,82,1,May Try Again,1,Must Not Escape,58
 13,Undefined,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,136,Antonio 2,4,2,172,Kantor,0,1,174,Kantor,8,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,84,1,May Try Again,1,Must Not Escape,60
 14,Undefined,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,137,Rik'talish,4,1,175,Polraxis,2,2,176,Polraxis,8,2,177,Polraxis,5,5,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,92,1,May Try Again,1,Must Not Escape,60
