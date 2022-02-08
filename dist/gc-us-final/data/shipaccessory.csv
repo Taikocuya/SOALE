@@ -29,7 +29,7 @@ Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[Trait 1 Nam
 467,Ancient Deck,0b00111110,X,X,X,X,X,7,Value,0,8500,2,Defense,0,70,-1,None,0,0,-1,None,0,0,8500,50,27,3,0,0x2cf78c,88,"A deck armored with a rare, mysterious metal\nfrom ancient times. Improves ship Defense."
 468,Silver Deck,0b00111110,X,X,X,X,X,7,Value,0,11000,2,Defense,0,85,6,Dodge%,0,1,4,Quick,0,3,11000,50,28,26,0,0x2cf7e4,92,An armored deck supplemented with high grade\nMoonstones. Their power improves ship Defense.
 469,Sparkling Deck,0b00111110,X,X,X,X,X,7,Value,0,13500,2,Defense,0,100,6,Dodge%,0,2,4,Quick,0,6,13500,50,29,29,0,0x2cf840,88,An armored deck studded with Moonstones of 6\ndifferent colors. Improves ship Defense.
-470,Intercom,0b00111110,X,X,X,X,X,7,Value,0,1000,2,Defense,0,3,3,MagDef,0,3,4,Quick,0,5,1000,50,30,21,0,0x2cf898,84,A system for communicating between decks. \nGood luck keeping Aika from abusing it.
+470,Intercom,0b00111110,X,X,X,X,X,7,Value,0,1000,2,Defense,0,3,3,MagDef,0,4,4,Quick,0,5,1000,50,30,21,0,0x2cf898,84,A system for communicating between decks. \nGood luck keeping Aika from abusing it.
 471,Enhanced Kitchen,0b00111110,X,X,X,X,X,7,Value,0,5500,2,Defense,0,1,-1,None,0,0,-1,None,0,0,5500,50,31,13,0,0x2cf8ec,76,State-of-the-art cooking facilities for great-\ntasting dinners every night.
 472,Floor Heater,0b00111110,X,X,X,X,X,7,Value,0,1500,3,MagDef,0,9,6,Dodge%,0,2,4,Quick,0,4,1500,50,32,15,0,0x2cf938,80,Takes advantage of engine heat to keep\nliving quarters nice and comfortable.
 473,Air Purifier,0b00111110,X,X,X,X,X,7,Value,0,5800,3,MagDef,0,2,-1,None,0,0,-1,None,0,0,5800,50,33,1,0,0x2cf988,88,"Purifies the air below decks to keep everything\nsmelling clean and fresh, not sweaty."

@@ -29,7 +29,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[
 467,Ancient Deck,False,0b00111110,X,X,X,X,X,7,Value,8500,2,Defense,70,-1,None,0,-1,None,0,8500,50
 468,Silver Deck,False,0b00111110,X,X,X,X,X,7,Value,11000,2,Defense,85,6,Dodge%,1,4,Quick,3,11000,50
 469,Sparkling Deck,False,0b00111110,X,X,X,X,X,7,Value,13500,2,Defense,100,6,Dodge%,2,4,Quick,6,13500,50
-470,Intercom,Undefined,0b00111110,X,X,X,X,X,7,Value,1000,2,Defense,3,3,MagDef,3,4,Quick,5,1000,50
+470,Intercom,True,0b00111110,X,X,X,X,X,7,Value,1000,2,Defense,3,3,MagDef,4,4,Quick,5,1000,50
 471,Enhanced Kitchen,False,0b00111110,X,X,X,X,X,7,Value,5500,2,Defense,1,-1,None,0,-1,None,0,5500,50
 472,Floor Heater,Undefined,0b00111110,X,X,X,X,X,7,Value,1500,3,MagDef,9,6,Dodge%,2,4,Quick,4,1500,50
 473,Air Purifier,False,0b00111110,X,X,X,X,X,7,Value,5800,3,MagDef,2,-1,None,0,-1,None,0,5800,50

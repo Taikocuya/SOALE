@@ -7,7 +7,7 @@ Entry ID,[Location],Item ID,[Item Name],Item Amount
 5,Sailors' Island,514,Gold,200
 6,Sailors' Island,490,Repair Kit,1
 7,Lower City,90,Valuan Armor,1
-8,Lower City,258,Moonberry,1
+8,Lower City,470,Intercom,1
 9,Maramba,249,Curia Crystal,3
 10,Maramba,515,Gold,300
 11,Maramba,281,Slipara Box,1
@@ -41,7 +41,7 @@ Entry ID,[Location],Item ID,[Item Name],Item Amount
 39,Shrine Island,258,Moonberry,1
 40,Shrine Island,275,Sacri Box,1
 41,Catacombs,267,Pyri Box,1
-42,Catacombs,241,Sacres Crystal,1
+42,Catacombs,258,Moonberry,1
 43,Catacombs,249,Curia Crystal,3
 44,Catacombs,172,Crylhound's Claw,1
 45,Temple of Pyrynn,516,Gold,527

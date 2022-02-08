@@ -500,17 +500,17 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1800,*,34,Dralnog,True,1,Action,271,Poison Explode,-1,None
 1900,*,34,Dralnog,True,1,Action,517,Eterni,2,Random PC
 2000,*,34,Dralnog,True,1,Action,100,Magic?,-1,None
-0,epevent.evp,34,Dralnog,Undefined,0,Branch,2,HP < 25%,20,Go to 20
-10,epevent.evp,34,Dralnog,Undefined,0,Branch,30,Always,1000,Go to 1000
-20,epevent.evp,34,Dralnog,Undefined,0,Branch,28,Rating 80%,10010,Go to 10010
-1000,epevent.evp,34,Dralnog,Undefined,0,Branch,1,HP < 50%,1020,Go to 1020
-1010,epevent.evp,34,Dralnog,Undefined,0,Branch,30,Always,2000,Go to 2000
-1020,epevent.evp,34,Dralnog,Undefined,0,Branch,24,Rating 40%,10010,Go to 10010
-2000,epevent.evp,34,Dralnog,Undefined,0,Branch,49,Used Spell?,10000,Go to 10000
-2100,epevent.evp,34,Dralnog,Undefined,0,Branch,23,Rating 30%,10020,Go to 10020
-10000,epevent.evp,34,Dralnog,Undefined,1,Action,550,Attack,2,Random PC
-10010,epevent.evp,34,Dralnog,Undefined,1,Action,271,Poison Explode,-1,None
-10020,epevent.evp,34,Dralnog,Undefined,1,Action,517,Eterni,2,Random PC
+0,epevent.evp,34,Dralnog,True,0,Branch,2,HP < 25%,20,Go to 20
+10,epevent.evp,34,Dralnog,True,0,Branch,30,Always,1000,Go to 1000
+20,epevent.evp,34,Dralnog,True,0,Branch,28,Rating 80%,10010,Go to 10010
+1000,epevent.evp,34,Dralnog,True,0,Branch,1,HP < 50%,1020,Go to 1020
+1010,epevent.evp,34,Dralnog,True,0,Branch,30,Always,2000,Go to 2000
+1020,epevent.evp,34,Dralnog,True,0,Branch,24,Rating 40%,10010,Go to 10010
+2000,epevent.evp,34,Dralnog,True,0,Branch,49,Used Spell?,10000,Go to 10000
+2100,epevent.evp,34,Dralnog,True,0,Branch,23,Rating 30%,10020,Go to 10020
+10000,epevent.evp,34,Dralnog,True,1,Action,550,Attack,2,Random PC
+10010,epevent.evp,34,Dralnog,True,1,Action,271,Poison Explode,-1,None
+10020,epevent.evp,34,Dralnog,True,1,Action,517,Eterni,2,Random PC
 100,*,35,Que'lak,Undefined,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,35,Que'lak,Undefined,0,Branch,30,Always,400,Go to 400
 300,*,35,Que'lak,Undefined,0,Branch,28,Rating 80%,1500,Go to 1500
@@ -1755,24 +1755,24 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10000,*,129,Sentinel,True,1,Action,550,Attack,2,Random PC
 10010,*,129,Sentinel,True,1,Action,9,Target Search,-1,None
 10020,*,129,Sentinel,True,1,Action,99,Blaster,2,Random PC
-0,*,130,Bleigock,Undefined,0,Branch,13,Turn 3,2000,Go to 2000
-10,*,130,Bleigock,Undefined,0,Branch,14,Turn 4,2000,Go to 2000
-20,*,130,Bleigock,Undefined,0,Branch,37,Turn ≥ 5,2000,Go to 2000
-1000,*,130,Bleigock,Undefined,0,Branch,50,Used S-Move?,1030,Go to 1030
-1010,*,130,Bleigock,Undefined,0,Branch,12,Turn 2,10020,Poisonous Bile
-1020,*,130,Bleigock,Undefined,0,Branch,27,Rating 70%,10020,Poisonous Bile
-1030,*,130,Bleigock,Undefined,0,Branch,30,Always,10005,Attack
-2000,*,130,Bleigock,Undefined,0,Branch,50,Used S-Move?,2100,Go to 2100
-2010,*,130,Bleigock,Undefined,0,Branch,27,Rating 70%,10020,Poisonous Bile
-2020,*,130,Bleigock,Undefined,0,Branch,25,Rating 50%,10010,Frost Breath
-2030,*,130,Bleigock,Undefined,0,Branch,30,Always,10000,Attack
-2100,*,130,Bleigock,Undefined,0,Branch,27,Rating 70%,10000,Attack
-2110,*,130,Bleigock,Undefined,0,Branch,25,Rating 50%,10010,Frost Breath
-2120,*,130,Bleigock,Undefined,0,Branch,30,Always,10020,Poisonous Bile
-10000,*,130,Bleigock,Undefined,1,Action,550,Attack,2,Random PC
-10005,*,130,Bleigock,Undefined,1,Action,550,Attack,3,PC w/ Most HP
-10010,*,130,Bleigock,Undefined,1,Action,183,Frost Breath,-1,None
-10020,*,130,Bleigock,Undefined,1,Action,25,Poisonous Bile,-1,None
+0,*,130,Bleigock,True,0,Branch,13,Turn 3,2000,Go to 2000
+10,*,130,Bleigock,True,0,Branch,14,Turn 4,2000,Go to 2000
+20,*,130,Bleigock,True,0,Branch,37,Turn ≥ 5,2000,Go to 2000
+1000,*,130,Bleigock,True,0,Branch,50,Used S-Move?,1030,Go to 1030
+1010,*,130,Bleigock,True,0,Branch,12,Turn 2,10020,Poisonous Bile
+1020,*,130,Bleigock,True,0,Branch,27,Rating 70%,10020,Poisonous Bile
+1030,*,130,Bleigock,True,0,Branch,30,Always,10005,Attack
+2000,*,130,Bleigock,True,0,Branch,50,Used S-Move?,2100,Go to 2100
+2010,*,130,Bleigock,True,0,Branch,27,Rating 70%,10020,Poisonous Bile
+2020,*,130,Bleigock,True,0,Branch,25,Rating 50%,10010,Frost Breath
+2030,*,130,Bleigock,True,0,Branch,30,Always,10000,Attack
+2100,*,130,Bleigock,True,0,Branch,27,Rating 70%,10000,Attack
+2110,*,130,Bleigock,True,0,Branch,25,Rating 50%,10010,Frost Breath
+2120,*,130,Bleigock,True,0,Branch,30,Always,10020,Poisonous Bile
+10000,*,130,Bleigock,True,1,Action,550,Attack,2,Random PC
+10005,*,130,Bleigock,True,1,Action,550,Attack,3,PC w/ Most HP
+10010,*,130,Bleigock,True,1,Action,183,Frost Breath,-1,None
+10020,*,130,Bleigock,True,1,Action,25,Poisonous Bile,-1,None
 0,*,131,Executioner,Undefined,0,Branch,11,Turn 1,2000,Go to 2000
 10,*,131,Executioner,Undefined,0,Branch,66,ECs Alive = 3,2000,Go to 2000
 1000,*,131,Executioner,Undefined,0,Branch,50,Used S-Move?,2000,Go to 2000
