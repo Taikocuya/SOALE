@@ -1759,20 +1759,24 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 200,*,130,Bleigock,Bleigock,0,Branch,14,Turn 4,800,Go to 800
 300,*,130,Bleigock,Bleigock,0,Branch,37,Turn ≥ 5,800,Go to 800
 400,*,130,Bleigock,Bleigock,0,Branch,50,Used S-Move?,700,Go to 700
-500,*,130,Bleigock,Bleigock,0,Branch,12,Turn 2,1800,Go to 1800
-600,*,130,Bleigock,Bleigock,0,Branch,27,Rating 70%,1800,Go to 1800
-700,*,130,Bleigock,Bleigock,0,Branch,30,Always,1600,Go to 1600
-800,*,130,Bleigock,Bleigock,0,Branch,50,Used S-Move?,1200,Go to 1200
-900,*,130,Bleigock,Bleigock,0,Branch,27,Rating 70%,1800,Go to 1800
-1000,*,130,Bleigock,Bleigock,0,Branch,25,Rating 50%,1700,Go to 1700
-1100,*,130,Bleigock,Bleigock,0,Branch,30,Always,1500,Go to 1500
-1200,*,130,Bleigock,Bleigock,0,Branch,27,Rating 70%,1500,Go to 1500
-1300,*,130,Bleigock,Bleigock,0,Branch,25,Rating 50%,1700,Go to 1700
-1400,*,130,Bleigock,Bleigock,0,Branch,30,Always,1800,Go to 1800
-1500,*,130,Bleigock,Bleigock,1,Action,550,Attack,2,Random PC
-1600,*,130,Bleigock,Bleigock,1,Action,550,Attack,3,PC w/ Most HP
-1700,*,130,Bleigock,Bleigock,1,Action,183,Frost Breath,-1,None
-1800,*,130,Bleigock,Bleigock,1,Action,25,Poisonous Bile,-1,None
+500,*,130,Bleigock,Bleigock,0,Branch,12,Turn 2,2200,Go to 2200
+600,*,130,Bleigock,Bleigock,0,Branch,27,Rating 70%,2200,Go to 2200
+700,*,130,Bleigock,Bleigock,0,Branch,30,Always,2000,Go to 2000
+800,*,130,Bleigock,Bleigock,0,Branch,50,Used S-Move?,1600,Go to 1600
+900,*,130,Bleigock,Bleigock,0,Branch,57,Any PC Has Strengthen?,1300,Go to 1300
+1000,*,130,Bleigock,Bleigock,0,Branch,27,Rating 70%,2200,Go to 2200
+1100,*,130,Bleigock,Bleigock,0,Branch,25,Rating 50%,2100,Go to 2100
+1200,*,130,Bleigock,Bleigock,0,Branch,30,Always,1900,Go to 1900
+1300,*,130,Bleigock,Bleigock,0,Branch,27,Rating 70%,2100,Go to 2100
+1400,*,130,Bleigock,Bleigock,0,Branch,25,Rating 50%,2200,Go to 2200
+1500,*,130,Bleigock,Bleigock,0,Branch,30,Always,1900,Go to 1900
+1600,*,130,Bleigock,Bleigock,0,Branch,27,Rating 70%,1900,Go to 1900
+1700,*,130,Bleigock,Bleigock,0,Branch,25,Rating 50%,2100,Go to 2100
+1800,*,130,Bleigock,Bleigock,0,Branch,30,Always,2200,Go to 2200
+1900,*,130,Bleigock,Bleigock,1,Action,550,Attack,2,Random PC
+2000,*,130,Bleigock,Bleigock,1,Action,550,Attack,3,PC w/ Most HP
+2100,*,130,Bleigock,Bleigock,1,Action,183,Frost Breath,-1,None
+2200,*,130,Bleigock,Bleigock,1,Action,25,Poisonous Bile,-1,None
 100,*,131,Executioner,Carcer,0,Branch,11,Turn 1,500,Go to 500
 200,*,131,Executioner,Carcer,0,Branch,66,ECs Alive = 3,500,Go to 500
 300,*,131,Executioner,Carcer,0,Branch,50,Used S-Move?,500,Go to 500
