@@ -1,6 +1,6 @@
 Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Element ID,[Element Name],Attack,Hit%,Limit,SP,Trait ID,[Trait Name],Trait Value,Buy,Sell%
 400,Main Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,35,80,0,4,-1,None,0,450,50
-401,Standard Cannon,Undefined,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,40,83,0,3,-1,None,0,1000,50
+401,Standard Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,40,83,0,3,-1,None,0,1000,50
 402,Heavy Cannon,Undefined,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,50,85,0,3,-1,None,0,1900,50
 403,G-Type Cannon,Undefined,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,3000,70
 404,B-Type Cannon,Undefined,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,75,90,0,3,-1,None,0,4000,50

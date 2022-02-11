@@ -64,8 +64,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1000,*,4,Grouder,1,Action,503,パニカ,14,PC w/o Confusion
 1100,*,4,Grouder,1,Action,520,ウェイバ,2,Random PC
 1200,*,4,Grouder,1,Action,57,あやしい音波,2,Random PC
-100,*,7,Spell Warden,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,1600,Go to 1600
-200,*,7,Spell Warden,0,Branch,11,Turn 1,3500,Go to 3500
+100,*,7,Spell Warden,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,300,Go to 300
+200,*,7,Spell Warden,0,Branch,11,Turn 1,3800,Go to 3800
 300,*,7,Spell Warden,0,Branch,37,Turn ≥ 5,500,Go to 500
 400,*,7,Spell Warden,0,Branch,30,Always,600,Go to 600
 500,*,7,Spell Warden,0,Branch,24,Rating 40%,1100,Go to 1100
@@ -73,37 +73,40 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 700,*,7,Spell Warden,0,Branch,54,ECs Alive ≤ 3,900,Go to 900
 800,*,7,Spell Warden,0,Branch,30,Always,1100,Go to 1100
 900,*,7,Spell Warden,0,Branch,0,HP = 100%,1100,Go to 1100
-1000,*,7,Spell Warden,0,Branch,30,Always,3900,Go to 3900
-1100,*,7,Spell Warden,0,Branch,36,Used State Spells ≥ 2,1600,Go to 1600
-1200,*,7,Spell Warden,0,Branch,25,Rating 50%,3600,Go to 3600
-1300,*,7,Spell Warden,0,Branch,13,Turn 3,3600,Go to 3600
-1400,*,7,Spell Warden,0,Branch,14,Turn 4,3600,Go to 3600
-1500,*,7,Spell Warden,0,Branch,37,Turn ≥ 5,3600,Go to 3600
-1600,*,7,Spell Warden,0,Branch,25,Rating 50%,2200,Go to 2200
-1700,*,7,Spell Warden,0,Branch,32,Used Sacri Spells ≥ 2,1900,Go to 1900
-1800,*,7,Spell Warden,0,Branch,30,Always,2000,Go to 2000
-1900,*,7,Spell Warden,0,Branch,49,Used Spell?,2200,Go to 2200
-2000,*,7,Spell Warden,0,Branch,39,Any EC HP < 25%,3700,Go to 3700
-2100,*,7,Spell Warden,0,Branch,1,HP < 50%,3900,Go to 3900
-2200,*,7,Spell Warden,0,Branch,37,Turn ≥ 5,2600,Go to 2600
-2300,*,7,Spell Warden,0,Branch,25,Rating 50%,4000,Go to 4000
-2400,*,7,Spell Warden,0,Branch,26,Rating 60%,3200,Go to 3200
-2500,*,7,Spell Warden,0,Branch,30,Always,3300,Go to 3300
-2600,*,7,Spell Warden,0,Branch,24,Rating 40%,4000,Go to 4000
-2700,*,7,Spell Warden,0,Branch,24,Rating 40%,3200,Go to 3200
-2800,*,7,Spell Warden,0,Branch,51,Used Focus?,3000,Go to 3000
-2900,*,7,Spell Warden,0,Branch,24,Rating 40%,3400,Go to 3400
-3000,*,7,Spell Warden,0,Branch,25,Rating 50%,3800,Go to 3800
-3100,*,7,Spell Warden,0,Branch,30,Always,3300,Go to 3300
-3200,*,7,Spell Warden,1,Action,550,Attack,1,Same PC
-3300,*,7,Spell Warden,1,Action,551,Guard,-1,None
-3400,*,7,Spell Warden,1,Action,37,ガッツ,-1,None
-3500,*,7,Spell Warden,1,Action,500,アパ,22,Self
-3600,*,7,Spell Warden,1,Action,500,アパ,8,EC w/ Largest ID
-3700,*,7,Spell Warden,1,Action,506,サプラ,7,EC w/ Least HP
-3800,*,7,Spell Warden,1,Action,506,サプラ,8,EC w/ Largest ID
-3900,*,7,Spell Warden,1,Action,506,サプラ,22,Self
-4000,*,7,Spell Warden,1,Action,526,グラシャ,2,Random PC
+1000,*,7,Spell Warden,0,Branch,30,Always,4200,Go to 4200
+1100,*,7,Spell Warden,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,1300,Go to 1300
+1200,*,7,Spell Warden,0,Branch,30,Always,1400,Go to 1400
+1300,*,7,Spell Warden,0,Branch,35,Used State Spells ≥ 1,1900,Go to 1900
+1400,*,7,Spell Warden,0,Branch,36,Used State Spells ≥ 2,1900,Go to 1900
+1500,*,7,Spell Warden,0,Branch,25,Rating 50%,3900,Go to 3900
+1600,*,7,Spell Warden,0,Branch,13,Turn 3,3900,Go to 3900
+1700,*,7,Spell Warden,0,Branch,14,Turn 4,3900,Go to 3900
+1800,*,7,Spell Warden,0,Branch,37,Turn ≥ 5,3900,Go to 3900
+1900,*,7,Spell Warden,0,Branch,25,Rating 50%,2500,Go to 2500
+2000,*,7,Spell Warden,0,Branch,32,Used Sacri Spells ≥ 2,2200,Go to 2200
+2100,*,7,Spell Warden,0,Branch,30,Always,2300,Go to 2300
+2200,*,7,Spell Warden,0,Branch,49,Used Spell?,2500,Go to 2500
+2300,*,7,Spell Warden,0,Branch,39,Any EC HP < 25%,4000,Go to 4000
+2400,*,7,Spell Warden,0,Branch,1,HP < 50%,4200,Go to 4200
+2500,*,7,Spell Warden,0,Branch,37,Turn ≥ 5,2900,Go to 2900
+2600,*,7,Spell Warden,0,Branch,25,Rating 50%,4300,Go to 4300
+2700,*,7,Spell Warden,0,Branch,26,Rating 60%,3500,Go to 3500
+2800,*,7,Spell Warden,0,Branch,30,Always,3600,Go to 3600
+2900,*,7,Spell Warden,0,Branch,24,Rating 40%,4300,Go to 4300
+3000,*,7,Spell Warden,0,Branch,24,Rating 40%,3500,Go to 3500
+3100,*,7,Spell Warden,0,Branch,51,Used Focus?,3300,Go to 3300
+3200,*,7,Spell Warden,0,Branch,24,Rating 40%,3700,Go to 3700
+3300,*,7,Spell Warden,0,Branch,25,Rating 50%,4100,Go to 4100
+3400,*,7,Spell Warden,0,Branch,30,Always,3600,Go to 3600
+3500,*,7,Spell Warden,1,Action,550,Attack,1,Same PC
+3600,*,7,Spell Warden,1,Action,551,Guard,-1,None
+3700,*,7,Spell Warden,1,Action,37,ガッツ,-1,None
+3800,*,7,Spell Warden,1,Action,500,アパ,22,Self
+3900,*,7,Spell Warden,1,Action,500,アパ,8,EC w/ Largest ID
+4000,*,7,Spell Warden,1,Action,506,サプラ,7,EC w/ Least HP
+4100,*,7,Spell Warden,1,Action,506,サプラ,8,EC w/ Largest ID
+4200,*,7,Spell Warden,1,Action,506,サプラ,22,Self
+4300,*,7,Spell Warden,1,Action,526,グラシャ,2,Random PC
 100,*,8,Flestik,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,8,Flestik,0,Branch,30,Always,400,Go to 400
 300,*,8,Flestik,0,Branch,28,Rating 80%,1600,Go to 1600
@@ -1818,37 +1821,39 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 800,*,133,Royal Guard,0,Branch,54,ECs Alive ≤ 3,2200,Go to 2200
 900,*,133,Royal Guard,0,Branch,30,Always,1800,Go to 1800
 1000,*,133,Royal Guard,0,Branch,32,Used Sacri Spells ≥ 2,1200,Go to 1200
-1100,*,133,Royal Guard,0,Branch,25,Rating 50%,4000,Go to 4000
-1200,*,133,Royal Guard,0,Branch,25,Rating 50%,3800,Go to 3800
-1300,*,133,Royal Guard,0,Branch,23,Rating 30%,4000,Go to 4000
+1100,*,133,Royal Guard,0,Branch,25,Rating 50%,4100,Go to 4100
+1200,*,133,Royal Guard,0,Branch,25,Rating 50%,3900,Go to 3900
+1300,*,133,Royal Guard,0,Branch,23,Rating 30%,4100,Go to 4100
 1400,*,133,Royal Guard,0,Branch,31,Used Sacri Spells ≥ 1,1600,Go to 1600
-1500,*,133,Royal Guard,0,Branch,25,Rating 50%,3900,Go to 3900
-1600,*,133,Royal Guard,0,Branch,23,Rating 30%,3900,Go to 3900
+1500,*,133,Royal Guard,0,Branch,25,Rating 50%,4000,Go to 4000
+1600,*,133,Royal Guard,0,Branch,23,Rating 30%,4000,Go to 4000
 1700,*,133,Royal Guard,0,Branch,30,Always,600,Go to 600
 1800,*,133,Royal Guard,0,Branch,24,Rating 40%,3700,Go to 3700
 1900,*,133,Royal Guard,0,Branch,49,Used Spell?,2100,Go to 2100
-2000,*,133,Royal Guard,0,Branch,23,Rating 30%,4100,Go to 4100
-2100,*,133,Royal Guard,0,Branch,30,Always,3800,Go to 3800
+2000,*,133,Royal Guard,0,Branch,22,Rating 20%,4200,Go to 4200
+2100,*,133,Royal Guard,0,Branch,30,Always,3900,Go to 3900
 2200,*,133,Royal Guard,0,Branch,25,Rating 50%,3700,Go to 3700
 2300,*,133,Royal Guard,0,Branch,49,Used Spell?,2500,Go to 2500
-2400,*,133,Royal Guard,0,Branch,25,Rating 50%,4100,Go to 4100
+2400,*,133,Royal Guard,0,Branch,25,Rating 50%,4300,Go to 4300
 2500,*,133,Royal Guard,0,Branch,31,Used Sacri Spells ≥ 1,2700,Go to 2700
-2600,*,133,Royal Guard,0,Branch,24,Rating 40%,3900,Go to 3900
-2700,*,133,Royal Guard,0,Branch,30,Always,3800,Go to 3800
+2600,*,133,Royal Guard,0,Branch,24,Rating 40%,4000,Go to 4000
+2700,*,133,Royal Guard,0,Branch,30,Always,3900,Go to 3900
 2800,*,133,Royal Guard,0,Branch,49,Used Spell?,3300,Go to 3300
-2900,*,133,Royal Guard,0,Branch,23,Rating 30%,3700,Go to 3700
-3000,*,133,Royal Guard,0,Branch,27,Rating 70%,4100,Go to 4100
-3100,*,133,Royal Guard,0,Branch,26,Rating 60%,3800,Go to 3800
-3200,*,133,Royal Guard,0,Branch,30,Always,3900,Go to 3900
-3300,*,133,Royal Guard,0,Branch,25,Rating 50%,3700,Go to 3700
-3400,*,133,Royal Guard,0,Branch,24,Rating 40%,4100,Go to 4100
-3500,*,133,Royal Guard,0,Branch,26,Rating 60%,3800,Go to 3800
-3600,*,133,Royal Guard,0,Branch,30,Always,3900,Go to 3900
-3700,*,133,Royal Guard,1,Action,550,Attack,4,PC w/ Least HP
-3800,*,133,Royal Guard,1,Action,19,反撃の構え,-1,None
-3900,*,133,Royal Guard,1,Action,506,サプラ,7,EC w/ Least HP
-4000,*,133,Royal Guard,1,Action,506,サプラ,22,Self
-4100,*,133,Royal Guard,1,Action,533,ボルティ,23,Aika
+2900,*,133,Royal Guard,0,Branch,23,Rating 30%,3800,Go to 3800
+3000,*,133,Royal Guard,0,Branch,27,Rating 70%,4300,Go to 4300
+3100,*,133,Royal Guard,0,Branch,26,Rating 60%,3900,Go to 3900
+3200,*,133,Royal Guard,0,Branch,30,Always,4000,Go to 4000
+3300,*,133,Royal Guard,0,Branch,25,Rating 50%,3800,Go to 3800
+3400,*,133,Royal Guard,0,Branch,24,Rating 40%,4300,Go to 4300
+3500,*,133,Royal Guard,0,Branch,26,Rating 60%,3900,Go to 3900
+3600,*,133,Royal Guard,0,Branch,30,Always,4000,Go to 4000
+3700,*,133,Royal Guard,1,Action,550,Attack,2,Random PC
+3800,*,133,Royal Guard,1,Action,550,Attack,4,PC w/ Least HP
+3900,*,133,Royal Guard,1,Action,19,反撃の構え,-1,None
+4000,*,133,Royal Guard,1,Action,506,サプラ,7,EC w/ Least HP
+4100,*,133,Royal Guard,1,Action,506,サプラ,22,Self
+4200,*,133,Royal Guard,1,Action,533,ボルティ,2,Random PC
+4300,*,133,Royal Guard,1,Action,533,ボルティ,23,Aika
 100,*,134,Rokwyrm,0,Branch,1,HP < 50%,600,Go to 600
 200,*,134,Rokwyrm,0,Branch,2,HP < 25%,900,Go to 900
 300,*,134,Rokwyrm,0,Branch,23,Rating 30%,1400,Go to 1400

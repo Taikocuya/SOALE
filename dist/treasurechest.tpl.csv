@@ -114,7 +114,7 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 112,Soltis,False,258,Moonberry,1
 113,Maw of Tartas,False,263,Dexus Seed,1
 114,Maw of Tartas,False,258,Moonberry,1
-115,Catacombs,Undefined,240,Sacri Crystal,1
-116,Catacombs,Undefined,244,Magic Droplet,1
+115,Catacombs,True,240,Sacri Crystal,3
+116,Catacombs,True,244,Magic Droplet,3
 117,Yafutoma,False,243,Sacrulen Crystal,4
 118,The Dark Rift,False,242,Sacrum Crystal,3

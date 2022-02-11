@@ -64,7 +64,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 900,*,4,Grouder,True,1,Action,503,Panika,14,PC w/o Confusion
 1000,*,4,Grouder,True,1,Action,520,Wevli,2,Random PC
 1100,*,4,Grouder,True,1,Action,57,Eerie Wail,2,Random PC
-0,*,7,Spell Warden,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,2000,Go to 2000
+0,*,7,Spell Warden,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,10,Go to 10
 5,*,7,Spell Warden,True,0,Branch,11,Turn 1,10020,Increm
 10,*,7,Spell Warden,True,0,Branch,37,Turn ≥ 5,30,Go to 30
 20,*,7,Spell Warden,True,0,Branch,30,Always,40,Go to 40
@@ -74,7 +74,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 46,*,7,Spell Warden,True,0,Branch,30,Always,1000,Go to 1000
 50,*,7,Spell Warden,True,0,Branch,0,HP = 100%,1000,Go to 1000
 60,*,7,Spell Warden,True,0,Branch,30,Always,10055,Sacri
-1000,*,7,Spell Warden,True,0,Branch,36,Used State Spells ≥ 2,2000,Go to 2000
+1000,*,7,Spell Warden,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,1002,Go to 1002
+1001,*,7,Spell Warden,True,0,Branch,30,Always,1003,Go to 1003
+1002,*,7,Spell Warden,True,0,Branch,35,Used State Spells ≥ 1,2000,Go to 2000
+1003,*,7,Spell Warden,True,0,Branch,36,Used State Spells ≥ 2,2000,Go to 2000
 1010,*,7,Spell Warden,True,0,Branch,25,Rating 50%,10030,Increm
 1020,*,7,Spell Warden,True,0,Branch,13,Turn 3,10030,Increm
 1030,*,7,Spell Warden,True,0,Branch,14,Turn 4,10030,Increm
@@ -1030,21 +1033,21 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1400,*,71,Tenkou,False,1,Action,116,Power Potion,11,EC w/o Strengthen
 1500,*,71,Tenkou,False,1,Action,117,Speed Potion,-1,None
 1600,*,71,Tenkou,False,1,Action,118,Sacres Crystal,7,EC w/ Least HP
-0,*,72,Patrol Guard,Undefined,0,Branch,11,Turn 1,1000,Go to 1000
-10,*,72,Patrol Guard,Undefined,0,Branch,30,Always,2000,Go to 2000
-1000,*,72,Patrol Guard,Undefined,0,Branch,23,Rating 30%,10020,Quika
-2000,*,72,Patrol Guard,Undefined,0,Branch,42,Used Sacri Crystals ≥ 1,2100,Go to 2100
-2010,*,72,Patrol Guard,Undefined,0,Branch,38,Any EC HP < 50%,2030,Go to 2030
-2020,*,72,Patrol Guard,Undefined,0,Branch,30,Always,2100,Go to 2100
-2030,*,72,Patrol Guard,Undefined,0,Branch,26,Rating 60%,10040,Sacri Crystal
-2100,*,72,Patrol Guard,Undefined,0,Branch,33,Used Attack Spells ≥ 1,2200,Go to 2200
-2110,*,72,Patrol Guard,Undefined,0,Branch,24,Rating 40%,10030,Electri
-2200,*,72,Patrol Guard,Undefined,0,Branch,22,Rating 20%,10010,Guard
-10000,*,72,Patrol Guard,Undefined,1,Action,550,Attack,2,Random PC
-10010,*,72,Patrol Guard,Undefined,1,Action,551,Guard,-1,None
-10020,*,72,Patrol Guard,Undefined,1,Action,513,Quika,-1,None
-10030,*,72,Patrol Guard,Undefined,1,Action,532,Electri,2,Random PC
-10040,*,72,Patrol Guard,Undefined,1,Action,79,Sacri Crystal,7,EC w/ Least HP
+0,*,72,Patrol Guard,True,0,Branch,11,Turn 1,1000,Go to 1000
+10,*,72,Patrol Guard,True,0,Branch,30,Always,2000,Go to 2000
+1000,*,72,Patrol Guard,True,0,Branch,23,Rating 30%,10020,Quika
+2000,*,72,Patrol Guard,True,0,Branch,42,Used Sacri Crystals ≥ 1,2100,Go to 2100
+2010,*,72,Patrol Guard,True,0,Branch,38,Any EC HP < 50%,2030,Go to 2030
+2020,*,72,Patrol Guard,True,0,Branch,30,Always,2100,Go to 2100
+2030,*,72,Patrol Guard,True,0,Branch,26,Rating 60%,10040,Sacri Crystal
+2100,*,72,Patrol Guard,True,0,Branch,33,Used Attack Spells ≥ 1,2200,Go to 2200
+2110,*,72,Patrol Guard,True,0,Branch,24,Rating 40%,10030,Electri
+2200,*,72,Patrol Guard,True,0,Branch,22,Rating 20%,10010,Guard
+10000,*,72,Patrol Guard,True,1,Action,550,Attack,2,Random PC
+10010,*,72,Patrol Guard,True,1,Action,551,Guard,-1,None
+10020,*,72,Patrol Guard,True,1,Action,513,Quika,-1,None
+10030,*,72,Patrol Guard,True,1,Action,532,Electri,2,Random PC
+10040,*,72,Patrol Guard,True,1,Action,79,Sacri Crystal,7,EC w/ Least HP
 100,*,73,Mine Patrol,Undefined,0,Branch,11,Turn 1,400,Go to 400
 200,*,73,Mine Patrol,Undefined,0,Branch,12,Turn 2,600,Go to 600
 300,*,73,Mine Patrol,Undefined,0,Branch,30,Always,700,Go to 700
@@ -1795,60 +1798,62 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10030,*,131,Executioner,True,1,Action,11,Tackle,3,PC w/ Most HP
 10040,*,131,Executioner,True,1,Action,251,Sonic Wave,2,Random PC
 10050,*,131,Executioner,True,1,Action,533,Electres,2,Random PC
-100,*,132,Galcian,Undefined,0,Branch,1,HP < 50%,1300,Go to 1300
-200,*,132,Galcian,Undefined,0,Branch,11,Turn 1,700,Go to 700
-300,*,132,Galcian,Undefined,0,Branch,12,Turn 2,700,Go to 700
-400,*,132,Galcian,Undefined,0,Branch,25,Rating 50%,900,Go to 900
-500,*,132,Galcian,Undefined,0,Branch,26,Rating 60%,1000,Go to 1000
-600,*,132,Galcian,Undefined,0,Branch,30,Always,1100,Go to 1100
-700,*,132,Galcian,Undefined,0,Branch,25,Rating 50%,900,Go to 900
-800,*,132,Galcian,Undefined,0,Branch,30,Always,1200,Go to 1200
-900,*,132,Galcian,Undefined,1,Action,550,Attack,2,Random PC
-1000,*,132,Galcian,Undefined,1,Action,518,Eternes,-1,None
-1100,*,132,Galcian,Undefined,1,Action,534,Electrum,2,Random PC
-1200,*,132,Galcian,Undefined,1,Action,24,Devolver,-1,None
-1300,*,132,Galcian,Undefined,1,Action,509,Sacrulen,22,Self
-0,*,133,Royal Guard,Undefined,0,Branch,1,HP < 50%,2000,Go to 2000
-10,*,133,Royal Guard,Undefined,0,Branch,66,ECs Alive = 3,1000,Go to 1000
-20,*,133,Royal Guard,Undefined,0,Branch,54,ECs Alive ≤ 3,40,Go to 40
-30,*,133,Royal Guard,Undefined,0,Branch,30,Always,1000,Go to 1000
-40,*,133,Royal Guard,Undefined,0,Branch,38,Any EC HP < 50%,2100,Go to 2100
-1000,*,133,Royal Guard,Undefined,0,Branch,17,ECs Alive = 1,5000,Go to 5000
-1010,*,133,Royal Guard,Undefined,0,Branch,66,ECs Alive = 3,3000,Go to 3000
-1020,*,133,Royal Guard,Undefined,0,Branch,54,ECs Alive ≤ 3,4000,Go to 4000
-1030,*,133,Royal Guard,Undefined,0,Branch,30,Always,3000,Go to 3000
-2000,*,133,Royal Guard,Undefined,0,Branch,32,Used Sacri Spells ≥ 2,2020,Go to 2020
-2010,*,133,Royal Guard,Undefined,0,Branch,25,Rating 50%,10025,Sacri
-2020,*,133,Royal Guard,Undefined,0,Branch,25,Rating 50%,10010,Counter Stance
-2030,*,133,Royal Guard,Undefined,0,Branch,23,Rating 30%,10025,Sacri
-2100,*,133,Royal Guard,Undefined,0,Branch,31,Used Sacri Spells ≥ 1,2120,Go to 2120
-2110,*,133,Royal Guard,Undefined,0,Branch,25,Rating 50%,10020,Sacri
-2120,*,133,Royal Guard,Undefined,0,Branch,23,Rating 30%,10020,Sacri
-2130,*,133,Royal Guard,Undefined,0,Branch,30,Always,1000,Go to 1000
-3000,*,133,Royal Guard,Undefined,0,Branch,24,Rating 40%,10000,Attack
-3010,*,133,Royal Guard,Undefined,0,Branch,49,Used Spell?,3030,Go to 3030
-3020,*,133,Royal Guard,Undefined,0,Branch,23,Rating 30%,10030,Electres
-3030,*,133,Royal Guard,Undefined,0,Branch,30,Always,10010,Counter Stance
-4000,*,133,Royal Guard,Undefined,0,Branch,25,Rating 50%,10000,Attack
-4010,*,133,Royal Guard,Undefined,0,Branch,49,Used Spell?,4030,Go to 4030
-4020,*,133,Royal Guard,Undefined,0,Branch,25,Rating 50%,10030,Electres
-4030,*,133,Royal Guard,Undefined,0,Branch,31,Used Sacri Spells ≥ 1,4050,Go to 4050
-4040,*,133,Royal Guard,Undefined,0,Branch,24,Rating 40%,10020,Sacri
-4050,*,133,Royal Guard,Undefined,0,Branch,30,Always,10010,Counter Stance
-5000,*,133,Royal Guard,Undefined,0,Branch,49,Used Spell?,5100,Go to 5100
-5010,*,133,Royal Guard,Undefined,0,Branch,23,Rating 30%,10000,Attack
-5020,*,133,Royal Guard,Undefined,0,Branch,27,Rating 70%,10030,Electres
-5030,*,133,Royal Guard,Undefined,0,Branch,26,Rating 60%,10010,Counter Stance
-5040,*,133,Royal Guard,Undefined,0,Branch,30,Always,10020,Sacri
-5100,*,133,Royal Guard,Undefined,0,Branch,25,Rating 50%,10000,Attack
-5110,*,133,Royal Guard,Undefined,0,Branch,24,Rating 40%,10030,Electres
-5120,*,133,Royal Guard,Undefined,0,Branch,26,Rating 60%,10010,Counter Stance
-5130,*,133,Royal Guard,Undefined,0,Branch,30,Always,10020,Sacri
-10000,*,133,Royal Guard,Undefined,1,Action,550,Attack,4,PC w/ Least HP
-10010,*,133,Royal Guard,Undefined,1,Action,19,Counter Stance,-1,None
-10020,*,133,Royal Guard,Undefined,1,Action,506,Sacri,7,EC w/ Least HP
-10025,*,133,Royal Guard,Undefined,1,Action,506,Sacri,22,Self
-10030,*,133,Royal Guard,Undefined,1,Action,533,Electres,23,Aika
+100,*,132,Galcian,True,0,Branch,1,HP < 50%,1300,Go to 1300
+200,*,132,Galcian,True,0,Branch,11,Turn 1,700,Go to 700
+300,*,132,Galcian,True,0,Branch,12,Turn 2,700,Go to 700
+400,*,132,Galcian,True,0,Branch,25,Rating 50%,900,Go to 900
+500,*,132,Galcian,True,0,Branch,26,Rating 60%,1000,Go to 1000
+600,*,132,Galcian,True,0,Branch,30,Always,1100,Go to 1100
+700,*,132,Galcian,True,0,Branch,25,Rating 50%,900,Go to 900
+800,*,132,Galcian,True,0,Branch,30,Always,1200,Go to 1200
+900,*,132,Galcian,True,1,Action,550,Attack,2,Random PC
+1000,*,132,Galcian,True,1,Action,518,Eternes,-1,None
+1100,*,132,Galcian,True,1,Action,534,Electrum,2,Random PC
+1200,*,132,Galcian,True,1,Action,24,Devolver,-1,None
+1300,*,132,Galcian,True,1,Action,509,Sacrulen,22,Self
+0,*,133,Royal Guard,True,0,Branch,1,HP < 50%,2000,Go to 2000
+10,*,133,Royal Guard,True,0,Branch,66,ECs Alive = 3,1000,Go to 1000
+20,*,133,Royal Guard,True,0,Branch,54,ECs Alive ≤ 3,40,Go to 40
+30,*,133,Royal Guard,True,0,Branch,30,Always,1000,Go to 1000
+40,*,133,Royal Guard,True,0,Branch,38,Any EC HP < 50%,2100,Go to 2100
+1000,*,133,Royal Guard,True,0,Branch,17,ECs Alive = 1,5000,Go to 5000
+1010,*,133,Royal Guard,True,0,Branch,66,ECs Alive = 3,3000,Go to 3000
+1020,*,133,Royal Guard,True,0,Branch,54,ECs Alive ≤ 3,4000,Go to 4000
+1030,*,133,Royal Guard,True,0,Branch,30,Always,3000,Go to 3000
+2000,*,133,Royal Guard,True,0,Branch,32,Used Sacri Spells ≥ 2,2020,Go to 2020
+2010,*,133,Royal Guard,True,0,Branch,25,Rating 50%,10025,Sacri
+2020,*,133,Royal Guard,True,0,Branch,25,Rating 50%,10010,Counter Stance
+2030,*,133,Royal Guard,True,0,Branch,23,Rating 30%,10025,Sacri
+2100,*,133,Royal Guard,True,0,Branch,31,Used Sacri Spells ≥ 1,2120,Go to 2120
+2110,*,133,Royal Guard,True,0,Branch,25,Rating 50%,10020,Sacri
+2120,*,133,Royal Guard,True,0,Branch,23,Rating 30%,10020,Sacri
+2130,*,133,Royal Guard,True,0,Branch,30,Always,1000,Go to 1000
+3000,*,133,Royal Guard,True,0,Branch,24,Rating 40%,10000,Attack
+3010,*,133,Royal Guard,True,0,Branch,49,Used Spell?,3030,Go to 3030
+3020,*,133,Royal Guard,True,0,Branch,22,Rating 20%,10030,Electres
+3030,*,133,Royal Guard,True,0,Branch,30,Always,10010,Counter Stance
+4000,*,133,Royal Guard,True,0,Branch,25,Rating 50%,10000,Attack
+4010,*,133,Royal Guard,True,0,Branch,49,Used Spell?,4030,Go to 4030
+4020,*,133,Royal Guard,True,0,Branch,25,Rating 50%,10040,Electres
+4030,*,133,Royal Guard,True,0,Branch,31,Used Sacri Spells ≥ 1,4050,Go to 4050
+4040,*,133,Royal Guard,True,0,Branch,24,Rating 40%,10020,Sacri
+4050,*,133,Royal Guard,True,0,Branch,30,Always,10010,Counter Stance
+5000,*,133,Royal Guard,True,0,Branch,49,Used Spell?,5100,Go to 5100
+5010,*,133,Royal Guard,True,0,Branch,23,Rating 30%,10005,Attack
+5020,*,133,Royal Guard,True,0,Branch,27,Rating 70%,10040,Electres
+5030,*,133,Royal Guard,True,0,Branch,26,Rating 60%,10010,Counter Stance
+5040,*,133,Royal Guard,True,0,Branch,30,Always,10020,Sacri
+5100,*,133,Royal Guard,True,0,Branch,25,Rating 50%,10005,Attack
+5110,*,133,Royal Guard,True,0,Branch,24,Rating 40%,10040,Electres
+5120,*,133,Royal Guard,True,0,Branch,26,Rating 60%,10010,Counter Stance
+5130,*,133,Royal Guard,True,0,Branch,30,Always,10020,Sacri
+10000,*,133,Royal Guard,True,1,Action,550,Attack,2,Random PC
+10005,*,133,Royal Guard,True,1,Action,550,Attack,4,PC w/ Least HP
+10010,*,133,Royal Guard,True,1,Action,19,Counter Stance,-1,None
+10020,*,133,Royal Guard,True,1,Action,506,Sacri,7,EC w/ Least HP
+10025,*,133,Royal Guard,True,1,Action,506,Sacri,22,Self
+10030,*,133,Royal Guard,True,1,Action,533,Electres,2,Random PC
+10040,*,133,Royal Guard,True,1,Action,533,Electres,23,Aika
 100,*,134,Rokwyrm,Undefined,0,Branch,1,HP < 50%,600,Go to 600
 200,*,134,Rokwyrm,Undefined,0,Branch,2,HP < 25%,900,Go to 900
 300,*,134,Rokwyrm,Undefined,0,Branch,23,Rating 30%,1400,Go to 1400
