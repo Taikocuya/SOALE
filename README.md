@@ -1,4 +1,4 @@
-> :warning: **Pre-Alpha In Development Content**
+> :warning: **Pre-Alpha In Development Content** <br />
 > Skies of Arcadia Legends Encore is still in development. Use at your own 
 > risk and for testing purposes only. Expect that game saves will not be 
 > compatible with future releases.
@@ -54,7 +54,7 @@ attacking with attributes and defending with certain party members.
 
 ## Download
 
-> :warning: **Pre-Alpha In Development Content**
+> :warning: **Pre-Alpha In Development Content** <br />
 > Skies of Arcadia Legends Encore is still in development. Use at your own 
 > risk and for testing purposes only. Expect that game saves will not be 
 > compatible with future releases.
