@@ -1,7 +1,7 @@
 Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Element ID,[Element Name],Attack,Hit%,Limit,SP,Trait ID,[Trait Name],Trait Value,Buy,Sell%
 400,Main Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,35,80,0,4,-1,None,0,450,50
-401,Standard Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,40,83,0,3,-1,None,0,1000,50
-402,Heavy Cannon,Undefined,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,50,85,0,3,-1,None,0,1900,50
+401,Standard Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,40,83,0,3,-1,None,0,730,50
+402,Heavy Cannon,Assigned,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,50,85,0,3,-1,None,0,1900,50
 403,G-Type Cannon,Undefined,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,3000,70
 404,B-Type Cannon,Undefined,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,75,90,0,3,-1,None,0,4000,50
 405,Prototype Cannon,True,0b00001110,,,X,X,X,0,Main Cannon,6,Neutral,100,85,0,6,-1,None,0,5000,50
@@ -9,7 +9,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Typ
 407,Yamato Spirit,False,0b00001110,,,X,X,X,0,Main Cannon,6,Neutral,250,90,0,8,-1,None,0,6700,70
 408,Ancient Cannon,False,0b00001110,,,X,X,X,0,Main Cannon,6,Neutral,300,95,0,9,-1,None,0,8500,50
 409,X Cannon,False,0b00001110,,,X,X,X,0,Main Cannon,6,Neutral,400,97,0,10,-1,None,0,11000,50
-410,"3""Cannon",Undefined,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,70,80,1,1,-1,None,0,700,50
+410,"3""Cannon",True,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,70,80,1,1,-1,None,0,520,50
 411,"3""Blaster",Undefined,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,80,83,1,2,-1,None,0,1015,50
 412,"5""Cannon",Undefined,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,90,80,1,2,-1,None,0,1330,50
 413,"8""Cannon",Undefined,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,100,82,2,2,-1,None,0,2100,50
@@ -29,7 +29,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Typ
 427,Flash Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,350,70,3,5,-1,None,0,6320,50
 428,Arcwhale Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,400,70,3,6,-1,None,0,6800,50
 429,Dragon Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,450,60,2,7,-1,None,0,8800,50
-430,Harpoon Cannon,Undefined,0b00100000,X,,,,,3,Special,6,Neutral,350,65535,0,15,-1,None,0,0,0
+430,Harpoon Cannon,True,0b00100000,X,,,,,3,Special,6,Neutral,350,65535,0,15,-1,None,0,0,0
 431,MoonStone Cannon,False,0b00001110,,,X,X,X,3,Special,6,Neutral,800,65535,0,20,-1,None,0,0,0
 432,Moon Cannon,False,0b00111110,X,X,X,X,X,0,Main Cannon,6,Neutral,500,99,0,9,-1,None,0,1000,100
 433,Moon Gun,False,0b00111110,X,X,X,X,X,1,Sec Cannon,6,Neutral,400,99,3,5,-1,None,0,1000,100

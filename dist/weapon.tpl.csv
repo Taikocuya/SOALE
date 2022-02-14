@@ -17,7 +17,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 15,Soul Sword,False,0,Vyse,50,16,Unconscious by 5%,12340,174,90,-1,None,0,0
 16,Boomerang,True,1,Aika,50,-1,None,70,19,110,-1,None,0,0
 17,Skywing,False,1,Aika,50,-1,None,3670,107,110,-1,None,0,0
-18,Scout Wing,Undefined,1,Aika,50,-1,None,680,53,110,-1,None,0,0
+18,Scout Wing,True,1,Aika,50,-1,None,680,53,110,-1,None,0,0
 19,Ice Splitter,False,1,Aika,50,-1,None,7390,142,110,34,Purple,0,-2
 20,Leather Crescent,True,1,Aika,50,-1,None,140,30,110,-1,None,0,0
 21,Throwing Blade,True,1,Aika,50,-1,None,310,38,110,-1,None,0,0
@@ -32,27 +32,27 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 30,Grendel Wing,Undefined,1,Aika,50,-1,None,2820,96,150,32,Green,0,-2
 31,Flutter Blade,False,1,Aika,50,3,Confusion by 20%,8910,153,110,-1,None,0,0
 32,Cupil,True,2,Fina,0,-1,None,0,58,120,-1,None,0,0
-33,Cupil Lance,Undefined,2,Fina,0,-1,None,0,110,120,-1,None,0,0
-34,Cupil Star,Undefined,2,Fina,0,-1,None,0,103,120,-1,None,0,0
-35,Cupicone,Undefined,2,Fina,0,-1,None,0,73,120,-1,None,0,0
-36,Cupil Spear,Undefined,2,Fina,0,-1,None,0,147,120,-1,None,0,0
-37,Cupil Blade,Undefined,2,Fina,0,4,Silence by 20%,0,67,115,-1,None,0,0
-38,Cupil Sword,Undefined,2,Fina,0,4,Silence by 20%,0,90,115,-1,None,0,0
-39,Cupil Cutlass,Undefined,2,Fina,0,4,Silence by 20%,0,127,115,-1,None,0,0
-40,Cupil Claymore,Undefined,2,Fina,0,4,Silence by 20%,0,157,115,-1,None,0,0
-41,Cupil Cannon,Undefined,2,Fina,0,-1,None,0,86,105,20,Dodge%,0,5
-42,Cupil Spike,Undefined,2,Fina,0,-1,None,0,141,105,20,Dodge%,0,10
-43,Cupil Weight,Undefined,2,Fina,0,-1,None,0,172,105,20,Dodge%,0,15
-44,Cupil Pan,Undefined,2,Fina,0,-1,None,0,145,110,-1,None,0,0
-45,Cupil Club,Undefined,2,Fina,0,-1,None,0,99,110,-1,None,0,0
-46,Cupil Hammer,Undefined,2,Fina,0,-1,None,0,122,110,-1,None,0,0
-47,Final Cupil,Undefined,2,Fina,0,-1,None,0,300,100,-1,None,0,0
+33,Cupil Lance,True,2,Fina,0,-1,None,0,110,120,-1,None,0,0
+34,Cupil Star,True,2,Fina,0,-1,None,0,103,120,-1,None,0,0
+35,Cupicone,True,2,Fina,0,-1,None,0,73,120,-1,None,0,0
+36,Cupil Spear,True,2,Fina,0,-1,None,0,147,120,-1,None,0,0
+37,Cupil Blade,True,2,Fina,0,4,Silence by 20%,0,67,115,-1,None,0,0
+38,Cupil Sword,True,2,Fina,0,4,Silence by 20%,0,90,115,-1,None,0,0
+39,Cupil Cutlass,True,2,Fina,0,4,Silence by 20%,0,127,115,-1,None,0,0
+40,Cupil Claymore,True,2,Fina,0,4,Silence by 20%,0,157,115,-1,None,0,0
+41,Cupil Cannon,True,2,Fina,0,-1,None,0,86,105,20,Dodge%,0,5
+42,Cupil Spike,True,2,Fina,0,-1,None,0,141,105,20,Dodge%,0,10
+43,Cupil Weight,True,2,Fina,0,-1,None,0,172,105,20,Dodge%,0,15
+44,Cupil Pan,True,2,Fina,0,-1,None,0,145,110,-1,None,0,0
+45,Cupil Club,True,2,Fina,0,-1,None,0,99,110,-1,None,0,0
+46,Cupil Hammer,True,2,Fina,0,-1,None,0,122,110,-1,None,0,0
+47,Final Cupil,True,2,Fina,0,-1,None,0,300,100,-1,None,0,0
 48,Artificial Arm,True,3,Drachma,50,-1,None,390,43,80,-1,None,0,0
 49,Hook Hand,True,3,Drachma,50,-1,None,580,51,80,-1,None,0,0
 50,Mace Hand,False,3,Drachma,50,-1,None,2000,125,0,-1,None,0,0
 51,Mining Arm,False,3,Drachma,50,-1,None,9980,172,80,-1,None,0,0
 52,Dragon Arm,False,3,Drachma,50,-1,None,11850,181,80,-1,None,0,0
-53,Beak Hand,Undefined,3,Drachma,50,5,Confusion by 20%,880,60,80,-1,None,0,0
+53,Beak Hand,True,3,Drachma,50,5,Confusion by 20%,880,60,80,-1,None,0,0
 54,De Loco Drill,False,3,Drachma,50,6,Unconscious by 10%,2600,95,80,-1,None,0,0
 55,Excavation Arm,Undefined,3,Drachma,50,-1,None,1340,73,80,-1,None,0,0
 56,Ruin Arm,Undefined,3,Drachma,50,-1,None,3860,112,80,-1,None,0,0

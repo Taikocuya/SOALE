@@ -151,22 +151,22 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 29,r509a.tec,12,Chameleon,Undefined,7,1,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
 30,r509a.tec,12,Chameleon,Undefined,7,2,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,3,Guard,-1,None,-1,None,0
 31,r509a.tec,12,Chameleon,Undefined,7,3,-1,None,0,None,0,Attack,1,Type D Subcannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
-0,r510a.tec,4,Valuan Gunboat,False,0,0,0,PS HP ≤,50,%,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
-1,r510a.tec,4,Valuan Gunboat,False,0,1,0,PS HP ≤,20,%,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
-2,r510a.tec,4,Valuan Gunboat,False,0,2,3,Rating,30,%,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
-3,r510a.tec,4,Valuan Gunboat,False,0,3,3,Rating,10,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Heavy Subcannon,-1,None,0
-4,r510a.tec,4,Valuan Gunboat,False,1,0,0,PS HP ≤,20,%,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
-5,r510a.tec,4,Valuan Gunboat,False,1,1,1,ES HP ≤,40,%,1,Magic,-1,None,6,Sacri,0,0,Attack,0,Large Cannon,-1,None,0
-6,r510a.tec,4,Valuan Gunboat,False,1,2,3,Rating,30,%,3,Guard,-1,None,0,Evasive Action,0,4,Nothing,-1,None,-1,None,0
-7,r510a.tec,4,Valuan Gunboat,False,1,3,3,Rating,30,%,3,Guard,-1,None,0,Evasive Action,0,1,Magic,-1,None,23,Pyri,0
-8,r510a.tec,4,Valuan Gunboat,False,2,0,1,ES HP ≤,20,%,1,Magic,-1,None,6,Sacri,0,0,Attack,1,Heavy Subcannon,-1,None,3
-9,r510a.tec,4,Valuan Gunboat,False,2,1,1,ES HP ≤,10,%,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,23,Pyri,0
-10,r510a.tec,4,Valuan Gunboat,False,2,2,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
-11,r510a.tec,4,Valuan Gunboat,False,2,3,1,ES HP ≤,10,%,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,23,Pyri,0
-12,r510a.tec,4,Valuan Gunboat,False,3,0,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,2,2,Focus,-1,None,0,Focus,0
-13,r510a.tec,4,Valuan Gunboat,False,3,1,1,ES HP ≤,30,%,3,Guard,-1,None,0,Evasive Action,0,4,Nothing,-1,None,-1,None,0
-14,r510a.tec,4,Valuan Gunboat,False,3,2,3,Rating,30,%,1,Magic,-1,None,6,Sacri,0,2,Focus,-1,None,0,Focus,0
-15,r510a.tec,4,Valuan Gunboat,False,3,3,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,0,Large Cannon,-1,None,0
+0,r510a.tec,4,Valuan Gunboat,True,0,0,0,PS HP ≤,50,%,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
+1,r510a.tec,4,Valuan Gunboat,True,0,1,0,PS HP ≤,20,%,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
+2,r510a.tec,4,Valuan Gunboat,True,0,2,3,Rating,30,%,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
+3,r510a.tec,4,Valuan Gunboat,True,0,3,3,Rating,10,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Heavy Subcannon,-1,None,0
+4,r510a.tec,4,Valuan Gunboat,True,1,0,0,PS HP ≤,20,%,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
+5,r510a.tec,4,Valuan Gunboat,True,1,1,1,ES HP ≤,40,%,1,Magic,-1,None,6,Sacri,0,0,Attack,0,Large Cannon,-1,None,0
+6,r510a.tec,4,Valuan Gunboat,True,1,2,3,Rating,30,%,3,Guard,-1,None,0,Evasive Action,0,4,Nothing,-1,None,-1,None,0
+7,r510a.tec,4,Valuan Gunboat,True,1,3,3,Rating,30,%,3,Guard,-1,None,0,Evasive Action,0,1,Magic,-1,None,23,Pyri,0
+8,r510a.tec,4,Valuan Gunboat,True,2,0,1,ES HP ≤,20,%,1,Magic,-1,None,6,Sacri,0,0,Attack,1,Heavy Subcannon,-1,None,3
+9,r510a.tec,4,Valuan Gunboat,True,2,1,1,ES HP ≤,10,%,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,23,Pyri,0
+10,r510a.tec,4,Valuan Gunboat,True,2,2,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+11,r510a.tec,4,Valuan Gunboat,True,2,3,1,ES HP ≤,10,%,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,23,Pyri,0
+12,r510a.tec,4,Valuan Gunboat,True,3,0,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,2,2,Focus,-1,None,0,Focus,0
+13,r510a.tec,4,Valuan Gunboat,True,3,1,1,ES HP ≤,30,%,3,Guard,-1,None,0,Evasive Action,0,4,Nothing,-1,None,-1,None,0
+14,r510a.tec,4,Valuan Gunboat,True,3,2,3,Rating,30,%,1,Magic,-1,None,6,Sacri,0,2,Focus,-1,None,0,Focus,0
+15,r510a.tec,4,Valuan Gunboat,True,3,3,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,0,Large Cannon,-1,None,0
 0,r513a.tec,35,Roc,False,0,0,3,Rating,50,%,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Blast Voice,-1,None,0
 1,r513a.tec,35,Roc,False,0,1,3,Rating,50,%,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Blast Voice,-1,None,0
 2,r513a.tec,35,Roc,False,0,2,3,Rating,50,%,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Blast Voice,-1,None,0
@@ -295,22 +295,22 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 37,r515a.tec,25,Grendel,Undefined,9,1,9,PS Phase Actions ≥ 2 or Used S-Cannon?,0,None,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Fist of Grendel,-1,None,0
 38,r515a.tec,25,Grendel,Undefined,9,2,3,Rating,50,%,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,2,Stomp,-1,None,0
 39,r515a.tec,25,Grendel,Undefined,9,3,3,Rating,50,%,4,Nothing,-1,None,2,Assessing Damage,0,3,Guard,-1,None,0,Evasive Action,0
-0,r518a.tec,4,Valuan Gunboat,False,0,0,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-1,r518a.tec,4,Valuan Gunboat,False,0,1,3,Rating,80,%,0,Attack,1,Heavy Subcannon,-1,None,1,4,Nothing,0,None,0,Awaiting Orders,0
-2,r518a.tec,4,Valuan Gunboat,False,0,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,-1,None,-1,None,0
-3,r518a.tec,4,Valuan Gunboat,False,0,3,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-4,r518a.tec,4,Valuan Gunboat,False,1,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,0,Large Cannon,-1,None,0
-5,r518a.tec,4,Valuan Gunboat,False,1,1,3,Rating,80,%,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-6,r518a.tec,4,Valuan Gunboat,False,1,2,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,2,4,Nothing,-1,None,0,Awaiting Orders,0
-7,r518a.tec,4,Valuan Gunboat,False,1,3,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-8,r518a.tec,4,Valuan Gunboat,False,2,0,3,Rating,80,%,0,Attack,2,Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
-9,r518a.tec,4,Valuan Gunboat,False,2,1,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,1,3,Guard,0,None,0,Evasive Action,0
-10,r518a.tec,4,Valuan Gunboat,False,2,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-11,r518a.tec,4,Valuan Gunboat,False,2,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-12,r518a.tec,4,Valuan Gunboat,False,3,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,-1,None,-1,None,0
-13,r518a.tec,4,Valuan Gunboat,False,3,1,-1,None,0,None,0,Attack,2,Torpedo,-1,None,2,0,Attack,-1,None,-1,None,0
-14,r518a.tec,4,Valuan Gunboat,False,3,2,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,2,Focus,0,None,-1,None,0
-15,r518a.tec,4,Valuan Gunboat,False,3,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+0,r518a.tec,4,Valuan Gunboat,True,0,0,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+1,r518a.tec,4,Valuan Gunboat,True,0,1,3,Rating,80,%,0,Attack,1,Heavy Subcannon,-1,None,1,4,Nothing,0,None,0,Awaiting Orders,0
+2,r518a.tec,4,Valuan Gunboat,True,0,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,-1,None,-1,None,0
+3,r518a.tec,4,Valuan Gunboat,True,0,3,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+4,r518a.tec,4,Valuan Gunboat,True,1,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,0,Large Cannon,-1,None,0
+5,r518a.tec,4,Valuan Gunboat,True,1,1,3,Rating,80,%,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
+6,r518a.tec,4,Valuan Gunboat,True,1,2,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,2,4,Nothing,-1,None,0,Awaiting Orders,0
+7,r518a.tec,4,Valuan Gunboat,True,1,3,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+8,r518a.tec,4,Valuan Gunboat,True,2,0,3,Rating,80,%,0,Attack,2,Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
+9,r518a.tec,4,Valuan Gunboat,True,2,1,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,1,3,Guard,0,None,0,Evasive Action,0
+10,r518a.tec,4,Valuan Gunboat,True,2,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+11,r518a.tec,4,Valuan Gunboat,True,2,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+12,r518a.tec,4,Valuan Gunboat,True,3,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,-1,None,-1,None,0
+13,r518a.tec,4,Valuan Gunboat,True,3,1,-1,None,0,None,0,Attack,2,Torpedo,-1,None,2,0,Attack,-1,None,-1,None,0
+14,r518a.tec,4,Valuan Gunboat,True,3,2,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,2,Focus,0,None,-1,None,0
+15,r518a.tec,4,Valuan Gunboat,True,3,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
 0,r519a.tec,38,Fortress Gates,False,0,0,-1,None,0,None,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Small Cannon,-1,None,0
 1,r519a.tec,38,Fortress Gates,False,0,1,-1,None,0,None,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Small Cannon,-1,None,0
 2,r519a.tec,38,Fortress Gates,False,0,2,-1,None,0,None,0,Attack,0,Small Cannon,-1,None,0,0,Attack,0,Small Cannon,-1,None,0
@@ -755,22 +755,22 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 9,r541a.tec,14,Chameleon,False,2,1,3,Rating,50,%,1,Magic,-1,None,24,Pyres,0,0,Attack,0,Chameleon Cannon,-1,None,0
 10,r541a.tec,14,Chameleon,False,2,2,3,Rating,50,%,1,Magic,-1,None,24,Pyres,0,0,Attack,2,De Loco Torpedo,-1,None,1
 11,r541a.tec,14,Chameleon,False,2,3,3,Rating,50,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,Chameleon Cannon,-1,None,0
-0,r542a.tec,4,Valuan Gunboat,False,0,0,-1,None,0,None,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,0,???,0
-1,r542a.tec,4,Valuan Gunboat,False,0,1,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,0,Attack,1,Heavy Subcannon,-1,None,0
-2,r542a.tec,4,Valuan Gunboat,False,0,2,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-3,r542a.tec,4,Valuan Gunboat,False,0,3,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,2,Focus,-1,None,0,Focus,0
-4,r542a.tec,4,Valuan Gunboat,False,1,0,3,Rating,50,%,2,Focus,-1,None,-1,None,0,0,Attack,2,Torpedo,-1,None,3
-5,r542a.tec,4,Valuan Gunboat,False,1,1,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,2,-1,None,-1,None,-1,None,0
-6,r542a.tec,4,Valuan Gunboat,False,1,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
-7,r542a.tec,4,Valuan Gunboat,False,1,3,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-8,r542a.tec,4,Valuan Gunboat,False,2,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
-9,r542a.tec,4,Valuan Gunboat,False,2,1,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,1,-1,None,-1,None,-1,None,0
-10,r542a.tec,4,Valuan Gunboat,False,2,2,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,-1,None,-1,None,-1,None,0
-11,r542a.tec,4,Valuan Gunboat,False,2,3,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-12,r542a.tec,4,Valuan Gunboat,False,3,0,-1,None,0,None,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,-1,None,0
-13,r542a.tec,4,Valuan Gunboat,False,3,1,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
-14,r542a.tec,4,Valuan Gunboat,False,3,2,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
-15,r542a.tec,4,Valuan Gunboat,False,3,3,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,-1,None,-1,None,-1,None,0
+0,r542a.tec,4,Valuan Gunboat,True,0,0,-1,None,0,None,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,0,???,0
+1,r542a.tec,4,Valuan Gunboat,True,0,1,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,0,Attack,1,Heavy Subcannon,-1,None,0
+2,r542a.tec,4,Valuan Gunboat,True,0,2,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
+3,r542a.tec,4,Valuan Gunboat,True,0,3,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,2,Focus,-1,None,0,Focus,0
+4,r542a.tec,4,Valuan Gunboat,True,1,0,3,Rating,50,%,2,Focus,-1,None,-1,None,0,0,Attack,2,Torpedo,-1,None,3
+5,r542a.tec,4,Valuan Gunboat,True,1,1,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,2,-1,None,-1,None,-1,None,0
+6,r542a.tec,4,Valuan Gunboat,True,1,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
+7,r542a.tec,4,Valuan Gunboat,True,1,3,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+8,r542a.tec,4,Valuan Gunboat,True,2,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+9,r542a.tec,4,Valuan Gunboat,True,2,1,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,1,-1,None,-1,None,-1,None,0
+10,r542a.tec,4,Valuan Gunboat,True,2,2,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,-1,None,-1,None,-1,None,0
+11,r542a.tec,4,Valuan Gunboat,True,2,3,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+12,r542a.tec,4,Valuan Gunboat,True,3,0,-1,None,0,None,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,-1,None,0
+13,r542a.tec,4,Valuan Gunboat,True,3,1,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
+14,r542a.tec,4,Valuan Gunboat,True,3,2,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
+15,r542a.tec,4,Valuan Gunboat,True,3,3,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,-1,None,-1,None,-1,None,0
 0,r543a.tec,5,Valuan Mage Ship,False,0,0,3,Rating,30,%,0,Attack,2,Torpedo,-1,None,3,-1,None,-1,None,0,???,0
 1,r543a.tec,5,Valuan Mage Ship,False,0,1,3,Rating,20,%,2,Focus,0,None,-1,None,0,0,Attack,2,Torpedo,0,None,2
 2,r543a.tec,5,Valuan Mage Ship,False,0,2,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,1,0,Attack,0,Large Cannon,-1,None,0
@@ -923,54 +923,54 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 73,r547a.tec,28,Zelos,False,18,1,-1,None,0,None,0,Attack,2,Moon Lament,-1,None,0,0,Attack,0,Moon Ray,-1,None,0
 74,r547a.tec,28,Zelos,False,18,2,3,Rating,50,%,1,Magic,-1,None,30,Pyrulen,0,1,Magic,-1,None,35,Electrulen,0
 75,r547a.tec,28,Zelos,False,18,3,-1,None,0,None,0,Attack,2,Moon Lament,-1,None,0,0,Attack,0,Moon Ray,-1,None,0
-0,r550a.tec,21,Black Pirates,False,0,0,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
-1,r550a.tec,21,Black Pirates,False,0,1,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,1,Black Torpedo,-1,None,1,2,Focus,-1,None,0,Focus,0
-2,r550a.tec,21,Black Pirates,False,0,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-3,r550a.tec,21,Black Pirates,False,0,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-4,r550a.tec,21,Black Pirates,False,1,0,3,Rating,70,%,0,Attack,1,Black Torpedo,0,None,3,3,Guard,-1,None,0,Evasive Action,0
-5,r550a.tec,21,Black Pirates,False,1,1,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,0,Black Cannon,-1,None,0
-6,r550a.tec,21,Black Pirates,False,1,2,3,Rating,70,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
-7,r550a.tec,21,Black Pirates,False,1,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-8,r550a.tec,21,Black Pirates,False,2,0,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-9,r550a.tec,21,Black Pirates,False,2,1,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-10,r550a.tec,21,Black Pirates,False,2,2,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-11,r550a.tec,21,Black Pirates,False,2,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-12,r550a.tec,21,Black Pirates,False,3,0,3,Rating,98,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-13,r550a.tec,21,Black Pirates,False,3,1,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,1,Black Torpedo,0,None,2
-14,r550a.tec,21,Black Pirates,False,3,2,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-15,r550a.tec,21,Black Pirates,False,3,3,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-0,r551a.tec,21,Black Pirates,False,0,0,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
-1,r551a.tec,21,Black Pirates,False,0,1,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,1,Black Torpedo,-1,None,1,2,Focus,-1,None,0,Focus,0
-2,r551a.tec,21,Black Pirates,False,0,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-3,r551a.tec,21,Black Pirates,False,0,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-4,r551a.tec,21,Black Pirates,False,1,0,3,Rating,70,%,0,Attack,1,Black Torpedo,0,None,3,3,Guard,-1,None,0,Evasive Action,0
-5,r551a.tec,21,Black Pirates,False,1,1,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,0,Black Cannon,-1,None,0
-6,r551a.tec,21,Black Pirates,False,1,2,3,Rating,70,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
-7,r551a.tec,21,Black Pirates,False,1,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-8,r551a.tec,21,Black Pirates,False,2,0,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-9,r551a.tec,21,Black Pirates,False,2,1,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-10,r551a.tec,21,Black Pirates,False,2,2,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-11,r551a.tec,21,Black Pirates,False,2,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-12,r551a.tec,21,Black Pirates,False,3,0,3,Rating,98,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-13,r551a.tec,21,Black Pirates,False,3,1,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,1,Black Torpedo,0,None,2
-14,r551a.tec,21,Black Pirates,False,3,2,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-15,r551a.tec,21,Black Pirates,False,3,3,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-0,r552a.tec,21,Black Pirates,False,0,0,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
-1,r552a.tec,21,Black Pirates,False,0,1,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,1,Black Torpedo,-1,None,1,2,Focus,-1,None,0,Focus,0
-2,r552a.tec,21,Black Pirates,False,0,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-3,r552a.tec,21,Black Pirates,False,0,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-4,r552a.tec,21,Black Pirates,False,1,0,3,Rating,70,%,0,Attack,1,Black Torpedo,0,None,3,3,Guard,-1,None,0,Evasive Action,0
-5,r552a.tec,21,Black Pirates,False,1,1,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,0,Black Cannon,-1,None,0
-6,r552a.tec,21,Black Pirates,False,1,2,3,Rating,70,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
-7,r552a.tec,21,Black Pirates,False,1,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-8,r552a.tec,21,Black Pirates,False,2,0,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-9,r552a.tec,21,Black Pirates,False,2,1,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-10,r552a.tec,21,Black Pirates,False,2,2,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-11,r552a.tec,21,Black Pirates,False,2,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-12,r552a.tec,21,Black Pirates,False,3,0,3,Rating,98,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-13,r552a.tec,21,Black Pirates,False,3,1,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,1,Black Torpedo,0,None,2
-14,r552a.tec,21,Black Pirates,False,3,2,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-15,r552a.tec,21,Black Pirates,False,3,3,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+0,r550a.tec,21,Black Pirates,True,0,0,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
+1,r550a.tec,21,Black Pirates,True,0,1,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,1,Black Torpedo,-1,None,1,2,Focus,-1,None,0,Focus,0
+2,r550a.tec,21,Black Pirates,True,0,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+3,r550a.tec,21,Black Pirates,True,0,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+4,r550a.tec,21,Black Pirates,True,1,0,3,Rating,70,%,0,Attack,1,Black Torpedo,0,None,3,3,Guard,-1,None,0,Evasive Action,0
+5,r550a.tec,21,Black Pirates,True,1,1,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,0,Black Cannon,-1,None,0
+6,r550a.tec,21,Black Pirates,True,1,2,3,Rating,70,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
+7,r550a.tec,21,Black Pirates,True,1,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+8,r550a.tec,21,Black Pirates,True,2,0,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+9,r550a.tec,21,Black Pirates,True,2,1,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+10,r550a.tec,21,Black Pirates,True,2,2,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+11,r550a.tec,21,Black Pirates,True,2,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+12,r550a.tec,21,Black Pirates,True,3,0,3,Rating,98,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+13,r550a.tec,21,Black Pirates,True,3,1,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,1,Black Torpedo,0,None,2
+14,r550a.tec,21,Black Pirates,True,3,2,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+15,r550a.tec,21,Black Pirates,True,3,3,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+0,r551a.tec,21,Black Pirates,True,0,0,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
+1,r551a.tec,21,Black Pirates,True,0,1,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,1,Black Torpedo,-1,None,1,2,Focus,-1,None,0,Focus,0
+2,r551a.tec,21,Black Pirates,True,0,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+3,r551a.tec,21,Black Pirates,True,0,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+4,r551a.tec,21,Black Pirates,True,1,0,3,Rating,70,%,0,Attack,1,Black Torpedo,0,None,3,3,Guard,-1,None,0,Evasive Action,0
+5,r551a.tec,21,Black Pirates,True,1,1,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,0,Black Cannon,-1,None,0
+6,r551a.tec,21,Black Pirates,True,1,2,3,Rating,70,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
+7,r551a.tec,21,Black Pirates,True,1,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+8,r551a.tec,21,Black Pirates,True,2,0,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+9,r551a.tec,21,Black Pirates,True,2,1,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+10,r551a.tec,21,Black Pirates,True,2,2,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+11,r551a.tec,21,Black Pirates,True,2,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+12,r551a.tec,21,Black Pirates,True,3,0,3,Rating,98,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+13,r551a.tec,21,Black Pirates,True,3,1,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,1,Black Torpedo,0,None,2
+14,r551a.tec,21,Black Pirates,True,3,2,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+15,r551a.tec,21,Black Pirates,True,3,3,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+0,r552a.tec,21,Black Pirates,True,0,0,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
+1,r552a.tec,21,Black Pirates,True,0,1,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,1,Black Torpedo,-1,None,1,2,Focus,-1,None,0,Focus,0
+2,r552a.tec,21,Black Pirates,True,0,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+3,r552a.tec,21,Black Pirates,True,0,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+4,r552a.tec,21,Black Pirates,True,1,0,3,Rating,70,%,0,Attack,1,Black Torpedo,0,None,3,3,Guard,-1,None,0,Evasive Action,0
+5,r552a.tec,21,Black Pirates,True,1,1,3,Rating,80,%,0,Attack,1,Black Torpedo,-1,None,2,0,Attack,0,Black Cannon,-1,None,0
+6,r552a.tec,21,Black Pirates,True,1,2,3,Rating,70,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
+7,r552a.tec,21,Black Pirates,True,1,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+8,r552a.tec,21,Black Pirates,True,2,0,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+9,r552a.tec,21,Black Pirates,True,2,1,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+10,r552a.tec,21,Black Pirates,True,2,2,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+11,r552a.tec,21,Black Pirates,True,2,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+12,r552a.tec,21,Black Pirates,True,3,0,3,Rating,98,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+13,r552a.tec,21,Black Pirates,True,3,1,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,1,Black Torpedo,0,None,2
+14,r552a.tec,21,Black Pirates,True,3,2,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+15,r552a.tec,21,Black Pirates,True,3,3,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
 0,r553a.tec,1,Valuan Spellship,False,0,0,3,Rating,50,%,0,Attack,0,Small Cannon,-1,None,0,0,Attack,1,Light Subcannon,-1,None,0
 1,r553a.tec,1,Valuan Spellship,False,0,1,-1,None,0,None,0,Attack,1,Light Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
 2,r553a.tec,1,Valuan Spellship,False,0,2,3,Rating,75,%,1,Magic,-1,None,24,Pyres,0,0,Attack,0,Small Cannon,-1,None,0
@@ -1015,28 +1015,28 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 21,r554a.tec,0,Valuan Warship,False,5,1,3,Rating,50,%,0,Attack,1,Light Subcannon,-1,None,2,0,Attack,1,Light Subcannon,-1,None,1
 22,r554a.tec,0,Valuan Warship,False,5,2,3,Rating,30,%,3,Guard,-1,None,-1,None,0,2,Focus,-1,None,0,Focus,0
 23,r554a.tec,0,Valuan Warship,False,5,3,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
-0,r555a.tec,1,Valuan Spellship,True,0,0,-1,None,0,None,1,Magic,0,None,24,Pyres,0,1,Magic,0,None,24,Pyres,0
+0,r555a.tec,1,Valuan Spellship,True,0,0,3,Rating,50,%,1,Magic,0,None,24,Pyres,0,0,Attack,0,Small Cannon,-1,None,0
 1,r555a.tec,1,Valuan Spellship,True,0,1,1,ES HP ≤,30,%,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,1,Light Subcannon,-1,None,2
 2,r555a.tec,1,Valuan Spellship,True,0,2,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
 3,r555a.tec,1,Valuan Spellship,True,0,3,-1,None,0,None,1,Magic,0,None,24,Pyres,0,1,Magic,0,None,24,Pyres,0
-4,r555a.tec,1,Valuan Spellship,True,1,0,-1,None,0,None,1,Magic,0,None,24,Pyres,0,1,Magic,0,None,24,Pyres,0
+4,r555a.tec,1,Valuan Spellship,True,1,0,3,Rating,50,%,1,Magic,0,None,24,Pyres,0,0,Attack,0,Small Cannon,-1,None,0
 5,r555a.tec,1,Valuan Spellship,True,1,1,3,Rating,40,%,1,Magic,0,None,0,Increm,0,0,Attack,1,Light Subcannon,-1,None,1
 6,r555a.tec,1,Valuan Spellship,True,1,2,-1,None,0,None,4,Nothing,-1,None,1,Target Lost,0,4,Nothing,-1,None,0,Awaiting Orders,0
 7,r555a.tec,1,Valuan Spellship,True,1,3,-1,None,0,None,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
 8,r555a.tec,1,Valuan Spellship,True,2,0,-1,None,0,None,0,Attack,1,Light Subcannon,-1,None,1,0,Attack,1,Light Subcannon,-1,None,2
 9,r555a.tec,1,Valuan Spellship,True,2,1,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
 10,r555a.tec,1,Valuan Spellship,True,2,2,3,Rating,80,%,1,Magic,0,None,0,Increm,0,0,Attack,1,Light Subcannon,-1,None,1
-11,r555a.tec,1,Valuan Spellship,True,2,3,-1,None,0,None,1,Magic,0,None,24,Pyres,0,1,Magic,0,None,24,Pyres,0
+11,r555a.tec,1,Valuan Spellship,True,2,3,3,Rating,50,%,1,Magic,0,None,24,Pyres,0,0,Attack,0,Small Cannon,-1,None,0
 12,r555a.tec,1,Valuan Spellship,True,3,0,3,Rating,50,%,0,Attack,1,Light Subcannon,-1,None,2,1,Magic,0,None,24,Pyres,0
 13,r555a.tec,1,Valuan Spellship,True,3,1,-1,None,0,None,4,Nothing,-1,None,0,Awaiting Orders,0,4,Nothing,-1,None,0,Awaiting Orders,0
-14,r555a.tec,1,Valuan Spellship,True,3,2,-1,None,0,None,1,Magic,0,None,24,Pyres,0,1,Magic,0,None,24,Pyres,0
+14,r555a.tec,1,Valuan Spellship,True,3,2,3,Rating,50,%,1,Magic,0,None,24,Pyres,0,0,Attack,0,Small Cannon,-1,None,0
 15,r555a.tec,1,Valuan Spellship,True,3,3,3,Rating,20,%,2,Focus,-1,None,0,Focus,0,4,Nothing,-1,None,0,Awaiting Orders,0
 16,r555a.tec,1,Valuan Spellship,True,4,0,1,ES HP ≤,20,%,1,Magic,0,None,6,Sacri,0,3,Guard,-1,None,-1,None,0
 17,r555a.tec,1,Valuan Spellship,True,4,1,3,Rating,50,%,0,Attack,1,Light Subcannon,-1,None,2,1,Magic,0,None,24,Pyres,0
-18,r555a.tec,1,Valuan Spellship,True,4,2,-1,None,0,None,1,Magic,0,None,24,Pyres,0,1,Magic,0,None,24,Pyres,0
+18,r555a.tec,1,Valuan Spellship,True,4,2,3,Rating,50,%,1,Magic,0,None,24,Pyres,0,0,Attack,0,Small Cannon,-1,None,0
 19,r555a.tec,1,Valuan Spellship,True,4,3,3,Rating,50,%,4,Nothing,-1,None,0,Awaiting Orders,0,1,Magic,0,None,24,Pyres,0
 20,r555a.tec,1,Valuan Spellship,True,5,0,1,ES HP ≤,40,%,1,Magic,0,None,6,Sacri,0,3,Guard,-1,None,-1,None,0
-21,r555a.tec,1,Valuan Spellship,True,5,1,-1,None,0,None,1,Magic,0,None,24,Pyres,0,1,Magic,0,None,24,Pyres,0
+21,r555a.tec,1,Valuan Spellship,True,5,1,3,Rating,50,%,1,Magic,0,None,24,Pyres,0,0,Attack,0,Small Cannon,-1,None,0
 22,r555a.tec,1,Valuan Spellship,True,5,2,3,Rating,30,%,3,Guard,-1,None,-1,None,0,2,Focus,-1,None,0,Focus,0
 23,r555a.tec,1,Valuan Spellship,True,5,3,-1,None,0,None,1,Magic,0,None,24,Pyres,0,1,Magic,0,None,24,Pyres,0
 0,r556a.tec,3,Valuan Phantom,Undefined,0,0,0,PS HP ≤,50,%,4,Nothing,-1,None,-1,None,0,1,Magic,-1,None,23,Pyri,0
@@ -1055,38 +1055,38 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 13,r556a.tec,3,Valuan Phantom,Undefined,3,1,1,ES HP ≤,30,%,3,Guard,-1,None,0,Evasive Action,0,4,Nothing,-1,None,-1,None,0
 14,r556a.tec,3,Valuan Phantom,Undefined,3,2,3,Rating,30,%,1,Magic,-1,None,6,Sacri,0,2,Focus,-1,None,0,Focus,0
 15,r556a.tec,3,Valuan Phantom,Undefined,3,3,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,0,Standard Cannon,-1,None,0
-0,r557a.tec,4,Valuan Gunboat,False,0,0,0,PS HP ≤,50,%,0,Attack,2,Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
-1,r557a.tec,4,Valuan Gunboat,False,0,1,4,Prev Task Type in Same Turn =,0,Attack,0,Attack,1,Heavy Subcannon,-1,None,1,2,Focus,-1,None,-1,None,0
-2,r557a.tec,4,Valuan Gunboat,False,0,2,3,Rating,50,%,2,Focus,-1,None,-1,None,0,4,Nothing,-1,None,-1,None,0
-3,r557a.tec,4,Valuan Gunboat,False,0,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
-4,r557a.tec,4,Valuan Gunboat,False,1,0,2,SP ≤,2,SP,0,Attack,2,Torpedo,-1,None,1,4,Nothing,-1,None,-1,None,-1
-5,r557a.tec,4,Valuan Gunboat,False,1,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-6,r557a.tec,4,Valuan Gunboat,False,1,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-7,r557a.tec,4,Valuan Gunboat,False,1,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
-8,r557a.tec,4,Valuan Gunboat,False,2,0,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,2,2,Focus,-1,None,-1,None,0
-9,r557a.tec,4,Valuan Gunboat,False,2,1,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,0
-10,r557a.tec,4,Valuan Gunboat,False,2,2,0,PS HP ≤,2,%,4,Nothing,-1,None,-1,None,-1,4,Nothing,-1,None,-1,None,-1
-11,r557a.tec,4,Valuan Gunboat,False,2,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
-12,r557a.tec,4,Valuan Gunboat,False,3,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-13,r557a.tec,4,Valuan Gunboat,False,3,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-14,r557a.tec,4,Valuan Gunboat,False,3,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-15,r557a.tec,4,Valuan Gunboat,False,3,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
-16,r557a.tec,4,Valuan Gunboat,False,4,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-17,r557a.tec,4,Valuan Gunboat,False,4,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-18,r557a.tec,4,Valuan Gunboat,False,4,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-19,r557a.tec,4,Valuan Gunboat,False,4,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
-20,r557a.tec,4,Valuan Gunboat,False,5,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-21,r557a.tec,4,Valuan Gunboat,False,5,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-22,r557a.tec,4,Valuan Gunboat,False,5,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-23,r557a.tec,4,Valuan Gunboat,False,5,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
-24,r557a.tec,4,Valuan Gunboat,False,6,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-25,r557a.tec,4,Valuan Gunboat,False,6,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-26,r557a.tec,4,Valuan Gunboat,False,6,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-27,r557a.tec,4,Valuan Gunboat,False,6,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
-28,r557a.tec,4,Valuan Gunboat,False,7,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-29,r557a.tec,4,Valuan Gunboat,False,7,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-30,r557a.tec,4,Valuan Gunboat,False,7,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
-31,r557a.tec,4,Valuan Gunboat,False,7,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
+0,r557a.tec,4,Valuan Gunboat,True,0,0,0,PS HP ≤,50,%,0,Attack,2,Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
+1,r557a.tec,4,Valuan Gunboat,True,0,1,4,Prev Task Type in Same Turn =,0,Attack,0,Attack,1,Heavy Subcannon,-1,None,1,2,Focus,-1,None,-1,None,0
+2,r557a.tec,4,Valuan Gunboat,True,0,2,3,Rating,50,%,2,Focus,-1,None,-1,None,0,4,Nothing,-1,None,-1,None,0
+3,r557a.tec,4,Valuan Gunboat,True,0,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
+4,r557a.tec,4,Valuan Gunboat,True,1,0,2,SP ≤,2,SP,0,Attack,2,Torpedo,-1,None,1,4,Nothing,-1,None,-1,None,-1
+5,r557a.tec,4,Valuan Gunboat,True,1,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+6,r557a.tec,4,Valuan Gunboat,True,1,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+7,r557a.tec,4,Valuan Gunboat,True,1,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
+8,r557a.tec,4,Valuan Gunboat,True,2,0,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,2,2,Focus,-1,None,-1,None,0
+9,r557a.tec,4,Valuan Gunboat,True,2,1,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,0
+10,r557a.tec,4,Valuan Gunboat,True,2,2,0,PS HP ≤,2,%,4,Nothing,-1,None,-1,None,-1,4,Nothing,-1,None,-1,None,-1
+11,r557a.tec,4,Valuan Gunboat,True,2,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
+12,r557a.tec,4,Valuan Gunboat,True,3,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+13,r557a.tec,4,Valuan Gunboat,True,3,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+14,r557a.tec,4,Valuan Gunboat,True,3,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+15,r557a.tec,4,Valuan Gunboat,True,3,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
+16,r557a.tec,4,Valuan Gunboat,True,4,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+17,r557a.tec,4,Valuan Gunboat,True,4,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+18,r557a.tec,4,Valuan Gunboat,True,4,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+19,r557a.tec,4,Valuan Gunboat,True,4,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
+20,r557a.tec,4,Valuan Gunboat,True,5,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+21,r557a.tec,4,Valuan Gunboat,True,5,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+22,r557a.tec,4,Valuan Gunboat,True,5,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+23,r557a.tec,4,Valuan Gunboat,True,5,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
+24,r557a.tec,4,Valuan Gunboat,True,6,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+25,r557a.tec,4,Valuan Gunboat,True,6,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+26,r557a.tec,4,Valuan Gunboat,True,6,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+27,r557a.tec,4,Valuan Gunboat,True,6,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
+28,r557a.tec,4,Valuan Gunboat,True,7,0,-1,None,0,None,0,Attack,1,Heavy Subcannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+29,r557a.tec,4,Valuan Gunboat,True,7,1,3,Rating,30,%,2,Focus,-1,None,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+30,r557a.tec,4,Valuan Gunboat,True,7,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,-1,None,-1
+31,r557a.tec,4,Valuan Gunboat,True,7,3,0,PS HP ≤,0,%,0,Attack,0,Large Cannon,0,None,0,0,Attack,0,Large Cannon,0,None,0
 0,r558a.tec,4,Valuan Gunboat,True,0,0,3,Rating,50,%,0,Attack,2,Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
 1,r558a.tec,4,Valuan Gunboat,True,0,1,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,2,Torpedo,-1,None,2,2,Focus,-1,None,-1,None,0
 2,r558a.tec,4,Valuan Gunboat,True,0,2,4,Prev Task Type in Same Turn =,2,Focus,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
@@ -1147,22 +1147,22 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 17,r560a.tec,1,Valuan Spellship,False,4,1,3,Rating,40,%,1,Magic,-1,None,7,Sacres,0,0,Attack,0,Small Cannon,-1,None,0
 18,r560a.tec,1,Valuan Spellship,False,4,2,3,Rating,65,%,1,Magic,-1,None,24,Pyres,0,3,Guard,-1,None,-1,None,0
 19,r560a.tec,1,Valuan Spellship,False,4,3,3,Rating,50,%,2,Focus,-1,None,-1,None,0,0,Attack,1,Light Subcannon,-1,None,0
-0,r562a.tec,4,Valuan Gunboat,False,0,0,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-1,r562a.tec,4,Valuan Gunboat,False,0,1,3,Rating,80,%,0,Attack,1,Heavy Subcannon,-1,None,1,4,Nothing,0,None,0,Awaiting Orders,0
-2,r562a.tec,4,Valuan Gunboat,False,0,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,-1,None,-1,None,0
-3,r562a.tec,4,Valuan Gunboat,False,0,3,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-4,r562a.tec,4,Valuan Gunboat,False,1,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,0,Large Cannon,-1,None,0
-5,r562a.tec,4,Valuan Gunboat,False,1,1,3,Rating,80,%,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-6,r562a.tec,4,Valuan Gunboat,False,1,2,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,2,4,Nothing,-1,None,0,Awaiting Orders,0
-7,r562a.tec,4,Valuan Gunboat,False,1,3,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-8,r562a.tec,4,Valuan Gunboat,False,2,0,3,Rating,80,%,0,Attack,2,Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
-9,r562a.tec,4,Valuan Gunboat,False,2,1,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,1,3,Guard,0,None,0,Evasive Action,0
-10,r562a.tec,4,Valuan Gunboat,False,2,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-11,r562a.tec,4,Valuan Gunboat,False,2,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-12,r562a.tec,4,Valuan Gunboat,False,3,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,-1,None,-1,None,0
-13,r562a.tec,4,Valuan Gunboat,False,3,1,-1,None,0,None,0,Attack,2,Torpedo,-1,None,2,0,Attack,-1,None,-1,None,0
-14,r562a.tec,4,Valuan Gunboat,False,3,2,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,2,Focus,0,None,-1,None,0
-15,r562a.tec,4,Valuan Gunboat,False,3,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+0,r562a.tec,4,Valuan Gunboat,True,0,0,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+1,r562a.tec,4,Valuan Gunboat,True,0,1,3,Rating,80,%,0,Attack,1,Heavy Subcannon,-1,None,1,4,Nothing,0,None,0,Awaiting Orders,0
+2,r562a.tec,4,Valuan Gunboat,True,0,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,-1,None,-1,None,0
+3,r562a.tec,4,Valuan Gunboat,True,0,3,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+4,r562a.tec,4,Valuan Gunboat,True,1,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,0,Large Cannon,-1,None,0
+5,r562a.tec,4,Valuan Gunboat,True,1,1,3,Rating,80,%,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
+6,r562a.tec,4,Valuan Gunboat,True,1,2,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,2,4,Nothing,-1,None,0,Awaiting Orders,0
+7,r562a.tec,4,Valuan Gunboat,True,1,3,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+8,r562a.tec,4,Valuan Gunboat,True,2,0,3,Rating,80,%,0,Attack,2,Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
+9,r562a.tec,4,Valuan Gunboat,True,2,1,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,1,3,Guard,0,None,0,Evasive Action,0
+10,r562a.tec,4,Valuan Gunboat,True,2,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+11,r562a.tec,4,Valuan Gunboat,True,2,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+12,r562a.tec,4,Valuan Gunboat,True,3,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,-1,None,-1,None,0
+13,r562a.tec,4,Valuan Gunboat,True,3,1,-1,None,0,None,0,Attack,2,Torpedo,-1,None,2,0,Attack,-1,None,-1,None,0
+14,r562a.tec,4,Valuan Gunboat,True,3,2,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,2,Focus,0,None,-1,None,0
+15,r562a.tec,4,Valuan Gunboat,True,3,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
 0,r563a.tec,5,Valuan Mage Ship,False,0,0,1,ES HP ≤,99,%,2,Focus,-1,None,0,Focus,0,1,Magic,-1,None,13,Quika,0
 1,r563a.tec,5,Valuan Mage Ship,False,0,1,3,Rating,50,%,3,Guard,-1,None,0,Evasive Action,0,1,Magic,-1,None,27,Crystales,0
 2,r563a.tec,5,Valuan Mage Ship,False,0,2,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,1,Magic,-1,None,34,Electrum,0

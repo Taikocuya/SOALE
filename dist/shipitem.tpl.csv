@@ -1,5 +1,5 @@
 Entry ID,[Entry name],[Finalized],Occasion Flags,[M],[B],[S],Ship Eff ID,[Ship Eff Name],Ship Eff Turns,Consume%,Buy,Sell%,Ship Eff Base,Element ID,[Element Name],Unk 1,Unk 2,Hit%
-480,Bomb,True,0b0001,,,X,107,Damage,-1,100,300,50,200,6,Neutral,0,0,0
+480,Bomb,True,0b0001,,,X,107,Damage,-1,100,500,50,200,6,Neutral,0,0,0
 481,Big Bomb,False,0b0001,,,X,107,Damage,-1,100,500,50,300,6,Neutral,0,0,0
 482,Concussion Bomb,False,0b0001,,,X,107,Damage,-1,100,700,50,400,6,Neutral,0,0,0
 483,Shredder Bomb,False,0b0001,,,X,107,Damage,-1,100,1000,50,500,6,Neutral,0,0,0

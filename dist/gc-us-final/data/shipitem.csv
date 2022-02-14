@@ -1,5 +1,5 @@
 Entry ID,Entry US Name,Occasion Flags,[M],[B],[S],Ship Eff ID,[Ship Eff Name],Ship Eff Turns,Consume%,Pad 1,Buy,Sell%,US Order 1,US Order 2,Pad 2,Ship Eff Base,Element ID,[Element Name],Unk 1,Unk 2,Hit%,[US Descr Pos],[US Descr Size],US Descr Str
-480,Bomb,0b0001,"","",X,107,Damage,-1,100,0,300,50,0,3,0,200,6,Neutral,0,0,0,0x2cfbf0,48,"A common bomb, designed to damage the enemy."
+480,Bomb,0b0001,"","",X,107,Damage,-1,100,0,500,50,0,3,0,200,6,Neutral,0,0,0,0x2cfbf0,48,"A common bomb, designed to damage the enemy."
 481,Big Bomb,0b0001,"","",X,107,Damage,-1,100,0,500,50,1,2,0,300,6,Neutral,0,0,0,0x2cfc20,84,"A larger bomb, packed with more gunpowder for a\nbigger blast. Damages the enemy."
 482,Concussion Bomb,0b0001,"","",X,107,Damage,-1,100,0,700,50,2,6,0,400,6,Neutral,0,0,0,0x2cfc74,80,A bomb that packs double the firepower of a\nstandard bomb. Damages the enemy.
 483,Shredder Bomb,0b0001,"","",X,107,Damage,-1,100,0,1000,50,3,24,0,500,6,Neutral,0,0,0,0x2cfcc4,88,A bomb designed for pure explosive power and\nsize. Does massive damage to the enemy.

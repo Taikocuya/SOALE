@@ -1015,28 +1015,28 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 21,r554a.tec,0,Valuan Warship,5,1,3,Rating,50,%,0,Attack,1,-1,None,2,0,Attack,1,-1,None,1
 22,r554a.tec,0,Valuan Warship,5,2,3,Rating,30,%,3,Guard,-1,-1,None,0,2,Focus,-1,0,Focus,0
 23,r554a.tec,0,Valuan Warship,5,3,3,Rating,70,%,2,Focus,-1,0,Focus,0,3,Guard,-1,-1,None,0
-0,r555a.tec,1,Valuan Spellship,0,0,-1,None,0,None,1,Magic,0,24,Pyres,0,1,Magic,0,24,Pyres,0
+0,r555a.tec,1,Valuan Spellship,0,0,3,Rating,50,%,1,Magic,0,24,Pyres,0,0,Attack,0,-1,None,0
 1,r555a.tec,1,Valuan Spellship,0,1,1,ES HP ≤,30,%,4,Nothing,-1,0,Awaiting Orders,0,0,Attack,1,-1,None,2
 2,r555a.tec,1,Valuan Spellship,0,2,3,Rating,70,%,2,Focus,-1,0,Focus,0,3,Guard,-1,-1,None,0
 3,r555a.tec,1,Valuan Spellship,0,3,-1,None,0,None,1,Magic,0,24,Pyres,0,1,Magic,0,24,Pyres,0
-4,r555a.tec,1,Valuan Spellship,1,0,-1,None,0,None,1,Magic,0,24,Pyres,0,1,Magic,0,24,Pyres,0
+4,r555a.tec,1,Valuan Spellship,1,0,3,Rating,50,%,1,Magic,0,24,Pyres,0,0,Attack,0,-1,None,0
 5,r555a.tec,1,Valuan Spellship,1,1,3,Rating,40,%,1,Magic,0,0,Increm,0,0,Attack,1,-1,None,1
 6,r555a.tec,1,Valuan Spellship,1,2,-1,None,0,None,4,Nothing,-1,1,Target Lost,0,4,Nothing,-1,0,Awaiting Orders,0
 7,r555a.tec,1,Valuan Spellship,1,3,-1,None,0,None,4,Nothing,-1,0,Awaiting Orders,0,4,Nothing,-1,0,Awaiting Orders,0
 8,r555a.tec,1,Valuan Spellship,2,0,-1,None,0,None,0,Attack,1,-1,None,1,0,Attack,1,-1,None,2
 9,r555a.tec,1,Valuan Spellship,2,1,3,Rating,70,%,2,Focus,-1,0,Focus,0,3,Guard,-1,-1,None,0
 10,r555a.tec,1,Valuan Spellship,2,2,3,Rating,80,%,1,Magic,0,0,Increm,0,0,Attack,1,-1,None,1
-11,r555a.tec,1,Valuan Spellship,2,3,-1,None,0,None,1,Magic,0,24,Pyres,0,1,Magic,0,24,Pyres,0
+11,r555a.tec,1,Valuan Spellship,2,3,3,Rating,50,%,1,Magic,0,24,Pyres,0,0,Attack,0,-1,None,0
 12,r555a.tec,1,Valuan Spellship,3,0,3,Rating,50,%,0,Attack,1,-1,None,2,1,Magic,0,24,Pyres,0
 13,r555a.tec,1,Valuan Spellship,3,1,-1,None,0,None,4,Nothing,-1,0,Awaiting Orders,0,4,Nothing,-1,0,Awaiting Orders,0
-14,r555a.tec,1,Valuan Spellship,3,2,-1,None,0,None,1,Magic,0,24,Pyres,0,1,Magic,0,24,Pyres,0
+14,r555a.tec,1,Valuan Spellship,3,2,3,Rating,50,%,1,Magic,0,24,Pyres,0,0,Attack,0,-1,None,0
 15,r555a.tec,1,Valuan Spellship,3,3,3,Rating,20,%,2,Focus,-1,0,Focus,0,4,Nothing,-1,0,Awaiting Orders,0
 16,r555a.tec,1,Valuan Spellship,4,0,1,ES HP ≤,20,%,1,Magic,0,6,Sacri,0,3,Guard,-1,-1,None,0
 17,r555a.tec,1,Valuan Spellship,4,1,3,Rating,50,%,0,Attack,1,-1,None,2,1,Magic,0,24,Pyres,0
-18,r555a.tec,1,Valuan Spellship,4,2,-1,None,0,None,1,Magic,0,24,Pyres,0,1,Magic,0,24,Pyres,0
+18,r555a.tec,1,Valuan Spellship,4,2,3,Rating,50,%,1,Magic,0,24,Pyres,0,0,Attack,0,-1,None,0
 19,r555a.tec,1,Valuan Spellship,4,3,3,Rating,50,%,4,Nothing,-1,0,Awaiting Orders,0,1,Magic,0,24,Pyres,0
 20,r555a.tec,1,Valuan Spellship,5,0,1,ES HP ≤,40,%,1,Magic,0,6,Sacri,0,3,Guard,-1,-1,None,0
-21,r555a.tec,1,Valuan Spellship,5,1,-1,None,0,None,1,Magic,0,24,Pyres,0,1,Magic,0,24,Pyres,0
+21,r555a.tec,1,Valuan Spellship,5,1,3,Rating,50,%,1,Magic,0,24,Pyres,0,0,Attack,0,-1,None,0
 22,r555a.tec,1,Valuan Spellship,5,2,3,Rating,30,%,3,Guard,-1,-1,None,0,2,Focus,-1,0,Focus,0
 23,r555a.tec,1,Valuan Spellship,5,3,-1,None,0,None,1,Magic,0,24,Pyres,0,1,Magic,0,24,Pyres,0
 0,r556a.tec,3,Valuan Phantom,0,0,0,PS HP ≤,50,%,4,Nothing,-1,-1,None,0,1,Magic,-1,23,Pyri,0
