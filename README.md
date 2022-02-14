@@ -1,3 +1,8 @@
+> :warning: **Pre-Alpha In Development Content**
+> Skies of Arcadia Legends Encore is still in development. Use at your own 
+> risk and for testing purposes only. Expect that game saves will not be 
+> compatible with future releases.
+
 ![Skies of Arcadia Legends Encore](doc/logomlt.png)
 
 # Skies of Arcadia Legends Encore
@@ -48,6 +53,11 @@ attacking with attributes and defending with certain party members.
 * [GCRebuilder](http://www.romhacking.net/utilities/619/)
 
 ## Download
+
+> :warning: **Pre-Alpha In Development Content**
+> Skies of Arcadia Legends Encore is still in development. Use at your own 
+> risk and for testing purposes only. Expect that game saves will not be 
+> compatible with future releases.
 
 * Latest official release on the
   [SourceForge project website](https://sf.net/projects/soale)
