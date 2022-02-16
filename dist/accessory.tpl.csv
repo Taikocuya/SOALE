@@ -23,7 +23,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 181,Defensive Aura,False,0b00011000,,X,X,,,,50,10,65,Block Attack,1,77,Recover SP,-1,54,Fatigue,-10,-1,None,0
 182,Ivy Band,True,0b00111111,X,X,X,X,X,X,50,520,48,Poison,-5,32,Green,-2,17,Defense,12,18,MagDef,12
 183,Silvite Ring,True,0b00111111,X,X,X,X,X,X,50,760,49,Unconscious,-5,37,Silver,-2,17,Defense,18,18,MagDef,18
-184,Gem of Fluidity,Undefined,0b00111111,X,X,X,X,X,X,50,100,50,Stone,-5,17,Defense,10,18,MagDef,10,-1,None,0
+184,Gem of Fluidity,True,0b00111111,X,X,X,X,X,X,50,350,50,Stone,-5,17,Defense,10,18,MagDef,10,-1,None,0
 185,Wind Gem Ring,Undefined,0b00111111,X,X,X,X,X,X,50,100,51,Sleep,-5,35,Blue,-2,17,Defense,10,18,MagDef,10
 186,Eye of Truth,Undefined,0b00111111,X,X,X,X,X,X,50,100,52,Confusion,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
 187,Revered Voice,True,0b00111111,X,X,X,X,X,X,50,480,53,Silence,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
