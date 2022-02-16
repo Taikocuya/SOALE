@@ -8,13 +8,13 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 6,Sailors' Island,True,490,Repair Kit,1
 7,Lower City,True,90,Valuan Armor,1
 8,Lower City,True,470,Intercom,1
-9,Maramba,Undefined,249,Curia Crystal,3
-10,Maramba,Undefined,515,Gold,300
-11,Maramba,Undefined,281,Slipara Box,1
-12,Maramba,Undefined,258,Moonberry,1
-13,Maramba,Undefined,122,Nasr Combat Mail,1
-14,Maramba,Undefined,241,Sacres Crystal,2
-15,Maramba,Undefined,55,Excavation Arm,1
+9,Maramba,True,249,Curia Crystal,3
+10,Maramba,True,515,Gold,300
+11,Maramba,True,281,Slipara Box,1
+12,Maramba,True,258,Moonberry,1
+13,Maramba,True,122,Nasr Combat Mail,1
+14,Maramba,True,241,Sacres Crystal,2
+15,Maramba,True,55,Excavation Arm,1
 16,Horteka,Undefined,258,Moonberry,1
 17,Horteka,Undefined,275,Sacri Box,1
 18,Horteka,Undefined,260,Paranta Seed,1

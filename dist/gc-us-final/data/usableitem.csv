@@ -40,7 +40,7 @@ Entry ID,Entry US Name,Occasion Flags,[M],[B],[S],Effect ID,[Effect Name],Scope 
 278,Sylenis Box,0b0010,"",X,"",12,Silence,3,Single EC,32,10,35,66,300,0,0,0,2,Purple,1,Magical,5,Silence,30,0x2cc8ec,88,A mage of the Purple Moon has enchanted a box\nwith the spell Sylenis. 3 or 4 charges.
 279,Panika Box,0b0010,"",X,"",11,Confusion,3,Single EC,32,10,36,39,300,0,0,0,2,Purple,1,Magical,4,Confusion,30,0x2cc944,88,A mage of the Purple Moon has enchanted a box\nwith the spell Panika. 3 or 4 charges.
 280,Driln Box,0b0010,"",X,"",26,Decr All Attr,3,Single EC,32,10,37,11,300,0,0,0,4,Yellow,1,Magical,8,Weak,30,0x2cc99c,84,A mage of the Yellow Moon has enchanted a box\nwith the spell Driln. 3 or 4 charges.
-281,Slipara Box,0b0010,"",X,"",9,Sleep,4,All ECs,32,10,38,61,3000,0,0,0,3,Blue,1,Magical,3,Sleep,60,0x2cc9f0,84,A mage of the Blue Moon has enchanted a box\nwith the spell Slipara. 3 or 4 charges.
+281,Slipara Box,0b0010,"",X,"",9,Sleep,4,All ECs,32,10,38,61,2000,0,0,0,3,Blue,1,Magical,3,Sleep,60,0x2cc9f0,84,A mage of the Blue Moon has enchanted a box\nwith the spell Slipara. 3 or 4 charges.
 282,Eternum Box,0b0010,"",X,"",6,Unconscious + Damage A,3,Single EC,48,10,39,14,8000,0,0,250,5,Silver,1,Magical,1,Unconscious,90,0x2cca44,92,A mage of the Silver Moon has enchanted a box\nwith the spell Eternum. This box is fragile!
 283,Rune of Ill Omen,0b0000,"","","",-1,None,0,None,0,100,47,52,1000,0,0,0,-1,None,-1,None,-1,None,0,0x2ccaa0,56,A valuable treasure sought by Zivilyn Bane in\nPyrynn.
 284,Golden Mask,0b0000,"","","",-1,None,0,None,0,100,48,21,2000,0,0,0,-1,None,-1,None,-1,None,0,0x2ccad8,56,A valuable treasure sought by Zivilyn Bane in\nRixis.

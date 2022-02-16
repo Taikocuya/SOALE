@@ -179,26 +179,26 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 2600,*,12,Varkris,Undefined,1,Action,62,Call Allies,-1,None
 2700,*,12,Varkris,Undefined,1,Action,107,Call Allies,-1,None
 2800,*,12,Varkris,Undefined,1,Action,552,Run,-1,None
-100,*,13,Azbeth,Undefined,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
-200,*,13,Azbeth,Undefined,0,Branch,30,Always,400,Go to 400
-300,*,13,Azbeth,Undefined,0,Branch,27,Rating 70%,1500,Go to 1500
-400,*,13,Azbeth,Undefined,0,Branch,25,Rating 50%,1300,Go to 1300
-500,*,13,Azbeth,Undefined,0,Branch,24,Rating 40%,800,Go to 800
-600,*,13,Azbeth,Undefined,0,Branch,27,Rating 70%,1100,Go to 1100
-700,*,13,Azbeth,Undefined,0,Branch,30,Always,1400,Go to 1400
-800,*,13,Azbeth,Undefined,0,Branch,25,Rating 50%,1600,Go to 1600
-900,*,13,Azbeth,Undefined,0,Branch,24,Rating 40%,1700,Go to 1700
-1000,*,13,Azbeth,Undefined,0,Branch,30,Always,1800,Go to 1800
-1100,*,13,Azbeth,Undefined,0,Branch,36,Used State Spells ≥ 2,2000,Go to 2000
-1200,*,13,Azbeth,Undefined,0,Branch,30,Always,1900,Go to 1900
-1300,*,13,Azbeth,Undefined,1,Action,550,Attack,2,Random PC
-1400,*,13,Azbeth,Undefined,1,Action,551,Guard,-1,None
-1500,*,13,Azbeth,Undefined,1,Action,552,Run,-1,None
-1600,*,13,Azbeth,Undefined,1,Action,200,Call Allies,-1,None
-1700,*,13,Azbeth,Undefined,1,Action,201,Call Allies,-1,None
-1800,*,13,Azbeth,Undefined,1,Action,108,Call Allies,-1,None
-1900,*,13,Azbeth,Undefined,1,Action,517,Eterni,2,Random PC
-2000,*,13,Azbeth,Undefined,1,Action,100,Magic?,-1,None
+100,*,13,Azbeth,True,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
+200,*,13,Azbeth,True,0,Branch,30,Always,400,Go to 400
+300,*,13,Azbeth,True,0,Branch,27,Rating 70%,1500,Go to 1500
+400,*,13,Azbeth,True,0,Branch,25,Rating 50%,1300,Go to 1300
+500,*,13,Azbeth,True,0,Branch,24,Rating 40%,800,Go to 800
+600,*,13,Azbeth,True,0,Branch,27,Rating 70%,1100,Go to 1100
+700,*,13,Azbeth,True,0,Branch,30,Always,1400,Go to 1400
+800,*,13,Azbeth,True,0,Branch,25,Rating 50%,1600,Go to 1600
+900,*,13,Azbeth,True,0,Branch,24,Rating 40%,1700,Go to 1700
+1000,*,13,Azbeth,True,0,Branch,30,Always,1800,Go to 1800
+1100,*,13,Azbeth,True,0,Branch,36,Used State Spells ≥ 2,2000,Go to 2000
+1200,*,13,Azbeth,True,0,Branch,30,Always,1900,Go to 1900
+1300,*,13,Azbeth,True,1,Action,550,Attack,2,Random PC
+1400,*,13,Azbeth,True,1,Action,551,Guard,-1,None
+1500,*,13,Azbeth,True,1,Action,552,Run,-1,None
+1600,*,13,Azbeth,True,1,Action,200,Call Allies,-1,None
+1700,*,13,Azbeth,True,1,Action,201,Call Allies,-1,None
+1800,*,13,Azbeth,True,1,Action,108,Call Allies,-1,None
+1900,*,13,Azbeth,True,1,Action,517,Eterni,2,Random PC
+2000,*,13,Azbeth,True,1,Action,100,Magic?,-1,None
 100,*,14,Zivilyn Bane,Undefined,0,Branch,11,Turn 1,400,Go to 400
 200,*,14,Zivilyn Bane,Undefined,0,Branch,12,Turn 2,600,Go to 600
 300,*,14,Zivilyn Bane,Undefined,0,Branch,30,Always,800,Go to 800
@@ -439,19 +439,19 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 900,*,29,Looper,True,1,Action,552,Run,-1,None
 1000,*,29,Looper,True,1,Action,523,Pyri,-1,None
 1100,*,29,Looper,True,1,Action,100,Magic?,-1,None
-100,*,30,Loopalon,Undefined,0,Branch,1,HP < 50%,1100,Go to 1100
-200,*,30,Loopalon,Undefined,0,Branch,25,Rating 50%,1100,Go to 1100
-300,*,30,Loopalon,Undefined,0,Branch,11,Turn 1,500,Go to 500
-400,*,30,Loopalon,Undefined,0,Branch,30,Always,600,Go to 600
-500,*,30,Loopalon,Undefined,0,Branch,25,Rating 50%,1200,Go to 1200
-600,*,30,Loopalon,Undefined,0,Branch,25,Rating 50%,900,Go to 900
-700,*,30,Loopalon,Undefined,0,Branch,25,Rating 50%,1000,Go to 1000
-800,*,30,Loopalon,Undefined,0,Branch,30,Always,1300,Go to 1300
-900,*,30,Loopalon,Undefined,1,Action,550,Attack,2,Random PC
-1000,*,30,Loopalon,Undefined,1,Action,551,Guard,-1,None
-1100,*,30,Loopalon,Undefined,1,Action,552,Run,-1,None
-1200,*,30,Loopalon,Undefined,1,Action,500,Increm,11,EC w/o Strengthen
-1300,*,30,Loopalon,Undefined,1,Action,100,Magic?,-1,None
+100,*,30,Loopalon,True,0,Branch,1,HP < 50%,1100,Go to 1100
+200,*,30,Loopalon,True,0,Branch,25,Rating 50%,1100,Go to 1100
+300,*,30,Loopalon,True,0,Branch,11,Turn 1,500,Go to 500
+400,*,30,Loopalon,True,0,Branch,30,Always,600,Go to 600
+500,*,30,Loopalon,True,0,Branch,25,Rating 50%,1200,Go to 1200
+600,*,30,Loopalon,True,0,Branch,25,Rating 50%,900,Go to 900
+700,*,30,Loopalon,True,0,Branch,25,Rating 50%,1000,Go to 1000
+800,*,30,Loopalon,True,0,Branch,30,Always,1300,Go to 1300
+900,*,30,Loopalon,True,1,Action,550,Attack,2,Random PC
+1000,*,30,Loopalon,True,1,Action,551,Guard,-1,None
+1100,*,30,Loopalon,True,1,Action,552,Run,-1,None
+1200,*,30,Loopalon,True,1,Action,500,Increm,11,EC w/o Strengthen
+1300,*,30,Loopalon,True,1,Action,100,Magic?,-1,None
 100,*,31,Tsurak,False,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,31,Tsurak,False,0,Branch,30,Always,400,Go to 400
 300,*,31,Tsurak,False,0,Branch,28,Rating 80%,1600,Go to 1600
@@ -1326,30 +1326,30 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1500,*,92,Langry,Undefined,1,Action,98,Call Allies,-1,None
 1600,*,92,Langry,Undefined,1,Action,552,Run,-1,None
 1700,*,92,Langry,Undefined,1,Action,551,Guard,-1,None
-100,*,93,Durel Beetle,Undefined,0,Branch,17,ECs Alive = 1,1500,Go to 1500
-200,*,93,Durel Beetle,Undefined,0,Branch,36,Used State Spells ≥ 2,1000,Go to 1000
-300,*,93,Durel Beetle,Undefined,0,Branch,22,Rating 20%,1900,Go to 1900
-400,*,93,Durel Beetle,Undefined,0,Branch,23,Rating 30%,2000,Go to 2000
-500,*,93,Durel Beetle,Undefined,0,Branch,24,Rating 40%,1800,Go to 1800
-600,*,93,Durel Beetle,Undefined,0,Branch,24,Rating 40%,2100,Go to 2100
-700,*,93,Durel Beetle,Undefined,0,Branch,24,Rating 40%,2200,Go to 2200
-800,*,93,Durel Beetle,Undefined,0,Branch,25,Rating 50%,2300,Go to 2300
-900,*,93,Durel Beetle,Undefined,0,Branch,30,Always,2400,Go to 2400
-1000,*,93,Durel Beetle,Undefined,0,Branch,25,Rating 50%,1800,Go to 1800
-1100,*,93,Durel Beetle,Undefined,0,Branch,24,Rating 40%,2100,Go to 2100
-1200,*,93,Durel Beetle,Undefined,0,Branch,26,Rating 60%,2200,Go to 2200
-1300,*,93,Durel Beetle,Undefined,0,Branch,25,Rating 50%,2300,Go to 2300
-1400,*,93,Durel Beetle,Undefined,0,Branch,30,Always,2400,Go to 2400
-1500,*,93,Durel Beetle,Undefined,0,Branch,24,Rating 40%,2100,Go to 2100
-1600,*,93,Durel Beetle,Undefined,0,Branch,25,Rating 50%,2200,Go to 2200
-1700,*,93,Durel Beetle,Undefined,0,Branch,30,Always,2300,Go to 2300
-1800,*,93,Durel Beetle,Undefined,1,Action,550,Attack,2,Random PC
-1900,*,93,Durel Beetle,Undefined,1,Action,504,Driln,17,PC w/o Weak
-2000,*,93,Durel Beetle,Undefined,1,Action,512,Slipara,16,PC w/o Sleep
-2100,*,93,Durel Beetle,Undefined,1,Action,78,Call Allies,-1,None
-2200,*,93,Durel Beetle,Undefined,1,Action,111,Call Allies,-1,None
-2300,*,93,Durel Beetle,Undefined,1,Action,552,Run,-1,None
-2400,*,93,Durel Beetle,Undefined,1,Action,551,Guard,-1,None
+100,*,93,Durel Beetle,True,0,Branch,17,ECs Alive = 1,1500,Go to 1500
+200,*,93,Durel Beetle,True,0,Branch,36,Used State Spells ≥ 2,1000,Go to 1000
+300,*,93,Durel Beetle,True,0,Branch,22,Rating 20%,1900,Go to 1900
+400,*,93,Durel Beetle,True,0,Branch,23,Rating 30%,2000,Go to 2000
+500,*,93,Durel Beetle,True,0,Branch,24,Rating 40%,1800,Go to 1800
+600,*,93,Durel Beetle,True,0,Branch,24,Rating 40%,2100,Go to 2100
+700,*,93,Durel Beetle,True,0,Branch,24,Rating 40%,2200,Go to 2200
+800,*,93,Durel Beetle,True,0,Branch,25,Rating 50%,2300,Go to 2300
+900,*,93,Durel Beetle,True,0,Branch,30,Always,2400,Go to 2400
+1000,*,93,Durel Beetle,True,0,Branch,25,Rating 50%,1800,Go to 1800
+1100,*,93,Durel Beetle,True,0,Branch,24,Rating 40%,2100,Go to 2100
+1200,*,93,Durel Beetle,True,0,Branch,26,Rating 60%,2200,Go to 2200
+1300,*,93,Durel Beetle,True,0,Branch,25,Rating 50%,2300,Go to 2300
+1400,*,93,Durel Beetle,True,0,Branch,30,Always,2400,Go to 2400
+1500,*,93,Durel Beetle,True,0,Branch,24,Rating 40%,2100,Go to 2100
+1600,*,93,Durel Beetle,True,0,Branch,25,Rating 50%,2200,Go to 2200
+1700,*,93,Durel Beetle,True,0,Branch,30,Always,2300,Go to 2300
+1800,*,93,Durel Beetle,True,1,Action,550,Attack,2,Random PC
+1900,*,93,Durel Beetle,True,1,Action,504,Driln,17,PC w/o Weak
+2000,*,93,Durel Beetle,True,1,Action,512,Slipara,16,PC w/o Sleep
+2100,*,93,Durel Beetle,True,1,Action,78,Call Allies,-1,None
+2200,*,93,Durel Beetle,True,1,Action,111,Call Allies,-1,None
+2300,*,93,Durel Beetle,True,1,Action,552,Run,-1,None
+2400,*,93,Durel Beetle,True,1,Action,551,Guard,-1,None
 100,*,94,Totelm,Undefined,0,Branch,11,Turn 1,500,Go to 500
 200,*,94,Totelm,Undefined,0,Branch,28,Rating 80%,700,Go to 700
 300,*,94,Totelm,Undefined,0,Branch,25,Rating 50%,800,Go to 800
@@ -1374,16 +1374,16 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1300,*,95,Thryllak,False,1,Action,552,Run,-1,None
 1400,*,95,Thryllak,False,1,Action,20,Gather Strength,-1,None
 1500,*,95,Thryllak,False,1,Action,170,Needle Storm,2,Random PC
-100,*,96,Stonebeak,Undefined,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
-200,*,96,Stonebeak,Undefined,0,Branch,30,Always,400,Go to 400
-300,*,96,Stonebeak,Undefined,0,Branch,27,Rating 70%,800,Go to 800
-400,*,96,Stonebeak,Undefined,0,Branch,26,Rating 60%,700,Go to 700
-500,*,96,Stonebeak,Undefined,0,Branch,28,Rating 80%,900,Go to 900
-600,*,96,Stonebeak,Undefined,0,Branch,30,Always,1000,Go to 1000
-700,*,96,Stonebeak,Undefined,1,Action,550,Attack,2,Random PC
-800,*,96,Stonebeak,Undefined,1,Action,552,Run,-1,None
-900,*,96,Stonebeak,Undefined,1,Action,93,Fatigue Breath,2,Random PC
-1000,*,96,Stonebeak,Undefined,1,Action,551,Guard,-1,None
+100,*,96,Stonebeak,True,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
+200,*,96,Stonebeak,True,0,Branch,30,Always,400,Go to 400
+300,*,96,Stonebeak,True,0,Branch,27,Rating 70%,800,Go to 800
+400,*,96,Stonebeak,True,0,Branch,26,Rating 60%,700,Go to 700
+500,*,96,Stonebeak,True,0,Branch,28,Rating 80%,900,Go to 900
+600,*,96,Stonebeak,True,0,Branch,30,Always,1000,Go to 1000
+700,*,96,Stonebeak,True,1,Action,550,Attack,2,Random PC
+800,*,96,Stonebeak,True,1,Action,552,Run,-1,None
+900,*,96,Stonebeak,True,1,Action,93,Fatigue Breath,2,Random PC
+1000,*,96,Stonebeak,True,1,Action,551,Guard,-1,None
 100,*,97,Razorbeak,False,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,97,Razorbeak,False,0,Branch,30,Always,400,Go to 400
 300,*,97,Razorbeak,False,0,Branch,27,Rating 70%,800,Go to 800
