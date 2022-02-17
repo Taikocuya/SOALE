@@ -8,12 +8,12 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 6,Sailors' Island,True,490,Repair Kit,1
 7,Lower City,True,90,Valuan Armor,1
 8,Lower City,True,470,Intercom,1
-9,Maramba,True,249,Curia Crystal,3
+9,Maramba,True,241,Sacres Crystal,3
 10,Maramba,True,515,Gold,300
 11,Maramba,True,281,Slipara Box,1
 12,Maramba,True,258,Moonberry,1
 13,Maramba,True,122,Nasr Combat Mail,1
-14,Maramba,True,241,Sacres Crystal,2
+14,Maramba,True,491,Deluxe Kit,1
 15,Maramba,True,55,Excavation Arm,1
 16,Horteka,Undefined,258,Moonberry,1
 17,Horteka,Undefined,275,Sacri Box,1
@@ -44,14 +44,14 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 42,Catacombs,True,258,Moonberry,1
 43,Catacombs,True,249,Curia Crystal,3
 44,Catacombs,True,172,Crylhound's Claw,1
-45,Temple of Pyrynn,Undefined,516,Gold,527
-46,Temple of Pyrynn,Undefined,126,Ancient Robe,1
-47,Temple of Pyrynn,Undefined,241,Sacres Crystal,3
-48,Temple of Pyrynn,Undefined,25,Dancing Arc,1
-49,Temple of Pyrynn,Undefined,517,Gold,774
-50,Temple of Pyrynn,Undefined,258,Moonberry,1
+45,Temple of Pyrynn,True,516,Gold,527
+46,Temple of Pyrynn,True,126,Ancient Robe,1
+47,Temple of Pyrynn,True,249,Curia Crystal,3
+48,Temple of Pyrynn,True,25,Dancing Arc,1
+49,Temple of Pyrynn,True,517,Gold,774
+50,Temple of Pyrynn,True,258,Moonberry,1
 51,Temple of Pyrynn,Undefined,244,Magic Droplet,5
-52,Temple of Pyrynn,Undefined,283,Rune of Ill Omen,1
+52,Temple of Pyrynn,True,283,Rune of Ill Omen,1
 53,Moonstone Mountain,Undefined,518,Gold,800
 54,Moonstone Mountain,Undefined,127,De Loco Mail,1
 55,Moonstone Mountain,Undefined,258,Moonberry,1

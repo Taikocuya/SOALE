@@ -41,7 +41,7 @@ Entry ID,Entry US Name,PC Flags,[V],[A],[F],[D],[E],[G],Sell%,US Order 1,US Orde
 119,Berzerker Mail,0b00100111,X,"","",X,X,X,50,56,4,0,4020,17,Defense,0,140,18,MagDef,0,140,16,Attack,0,20,19,Hit%,0,20,0x2ca2b4,80,Armor made by Lapen. It greatly increases the\nwearer's attacking capabilities.
 120,Light Dress,0b00011000,"",X,X,"","","",75,57,31,0,940,17,Defense,0,70,18,MagDef,0,70,20,Dodge%,0,30,4,Quick,0,30,0x2ca304,88,"Very light, yet durable armor made for women.\nIt greatly increases the wearer's speed."
 121,Focus Robe,0b00011000,"",X,X,"","","",75,58,21,0,970,17,Defense,0,70,18,MagDef,0,70,1,Will,0,100,-1,None,0,0,0x2ca35c,80,"A Robe that allows the wearer to mentally\nchannel energy, increasing her will."
-122,Nasr Combat Mail,0b00111111,X,X,X,X,X,X,100,15,41,0,320,17,Defense,0,66,18,MagDef,0,66,16,Attack,0,5,1,Will,0,5,0x2ca3ac,80,An old uniform worn in the Valua-Nasr War.\nIt boosts attack power and spirit.
+122,Nasr Combat Mail,0b00110101,X,X,"",X,"",X,100,15,41,0,320,17,Defense,0,66,18,MagDef,0,66,16,Attack,0,5,1,Will,0,5,0x2ca3ac,80,An old uniform worn in the Valua-Nasr War.\nIt boosts attack power and spirit.
 123,De Loco Armor,0b00100101,X,"","",X,"",X,100,50,11,0,2420,17,Defense,0,172,18,MagDef,0,147,-1,None,0,0,-1,None,0,0,0x2ca3fc,72,"An incredibly ugly, yet effective suit of armor\ndesigned by De Loco."
 124,Maiden's Armor,0b00011000,"",X,X,"","","",100,28,34,0,840,17,Defense,0,103,18,MagDef,0,112,-1,None,0,0,-1,None,0,0,0x2ca444,60,Legendary armor given to a great female warrior\nby Daccat.
 125,Heavy Armor,0b00100111,X,"","",X,X,X,100,10,26,0,230,17,Defense,0,58,18,MagDef,0,53,-1,None,0,0,-1,None,0,0,0x2ca480,88,Very thick and heavy armor made for a man.\nOffers protection against physical attacks.

@@ -8,12 +8,12 @@ Entry ID,[Location],Item ID,[Item Name],Item Amount
 6,Sailors' Island,490,修復材,1
 7,Lower City,90,バルアの古鎧,1
 8,Lower City,470,カラオケセット,1
-9,Maramba,249,キュアリン草,3
+9,Maramba,241,サプガンの葉,3
 10,Maramba,515,Gold,300
 11,Maramba,281,睡眠の小箱,1
 12,Maramba,258,月の実,1
 13,Maramba,122,昔のナスル軍服,1
-14,Maramba,241,サプガンの葉,2
+14,Maramba,491,硬修復材,1
 15,Maramba,55,発掘アーム,1
 16,Horteka,258,月の実,1
 17,Horteka,275,回復の小箱,1
@@ -46,7 +46,7 @@ Entry ID,[Location],Item ID,[Item Name],Item Amount
 44,Catacombs,172,ガトーのツメ,1
 45,Temple of Pyrynn,516,Gold,527
 46,Temple of Pyrynn,126,副葬のローブ,1
-47,Temple of Pyrynn,241,サプガンの葉,3
+47,Temple of Pyrynn,249,キュアリン草,3
 48,Temple of Pyrynn,25,舞踏のブーメラン,1
 49,Temple of Pyrynn,517,Gold,774
 50,Temple of Pyrynn,258,月の実,1
