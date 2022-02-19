@@ -199,22 +199,23 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1800,*,13,Azbeth,True,1,Action,108,Call Allies,-1,None
 1900,*,13,Azbeth,True,1,Action,517,Eterni,2,Random PC
 2000,*,13,Azbeth,True,1,Action,100,Magic?,-1,None
-100,*,14,Zivilyn Bane,True,0,Branch,11,Turn 1,400,Go to 400
-200,*,14,Zivilyn Bane,True,0,Branch,12,Turn 2,600,Go to 600
-300,*,14,Zivilyn Bane,True,0,Branch,30,Always,800,Go to 800
-400,*,14,Zivilyn Bane,True,0,Branch,27,Rating 70%,1400,Attack
-500,*,14,Zivilyn Bane,True,0,Branch,30,Always,1500,Burst
-600,*,14,Zivilyn Bane,True,0,Branch,50,Used S-Move?,1400,Attack
-700,*,14,Zivilyn Bane,True,0,Branch,30,Always,1500,Burst
-800,*,14,Zivilyn Bane,True,0,Branch,50,Used S-Move?,1100,Go to 1100
-900,*,14,Zivilyn Bane,True,0,Branch,23,Rating 30%,1400,Attack
-1000,*,14,Zivilyn Bane,True,0,Branch,30,Always,1500,Burst
-1100,*,14,Zivilyn Bane,True,0,Branch,23,Rating 30%,1500,Burst
-1200,*,14,Zivilyn Bane,True,0,Branch,28,Rating 80%,1400,Attack
-1300,*,14,Zivilyn Bane,True,0,Branch,30,Always,1600,Guard
-1400,*,14,Zivilyn Bane,True,1,Action,550,Attack,4,PC w/ Least HP
-1500,*,14,Zivilyn Bane,True,1,Action,22,Burst,2,Random PC
-1600,*,14,Zivilyn Bane,True,1,Action,551,Guard,-1,None
+0,*,14,Zivilyn Bane,True,0,Branch,11,Turn 1,2200,Go to 2200
+10,*,14,Zivilyn Bane,True,0,Branch,50,Used S-Move?,2000,Go to 2000
+1000,*,14,Zivilyn Bane,True,0,Branch,22,Rating 20%,10000,Attack
+1010,*,14,Zivilyn Bane,True,0,Branch,30,Always,10020,Burst
+2000,*,14,Zivilyn Bane,True,0,Branch,62,PCs Alive = 1,2100,Go to 2100
+2010,*,14,Zivilyn Bane,True,0,Branch,63,PCs Alive = 2,2100,Go to 2100
+2020,*,14,Zivilyn Bane,True,0,Branch,14,Turn 4,2200,Go to 2200
+2030,*,14,Zivilyn Bane,True,0,Branch,37,Turn ≥ 5,2200,Go to 2200
+2100,*,14,Zivilyn Bane,True,0,Branch,27,Rating 70%,10000,Attack
+2110,*,14,Zivilyn Bane,True,0,Branch,27,Rating 70%,10020,Burst
+2120,*,14,Zivilyn Bane,True,0,Branch,30,Always,10010,Guard
+2200,*,14,Zivilyn Bane,True,0,Branch,25,Rating 50%,10020,Burst
+2210,*,14,Zivilyn Bane,True,0,Branch,28,Rating 80%,10000,Attack
+2220,*,14,Zivilyn Bane,True,0,Branch,30,Always,10010,Guard
+10000,*,14,Zivilyn Bane,True,1,Action,550,Attack,4,PC w/ Least HP
+10010,*,14,Zivilyn Bane,True,1,Action,551,Guard,-1,None
+10020,*,14,Zivilyn Bane,True,1,Action,22,Burst,2,Random PC
 100,*,15,Ghastling,True,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,15,Ghastling,True,0,Branch,30,Always,400,Go to 400
 300,*,15,Ghastling,True,0,Branch,28,Rating 80%,1600,Go to 1600
