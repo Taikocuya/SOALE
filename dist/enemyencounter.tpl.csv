@@ -559,166 +559,166 @@ Entry ID,[Filter],[Finalized],Initiative,Magic EXP,EC1 ID,[EC1 JP Name],EC2 ID,[
 29,a103e_ep.enp,True,34,1,8,Flestik,8,Flestik,3,Marocca,29,Looper,255,None,255,None,255,None,255,None
 30,a103e_ep.enp,True,34,1,8,Flestik,8,Flestik,3,Marocca,3,Marocca,29,Looper,255,None,255,None,255,None
 31,a103e_ep.enp,True,34,1,8,Flestik,8,Flestik,3,Marocca,3,Marocca,29,Looper,29,Looper,255,None,255,None
-0,a106a_ep.enp,False,36,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
-1,a106a_ep.enp,False,36,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None
-2,a106a_ep.enp,False,26,1,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None,255,None
-3,a106a_ep.enp,False,26,1,10,Mind Stealer,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None
-4,a106a_ep.enp,False,31,1,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None,255,None
-5,a106a_ep.enp,False,31,1,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-6,a106a_ep.enp,False,36,1,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-7,a106a_ep.enp,False,36,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
-8,a106a_ep.enp,False,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None,255,None
-9,a106a_ep.enp,False,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None
-10,a106a_ep.enp,False,26,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
-11,a106a_ep.enp,False,26,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None
-12,a106a_ep.enp,False,21,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
-13,a106a_ep.enp,False,21,1,10,Mind Stealer,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-14,a106a_ep.enp,False,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None,255,None
-15,a106a_ep.enp,False,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
-16,a106a_ep.enp,False,21,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
-17,a106a_ep.enp,False,36,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-18,a106a_ep.enp,False,36,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
-19,a106a_ep.enp,False,41,1,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-20,a106a_ep.enp,False,41,1,23,Crylhound,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-21,a106a_ep.enp,False,41,1,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-22,a106a_ep.enp,False,41,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
-23,a106a_ep.enp,False,26,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-24,a106a_ep.enp,False,26,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
-25,a106a_ep.enp,False,26,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-26,a106a_ep.enp,False,31,1,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-27,a106a_ep.enp,False,31,1,10,Mind Stealer,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-28,a106a_ep.enp,False,31,1,10,Mind Stealer,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-29,a106a_ep.enp,False,26,1,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None
-30,a106a_ep.enp,False,21,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
-31,a106a_ep.enp,False,21,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None
-0,a106c_ep.enp,False,40,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
-1,a106c_ep.enp,False,40,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None
-2,a106c_ep.enp,False,30,1,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None,255,None
-3,a106c_ep.enp,False,30,1,10,Mind Stealer,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None
-4,a106c_ep.enp,False,35,1,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None,255,None
-5,a106c_ep.enp,False,35,1,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-6,a106c_ep.enp,False,40,1,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-7,a106c_ep.enp,False,40,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
-8,a106c_ep.enp,False,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None,255,None
-9,a106c_ep.enp,False,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None
-10,a106c_ep.enp,False,30,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
-11,a106c_ep.enp,False,30,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None
-12,a106c_ep.enp,False,25,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
-13,a106c_ep.enp,False,25,1,10,Mind Stealer,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
-14,a106c_ep.enp,False,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None,255,None
-15,a106c_ep.enp,False,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
-16,a106c_ep.enp,False,25,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
-17,a106c_ep.enp,False,40,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-18,a106c_ep.enp,False,40,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
-19,a106c_ep.enp,False,45,1,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-20,a106c_ep.enp,False,45,1,23,Crylhound,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-21,a106c_ep.enp,False,45,1,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-22,a106c_ep.enp,False,45,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
-23,a106c_ep.enp,False,30,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-24,a106c_ep.enp,False,30,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
-25,a106c_ep.enp,False,30,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
-26,a106c_ep.enp,False,35,1,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
-27,a106c_ep.enp,False,35,1,10,Mind Stealer,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-28,a106c_ep.enp,False,35,1,10,Mind Stealer,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
-29,a106c_ep.enp,False,30,1,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None
-30,a106c_ep.enp,False,25,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
-31,a106c_ep.enp,False,25,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None
-0,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None,255,None
-1,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None
-2,a109b_ep.enp,False,62,2,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None,255,None,255,None
-3,a109b_ep.enp,False,62,2,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None
-4,a109b_ep.enp,False,77,2,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None,255,None
-5,a109b_ep.enp,False,77,2,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None,255,None
-6,a109b_ep.enp,False,57,2,28,Death's Head,28,Death's Head,255,None,255,None,255,None,255,None,255,None,255,None
-7,a109b_ep.enp,False,52,2,28,Death's Head,28,Death's Head,28,Death's Head,255,None,255,None,255,None,255,None,255,None
-8,a109b_ep.enp,False,67,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,255,None,255,None
-9,a109b_ep.enp,False,67,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
-10,a109b_ep.enp,False,67,2,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
-11,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,30,Loopalon,255,None,255,None
-12,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,30,Loopalon,30,Loopalon,255,None
-13,a109b_ep.enp,False,67,2,27,Dung Fly,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None,255,None,255,None
-14,a109b_ep.enp,False,67,2,27,Dung Fly,27,Dung Fly,27,Dung Fly,30,Loopalon,30,Loopalon,255,None,255,None,255,None
-15,a109b_ep.enp,False,62,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None,255,None
-16,a109b_ep.enp,False,62,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None
-17,a109b_ep.enp,False,62,2,28,Death's Head,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None,255,None
-18,a109b_ep.enp,False,62,2,28,Death's Head,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None
-19,a109b_ep.enp,False,62,2,28,Death's Head,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None
-20,a109b_ep.enp,False,62,2,28,Death's Head,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
-21,a109b_ep.enp,False,52,2,28,Death's Head,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None
-22,a109b_ep.enp,False,52,2,28,Death's Head,28,Death's Head,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None
-23,a109b_ep.enp,False,62,2,28,Death's Head,28,Death's Head,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
-24,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None,255,None
-25,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,30,Loopalon,30,Loopalon,255,None,255,None
-26,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None
-27,a109b_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None
-28,a109b_ep.enp,False,62,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,255,None,255,None,255,None,255,None
-29,a109b_ep.enp,False,52,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
-30,a109b_ep.enp,False,52,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,255,None,255,None
-31,a109b_ep.enp,False,52,2,24,Magma Tiki,24,Magma Tiki,24,Magma Tiki,255,None,255,None,255,None,255,None,255,None
-0,a109c_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None,255,None
-1,a109c_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None
-2,a109c_ep.enp,False,62,2,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None,255,None,255,None
-3,a109c_ep.enp,False,62,2,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None
-4,a109c_ep.enp,False,77,2,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None,255,None
-5,a109c_ep.enp,False,77,2,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None,255,None
-6,a109c_ep.enp,False,57,2,28,Death's Head,28,Death's Head,255,None,255,None,255,None,255,None,255,None,255,None
-7,a109c_ep.enp,False,52,2,28,Death's Head,28,Death's Head,28,Death's Head,255,None,255,None,255,None,255,None,255,None
-8,a109c_ep.enp,False,67,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,255,None,255,None
-9,a109c_ep.enp,False,67,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
-10,a109c_ep.enp,False,67,2,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
-11,a109c_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,30,Loopalon,255,None,255,None
-12,a109c_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,30,Loopalon,30,Loopalon,255,None
-13,a109c_ep.enp,False,67,2,27,Dung Fly,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None,255,None,255,None
-14,a109c_ep.enp,False,67,2,27,Dung Fly,27,Dung Fly,27,Dung Fly,30,Loopalon,30,Loopalon,255,None,255,None,255,None
-15,a109c_ep.enp,False,62,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None,255,None
-16,a109c_ep.enp,False,62,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None
-17,a109c_ep.enp,False,62,2,28,Death's Head,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None,255,None
-18,a109c_ep.enp,False,62,2,28,Death's Head,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None
-19,a109c_ep.enp,False,62,2,28,Death's Head,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None
-20,a109c_ep.enp,False,62,2,28,Death's Head,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
-21,a109c_ep.enp,False,52,2,28,Death's Head,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None
-22,a109c_ep.enp,False,52,2,28,Death's Head,28,Death's Head,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None
-23,a109c_ep.enp,False,62,2,28,Death's Head,28,Death's Head,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
-24,a109c_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None,255,None
-25,a109c_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,30,Loopalon,30,Loopalon,255,None,255,None
-26,a109c_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None
-27,a109c_ep.enp,False,72,2,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None
-28,a109c_ep.enp,False,62,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,255,None,255,None,255,None,255,None
-29,a109c_ep.enp,False,52,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
-30,a109c_ep.enp,False,52,2,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,255,None,255,None
-31,a109c_ep.enp,False,52,2,24,Magma Tiki,24,Magma Tiki,24,Magma Tiki,255,None,255,None,255,None,255,None,255,None
-0,a109d_ep.enp,False,57,2,25,Salamander,25,Salamander,255,None,255,None,255,None,255,None,255,None,255,None
-1,a109d_ep.enp,False,57,2,25,Salamander,25,Salamander,25,Salamander,255,None,255,None,255,None,255,None,255,None
-2,a109d_ep.enp,False,57,2,25,Salamander,25,Salamander,25,Salamander,25,Salamander,255,None,255,None,255,None,255,None
-3,a109d_ep.enp,False,52,2,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,255,None,255,None,255,None
-4,a109d_ep.enp,False,52,2,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,255,None,255,None
-5,a109d_ep.enp,False,77,2,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None,255,None
-6,a109d_ep.enp,False,77,2,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None
-7,a109d_ep.enp,False,77,2,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None,255,None
-8,a109d_ep.enp,False,72,2,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
-9,a109d_ep.enp,False,67,2,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None
-10,a109d_ep.enp,False,62,2,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None
-11,a109d_ep.enp,False,57,2,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
-12,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,30,Loopalon,255,None,255,None,255,None,255,None,255,None
-13,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
-14,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,255,None,255,None,255,None,255,None
-15,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,255,None,255,None,255,None
-16,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None
-17,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,255,None,255,None,255,None
-18,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,255,None,255,None
-19,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,255,None
-20,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,255,None,255,None
-21,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,255,None
-22,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,255,None
-23,a109d_ep.enp,False,72,2,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
-24,a109d_ep.enp,False,67,2,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None
-25,a109d_ep.enp,False,62,2,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None
-26,a109d_ep.enp,False,57,2,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
-27,a109d_ep.enp,False,67,2,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None
-28,a109d_ep.enp,False,62,2,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None
-29,a109d_ep.enp,False,57,2,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
-30,a109d_ep.enp,False,57,2,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
-31,a109d_ep.enp,False,52,2,24,Magma Tiki,24,Magma Tiki,24,Magma Tiki,255,None,255,None,255,None,255,None,255,None
+0,a106a_ep.enp,True,36,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
+1,a106a_ep.enp,True,36,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None
+2,a106a_ep.enp,True,26,1,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None,255,None
+3,a106a_ep.enp,True,26,1,10,Mind Stealer,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None
+4,a106a_ep.enp,True,31,1,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None,255,None
+5,a106a_ep.enp,True,31,1,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+6,a106a_ep.enp,True,36,1,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+7,a106a_ep.enp,True,36,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
+8,a106a_ep.enp,True,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None,255,None
+9,a106a_ep.enp,True,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None
+10,a106a_ep.enp,True,26,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
+11,a106a_ep.enp,True,26,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None
+12,a106a_ep.enp,True,21,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
+13,a106a_ep.enp,True,21,1,10,Mind Stealer,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+14,a106a_ep.enp,True,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None,255,None
+15,a106a_ep.enp,True,26,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
+16,a106a_ep.enp,True,21,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
+17,a106a_ep.enp,True,36,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+18,a106a_ep.enp,True,36,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
+19,a106a_ep.enp,True,41,1,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+20,a106a_ep.enp,True,41,1,23,Crylhound,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+21,a106a_ep.enp,True,41,1,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+22,a106a_ep.enp,True,41,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
+23,a106a_ep.enp,True,26,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+24,a106a_ep.enp,True,26,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
+25,a106a_ep.enp,True,26,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+26,a106a_ep.enp,True,31,1,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+27,a106a_ep.enp,True,31,1,10,Mind Stealer,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+28,a106a_ep.enp,True,31,1,10,Mind Stealer,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+29,a106a_ep.enp,True,26,1,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None
+30,a106a_ep.enp,True,21,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
+31,a106a_ep.enp,True,21,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None
+0,a106c_ep.enp,True,40,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
+1,a106c_ep.enp,True,40,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None
+2,a106c_ep.enp,True,30,1,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None,255,None
+3,a106c_ep.enp,True,30,1,10,Mind Stealer,10,Mind Stealer,10,Mind Stealer,255,None,255,None,255,None,255,None,255,None
+4,a106c_ep.enp,True,35,1,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None,255,None
+5,a106c_ep.enp,True,35,1,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+6,a106c_ep.enp,True,40,1,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+7,a106c_ep.enp,True,40,1,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
+8,a106c_ep.enp,True,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None,255,None
+9,a106c_ep.enp,True,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,17,Tsirat,17,Tsirat,255,None,255,None,255,None
+10,a106c_ep.enp,True,30,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,255,None,255,None,255,None,255,None
+11,a106c_ep.enp,True,30,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None,255,None
+12,a106c_ep.enp,True,25,1,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
+13,a106c_ep.enp,True,25,1,10,Mind Stealer,10,Mind Stealer,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None,255,None
+14,a106c_ep.enp,True,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None,255,None
+15,a106c_ep.enp,True,30,1,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,34,Dralnog,34,Dralnog,255,None,255,None
+16,a106c_ep.enp,True,25,1,10,Mind Stealer,10,Mind Stealer,17,Tsirat,17,Tsirat,34,Dralnog,255,None,255,None,255,None
+17,a106c_ep.enp,True,40,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+18,a106c_ep.enp,True,40,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
+19,a106c_ep.enp,True,45,1,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+20,a106c_ep.enp,True,45,1,23,Crylhound,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+21,a106c_ep.enp,True,45,1,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+22,a106c_ep.enp,True,45,1,9,Basallish,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
+23,a106c_ep.enp,True,30,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+24,a106c_ep.enp,True,30,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,9,Basallish,255,None,255,None,255,None
+25,a106c_ep.enp,True,30,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,255,None,255,None,255,None,255,None
+26,a106c_ep.enp,True,35,1,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None,255,None
+27,a106c_ep.enp,True,35,1,10,Mind Stealer,23,Crylhound,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+28,a106c_ep.enp,True,35,1,10,Mind Stealer,10,Mind Stealer,23,Crylhound,23,Crylhound,255,None,255,None,255,None,255,None
+29,a106c_ep.enp,True,30,1,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None,255,None
+30,a106c_ep.enp,True,25,1,10,Mind Stealer,9,Basallish,9,Basallish,9,Basallish,23,Crylhound,23,Crylhound,255,None,255,None
+31,a106c_ep.enp,True,25,1,10,Mind Stealer,10,Mind Stealer,9,Basallish,9,Basallish,23,Crylhound,255,None,255,None,255,None
+0,a109b_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None,255,None
+1,a109b_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None
+2,a109b_ep.enp,True,34,1,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None,255,None,255,None
+3,a109b_ep.enp,True,34,1,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None
+4,a109b_ep.enp,True,49,1,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None,255,None
+5,a109b_ep.enp,True,49,1,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None,255,None
+6,a109b_ep.enp,True,29,1,28,Death's Head,28,Death's Head,255,None,255,None,255,None,255,None,255,None,255,None
+7,a109b_ep.enp,True,24,1,28,Death's Head,28,Death's Head,28,Death's Head,255,None,255,None,255,None,255,None,255,None
+8,a109b_ep.enp,True,39,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,255,None,255,None
+9,a109b_ep.enp,True,39,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
+10,a109b_ep.enp,True,39,1,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
+11,a109b_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,30,Loopalon,255,None,255,None
+12,a109b_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,30,Loopalon,30,Loopalon,255,None
+13,a109b_ep.enp,True,39,1,27,Dung Fly,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None,255,None,255,None
+14,a109b_ep.enp,True,39,1,27,Dung Fly,27,Dung Fly,27,Dung Fly,30,Loopalon,30,Loopalon,255,None,255,None,255,None
+15,a109b_ep.enp,True,34,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None,255,None
+16,a109b_ep.enp,True,34,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None
+17,a109b_ep.enp,True,34,1,28,Death's Head,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None,255,None
+18,a109b_ep.enp,True,34,1,28,Death's Head,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None
+19,a109b_ep.enp,True,34,1,28,Death's Head,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None
+20,a109b_ep.enp,True,34,1,28,Death's Head,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
+21,a109b_ep.enp,True,24,1,28,Death's Head,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None
+22,a109b_ep.enp,True,24,1,28,Death's Head,28,Death's Head,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None
+23,a109b_ep.enp,True,34,1,28,Death's Head,28,Death's Head,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
+24,a109b_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None,255,None
+25,a109b_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,30,Loopalon,30,Loopalon,255,None,255,None
+26,a109b_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None
+27,a109b_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None
+28,a109b_ep.enp,True,34,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,255,None,255,None,255,None,255,None
+29,a109b_ep.enp,True,24,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
+30,a109b_ep.enp,True,24,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,255,None,255,None
+31,a109b_ep.enp,True,24,1,24,Magma Tiki,24,Magma Tiki,24,Magma Tiki,255,None,255,None,255,None,255,None,255,None
+0,a109c_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None,255,None
+1,a109c_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None
+2,a109c_ep.enp,True,34,1,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None,255,None,255,None
+3,a109c_ep.enp,True,34,1,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None
+4,a109c_ep.enp,True,49,1,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None,255,None
+5,a109c_ep.enp,True,49,1,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None,255,None
+6,a109c_ep.enp,True,29,1,28,Death's Head,28,Death's Head,255,None,255,None,255,None,255,None,255,None,255,None
+7,a109c_ep.enp,True,24,1,28,Death's Head,28,Death's Head,28,Death's Head,255,None,255,None,255,None,255,None,255,None
+8,a109c_ep.enp,True,39,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,255,None,255,None
+9,a109c_ep.enp,True,39,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
+10,a109c_ep.enp,True,39,1,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
+11,a109c_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,30,Loopalon,255,None,255,None
+12,a109c_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,30,Loopalon,30,Loopalon,255,None
+13,a109c_ep.enp,True,39,1,27,Dung Fly,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None,255,None,255,None
+14,a109c_ep.enp,True,39,1,27,Dung Fly,27,Dung Fly,27,Dung Fly,30,Loopalon,30,Loopalon,255,None,255,None,255,None
+15,a109c_ep.enp,True,34,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None,255,None
+16,a109c_ep.enp,True,34,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None
+17,a109c_ep.enp,True,34,1,28,Death's Head,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None,255,None
+18,a109c_ep.enp,True,34,1,28,Death's Head,27,Dung Fly,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None
+19,a109c_ep.enp,True,34,1,28,Death's Head,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None
+20,a109c_ep.enp,True,34,1,28,Death's Head,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
+21,a109c_ep.enp,True,24,1,28,Death's Head,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,255,None,255,None,255,None
+22,a109c_ep.enp,True,24,1,28,Death's Head,28,Death's Head,27,Dung Fly,27,Dung Fly,255,None,255,None,255,None,255,None
+23,a109c_ep.enp,True,34,1,28,Death's Head,28,Death's Head,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
+24,a109c_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None,255,None
+25,a109c_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,30,Loopalon,30,Loopalon,255,None,255,None
+26,a109c_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None,255,None
+27,a109c_ep.enp,True,44,1,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,30,Loopalon,255,None
+28,a109c_ep.enp,True,34,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,255,None,255,None,255,None,255,None
+29,a109c_ep.enp,True,24,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,27,Dung Fly,27,Dung Fly,255,None,255,None
+30,a109c_ep.enp,True,24,1,28,Death's Head,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,93,Durel Beetle,27,Dung Fly,255,None,255,None
+31,a109c_ep.enp,True,24,1,24,Magma Tiki,24,Magma Tiki,24,Magma Tiki,255,None,255,None,255,None,255,None,255,None
+0,a109d_ep.enp,True,29,1,25,Salamander,25,Salamander,255,None,255,None,255,None,255,None,255,None,255,None
+1,a109d_ep.enp,True,29,1,25,Salamander,25,Salamander,25,Salamander,255,None,255,None,255,None,255,None,255,None
+2,a109d_ep.enp,True,29,1,25,Salamander,25,Salamander,25,Salamander,25,Salamander,255,None,255,None,255,None,255,None
+3,a109d_ep.enp,True,24,1,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,255,None,255,None,255,None
+4,a109d_ep.enp,True,24,1,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,255,None,255,None
+5,a109d_ep.enp,True,49,1,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None,255,None
+6,a109d_ep.enp,True,49,1,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None,255,None,255,None
+7,a109d_ep.enp,True,49,1,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None,255,None
+8,a109d_ep.enp,True,44,1,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
+9,a109d_ep.enp,True,39,1,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None
+10,a109d_ep.enp,True,34,1,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None
+11,a109d_ep.enp,True,29,1,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
+12,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,30,Loopalon,255,None,255,None,255,None,255,None,255,None
+13,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
+14,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,255,None,255,None,255,None,255,None
+15,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,255,None,255,None,255,None
+16,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None
+17,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,255,None,255,None,255,None
+18,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,255,None,255,None
+19,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,255,None
+20,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,255,None,255,None
+21,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,255,None
+22,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,255,None
+23,a109d_ep.enp,True,44,1,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None,255,None
+24,a109d_ep.enp,True,39,1,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None
+25,a109d_ep.enp,True,34,1,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None
+26,a109d_ep.enp,True,29,1,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
+27,a109d_ep.enp,True,39,1,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None,255,None
+28,a109d_ep.enp,True,34,1,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None,255,None
+29,a109d_ep.enp,True,29,1,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
+30,a109d_ep.enp,True,29,1,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
+31,a109d_ep.enp,True,24,1,24,Magma Tiki,24,Magma Tiki,24,Magma Tiki,255,None,255,None,255,None,255,None,255,None
 0,a111b_ep.enp,False,87,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None,255,None,255,None
 1,a111b_ep.enp,False,87,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None
 2,a111b_ep.enp,False,97,2,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None

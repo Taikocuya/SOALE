@@ -45,7 +45,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 123,De Loco Armor,False,0b00100101,X,,,X,,X,100,2420,17,Defense,172,18,MagDef,147,-1,None,0,-1,None,0
 124,Maiden's Armor,False,0b00011000,,X,X,,,,100,840,17,Defense,103,18,MagDef,112,-1,None,0,-1,None,0
 125,Heavy Armor,True,0b00100111,X,,,X,X,X,100,230,17,Defense,58,18,MagDef,53,-1,None,0,-1,None,0
-126,Ancient Robe,Undefined,0b00011010,,X,X,,X,,100,370,17,Defense,69,18,MagDef,82,-1,None,0,-1,None,0
+126,Ancient Robe,True,0b00011010,,X,X,,X,,100,370,17,Defense,69,18,MagDef,82,-1,None,0,-1,None,0
 127,De Loco Mail,False,0b00100101,X,,,X,,X,100,730,17,Defense,99,18,MagDef,84,-1,None,0,-1,None,0
 128,Daccat's Armor,False,0b00110101,X,X,,X,,X,100,910,17,Defense,108,18,MagDef,108,-1,None,0,-1,None,0
 129,Moss Armor,False,0b00001010,,,X,,X,,100,1280,17,Defense,126,18,MagDef,126,19,Hit%,20,20,Dodge%,10

@@ -209,8 +209,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 800,*,14,Zivilyn Bane,0,Branch,50,Used S-Move?,1100,Go to 1100
 900,*,14,Zivilyn Bane,0,Branch,23,Rating 30%,1400,Go to 1400
 1000,*,14,Zivilyn Bane,0,Branch,30,Always,1500,Go to 1500
-1100,*,14,Zivilyn Bane,0,Branch,27,Rating 70%,1400,Go to 1400
-1200,*,14,Zivilyn Bane,0,Branch,26,Rating 60%,1500,Go to 1500
+1100,*,14,Zivilyn Bane,0,Branch,23,Rating 30%,1500,Go to 1500
+1200,*,14,Zivilyn Bane,0,Branch,28,Rating 80%,1400,Go to 1400
 1300,*,14,Zivilyn Bane,0,Branch,30,Always,1600,Go to 1600
 1400,*,14,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
 1500,*,14,Zivilyn Bane,1,Action,22,発破,2,Random PC
@@ -358,16 +358,31 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1000,*,23,Crylhound,1,Action,552,Run,-1,None
 1100,*,23,Crylhound,1,Action,513,クイッカ,-1,None
 1200,*,23,Crylhound,1,Action,551,Guard,-1,None
-100,*,24,Magma Tiki,0,Branch,41,Used Tremble?,900,Go to 900
-200,*,24,Magma Tiki,0,Branch,2,HP < 25%,700,Go to 700
-300,*,24,Magma Tiki,0,Branch,5,Got Hit by Spell?,800,Go to 800
-400,*,24,Magma Tiki,0,Branch,1,HP < 50%,800,Go to 800
-500,*,24,Magma Tiki,0,Branch,24,Rating 40%,800,Go to 800
-600,*,24,Magma Tiki,0,Branch,21,Rating 10%,1000,Go to 1000
-700,*,24,Magma Tiki,1,Action,550,Attack,1,Same PC
-800,*,24,Magma Tiki,1,Action,47,カタカタ震える,-1,None
-900,*,24,Magma Tiki,1,Action,180,ファラオの業火,-1,None
-1000,*,24,Magma Tiki,1,Action,551,Guard,-1,None
+100,*,24,Magma Tiki,0,Branch,41,Used Tremble?,2400,Go to 2400
+200,*,24,Magma Tiki,0,Branch,66,ECs Alive = 3,1700,Go to 1700
+300,*,24,Magma Tiki,0,Branch,54,ECs Alive ≤ 3,500,Go to 500
+400,*,24,Magma Tiki,0,Branch,30,Always,1700,Go to 1700
+500,*,24,Magma Tiki,0,Branch,11,Turn 1,1100,Go to 1100
+600,*,24,Magma Tiki,0,Branch,12,Turn 2,1100,Go to 1100
+700,*,24,Magma Tiki,0,Branch,62,PCs Alive = 1,1700,Go to 1700
+800,*,24,Magma Tiki,0,Branch,63,PCs Alive = 2,1700,Go to 1700
+900,*,24,Magma Tiki,0,Branch,17,ECs Alive = 1,1400,Go to 1400
+1000,*,24,Magma Tiki,0,Branch,30,Always,1700,Go to 1700
+1100,*,24,Magma Tiki,0,Branch,50,Used S-Move?,1700,Go to 1700
+1200,*,24,Magma Tiki,0,Branch,24,Rating 40%,2400,Go to 2400
+1300,*,24,Magma Tiki,0,Branch,30,Always,1700,Go to 1700
+1400,*,24,Magma Tiki,0,Branch,50,Used S-Move?,1600,Go to 1600
+1500,*,24,Magma Tiki,0,Branch,23,Rating 30%,2400,Go to 2400
+1600,*,24,Magma Tiki,0,Branch,23,Rating 30%,2400,Go to 2400
+1700,*,24,Magma Tiki,0,Branch,2,HP < 25%,2200,Go to 2200
+1800,*,24,Magma Tiki,0,Branch,5,Got Hit by Spell?,2300,Go to 2300
+1900,*,24,Magma Tiki,0,Branch,1,HP < 50%,2300,Go to 2300
+2000,*,24,Magma Tiki,0,Branch,24,Rating 40%,2300,Go to 2300
+2100,*,24,Magma Tiki,0,Branch,21,Rating 10%,2500,Go to 2500
+2200,*,24,Magma Tiki,1,Action,550,Attack,1,Same PC
+2300,*,24,Magma Tiki,1,Action,47,カタカタ震える,-1,None
+2400,*,24,Magma Tiki,1,Action,180,ファラオの業火,-1,None
+2500,*,24,Magma Tiki,1,Action,551,Guard,-1,None
 100,*,25,Salamander,0,Branch,33,Used Attack Spells ≥ 1,500,Go to 500
 200,*,25,Salamander,0,Branch,28,Rating 80%,900,Go to 900
 300,*,25,Salamander,0,Branch,25,Rating 50%,1000,Go to 1000

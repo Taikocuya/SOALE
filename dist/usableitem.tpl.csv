@@ -42,7 +42,7 @@ Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect N
 280,Driln Box,True,0b0010,,X,,26,Decr All Attr,3,Single EC,32,10,300,0,4,Yellow,1,Magical,8,Weak,30
 281,Slipara Box,Assigned,0b0010,,X,,9,Sleep,4,All ECs,32,10,2000,0,3,Blue,1,Magical,3,Sleep,60
 282,Eternum Box,False,0b0010,,X,,6,Unconscious + Damage A,3,Single EC,48,10,8000,250,5,Silver,1,Magical,1,Unconscious,90
-283,Rune of Ill Omen,Undefined,0b0000,,,,-1,None,0,None,0,100,1000,0,-1,None,-1,None,-1,None,0
+283,Rune of Ill Omen,True,0b0000,,,,-1,None,0,None,0,100,1000,0,-1,None,-1,None,-1,None,0
 284,Golden Mask,Undefined,0b0000,,,,-1,None,0,None,0,100,2000,0,-1,None,-1,None,-1,None,0
 285,Sky Sardis,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,5,10,-1,None,-1,None,-1,None,0
 286,Red Sardis,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,50,100,-1,None,-1,None,-1,None,0

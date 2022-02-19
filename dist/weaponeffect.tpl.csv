@@ -1,7 +1,7 @@
 Entry ID,Entry JP Name,[Finalized],[Descr Str],Effect ID,[Effect Name],State ID,[State Name],State Miss%
 0,Poison,True,Poison by 10%,4,Poison + Damage,0,Poison,90
 1,Sleep,False,Sleep by 50%,69,Sleep + Damage,3,Sleep,50
-2,Weak,False,Weak by 10%,73,Weak + Damage,8,Weak,90
+2,Weak,True,Weak by 10%,73,Weak + Damage,8,Weak,90
 3,Confusion,False,Confusion by 20%,70,Confusion + Damage,4,Confusion,80
 4,Silence,True,Silence by 20%,71,Silence + Damage,5,Silence,80
 5,Confusion,False,Confusion by 20%,70,Confusion + Damage,4,Confusion,80

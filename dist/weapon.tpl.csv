@@ -22,11 +22,11 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 20,Leather Crescent,True,1,Aika,50,-1,None,140,30,110,-1,None,0,0
 21,Throwing Blade,True,1,Aika,50,-1,None,310,38,110,-1,None,0,0
 22,Hunting Arc,Undefined,1,Aika,50,-1,None,1820,80,110,-1,None,0,0
-23,Valuarang,Undefined,1,Aika,50,-1,None,480,46,110,-1,None,0,0
+23,Valuarang,True,1,Aika,50,-1,None,480,46,110,-1,None,0,0
 24,Yin Wing,False,1,Aika,50,17,Sleep by 5%,5930,130,110,-1,None,0,0
-25,Dancing Arc,Undefined,1,Aika,50,-1,None,1100,65,110,-1,None,0,0
+25,Dancing Arc,True,1,Aika,50,-1,None,1100,65,110,-1,None,0,0
 26,Wing of Hope,False,1,Aika,50,-1,None,4760,119,110,-1,None,0,0
-27,Storm Wing,Undefined,1,Aika,50,2,Weak by 10%,1280,69,150,-1,None,0,0
+27,Storm Wing,True,1,Aika,50,2,Weak by 10%,1280,69,150,-1,None,0,0
 28,Moon Wing,False,1,Aika,50,-1,None,10170,161,110,-1,None,0,0
 29,Hydra Wing,False,1,Aika,50,-1,None,11390,168,110,-1,None,0,0
 30,Grendel Wing,Undefined,1,Aika,50,-1,None,2820,96,150,32,Green,0,-2
