@@ -1,5 +1,5 @@
 Entry ID,Entry JP Name,Pad 1,Pad 2,Pad 3,Pad 4,Category ID,[Category Name],Effect ID,[Effect Name],Scope ID,[Scope Name],Effect Param ID,Effect Param Name,Effect Base,Element ID,[Element Name],Type ID,[Type Name],State Inflict ID,State Inflict Name,State Resist ID,State Resist Name,State ID,[State Name],State Miss%,Pad 5,Pad 6
-0,火山弾乱舞,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,20,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
+0,火山弾乱舞,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,30,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
 1,石化灰噴霧,0,0,0,0,0,S-Move,8,Stone + Damage,1,Single PC,16,Attack,5,1,Red,0,Physical,16,Attack,17,Defense,2,Stone,30,0,0
 2,フェザーティアー,0,0,0,0,0,S-Move,0,Damage,102,PC Ray S5,16,Attack,30,0,Green,0,Physical,0,Power,0,Power,-1,None,0,0,0
 3,欠番,0,0,0,0,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0

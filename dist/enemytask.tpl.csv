@@ -360,6 +360,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1400,*,23,Crylhound,True,1,Action,513,Quika,-1,None
 1500,*,23,Crylhound,True,1,Action,551,Guard,-1,None
 0,*,24,Magma Tiki,True,0,Branch,41,Used Tremble?,10020,Lava Storm
+5,*,24,Magma Tiki,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,10,Go to 10
+6,*,24,Magma Tiki,True,0,Branch,30,Always,40,Go to 40
 10,*,24,Magma Tiki,True,0,Branch,66,ECs Alive = 3,3000,Go to 3000
 20,*,24,Magma Tiki,True,0,Branch,54,ECs Alive ≤ 3,40,Go to 40
 30,*,24,Magma Tiki,True,0,Branch,30,Always,3000,Go to 3000
@@ -1870,20 +1872,27 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10025,*,133,Royal Guard,True,1,Action,506,Sacri,22,Self
 10030,*,133,Royal Guard,True,1,Action,533,Electres,2,Random PC
 10040,*,133,Royal Guard,True,1,Action,533,Electres,23,Aika
-100,*,134,Rokwyrm,Undefined,0,Branch,1,HP < 50%,600,Go to 600
-200,*,134,Rokwyrm,Undefined,0,Branch,2,HP < 25%,900,Go to 900
-300,*,134,Rokwyrm,Undefined,0,Branch,23,Rating 30%,1400,Go to 1400
-400,*,134,Rokwyrm,Undefined,0,Branch,25,Rating 50%,1300,Go to 1300
-500,*,134,Rokwyrm,Undefined,0,Branch,30,Always,1200,Go to 1200
-600,*,134,Rokwyrm,Undefined,0,Branch,25,Rating 50%,1400,Go to 1400
-700,*,134,Rokwyrm,Undefined,0,Branch,24,Rating 40%,1300,Go to 1300
-800,*,134,Rokwyrm,Undefined,0,Branch,30,Always,1200,Go to 1200
-900,*,134,Rokwyrm,Undefined,0,Branch,22,Rating 20%,1400,Go to 1400
-1000,*,134,Rokwyrm,Undefined,0,Branch,27,Rating 70%,1300,Go to 1300
-1100,*,134,Rokwyrm,Undefined,0,Branch,30,Always,1200,Go to 1200
-1200,*,134,Rokwyrm,Undefined,1,Action,550,Attack,2,Random PC
-1300,*,134,Rokwyrm,Undefined,1,Action,0,Volcanic Blast,-1,None
-1400,*,134,Rokwyrm,Undefined,1,Action,1,Cinder Storm,13,PC w/o Stone
+0,*,134,Rokwyrm,True,0,Branch,66,ECs Alive = 3,20,Go to 20
+10,*,134,Rokwyrm,True,0,Branch,54,ECs Alive ≤ 3,40,Go to 40
+20,*,134,Rokwyrm,True,0,Branch,11,Turn 1,2000,Go to 2000
+30,*,134,Rokwyrm,True,0,Branch,12,Turn 2,2000,Go to 2000
+40,*,134,Rokwyrm,True,0,Branch,1,HP < 50%,3000,Go to 3000
+50,*,134,Rokwyrm,True,0,Branch,2,HP < 25%,4000,Go to 4000
+900,*,134,Rokwyrm,True,0,Branch,30,Always,10010,Volcanic Blast
+1000,*,134,Rokwyrm,True,0,Branch,23,Rating 30%,10020,Cinder Storm
+1010,*,134,Rokwyrm,True,0,Branch,25,Rating 50%,10010,Volcanic Blast
+1020,*,134,Rokwyrm,True,0,Branch,30,Always,10000,Attack
+2000,*,134,Rokwyrm,True,0,Branch,25,Rating 50%,10020,Cinder Storm
+2010,*,134,Rokwyrm,True,0,Branch,30,Always,10000,Attack
+3000,*,134,Rokwyrm,True,0,Branch,25,Rating 50%,10020,Cinder Storm
+3010,*,134,Rokwyrm,True,0,Branch,24,Rating 40%,10010,Volcanic Blast
+3020,*,134,Rokwyrm,True,0,Branch,30,Always,10000,Attack
+4000,*,134,Rokwyrm,True,0,Branch,22,Rating 20%,10020,Cinder Storm
+4010,*,134,Rokwyrm,True,0,Branch,27,Rating 70%,10010,Volcanic Blast
+4020,*,134,Rokwyrm,True,0,Branch,30,Always,10000,Attack
+10000,*,134,Rokwyrm,True,1,Action,550,Attack,2,Random PC
+10010,*,134,Rokwyrm,True,1,Action,0,Volcanic Blast,-1,None
+10020,*,134,Rokwyrm,True,1,Action,1,Cinder Storm,13,PC w/o Stone
 100,*,136,Antonio 2,Undefined,0,Branch,50,Used S-Move?,400,Go to 400
 200,*,136,Antonio 2,Undefined,0,Branch,23,Rating 30%,600,Go to 600
 300,*,136,Antonio 2,Undefined,0,Branch,30,Always,700,Go to 700
