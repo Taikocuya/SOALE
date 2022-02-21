@@ -1798,24 +1798,23 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 2000,*,130,Bleigock,1,Action,550,Attack,3,PC w/ Most HP
 2100,*,130,Bleigock,1,Action,183,フロストブレス,-1,None
 2200,*,130,Bleigock,1,Action,25,毒ゲロ,-1,None
-100,*,131,Executioner,0,Branch,11,Turn 1,500,Go to 500
-200,*,131,Executioner,0,Branch,66,ECs Alive = 3,500,Go to 500
-300,*,131,Executioner,0,Branch,50,Used S-Move?,500,Go to 500
-400,*,131,Executioner,0,Branch,27,Rating 70%,1500,Go to 1500
-500,*,131,Executioner,0,Branch,24,Rating 40%,1300,Go to 1300
-600,*,131,Executioner,0,Branch,63,PCs Alive = 2,900,Go to 900
-700,*,131,Executioner,0,Branch,62,PCs Alive = 1,900,Go to 900
+100,*,131,Executioner,0,Branch,66,ECs Alive = 3,400,Go to 400
+200,*,131,Executioner,0,Branch,50,Used S-Move?,400,Go to 400
+300,*,131,Executioner,0,Branch,27,Rating 70%,1400,Go to 1400
+400,*,131,Executioner,0,Branch,24,Rating 40%,1200,Go to 1200
+500,*,131,Executioner,0,Branch,62,PCs Alive = 1,800,Go to 800
+600,*,131,Executioner,0,Branch,63,PCs Alive = 2,800,Go to 800
+700,*,131,Executioner,0,Branch,24,Rating 40%,1500,Go to 1500
 800,*,131,Executioner,0,Branch,24,Rating 40%,1600,Go to 1600
-900,*,131,Executioner,0,Branch,24,Rating 40%,1700,Go to 1700
-1000,*,131,Executioner,0,Branch,16,Has Silence?,1000,Go to 1000
-1100,*,131,Executioner,0,Branch,26,Rating 60%,1800,Go to 1800
-1200,*,131,Executioner,0,Branch,30,Always,1400,Go to 1400
-1300,*,131,Executioner,1,Action,550,Attack,2,Random PC
-1400,*,131,Executioner,1,Action,551,Guard,-1,None
-1500,*,131,Executioner,1,Action,11,キャノンボール,2,Random PC
-1600,*,131,Executioner,1,Action,11,キャノンボール,3,PC w/ Most HP
-1700,*,131,Executioner,1,Action,251,ブロードソニック,2,Random PC
-1800,*,131,Executioner,1,Action,533,ボルティ,2,Random PC
+900,*,131,Executioner,0,Branch,16,Has Silence?,1100,Go to 1100
+1000,*,131,Executioner,0,Branch,26,Rating 60%,1700,Go to 1700
+1100,*,131,Executioner,0,Branch,30,Always,1300,Go to 1300
+1200,*,131,Executioner,1,Action,550,Attack,2,Random PC
+1300,*,131,Executioner,1,Action,551,Guard,-1,None
+1400,*,131,Executioner,1,Action,11,キャノンボール,2,Random PC
+1500,*,131,Executioner,1,Action,11,キャノンボール,3,PC w/ Most HP
+1600,*,131,Executioner,1,Action,251,ブロードソニック,2,Random PC
+1700,*,131,Executioner,1,Action,533,ボルティ,2,Random PC
 100,*,132,Galcian,0,Branch,1,HP < 50%,1300,Go to 1300
 200,*,132,Galcian,0,Branch,11,Turn 1,700,Go to 700
 300,*,132,Galcian,0,Branch,12,Turn 2,700,Go to 700
@@ -1872,27 +1871,31 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 4100,*,133,Royal Guard,1,Action,506,サプラ,22,Self
 4200,*,133,Royal Guard,1,Action,533,ボルティ,2,Random PC
 4300,*,133,Royal Guard,1,Action,533,ボルティ,23,Aika
-100,*,134,Rokwyrm,0,Branch,66,ECs Alive = 3,300,Go to 300
-200,*,134,Rokwyrm,0,Branch,54,ECs Alive ≤ 3,500,Go to 500
-300,*,134,Rokwyrm,0,Branch,11,Turn 1,1100,Go to 1100
-400,*,134,Rokwyrm,0,Branch,12,Turn 2,1100,Go to 1100
-500,*,134,Rokwyrm,0,Branch,1,HP < 50%,1300,Go to 1300
-600,*,134,Rokwyrm,0,Branch,2,HP < 25%,1600,Go to 1600
-700,*,134,Rokwyrm,0,Branch,30,Always,2000,Go to 2000
-800,*,134,Rokwyrm,0,Branch,23,Rating 30%,2100,Go to 2100
-900,*,134,Rokwyrm,0,Branch,25,Rating 50%,2000,Go to 2000
-1000,*,134,Rokwyrm,0,Branch,30,Always,1900,Go to 1900
-1100,*,134,Rokwyrm,0,Branch,25,Rating 50%,2100,Go to 2100
-1200,*,134,Rokwyrm,0,Branch,30,Always,1900,Go to 1900
-1300,*,134,Rokwyrm,0,Branch,25,Rating 50%,2100,Go to 2100
-1400,*,134,Rokwyrm,0,Branch,24,Rating 40%,2000,Go to 2000
-1500,*,134,Rokwyrm,0,Branch,30,Always,1900,Go to 1900
-1600,*,134,Rokwyrm,0,Branch,22,Rating 20%,2100,Go to 2100
-1700,*,134,Rokwyrm,0,Branch,27,Rating 70%,2000,Go to 2000
-1800,*,134,Rokwyrm,0,Branch,30,Always,1900,Go to 1900
-1900,*,134,Rokwyrm,1,Action,550,Attack,2,Random PC
-2000,*,134,Rokwyrm,1,Action,0,火山弾乱舞,-1,None
-2100,*,134,Rokwyrm,1,Action,1,石化灰噴霧,13,PC w/o Stone
+100,*,134,Rokwyrm,0,Branch,17,ECs Alive = 1,1000,Go to 1000
+200,*,134,Rokwyrm,0,Branch,14,Turn 4,1000,Go to 1000
+300,*,134,Rokwyrm,0,Branch,37,Turn ≥ 5,1000,Go to 1000
+400,*,134,Rokwyrm,0,Branch,1,HP < 50%,1700,Go to 1700
+500,*,134,Rokwyrm,0,Branch,25,Rating 50%,2500,Go to 2500
+600,*,134,Rokwyrm,0,Branch,50,Used S-Move?,900,Go to 900
+700,*,134,Rokwyrm,0,Branch,12,Turn 2,2500,Go to 2500
+800,*,134,Rokwyrm,0,Branch,13,Turn 3,2500,Go to 2500
+900,*,134,Rokwyrm,0,Branch,30,Always,2300,Go to 2300
+1000,*,134,Rokwyrm,0,Branch,50,Used S-Move?,1200,Go to 1200
+1100,*,134,Rokwyrm,0,Branch,25,Rating 50%,2400,Go to 2400
+1200,*,134,Rokwyrm,0,Branch,24,Rating 40%,2500,Go to 2500
+1300,*,134,Rokwyrm,0,Branch,26,Rating 60%,2300,Go to 2300
+1400,*,134,Rokwyrm,0,Branch,62,PCs Alive = 1,2300,Go to 2300
+1500,*,134,Rokwyrm,0,Branch,63,PCs Alive = 2,2300,Go to 2300
+1600,*,134,Rokwyrm,0,Branch,30,Always,2400,Go to 2400
+1700,*,134,Rokwyrm,0,Branch,62,PCs Alive = 1,2100,Go to 2100
+1800,*,134,Rokwyrm,0,Branch,25,Rating 50%,2400,Go to 2400
+1900,*,134,Rokwyrm,0,Branch,24,Rating 40%,2500,Go to 2500
+2000,*,134,Rokwyrm,0,Branch,30,Always,2300,Go to 2300
+2100,*,134,Rokwyrm,0,Branch,23,Rating 30%,2400,Go to 2400
+2200,*,134,Rokwyrm,0,Branch,24,Rating 40%,2500,Go to 2500
+2300,*,134,Rokwyrm,1,Action,550,Attack,2,Random PC
+2400,*,134,Rokwyrm,1,Action,0,火山弾乱舞,-1,None
+2500,*,134,Rokwyrm,1,Action,1,石化灰噴霧,13,PC w/o Stone
 100,*,136,Antonio 2,0,Branch,50,Used S-Move?,400,Go to 400
 200,*,136,Antonio 2,0,Branch,23,Rating 30%,600,Go to 600
 300,*,136,Antonio 2,0,Branch,30,Always,700,Go to 700
