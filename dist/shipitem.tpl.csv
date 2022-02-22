@@ -28,4 +28,4 @@ Entry ID,[Entry name],[Finalized],Occasion Flags,[M],[B],[S],Ship Eff ID,[Ship E
 506,Magic Shell,False,0b0001,,,X,110,Block Magic,0,100,1100,50,0,6,Neutral,0,0,0
 507,Gold Bullion,False,0b0000,,,,-1,None,-1,-1,10000,100,0,6,Neutral,0,0,0
 508,Crystal Ball,False,0b0000,,,,-1,None,-1,-1,1000,100,0,6,Neutral,0,0,0
-509,Magic Cannon,False,0b0000,,,,-1,None,-1,-1,0,0,0,6,Neutral,0,0,0
+509,Magic Cannon,True,0b0000,,,,-1,None,-1,-1,0,0,0,6,Neutral,0,0,0

@@ -1,5 +1,5 @@
 Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[Trait 1 Name],Trait 1 Value,Trait 2 ID,[Trait 2 Name],Trait 2 Value,Trait 3 ID,[Trait 3 Name],Trait 3 Value,Trait 4 ID,[Trait 4 Name],Trait 4 Value,Buy,Sell%
-440,Rogue Figure,Undefined,0b00111110,X,X,X,X,X,7,Value,800,3,MagDef,11,-1,None,0,-1,None,0,800,50
+440,Rogue Figure,True,0b00111110,X,X,X,X,X,7,Value,800,3,MagDef,11,-1,None,0,-1,None,0,800,50
 441,Pryn Figure,Undefined,0b00111110,X,X,X,X,X,7,Value,2400,3,MagDef,15,-1,None,0,-1,None,0,2400,50
 442,Pyrynn Figure,False,0b00111110,X,X,X,X,X,7,Value,4400,3,MagDef,20,-1,None,0,-1,None,0,4400,50
 443,Arcwhale Figure,False,0b00111110,X,X,X,X,X,7,Value,4640,3,MagDef,25,-1,None,0,-1,None,0,4640,50
@@ -10,7 +10,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[
 448,Vyse Figure,False,0b00111110,X,X,X,X,X,7,Value,8800,3,MagDef,85,-1,None,0,-1,None,0,8800,50
 449,Spherical Figure,False,0b00111110,X,X,X,X,X,7,Value,13500,3,MagDef,100,-1,None,0,-1,None,0,13500,50
 450,Engine Cover,True,0b00111110,X,X,X,X,X,7,Value,690,4,Quick,9,6,Dodge%,1,-1,None,0,690,50
-451,Turbo Kit,Undefined,0b00111110,X,X,X,X,X,7,Value,1520,4,Quick,15,6,Dodge%,1,-1,None,0,1520,50
+451,Turbo Kit,True,0b00111110,X,X,X,X,X,7,Value,1520,4,Quick,15,6,Dodge%,1,-1,None,0,1520,50
 452,Bore-up Kit,Undefined,0b00111110,X,X,X,X,X,7,Value,2400,4,Quick,19,6,Dodge%,1,-1,None,0,2400,50
 453,Twin Propellers,Undefined,0b00111110,X,X,X,X,X,7,Value,3200,4,Quick,25,6,Dodge%,3,-1,None,0,3200,50
 454,Air Intake,False,0b00111110,X,X,X,X,X,7,Value,6800,4,Quick,30,6,Dodge%,3,-1,None,0,6800,50
@@ -20,7 +20,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[
 458,High Torque Kit,False,0b00111110,X,X,X,X,X,7,Value,14800,4,Quick,85,6,Dodge%,5,-1,None,0,14800,50
 459,Double Shaft,False,0b00111110,X,X,X,X,X,7,Value,16640,4,Quick,100,6,Dodge%,7,-1,None,0,16640,50
 460,Armored Deck,True,0b00111110,X,X,X,X,X,7,Value,1000,2,Defense,10,-1,None,0,-1,None,0,1000,50
-461,Steel Deck,Undefined,0b00111110,X,X,X,X,X,7,Value,1900,2,Defense,16,-1,None,0,-1,None,0,1900,50
+461,Steel Deck,True,0b00111110,X,X,X,X,X,7,Value,1900,2,Defense,16,-1,None,0,-1,None,0,1900,50
 462,Slanted Deck,False,0b00111110,X,X,X,X,X,7,Value,2200,2,Defense,20,-1,None,0,-1,None,0,2200,50
 463,Compound Deck,False,0b00111110,X,X,X,X,X,7,Value,5500,2,Defense,25,-1,None,0,-1,None,0,5500,50
 464,Heavy Armor Deck,False,0b00111110,X,X,X,X,X,7,Value,6700,2,Defense,30,-1,None,0,-1,None,0,6700,50
