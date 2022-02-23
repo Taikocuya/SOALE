@@ -19,7 +19,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 177,Sailor's Buckler,False,0b00110111,X,X,,X,X,X,50,1930,17,Defense,20,20,Dodge%,15,-1,None,0,-1,None,0
 178,Warrior's Rune,True,0b00111001,X,X,X,,,X,50,600,16,Attack,10,17,Defense,10,19,Hit%,10,20,Dodge%,5
 179,Ancient Bracer,False,0b00110101,X,X,,X,,X,50,10,16,Attack,20,17,Defense,20,19,Hit%,20,20,Dodge%,10
-180,Counter Bracer,Undefined,0b00110101,X,X,,X,,X,50,10,73,Counter%,20,16,Attack,20,19,Hit%,20,-1,None,0
+180,Counter Bracer,True,0b00110101,X,X,,X,,X,50,1360,73,Counter%,20,16,Attack,20,19,Hit%,20,-1,None,0
 181,Defensive Aura,False,0b00011000,,X,X,,,,50,10,65,Block Attack,1,77,Recover SP,-1,54,Fatigue,-10,-1,None,0
 182,Ivy Band,True,0b00111111,X,X,X,X,X,X,50,520,48,Poison,-5,32,Green,-2,17,Defense,12,18,MagDef,12
 183,Silvite Ring,True,0b00111111,X,X,X,X,X,X,50,760,49,Unconscious,-5,37,Silver,-2,17,Defense,18,18,MagDef,18

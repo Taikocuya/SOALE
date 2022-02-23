@@ -175,30 +175,31 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 2200,*,12,Varkris,0,Branch,30,Always,2800,Go to 2800
 2300,*,12,Varkris,1,Action,550,Attack,2,Random PC
 2400,*,12,Varkris,1,Action,513,クイッカ,-1,None
-2500,*,12,Varkris,1,Action,512,スリーパ,16,PC w/o Sleep
+2500,*,12,Varkris,1,Action,512,スリーパ,-1,None
 2600,*,12,Varkris,1,Action,62,仲間を呼ぶ,-1,None
 2700,*,12,Varkris,1,Action,107,仲間を呼ぶ,-1,None
 2800,*,12,Varkris,1,Action,552,Run,-1,None
 100,*,13,Azbeth,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,13,Azbeth,0,Branch,30,Always,400,Go to 400
-300,*,13,Azbeth,0,Branch,27,Rating 70%,1500,Go to 1500
-400,*,13,Azbeth,0,Branch,25,Rating 50%,1300,Go to 1300
+300,*,13,Azbeth,0,Branch,27,Rating 70%,1600,Go to 1600
+400,*,13,Azbeth,0,Branch,25,Rating 50%,1400,Go to 1400
 500,*,13,Azbeth,0,Branch,24,Rating 40%,800,Go to 800
 600,*,13,Azbeth,0,Branch,27,Rating 70%,1100,Go to 1100
-700,*,13,Azbeth,0,Branch,30,Always,1400,Go to 1400
-800,*,13,Azbeth,0,Branch,25,Rating 50%,1600,Go to 1600
-900,*,13,Azbeth,0,Branch,24,Rating 40%,1700,Go to 1700
-1000,*,13,Azbeth,0,Branch,30,Always,1800,Go to 1800
-1100,*,13,Azbeth,0,Branch,36,Used State Spells ≥ 2,2000,Go to 2000
-1200,*,13,Azbeth,0,Branch,30,Always,1900,Go to 1900
-1300,*,13,Azbeth,1,Action,550,Attack,2,Random PC
-1400,*,13,Azbeth,1,Action,551,Guard,-1,None
-1500,*,13,Azbeth,1,Action,552,Run,-1,None
-1600,*,13,Azbeth,1,Action,200,仲間を呼ぶ,-1,None
-1700,*,13,Azbeth,1,Action,201,仲間を呼ぶ,-1,None
-1800,*,13,Azbeth,1,Action,108,仲間を呼ぶ,-1,None
-1900,*,13,Azbeth,1,Action,517,ジェダ,2,Random PC
-2000,*,13,Azbeth,1,Action,100,Ж術？,-1,None
+700,*,13,Azbeth,0,Branch,30,Always,1500,Go to 1500
+800,*,13,Azbeth,0,Branch,25,Rating 50%,1700,Go to 1700
+900,*,13,Azbeth,0,Branch,24,Rating 40%,1800,Go to 1800
+1000,*,13,Azbeth,0,Branch,30,Always,1900,Go to 1900
+1100,*,13,Azbeth,0,Branch,16,Has Silence?,2100,Go to 2100
+1200,*,13,Azbeth,0,Branch,36,Used State Spells ≥ 2,2100,Go to 2100
+1300,*,13,Azbeth,0,Branch,30,Always,2000,Go to 2000
+1400,*,13,Azbeth,1,Action,550,Attack,2,Random PC
+1500,*,13,Azbeth,1,Action,551,Guard,-1,None
+1600,*,13,Azbeth,1,Action,552,Run,-1,None
+1700,*,13,Azbeth,1,Action,200,仲間を呼ぶ,-1,None
+1800,*,13,Azbeth,1,Action,201,仲間を呼ぶ,-1,None
+1900,*,13,Azbeth,1,Action,108,仲間を呼ぶ,-1,None
+2000,*,13,Azbeth,1,Action,517,ジェダ,2,Random PC
+2100,*,13,Azbeth,1,Action,100,Ж術？,-1,None
 100,*,14,Zivilyn Bane,0,Branch,11,Turn 1,1200,Go to 1200
 200,*,14,Zivilyn Bane,0,Branch,50,Used S-Move?,500,Go to 500
 300,*,14,Zivilyn Bane,0,Branch,22,Rating 20%,1500,Go to 1500
@@ -349,16 +350,17 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1800,*,22,Ferlith,1,Action,115,仲間を呼ぶ,-1,None
 100,*,23,Crylhound,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,23,Crylhound,0,Branch,30,Always,400,Go to 400
-300,*,23,Crylhound,0,Branch,23,Rating 30%,1000,Go to 1000
+300,*,23,Crylhound,0,Branch,23,Rating 30%,1100,Go to 1100
 400,*,23,Crylhound,0,Branch,11,Turn 1,700,Go to 700
-500,*,23,Crylhound,0,Branch,29,Rating 90%,900,Go to 900
-600,*,23,Crylhound,0,Branch,30,Always,1000,Go to 1000
-700,*,23,Crylhound,0,Branch,23,Rating 30%,1100,Go to 1100
-800,*,23,Crylhound,0,Branch,21,Rating 10%,1200,Go to 1200
-900,*,23,Crylhound,1,Action,550,Attack,2,Random PC
-1000,*,23,Crylhound,1,Action,552,Run,-1,None
-1100,*,23,Crylhound,1,Action,513,クイッカ,-1,None
-1200,*,23,Crylhound,1,Action,551,Guard,-1,None
+500,*,23,Crylhound,0,Branch,29,Rating 90%,1000,Go to 1000
+600,*,23,Crylhound,0,Branch,30,Always,1100,Go to 1100
+700,*,23,Crylhound,0,Branch,16,Has Silence?,900,Go to 900
+800,*,23,Crylhound,0,Branch,23,Rating 30%,1200,Go to 1200
+900,*,23,Crylhound,0,Branch,21,Rating 10%,1300,Go to 1300
+1000,*,23,Crylhound,1,Action,550,Attack,2,Random PC
+1100,*,23,Crylhound,1,Action,552,Run,-1,None
+1200,*,23,Crylhound,1,Action,513,クイッカ,-1,None
+1300,*,23,Crylhound,1,Action,551,Guard,-1,None
 100,*,24,Magma Tiki,0,Branch,41,Used Tremble?,2600,Go to 2600
 200,*,24,Magma Tiki,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,400,Go to 400
 300,*,24,Magma Tiki,0,Branch,30,Always,700,Go to 700
@@ -386,19 +388,20 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 2500,*,24,Magma Tiki,1,Action,47,カタカタ震える,-1,None
 2600,*,24,Magma Tiki,1,Action,180,ファラオの業火,-1,None
 2700,*,24,Magma Tiki,1,Action,551,Guard,-1,None
-100,*,25,Salamander,0,Branch,33,Used Attack Spells ≥ 1,500,Go to 500
-200,*,25,Salamander,0,Branch,28,Rating 80%,900,Go to 900
-300,*,25,Salamander,0,Branch,25,Rating 50%,1000,Go to 1000
-400,*,25,Salamander,0,Branch,30,Always,1300,Go to 1300
-500,*,25,Salamander,0,Branch,26,Rating 60%,900,Go to 900
-600,*,25,Salamander,0,Branch,25,Rating 50%,1100,Go to 1100
-700,*,25,Salamander,0,Branch,25,Rating 50%,1300,Go to 1300
-800,*,25,Salamander,0,Branch,30,Always,1200,Go to 1200
-900,*,25,Salamander,1,Action,550,Attack,2,Random PC
-1000,*,25,Salamander,1,Action,523,バーナ,-1,None
-1100,*,25,Salamander,1,Action,100,Ж術？,-1,None
-1200,*,25,Salamander,1,Action,552,Run,-1,None
-1300,*,25,Salamander,1,Action,551,Guard,-1,None
+100,*,25,Salamander,0,Branch,33,Used Attack Spells ≥ 1,600,Go to 600
+200,*,25,Salamander,0,Branch,28,Rating 80%,1000,Go to 1000
+300,*,25,Salamander,0,Branch,16,Has Silence?,500,Go to 500
+400,*,25,Salamander,0,Branch,25,Rating 50%,1100,Go to 1100
+500,*,25,Salamander,0,Branch,30,Always,1400,Go to 1400
+600,*,25,Salamander,0,Branch,26,Rating 60%,1000,Go to 1000
+700,*,25,Salamander,0,Branch,25,Rating 50%,1200,Go to 1200
+800,*,25,Salamander,0,Branch,25,Rating 50%,1400,Go to 1400
+900,*,25,Salamander,0,Branch,30,Always,1300,Go to 1300
+1000,*,25,Salamander,1,Action,550,Attack,2,Random PC
+1100,*,25,Salamander,1,Action,523,バーナ,-1,None
+1200,*,25,Salamander,1,Action,100,Ж術？,-1,None
+1300,*,25,Salamander,1,Action,552,Run,-1,None
+1400,*,25,Salamander,1,Action,551,Guard,-1,None
 100,*,26,Baroo,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,26,Baroo,0,Branch,30,Always,400,Go to 400
 300,*,26,Baroo,0,Branch,29,Rating 90%,1600,Go to 1600
@@ -415,30 +418,35 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1400,*,26,Baroo,1,Action,550,Attack,1,Same PC
 1500,*,26,Baroo,1,Action,551,Guard,-1,None
 1600,*,26,Baroo,1,Action,552,Run,-1,None
-100,*,27,Dung Fly,0,Branch,17,ECs Alive = 1,1500,Go to 1500
-200,*,27,Dung Fly,0,Branch,36,Used State Spells ≥ 2,1000,Go to 1000
-300,*,27,Dung Fly,0,Branch,22,Rating 20%,1900,Go to 1900
-400,*,27,Dung Fly,0,Branch,23,Rating 30%,2000,Go to 2000
-500,*,27,Dung Fly,0,Branch,24,Rating 40%,1800,Go to 1800
-600,*,27,Dung Fly,0,Branch,24,Rating 40%,2100,Go to 2100
-700,*,27,Dung Fly,0,Branch,24,Rating 40%,2200,Go to 2200
-800,*,27,Dung Fly,0,Branch,25,Rating 50%,2300,Go to 2300
-900,*,27,Dung Fly,0,Branch,30,Always,2400,Go to 2400
-1000,*,27,Dung Fly,0,Branch,25,Rating 50%,1800,Go to 1800
-1100,*,27,Dung Fly,0,Branch,24,Rating 40%,2100,Go to 2100
-1200,*,27,Dung Fly,0,Branch,26,Rating 60%,2200,Go to 2200
-1300,*,27,Dung Fly,0,Branch,25,Rating 50%,2300,Go to 2300
-1400,*,27,Dung Fly,0,Branch,30,Always,2400,Go to 2400
-1500,*,27,Dung Fly,0,Branch,24,Rating 40%,2100,Go to 2100
-1600,*,27,Dung Fly,0,Branch,25,Rating 50%,2200,Go to 2200
-1700,*,27,Dung Fly,0,Branch,30,Always,2300,Go to 2300
-1800,*,27,Dung Fly,1,Action,550,Attack,2,Random PC
-1900,*,27,Dung Fly,1,Action,504,ダウナ,17,PC w/o Weak
-2000,*,27,Dung Fly,1,Action,512,スリーパ,16,PC w/o Sleep
-2100,*,27,Dung Fly,1,Action,28,仲間を呼ぶ,-1,None
-2200,*,27,Dung Fly,1,Action,110,仲間を呼ぶ,-1,None
-2300,*,27,Dung Fly,1,Action,552,Run,-1,None
-2400,*,27,Dung Fly,1,Action,551,Guard,-1,None
+100,*,27,Dung Fly,0,Branch,65,PCs Alive = 4,500,Go to 500
+200,*,27,Dung Fly,0,Branch,37,Turn ≥ 5,400,Go to 400
+300,*,27,Dung Fly,0,Branch,30,Always,500,Go to 500
+400,*,27,Dung Fly,0,Branch,26,Rating 60%,2800,Go to 2800
+500,*,27,Dung Fly,0,Branch,17,ECs Alive = 1,2000,Go to 2000
+600,*,27,Dung Fly,0,Branch,16,Has Silence?,1500,Go to 1500
+700,*,27,Dung Fly,0,Branch,36,Used State Spells ≥ 2,1500,Go to 1500
+800,*,27,Dung Fly,0,Branch,22,Rating 20%,2400,Go to 2400
+900,*,27,Dung Fly,0,Branch,23,Rating 30%,2500,Go to 2500
+1000,*,27,Dung Fly,0,Branch,24,Rating 40%,2300,Go to 2300
+1100,*,27,Dung Fly,0,Branch,24,Rating 40%,2600,Go to 2600
+1200,*,27,Dung Fly,0,Branch,24,Rating 40%,2700,Go to 2700
+1300,*,27,Dung Fly,0,Branch,25,Rating 50%,2800,Go to 2800
+1400,*,27,Dung Fly,0,Branch,30,Always,2900,Go to 2900
+1500,*,27,Dung Fly,0,Branch,25,Rating 50%,2300,Go to 2300
+1600,*,27,Dung Fly,0,Branch,24,Rating 40%,2600,Go to 2600
+1700,*,27,Dung Fly,0,Branch,26,Rating 60%,2700,Go to 2700
+1800,*,27,Dung Fly,0,Branch,25,Rating 50%,2800,Go to 2800
+1900,*,27,Dung Fly,0,Branch,30,Always,2900,Go to 2900
+2000,*,27,Dung Fly,0,Branch,24,Rating 40%,2600,Go to 2600
+2100,*,27,Dung Fly,0,Branch,25,Rating 50%,2700,Go to 2700
+2200,*,27,Dung Fly,0,Branch,30,Always,2800,Go to 2800
+2300,*,27,Dung Fly,1,Action,550,Attack,2,Random PC
+2400,*,27,Dung Fly,1,Action,504,ダウナ,17,PC w/o Weak
+2500,*,27,Dung Fly,1,Action,512,スリーパ,-1,None
+2600,*,27,Dung Fly,1,Action,28,仲間を呼ぶ,-1,None
+2700,*,27,Dung Fly,1,Action,110,仲間を呼ぶ,-1,None
+2800,*,27,Dung Fly,1,Action,552,Run,-1,None
+2900,*,27,Dung Fly,1,Action,551,Guard,-1,None
 100,*,28,Death's Head,0,Branch,26,Rating 60%,400,Go to 400
 200,*,28,Death's Head,0,Branch,28,Rating 80%,500,Go to 500
 300,*,28,Death's Head,0,Branch,30,Always,600,Go to 600
@@ -457,19 +465,21 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1000,*,29,Looper,1,Action,552,Run,-1,None
 1100,*,29,Looper,1,Action,523,バーナ,-1,None
 1200,*,29,Looper,1,Action,100,Ж術？,-1,None
-100,*,30,Loopalon,0,Branch,1,HP < 50%,1100,Go to 1100
-200,*,30,Loopalon,0,Branch,25,Rating 50%,1100,Go to 1100
-300,*,30,Loopalon,0,Branch,11,Turn 1,500,Go to 500
-400,*,30,Loopalon,0,Branch,30,Always,600,Go to 600
-500,*,30,Loopalon,0,Branch,25,Rating 50%,1200,Go to 1200
-600,*,30,Loopalon,0,Branch,25,Rating 50%,900,Go to 900
-700,*,30,Loopalon,0,Branch,25,Rating 50%,1000,Go to 1000
-800,*,30,Loopalon,0,Branch,30,Always,1300,Go to 1300
-900,*,30,Loopalon,1,Action,550,Attack,2,Random PC
-1000,*,30,Loopalon,1,Action,551,Guard,-1,None
-1100,*,30,Loopalon,1,Action,552,Run,-1,None
-1200,*,30,Loopalon,1,Action,500,アパ,11,EC w/o Strengthen
-1300,*,30,Loopalon,1,Action,100,Ж術？,-1,None
+100,*,30,Loopalon,0,Branch,1,HP < 50%,1300,Go to 1300
+200,*,30,Loopalon,0,Branch,25,Rating 50%,1300,Go to 1300
+300,*,30,Loopalon,0,Branch,16,Has Silence?,800,Go to 800
+400,*,30,Loopalon,0,Branch,11,Turn 1,600,Go to 600
+500,*,30,Loopalon,0,Branch,30,Always,800,Go to 800
+600,*,30,Loopalon,0,Branch,16,Has Silence?,800,Go to 800
+700,*,30,Loopalon,0,Branch,25,Rating 50%,1400,Go to 1400
+800,*,30,Loopalon,0,Branch,25,Rating 50%,1100,Go to 1100
+900,*,30,Loopalon,0,Branch,25,Rating 50%,1200,Go to 1200
+1000,*,30,Loopalon,0,Branch,30,Always,1500,Go to 1500
+1100,*,30,Loopalon,1,Action,550,Attack,2,Random PC
+1200,*,30,Loopalon,1,Action,551,Guard,-1,None
+1300,*,30,Loopalon,1,Action,552,Run,-1,None
+1400,*,30,Loopalon,1,Action,500,アパ,11,EC w/o Strengthen
+1500,*,30,Loopalon,1,Action,100,Ж術？,-1,None
 100,*,31,Tsurak,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,31,Tsurak,0,Branch,30,Always,400,Go to 400
 300,*,31,Tsurak,0,Branch,28,Rating 80%,1600,Go to 1600
@@ -503,35 +513,37 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 900,*,33,Serpentis,1,Action,551,Guard,-1,None
 100,*,34,Dralnog,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,34,Dralnog,0,Branch,30,Always,400,Go to 400
-300,*,34,Dralnog,0,Branch,26,Rating 60%,1700,Go to 1700
+300,*,34,Dralnog,0,Branch,26,Rating 60%,1800,Go to 1800
 400,*,34,Dralnog,0,Branch,2,HP < 25%,600,Go to 600
 500,*,34,Dralnog,0,Branch,30,Always,700,Go to 700
-600,*,34,Dralnog,0,Branch,28,Rating 80%,1800,Go to 1800
+600,*,34,Dralnog,0,Branch,28,Rating 80%,1900,Go to 1900
 700,*,34,Dralnog,0,Branch,1,HP < 50%,900,Go to 900
 800,*,34,Dralnog,0,Branch,30,Always,1000,Go to 1000
-900,*,34,Dralnog,0,Branch,24,Rating 40%,1800,Go to 1800
-1000,*,34,Dralnog,0,Branch,35,Used State Spells ≥ 1,1200,Go to 1200
-1100,*,34,Dralnog,0,Branch,22,Rating 20%,1900,Go to 1900
-1200,*,34,Dralnog,0,Branch,22,Rating 20%,1800,Go to 1800
-1300,*,34,Dralnog,0,Branch,27,Rating 70%,1600,Go to 1600
-1400,*,34,Dralnog,0,Branch,26,Rating 60%,2000,Go to 2000
-1500,*,34,Dralnog,0,Branch,30,Always,1700,Go to 1700
-1600,*,34,Dralnog,1,Action,550,Attack,2,Random PC
-1700,*,34,Dralnog,1,Action,552,Run,-1,None
-1800,*,34,Dralnog,1,Action,271,毒自爆,-1,None
-1900,*,34,Dralnog,1,Action,517,ジェダ,2,Random PC
-2000,*,34,Dralnog,1,Action,100,Ж術？,-1,None
+900,*,34,Dralnog,0,Branch,24,Rating 40%,1900,Go to 1900
+1000,*,34,Dralnog,0,Branch,16,Has Silence?,1300,Go to 1300
+1100,*,34,Dralnog,0,Branch,35,Used State Spells ≥ 1,1300,Go to 1300
+1200,*,34,Dralnog,0,Branch,22,Rating 20%,2000,Go to 2000
+1300,*,34,Dralnog,0,Branch,22,Rating 20%,1900,Go to 1900
+1400,*,34,Dralnog,0,Branch,27,Rating 70%,1700,Go to 1700
+1500,*,34,Dralnog,0,Branch,26,Rating 60%,2100,Go to 2100
+1600,*,34,Dralnog,0,Branch,30,Always,1800,Go to 1800
+1700,*,34,Dralnog,1,Action,550,Attack,2,Random PC
+1800,*,34,Dralnog,1,Action,552,Run,-1,None
+1900,*,34,Dralnog,1,Action,271,毒自爆,-1,None
+2000,*,34,Dralnog,1,Action,517,ジェダ,2,Random PC
+2100,*,34,Dralnog,1,Action,100,Ж術？,-1,None
 100,epevent.evp,34,Dralnog,0,Branch,2,HP < 25%,300,Go to 300
 200,epevent.evp,34,Dralnog,0,Branch,30,Always,400,Go to 400
-300,epevent.evp,34,Dralnog,0,Branch,28,Rating 80%,1000,Go to 1000
+300,epevent.evp,34,Dralnog,0,Branch,28,Rating 80%,1100,Go to 1100
 400,epevent.evp,34,Dralnog,0,Branch,1,HP < 50%,600,Go to 600
 500,epevent.evp,34,Dralnog,0,Branch,30,Always,700,Go to 700
-600,epevent.evp,34,Dralnog,0,Branch,24,Rating 40%,1000,Go to 1000
-700,epevent.evp,34,Dralnog,0,Branch,49,Used Spell?,900,Go to 900
-800,epevent.evp,34,Dralnog,0,Branch,23,Rating 30%,1100,Go to 1100
-900,epevent.evp,34,Dralnog,1,Action,550,Attack,2,Random PC
-1000,epevent.evp,34,Dralnog,1,Action,271,毒自爆,-1,None
-1100,epevent.evp,34,Dralnog,1,Action,517,ジェダ,2,Random PC
+600,epevent.evp,34,Dralnog,0,Branch,24,Rating 40%,1100,Go to 1100
+700,epevent.evp,34,Dralnog,0,Branch,16,Has Silence?,1000,Go to 1000
+800,epevent.evp,34,Dralnog,0,Branch,49,Used Spell?,1000,Go to 1000
+900,epevent.evp,34,Dralnog,0,Branch,23,Rating 30%,1200,Go to 1200
+1000,epevent.evp,34,Dralnog,1,Action,550,Attack,2,Random PC
+1100,epevent.evp,34,Dralnog,1,Action,271,毒自爆,-1,None
+1200,epevent.evp,34,Dralnog,1,Action,517,ジェダ,2,Random PC
 100,*,35,Que'lak,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,35,Que'lak,0,Branch,30,Always,400,Go to 400
 300,*,35,Que'lak,0,Branch,28,Rating 80%,1500,Go to 1500
@@ -596,18 +608,19 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 800,*,40,Roseln,1,Action,551,Guard,-1,None
 900,*,40,Roseln,1,Action,26,花葬の舞,2,Random PC
 1000,*,40,Roseln,1,Action,191,爆睡の花粉,-1,None
-100,*,41,Elooper,0,Branch,1,HP < 50%,1000,Go to 1000
-200,*,41,Elooper,0,Branch,25,Rating 50%,1000,Go to 1000
-300,*,41,Elooper,0,Branch,24,Rating 40%,800,Go to 800
-400,*,41,Elooper,0,Branch,23,Rating 30%,900,Go to 900
-500,*,41,Elooper,0,Branch,31,Used Sacri Spells ≥ 1,1200,Go to 1200
-600,*,41,Elooper,0,Branch,11,Turn 1,800,Go to 800
-700,*,41,Elooper,0,Branch,30,Always,1100,Go to 1100
-800,*,41,Elooper,1,Action,550,Attack,2,Random PC
-900,*,41,Elooper,1,Action,551,Guard,-1,None
-1000,*,41,Elooper,1,Action,552,Run,-1,None
-1100,*,41,Elooper,1,Action,507,サプリィ,7,EC w/ Least HP
-1200,*,41,Elooper,1,Action,100,Ж術？,-1,None
+100,*,41,Elooper,0,Branch,1,HP < 50%,1100,Go to 1100
+200,*,41,Elooper,0,Branch,25,Rating 50%,1100,Go to 1100
+300,*,41,Elooper,0,Branch,24,Rating 40%,900,Go to 900
+400,*,41,Elooper,0,Branch,23,Rating 30%,1000,Go to 1000
+500,*,41,Elooper,0,Branch,16,Has Silence?,100,Go to 100
+600,*,41,Elooper,0,Branch,31,Used Sacri Spells ≥ 1,1300,Go to 1300
+700,*,41,Elooper,0,Branch,11,Turn 1,900,Go to 900
+800,*,41,Elooper,0,Branch,30,Always,1200,Go to 1200
+900,*,41,Elooper,1,Action,550,Attack,2,Random PC
+1000,*,41,Elooper,1,Action,551,Guard,-1,None
+1100,*,41,Elooper,1,Action,552,Run,-1,None
+1200,*,41,Elooper,1,Action,507,サプリィ,7,EC w/ Least HP
+1300,*,41,Elooper,1,Action,100,Ж術？,-1,None
 100,*,42,Grapor,0,Branch,23,Rating 30%,400,Go to 400
 200,*,42,Grapor,0,Branch,21,Rating 10%,500,Go to 500
 300,*,42,Grapor,1,Action,550,Attack,2,Random PC
@@ -646,7 +659,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 2200,*,44,Iridzu,0,Branch,30,Always,2800,Go to 2800
 2300,*,44,Iridzu,1,Action,550,Attack,2,Random PC
 2400,*,44,Iridzu,1,Action,513,クイッカ,-1,None
-2500,*,44,Iridzu,1,Action,512,スリーパ,16,PC w/o Sleep
+2500,*,44,Iridzu,1,Action,512,スリーパ,-1,None
 2600,*,44,Iridzu,1,Action,87,仲間を呼ぶ,-1,None
 2700,*,44,Iridzu,1,Action,107,仲間を呼ぶ,-1,None
 2800,*,44,Iridzu,1,Action,552,Run,-1,None
@@ -957,32 +970,37 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 2000,*,63,Ghrost,1,Action,519,ジェドーサ,2,Random PC
 2100,*,63,Ghrost,1,Action,511,プワゾーク,-1,None
 2200,*,63,Ghrost,1,Action,100,Ж術？,-1,None
-100,*,64,Graver,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
+100,*,64,Graver,0,Branch,37,Turn ≥ 5,300,Go to 300
 200,*,64,Graver,0,Branch,30,Always,400,Go to 400
-300,*,64,Graver,0,Branch,28,Rating 80%,2300,Go to 2300
-400,*,64,Graver,0,Branch,44,1st PC ΔLevel > 3,600,Go to 600
+300,*,64,Graver,0,Branch,23,Rating 30%,2800,Go to 2800
+400,*,64,Graver,0,Branch,45,1st PC ΔLevel > 7,600,Go to 600
 500,*,64,Graver,0,Branch,30,Always,700,Go to 700
-600,*,64,Graver,0,Branch,22,Rating 20%,2300,Go to 2300
-700,*,64,Graver,0,Branch,17,ECs Alive = 1,900,Go to 900
-800,*,64,Graver,0,Branch,30,Always,1100,Go to 1100
-900,*,64,Graver,0,Branch,35,Used State Spells ≥ 1,1100,Go to 1100
-1000,*,64,Graver,0,Branch,25,Rating 50%,2500,Go to 2500
-1100,*,64,Graver,0,Branch,0,HP = 100%,1400,Go to 1400
-1200,*,64,Graver,0,Branch,46,Used HP Absorbs ≥ 1,1400,Go to 1400
-1300,*,64,Graver,0,Branch,25,Rating 50%,2400,Go to 2400
-1400,*,64,Graver,0,Branch,25,Rating 50%,2100,Go to 2100
-1500,*,64,Graver,0,Branch,24,Rating 40%,2200,Go to 2200
-1600,*,64,Graver,0,Branch,65,PCs Alive = 4,1800,Go to 1800
-1700,*,64,Graver,0,Branch,30,Always,2600,Go to 2600
-1800,*,64,Graver,0,Branch,35,Used State Spells ≥ 1,2600,Go to 2600
-1900,*,64,Graver,0,Branch,24,Rating 40%,2500,Go to 2500
-2000,*,64,Graver,0,Branch,24,Rating 40%,2600,Go to 2600
-2100,*,64,Graver,1,Action,550,Attack,2,Random PC
-2200,*,64,Graver,1,Action,551,Guard,-1,None
-2300,*,64,Graver,1,Action,552,Run,-1,None
-2400,*,64,Graver,1,Action,210,ＨＰ吸収,3,PC w/ Most HP
-2500,*,64,Graver,1,Action,510,プワザ,19,PC w/o Poison
-2600,*,64,Graver,1,Action,100,Ж術？,-1,None
+600,*,64,Graver,0,Branch,28,Rating 80%,2800,Go to 2800
+700,*,64,Graver,0,Branch,44,1st PC ΔLevel > 3,900,Go to 900
+800,*,64,Graver,0,Branch,30,Always,1000,Go to 1000
+900,*,64,Graver,0,Branch,22,Rating 20%,2800,Go to 2800
+1000,*,64,Graver,0,Branch,17,ECs Alive = 1,1200,Go to 1200
+1100,*,64,Graver,0,Branch,30,Always,1500,Go to 1500
+1200,*,64,Graver,0,Branch,16,Has Silence?,1500,Go to 1500
+1300,*,64,Graver,0,Branch,36,Used State Spells ≥ 2,1500,Go to 1500
+1400,*,64,Graver,0,Branch,24,Rating 40%,3000,Go to 3000
+1500,*,64,Graver,0,Branch,0,HP = 100%,1800,Go to 1800
+1600,*,64,Graver,0,Branch,46,Used HP Absorbs ≥ 1,1800,Go to 1800
+1700,*,64,Graver,0,Branch,25,Rating 50%,2900,Go to 2900
+1800,*,64,Graver,0,Branch,25,Rating 50%,2600,Go to 2600
+1900,*,64,Graver,0,Branch,24,Rating 40%,2700,Go to 2700
+2000,*,64,Graver,0,Branch,65,PCs Alive = 4,2200,Go to 2200
+2100,*,64,Graver,0,Branch,30,Always,3100,Go to 3100
+2200,*,64,Graver,0,Branch,16,Has Silence?,3100,Go to 3100
+2300,*,64,Graver,0,Branch,36,Used State Spells ≥ 2,3100,Go to 3100
+2400,*,64,Graver,0,Branch,24,Rating 40%,3000,Go to 3000
+2500,*,64,Graver,0,Branch,24,Rating 40%,3100,Go to 3100
+2600,*,64,Graver,1,Action,550,Attack,2,Random PC
+2700,*,64,Graver,1,Action,551,Guard,-1,None
+2800,*,64,Graver,1,Action,552,Run,-1,None
+2900,*,64,Graver,1,Action,210,ＨＰ吸収,3,PC w/ Most HP
+3000,*,64,Graver,1,Action,510,プワザ,2,Random PC
+3100,*,64,Graver,1,Action,100,Ж術？,-1,None
 100,*,65,Shrilp,0,Branch,36,Used State Spells ≥ 2,700,Go to 700
 200,*,65,Shrilp,0,Branch,11,Turn 1,500,Go to 500
 300,*,65,Shrilp,0,Branch,12,Turn 2,500,Go to 500
@@ -1053,19 +1071,20 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1600,*,71,Tenkou,1,Action,118,サプガンの葉,7,EC w/ Least HP
 100,*,72,Patrol Guard,0,Branch,11,Turn 1,300,Go to 300
 200,*,72,Patrol Guard,0,Branch,30,Always,400,Go to 400
-300,*,72,Patrol Guard,0,Branch,23,Rating 30%,1300,Go to 1300
+300,*,72,Patrol Guard,0,Branch,23,Rating 30%,1400,Go to 1400
 400,*,72,Patrol Guard,0,Branch,42,Used Sacri Crystals ≥ 1,800,Go to 800
 500,*,72,Patrol Guard,0,Branch,38,Any EC HP < 50%,700,Go to 700
 600,*,72,Patrol Guard,0,Branch,30,Always,800,Go to 800
-700,*,72,Patrol Guard,0,Branch,26,Rating 60%,1500,Go to 1500
-800,*,72,Patrol Guard,0,Branch,33,Used Attack Spells ≥ 1,1000,Go to 1000
-900,*,72,Patrol Guard,0,Branch,24,Rating 40%,1400,Go to 1400
-1000,*,72,Patrol Guard,0,Branch,22,Rating 20%,1200,Go to 1200
-1100,*,72,Patrol Guard,1,Action,550,Attack,2,Random PC
-1200,*,72,Patrol Guard,1,Action,551,Guard,-1,None
-1300,*,72,Patrol Guard,1,Action,513,クイッカ,-1,None
-1400,*,72,Patrol Guard,1,Action,532,ボルタ,2,Random PC
-1500,*,72,Patrol Guard,1,Action,79,サプの葉,7,EC w/ Least HP
+700,*,72,Patrol Guard,0,Branch,26,Rating 60%,1600,Go to 1600
+800,*,72,Patrol Guard,0,Branch,16,Has Silence?,1100,Go to 1100
+900,*,72,Patrol Guard,0,Branch,33,Used Attack Spells ≥ 1,1100,Go to 1100
+1000,*,72,Patrol Guard,0,Branch,24,Rating 40%,1500,Go to 1500
+1100,*,72,Patrol Guard,0,Branch,22,Rating 20%,1300,Go to 1300
+1200,*,72,Patrol Guard,1,Action,550,Attack,2,Random PC
+1300,*,72,Patrol Guard,1,Action,551,Guard,-1,None
+1400,*,72,Patrol Guard,1,Action,513,クイッカ,-1,None
+1500,*,72,Patrol Guard,1,Action,532,ボルタ,2,Random PC
+1600,*,72,Patrol Guard,1,Action,79,サプの葉,7,EC w/ Least HP
 100,*,73,Mine Patrol,0,Branch,11,Turn 1,400,Go to 400
 200,*,73,Mine Patrol,0,Branch,12,Turn 2,600,Go to 600
 300,*,73,Mine Patrol,0,Branch,30,Always,700,Go to 700
@@ -1344,30 +1363,35 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1500,*,92,Langry,1,Action,98,仲間を呼ぶ,-1,None
 1600,*,92,Langry,1,Action,552,Run,-1,None
 1700,*,92,Langry,1,Action,551,Guard,-1,None
-100,*,93,Durel Beetle,0,Branch,17,ECs Alive = 1,1500,Go to 1500
-200,*,93,Durel Beetle,0,Branch,36,Used State Spells ≥ 2,1000,Go to 1000
-300,*,93,Durel Beetle,0,Branch,22,Rating 20%,1900,Go to 1900
-400,*,93,Durel Beetle,0,Branch,23,Rating 30%,2000,Go to 2000
-500,*,93,Durel Beetle,0,Branch,24,Rating 40%,1800,Go to 1800
-600,*,93,Durel Beetle,0,Branch,24,Rating 40%,2100,Go to 2100
-700,*,93,Durel Beetle,0,Branch,24,Rating 40%,2200,Go to 2200
-800,*,93,Durel Beetle,0,Branch,25,Rating 50%,2300,Go to 2300
-900,*,93,Durel Beetle,0,Branch,30,Always,2400,Go to 2400
-1000,*,93,Durel Beetle,0,Branch,25,Rating 50%,1800,Go to 1800
-1100,*,93,Durel Beetle,0,Branch,24,Rating 40%,2100,Go to 2100
-1200,*,93,Durel Beetle,0,Branch,26,Rating 60%,2200,Go to 2200
-1300,*,93,Durel Beetle,0,Branch,25,Rating 50%,2300,Go to 2300
-1400,*,93,Durel Beetle,0,Branch,30,Always,2400,Go to 2400
-1500,*,93,Durel Beetle,0,Branch,24,Rating 40%,2100,Go to 2100
-1600,*,93,Durel Beetle,0,Branch,25,Rating 50%,2200,Go to 2200
-1700,*,93,Durel Beetle,0,Branch,30,Always,2300,Go to 2300
-1800,*,93,Durel Beetle,1,Action,550,Attack,2,Random PC
-1900,*,93,Durel Beetle,1,Action,504,ダウナ,17,PC w/o Weak
-2000,*,93,Durel Beetle,1,Action,512,スリーパ,16,PC w/o Sleep
-2100,*,93,Durel Beetle,1,Action,78,仲間を呼ぶ,-1,None
-2200,*,93,Durel Beetle,1,Action,111,仲間を呼ぶ,-1,None
-2300,*,93,Durel Beetle,1,Action,552,Run,-1,None
-2400,*,93,Durel Beetle,1,Action,551,Guard,-1,None
+100,*,93,Durel Beetle,0,Branch,65,PCs Alive = 4,500,Go to 500
+200,*,93,Durel Beetle,0,Branch,37,Turn ≥ 5,400,Go to 400
+300,*,93,Durel Beetle,0,Branch,30,Always,500,Go to 500
+400,*,93,Durel Beetle,0,Branch,26,Rating 60%,2800,Go to 2800
+500,*,93,Durel Beetle,0,Branch,17,ECs Alive = 1,2000,Go to 2000
+600,*,93,Durel Beetle,0,Branch,16,Has Silence?,1500,Go to 1500
+700,*,93,Durel Beetle,0,Branch,35,Used State Spells ≥ 1,1500,Go to 1500
+800,*,93,Durel Beetle,0,Branch,22,Rating 20%,2400,Go to 2400
+900,*,93,Durel Beetle,0,Branch,23,Rating 30%,2500,Go to 2500
+1000,*,93,Durel Beetle,0,Branch,24,Rating 40%,2300,Go to 2300
+1100,*,93,Durel Beetle,0,Branch,24,Rating 40%,2600,Go to 2600
+1200,*,93,Durel Beetle,0,Branch,24,Rating 40%,2700,Go to 2700
+1300,*,93,Durel Beetle,0,Branch,25,Rating 50%,2800,Go to 2800
+1400,*,93,Durel Beetle,0,Branch,30,Always,2900,Go to 2900
+1500,*,93,Durel Beetle,0,Branch,25,Rating 50%,2300,Go to 2300
+1600,*,93,Durel Beetle,0,Branch,24,Rating 40%,2600,Go to 2600
+1700,*,93,Durel Beetle,0,Branch,26,Rating 60%,2700,Go to 2700
+1800,*,93,Durel Beetle,0,Branch,25,Rating 50%,2800,Go to 2800
+1900,*,93,Durel Beetle,0,Branch,30,Always,2900,Go to 2900
+2000,*,93,Durel Beetle,0,Branch,24,Rating 40%,2600,Go to 2600
+2100,*,93,Durel Beetle,0,Branch,25,Rating 50%,2700,Go to 2700
+2200,*,93,Durel Beetle,0,Branch,30,Always,2800,Go to 2800
+2300,*,93,Durel Beetle,1,Action,550,Attack,2,Random PC
+2400,*,93,Durel Beetle,1,Action,504,ダウナ,17,PC w/o Weak
+2500,*,93,Durel Beetle,1,Action,512,スリーパ,-1,None
+2600,*,93,Durel Beetle,1,Action,78,仲間を呼ぶ,-1,None
+2700,*,93,Durel Beetle,1,Action,111,仲間を呼ぶ,-1,None
+2800,*,93,Durel Beetle,1,Action,552,Run,-1,None
+2900,*,93,Durel Beetle,1,Action,551,Guard,-1,None
 100,*,94,Totelm,0,Branch,11,Turn 1,500,Go to 500
 200,*,94,Totelm,0,Branch,28,Rating 80%,700,Go to 700
 300,*,94,Totelm,0,Branch,25,Rating 50%,800,Go to 800

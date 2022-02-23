@@ -175,7 +175,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 2200,*,12,Varkris,Undefined,0,Branch,30,Always,2800,Go to 2800
 2300,*,12,Varkris,Undefined,1,Action,550,Attack,2,Random PC
 2400,*,12,Varkris,Undefined,1,Action,513,Quika,-1,None
-2500,*,12,Varkris,Undefined,1,Action,512,Slipara,16,PC w/o Sleep
+2500,*,12,Varkris,Undefined,1,Action,512,Slipara,-1,None
 2600,*,12,Varkris,Undefined,1,Action,62,Call Allies,-1,None
 2700,*,12,Varkris,Undefined,1,Action,107,Call Allies,-1,None
 2800,*,12,Varkris,Undefined,1,Action,552,Run,-1,None
@@ -189,7 +189,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 800,*,13,Azbeth,True,0,Branch,25,Rating 50%,1600,Go to 1600
 900,*,13,Azbeth,True,0,Branch,24,Rating 40%,1700,Go to 1700
 1000,*,13,Azbeth,True,0,Branch,30,Always,1800,Go to 1800
-1100,*,13,Azbeth,True,0,Branch,36,Used State Spells ≥ 2,2000,Go to 2000
+1100,*,13,Azbeth,True,0,Branch,16,Has Silence?,2000,Go to 2000
+1150,*,13,Azbeth,True,0,Branch,36,Used State Spells ≥ 2,2000,Go to 2000
 1200,*,13,Azbeth,True,0,Branch,30,Always,1900,Go to 1900
 1300,*,13,Azbeth,True,1,Action,550,Attack,2,Random PC
 1400,*,13,Azbeth,True,1,Action,551,Guard,-1,None
@@ -353,7 +354,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 700,*,23,Crylhound,True,0,Branch,11,Turn 1,1000,Go to 1000
 800,*,23,Crylhound,True,0,Branch,29,Rating 90%,1200,Go to 1200
 900,*,23,Crylhound,True,0,Branch,30,Always,1300,Go to 1300
-1000,*,23,Crylhound,True,0,Branch,23,Rating 30%,1400,Go to 1400
+1000,*,23,Crylhound,True,0,Branch,16,Has Silence?,1100,Go to 1100
+1050,*,23,Crylhound,True,0,Branch,23,Rating 30%,1400,Go to 1400
 1100,*,23,Crylhound,True,0,Branch,21,Rating 10%,1500,Go to 1500
 1200,*,23,Crylhound,True,1,Action,550,Attack,2,Random PC
 1300,*,23,Crylhound,True,1,Action,552,Run,-1,None
@@ -388,7 +390,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10030,*,24,Magma Tiki,True,1,Action,551,Guard,-1,None
 100,*,25,Salamander,True,0,Branch,33,Used Attack Spells ≥ 1,500,Go to 500
 200,*,25,Salamander,True,0,Branch,28,Rating 80%,900,Go to 900
-300,*,25,Salamander,True,0,Branch,25,Rating 50%,1000,Go to 1000
+300,*,25,Salamander,True,0,Branch,16,Has Silence?,400,Go to 400
+350,*,25,Salamander,True,0,Branch,25,Rating 50%,1000,Go to 1000
 400,*,25,Salamander,True,0,Branch,30,Always,1300,Go to 1300
 500,*,25,Salamander,True,0,Branch,26,Rating 60%,900,Go to 900
 600,*,25,Salamander,True,0,Branch,25,Rating 50%,1100,Go to 1100
@@ -415,8 +418,13 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1400,*,26,Baroo,False,1,Action,550,Attack,1,Same PC
 1500,*,26,Baroo,False,1,Action,551,Guard,-1,None
 1600,*,26,Baroo,False,1,Action,552,Run,-1,None
+0,*,27,Dung Fly,True,0,Branch,65,PCs Alive = 4,100,Go to 100
+10,*,27,Dung Fly,True,0,Branch,37,Turn ≥ 5,30,Go to 30
+20,*,27,Dung Fly,True,0,Branch,30,Always,100,Go to 100
+30,*,27,Dung Fly,True,0,Branch,26,Rating 60%,2300,Go to 2300
 100,*,27,Dung Fly,True,0,Branch,17,ECs Alive = 1,1500,Go to 1500
-200,*,27,Dung Fly,True,0,Branch,36,Used State Spells ≥ 2,1000,Go to 1000
+200,*,27,Dung Fly,True,0,Branch,16,Has Silence?,1000,Go to 1000
+250,*,27,Dung Fly,True,0,Branch,36,Used State Spells ≥ 2,1000,Go to 1000
 300,*,27,Dung Fly,True,0,Branch,22,Rating 20%,1900,Go to 1900
 400,*,27,Dung Fly,True,0,Branch,23,Rating 30%,2000,Go to 2000
 500,*,27,Dung Fly,True,0,Branch,24,Rating 40%,1800,Go to 1800
@@ -434,7 +442,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1700,*,27,Dung Fly,True,0,Branch,30,Always,2300,Go to 2300
 1800,*,27,Dung Fly,True,1,Action,550,Attack,2,Random PC
 1900,*,27,Dung Fly,True,1,Action,504,Driln,17,PC w/o Weak
-2000,*,27,Dung Fly,True,1,Action,512,Slipara,16,PC w/o Sleep
+2000,*,27,Dung Fly,True,1,Action,512,Slipara,-1,None
 2100,*,27,Dung Fly,True,1,Action,28,Call Allies,-1,None
 2200,*,27,Dung Fly,True,1,Action,110,Call Allies,-1,None
 2300,*,27,Dung Fly,True,1,Action,552,Run,-1,None
@@ -459,9 +467,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1100,*,29,Looper,True,1,Action,100,Magic?,-1,None
 100,*,30,Loopalon,True,0,Branch,1,HP < 50%,1100,Go to 1100
 200,*,30,Loopalon,True,0,Branch,25,Rating 50%,1100,Go to 1100
-300,*,30,Loopalon,True,0,Branch,11,Turn 1,500,Go to 500
+300,*,30,Loopalon,True,0,Branch,16,Has Silence?,600,Go to 600
+350,*,30,Loopalon,True,0,Branch,11,Turn 1,500,Go to 500
 400,*,30,Loopalon,True,0,Branch,30,Always,600,Go to 600
-500,*,30,Loopalon,True,0,Branch,25,Rating 50%,1200,Go to 1200
+500,*,30,Loopalon,True,0,Branch,16,Has Silence?,600,Go to 600
+550,*,30,Loopalon,True,0,Branch,25,Rating 50%,1200,Go to 1200
 600,*,30,Loopalon,True,0,Branch,25,Rating 50%,900,Go to 900
 700,*,30,Loopalon,True,0,Branch,25,Rating 50%,1000,Go to 1000
 800,*,30,Loopalon,True,0,Branch,30,Always,1300,Go to 1300
@@ -510,7 +520,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 700,*,34,Dralnog,True,0,Branch,1,HP < 50%,900,Go to 900
 800,*,34,Dralnog,True,0,Branch,30,Always,1000,Go to 1000
 900,*,34,Dralnog,True,0,Branch,24,Rating 40%,1800,Go to 1800
-1000,*,34,Dralnog,True,0,Branch,35,Used State Spells ≥ 1,1200,Go to 1200
+1000,*,34,Dralnog,True,0,Branch,16,Has Silence?,1200,Go to 1200
+1050,*,34,Dralnog,True,0,Branch,35,Used State Spells ≥ 1,1200,Go to 1200
 1100,*,34,Dralnog,True,0,Branch,22,Rating 20%,1900,Go to 1900
 1200,*,34,Dralnog,True,0,Branch,22,Rating 20%,1800,Go to 1800
 1300,*,34,Dralnog,True,0,Branch,27,Rating 70%,1600,Go to 1600
@@ -527,8 +538,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1000,epevent.evp,34,Dralnog,True,0,Branch,1,HP < 50%,1020,Go to 1020
 1010,epevent.evp,34,Dralnog,True,0,Branch,30,Always,2000,Go to 2000
 1020,epevent.evp,34,Dralnog,True,0,Branch,24,Rating 40%,10010,Go to 10010
-2000,epevent.evp,34,Dralnog,True,0,Branch,49,Used Spell?,10000,Go to 10000
-2100,epevent.evp,34,Dralnog,True,0,Branch,23,Rating 30%,10020,Go to 10020
+2000,epevent.evp,34,Dralnog,True,0,Branch,16,Has Silence?,10000,Go to 10000
+2010,epevent.evp,34,Dralnog,True,0,Branch,49,Used Spell?,10000,Go to 10000
+2020,epevent.evp,34,Dralnog,True,0,Branch,23,Rating 30%,10020,Go to 10020
 10000,epevent.evp,34,Dralnog,True,1,Action,550,Attack,2,Random PC
 10010,epevent.evp,34,Dralnog,True,1,Action,271,Poison Explode,-1,None
 10020,epevent.evp,34,Dralnog,True,1,Action,517,Eterni,2,Random PC
@@ -596,18 +608,19 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 800,*,40,Roseln,Undefined,1,Action,551,Guard,-1,None
 900,*,40,Roseln,Undefined,1,Action,26,Death Blossom,2,Random PC
 1000,*,40,Roseln,Undefined,1,Action,191,Slumber Dust,-1,None
-100,*,41,Elooper,Undefined,0,Branch,1,HP < 50%,1000,Go to 1000
-200,*,41,Elooper,Undefined,0,Branch,25,Rating 50%,1000,Go to 1000
-300,*,41,Elooper,Undefined,0,Branch,24,Rating 40%,800,Go to 800
-400,*,41,Elooper,Undefined,0,Branch,23,Rating 30%,900,Go to 900
-500,*,41,Elooper,Undefined,0,Branch,31,Used Sacri Spells ≥ 1,1200,Go to 1200
-600,*,41,Elooper,Undefined,0,Branch,11,Turn 1,800,Go to 800
-700,*,41,Elooper,Undefined,0,Branch,30,Always,1100,Go to 1100
-800,*,41,Elooper,Undefined,1,Action,550,Attack,2,Random PC
-900,*,41,Elooper,Undefined,1,Action,551,Guard,-1,None
-1000,*,41,Elooper,Undefined,1,Action,552,Run,-1,None
-1100,*,41,Elooper,Undefined,1,Action,507,Sacres,7,EC w/ Least HP
-1200,*,41,Elooper,Undefined,1,Action,100,Magic?,-1,None
+100,*,41,Elooper,True,0,Branch,1,HP < 50%,1000,Go to 1000
+200,*,41,Elooper,True,0,Branch,25,Rating 50%,1000,Go to 1000
+300,*,41,Elooper,True,0,Branch,24,Rating 40%,800,Go to 800
+400,*,41,Elooper,True,0,Branch,23,Rating 30%,900,Go to 900
+500,*,41,Elooper,True,0,Branch,16,Has Silence?,100,Go to 100
+550,*,41,Elooper,True,0,Branch,31,Used Sacri Spells ≥ 1,1200,Go to 1200
+600,*,41,Elooper,True,0,Branch,11,Turn 1,800,Go to 800
+750,*,41,Elooper,True,0,Branch,30,Always,1100,Go to 1100
+800,*,41,Elooper,True,1,Action,550,Attack,2,Random PC
+900,*,41,Elooper,True,1,Action,551,Guard,-1,None
+1000,*,41,Elooper,True,1,Action,552,Run,-1,None
+1100,*,41,Elooper,True,1,Action,507,Sacres,7,EC w/ Least HP
+1200,*,41,Elooper,True,1,Action,100,Magic?,-1,None
 100,*,42,Grapor,False,0,Branch,23,Rating 30%,400,Go to 400
 200,*,42,Grapor,False,0,Branch,21,Rating 10%,500,Go to 500
 300,*,42,Grapor,False,1,Action,550,Attack,2,Random PC
@@ -646,7 +659,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 2200,*,44,Iridzu,False,0,Branch,30,Always,2800,Go to 2800
 2300,*,44,Iridzu,False,1,Action,550,Attack,2,Random PC
 2400,*,44,Iridzu,False,1,Action,513,Quika,-1,None
-2500,*,44,Iridzu,False,1,Action,512,Slipara,16,PC w/o Sleep
+2500,*,44,Iridzu,False,1,Action,512,Slipara,-1,None
 2600,*,44,Iridzu,False,1,Action,87,Call Allies,-1,None
 2700,*,44,Iridzu,False,1,Action,107,Call Allies,-1,None
 2800,*,44,Iridzu,False,1,Action,552,Run,-1,None
@@ -957,32 +970,37 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 2000,*,63,Ghrost,False,1,Action,519,Eternum,2,Random PC
 2100,*,63,Ghrost,False,1,Action,511,Noxus,-1,None
 2200,*,63,Ghrost,False,1,Action,100,Magic?,-1,None
-100,*,64,Graver,Undefined,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
-200,*,64,Graver,Undefined,0,Branch,30,Always,400,Go to 400
-300,*,64,Graver,Undefined,0,Branch,28,Rating 80%,2300,Go to 2300
-400,*,64,Graver,Undefined,0,Branch,44,1st PC ΔLevel > 3,600,Go to 600
-500,*,64,Graver,Undefined,0,Branch,30,Always,700,Go to 700
-600,*,64,Graver,Undefined,0,Branch,22,Rating 20%,2300,Go to 2300
-700,*,64,Graver,Undefined,0,Branch,17,ECs Alive = 1,900,Go to 900
-800,*,64,Graver,Undefined,0,Branch,30,Always,1100,Go to 1100
-900,*,64,Graver,Undefined,0,Branch,35,Used State Spells ≥ 1,1100,Go to 1100
-1000,*,64,Graver,Undefined,0,Branch,25,Rating 50%,2500,Go to 2500
-1100,*,64,Graver,Undefined,0,Branch,0,HP = 100%,1400,Go to 1400
-1200,*,64,Graver,Undefined,0,Branch,46,Used HP Absorbs ≥ 1,1400,Go to 1400
-1300,*,64,Graver,Undefined,0,Branch,25,Rating 50%,2400,Go to 2400
-1400,*,64,Graver,Undefined,0,Branch,25,Rating 50%,2100,Go to 2100
-1500,*,64,Graver,Undefined,0,Branch,24,Rating 40%,2200,Go to 2200
-1600,*,64,Graver,Undefined,0,Branch,65,PCs Alive = 4,1800,Go to 1800
-1700,*,64,Graver,Undefined,0,Branch,30,Always,2600,Go to 2600
-1800,*,64,Graver,Undefined,0,Branch,35,Used State Spells ≥ 1,2600,Go to 2600
-1900,*,64,Graver,Undefined,0,Branch,24,Rating 40%,2500,Go to 2500
-2000,*,64,Graver,Undefined,0,Branch,24,Rating 40%,2600,Go to 2600
-2100,*,64,Graver,Undefined,1,Action,550,Attack,2,Random PC
-2200,*,64,Graver,Undefined,1,Action,551,Guard,-1,None
-2300,*,64,Graver,Undefined,1,Action,552,Run,-1,None
-2400,*,64,Graver,Undefined,1,Action,210,HP Absorb,3,PC w/ Most HP
-2500,*,64,Graver,Undefined,1,Action,510,Noxi,19,PC w/o Poison
-2600,*,64,Graver,Undefined,1,Action,100,Magic?,-1,None
+0,*,64,Graver,True,0,Branch,37,Turn ≥ 5,20,Go to 20
+10,*,64,Graver,True,0,Branch,30,Always,100,Go to 100
+20,*,64,Graver,True,0,Branch,23,Rating 30%,2300,Go to 2300
+100,*,64,Graver,True,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
+200,*,64,Graver,True,0,Branch,30,Always,400,Go to 400
+300,*,64,Graver,True,0,Branch,28,Rating 80%,2300,Go to 2300
+400,*,64,Graver,True,0,Branch,44,1st PC ΔLevel > 3,600,Go to 600
+500,*,64,Graver,True,0,Branch,30,Always,700,Go to 700
+600,*,64,Graver,True,0,Branch,22,Rating 20%,2300,Go to 2300
+700,*,64,Graver,True,0,Branch,17,ECs Alive = 1,900,Go to 900
+800,*,64,Graver,True,0,Branch,30,Always,1100,Go to 1100
+900,*,64,Graver,True,0,Branch,16,Has Silence?,1100,Go to 1100
+950,*,64,Graver,True,0,Branch,36,Used State Spells ≥ 2,1100,Go to 1100
+1000,*,64,Graver,True,0,Branch,24,Rating 40%,2500,Go to 2500
+1100,*,64,Graver,True,0,Branch,0,HP = 100%,1400,Go to 1400
+1200,*,64,Graver,True,0,Branch,46,Used HP Absorbs ≥ 1,1400,Go to 1400
+1300,*,64,Graver,True,0,Branch,25,Rating 50%,2400,Go to 2400
+1400,*,64,Graver,True,0,Branch,25,Rating 50%,2100,Go to 2100
+1500,*,64,Graver,True,0,Branch,24,Rating 40%,2200,Go to 2200
+1600,*,64,Graver,True,0,Branch,65,PCs Alive = 4,1800,Go to 1800
+1700,*,64,Graver,True,0,Branch,30,Always,2600,Go to 2600
+1800,*,64,Graver,True,0,Branch,16,Has Silence?,2600,Go to 2600
+1850,*,64,Graver,True,0,Branch,36,Used State Spells ≥ 2,2600,Go to 2600
+1900,*,64,Graver,True,0,Branch,24,Rating 40%,2500,Go to 2500
+2000,*,64,Graver,True,0,Branch,24,Rating 40%,2600,Go to 2600
+2100,*,64,Graver,True,1,Action,550,Attack,2,Random PC
+2200,*,64,Graver,True,1,Action,551,Guard,-1,None
+2300,*,64,Graver,True,1,Action,552,Run,-1,None
+2400,*,64,Graver,True,1,Action,210,HP Absorb,3,PC w/ Most HP
+2500,*,64,Graver,True,1,Action,510,Noxi,2,Random PC
+2600,*,64,Graver,True,1,Action,100,Magic?,-1,None
 100,*,65,Shrilp,False,0,Branch,36,Used State Spells ≥ 2,700,Go to 700
 200,*,65,Shrilp,False,0,Branch,11,Turn 1,500,Go to 500
 300,*,65,Shrilp,False,0,Branch,12,Turn 2,500,Go to 500
@@ -1058,8 +1076,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 2010,*,72,Patrol Guard,True,0,Branch,38,Any EC HP < 50%,2030,Go to 2030
 2020,*,72,Patrol Guard,True,0,Branch,30,Always,2100,Go to 2100
 2030,*,72,Patrol Guard,True,0,Branch,26,Rating 60%,10040,Sacri Crystal
-2100,*,72,Patrol Guard,True,0,Branch,33,Used Attack Spells ≥ 1,2200,Go to 2200
-2110,*,72,Patrol Guard,True,0,Branch,24,Rating 40%,10030,Electri
+2100,*,72,Patrol Guard,True,0,Branch,16,Has Silence?,2200,Go to 2200
+2110,*,72,Patrol Guard,True,0,Branch,33,Used Attack Spells ≥ 1,2200,Go to 2200
+2120,*,72,Patrol Guard,True,0,Branch,24,Rating 40%,10030,Electri
 2200,*,72,Patrol Guard,True,0,Branch,22,Rating 20%,10010,Guard
 10000,*,72,Patrol Guard,True,1,Action,550,Attack,2,Random PC
 10010,*,72,Patrol Guard,True,1,Action,551,Guard,-1,None
@@ -1344,8 +1363,13 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1500,*,92,Langry,Undefined,1,Action,98,Call Allies,-1,None
 1600,*,92,Langry,Undefined,1,Action,552,Run,-1,None
 1700,*,92,Langry,Undefined,1,Action,551,Guard,-1,None
+0,*,93,Durel Beetle,True,0,Branch,65,PCs Alive = 4,100,Go to 100
+10,*,93,Durel Beetle,True,0,Branch,37,Turn ≥ 5,30,Go to 30
+20,*,93,Durel Beetle,True,0,Branch,30,Always,100,Go to 100
+30,*,93,Durel Beetle,True,0,Branch,26,Rating 60%,2300,Go to 2300
 100,*,93,Durel Beetle,True,0,Branch,17,ECs Alive = 1,1500,Go to 1500
-200,*,93,Durel Beetle,True,0,Branch,36,Used State Spells ≥ 2,1000,Go to 1000
+200,*,93,Durel Beetle,True,0,Branch,16,Has Silence?,1000,Go to 1000
+250,*,93,Durel Beetle,True,0,Branch,35,Used State Spells ≥ 1,1000,Go to 1000
 300,*,93,Durel Beetle,True,0,Branch,22,Rating 20%,1900,Go to 1900
 400,*,93,Durel Beetle,True,0,Branch,23,Rating 30%,2000,Go to 2000
 500,*,93,Durel Beetle,True,0,Branch,24,Rating 40%,1800,Go to 1800
@@ -1363,7 +1387,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1700,*,93,Durel Beetle,True,0,Branch,30,Always,2300,Go to 2300
 1800,*,93,Durel Beetle,True,1,Action,550,Attack,2,Random PC
 1900,*,93,Durel Beetle,True,1,Action,504,Driln,17,PC w/o Weak
-2000,*,93,Durel Beetle,True,1,Action,512,Slipara,16,PC w/o Sleep
+2000,*,93,Durel Beetle,True,1,Action,512,Slipara,-1,None
 2100,*,93,Durel Beetle,True,1,Action,78,Call Allies,-1,None
 2200,*,93,Durel Beetle,True,1,Action,111,Call Allies,-1,None
 2300,*,93,Durel Beetle,True,1,Action,552,Run,-1,None
