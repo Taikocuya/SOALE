@@ -970,9 +970,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 2000,*,63,Ghrost,False,1,Action,519,Eternum,2,Random PC
 2100,*,63,Ghrost,False,1,Action,511,Noxus,-1,None
 2200,*,63,Ghrost,False,1,Action,100,Magic?,-1,None
-0,*,64,Graver,True,0,Branch,37,Turn ≥ 5,20,Go to 20
-10,*,64,Graver,True,0,Branch,30,Always,100,Go to 100
-20,*,64,Graver,True,0,Branch,23,Rating 30%,2300,Go to 2300
+0,*,64,Graver,True,0,Branch,11,Turn 1,100,Go to 100
+10,*,64,Graver,True,0,Branch,23,Rating 30%,2300,Go to 2300
 100,*,64,Graver,True,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,64,Graver,True,0,Branch,30,Always,400,Go to 400
 300,*,64,Graver,True,0,Branch,28,Rating 80%,2300,Go to 2300
