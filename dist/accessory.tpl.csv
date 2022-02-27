@@ -12,9 +12,9 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 170,Marocca's Shell,True,0b00110101,X,X,,X,,X,50,100,17,Defense,6,-1,None,0,-1,None,0,-1,None,0
 171,Burocca's Shell,False,0b00110101,X,X,,X,,X,50,1920,17,Defense,36,-1,None,0,-1,None,0,-1,None,0
 172,Crylhound's Claw,True,0b00110101,X,X,,X,,X,50,420,19,Hit%,20,16,Attack,12,-1,None,0,-1,None,0
-173,Hunter's Hand,Undefined,0b00110101,X,X,,X,,X,50,1010,19,Hit%,40,16,Attack,4,-1,None,0,-1,None,0
+173,Hunter's Hand,True,0b00110101,X,X,,X,,X,50,1010,19,Hit%,40,16,Attack,4,-1,None,0,-1,None,0
 174,Thief's Aura,True,0b00111101,X,X,X,X,,X,50,230,20,Dodge%,10,17,Defense,5,-1,None,0,-1,None,0
-175,Quetya Feather,Undefined,0b00111101,X,X,X,X,,X,50,810,20,Dodge%,20,17,Defense,4,-1,None,0,-1,None,0
+175,Quetya Feather,True,0b00111101,X,X,X,X,,X,50,810,20,Dodge%,20,17,Defense,4,-1,None,0,-1,None,0
 176,Vigoro's Chain,False,0b00100101,X,,,X,,X,50,2890,16,Attack,20,19,Hit%,30,-1,None,0,-1,None,0
 177,Sailor's Buckler,False,0b00110111,X,X,,X,X,X,50,1930,17,Defense,20,20,Dodge%,15,-1,None,0,-1,None,0
 178,Warrior's Rune,True,0b00111001,X,X,X,,,X,50,600,16,Attack,10,17,Defense,10,19,Hit%,10,20,Dodge%,5
@@ -24,7 +24,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 182,Ivy Band,True,0b00111111,X,X,X,X,X,X,50,520,48,Poison,-5,32,Green,-2,17,Defense,12,18,MagDef,12
 183,Silvite Ring,True,0b00111111,X,X,X,X,X,X,50,760,49,Unconscious,-5,37,Silver,-2,17,Defense,18,18,MagDef,18
 184,Gem of Fluidity,True,0b00111111,X,X,X,X,X,X,50,350,50,Stone,-5,17,Defense,10,18,MagDef,10,-1,None,0
-185,Wind Gem Ring,Undefined,0b00111111,X,X,X,X,X,X,50,100,51,Sleep,-5,35,Blue,-2,17,Defense,10,18,MagDef,10
+185,Wind Gem Ring,True,0b00111111,X,X,X,X,X,X,50,710,51,Sleep,-5,35,Blue,-2,17,Defense,18,18,MagDef,18
 186,Eye of Truth,Undefined,0b00111111,X,X,X,X,X,X,50,100,52,Confusion,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
 187,Revered Voice,True,0b00111111,X,X,X,X,X,X,50,480,53,Silence,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
 188,Everlasting Gem,True,0b00111111,X,X,X,X,X,X,50,680,54,Fatigue,-5,17,Defense,22,18,MagDef,22,-1,None,0
@@ -62,20 +62,20 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 220,Thermo Ring,True,0b00111111,X,X,X,X,X,X,50,700,33,Red,-1,34,Purple,-1,1,Will,15,18,MagDef,15
 221,Slayer Ring,True,0b00111111,X,X,X,X,X,X,50,600,1,Will,8,17,Defense,8,19,Hit%,10,4,Quick,8
 222,Chance Ring,False,0b00111111,X,X,X,X,X,X,50,1000,79,Block Neg States,90,17,Defense,45,18,MagDef,45,-1,None,0
-223,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-224,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-225,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-226,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-227,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-228,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-229,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-230,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-231,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-232,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-233,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-234,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-235,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-236,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-237,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-238,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-239,ダミーアクセサリ,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+223,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+224,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+225,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+226,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+227,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+228,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+229,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+230,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+231,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+232,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+233,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+234,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+235,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+236,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+237,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+238,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+239,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0

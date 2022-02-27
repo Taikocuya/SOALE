@@ -17,7 +17,7 @@ Entry ID,Entry US Name,PC Flags,[V],[A],[F],[D],[E],[G],Sell%,US Order 1,US Orde
 95,Agile Robe,0b00001010,"","",X,"",X,"",50,14,0,0,930,17,Defense,0,65,18,MagDef,0,65,19,Hit%,0,10,20,Dodge%,0,5,0x2c9b70,56,A lightweight robe that increases the wearer's\nAgile.
 96,Miner's Overalls,0b00100111,X,"","",X,X,X,25,18,35,0,910,17,Defense,0,87,18,MagDef,0,80,-1,None,0,0,-1,None,0,0,0x2c9ba8,88,"Thick overalls, worn by miners. It is very\ndifficult to find a pair that isn't dirty."
 97,Fiber Robe,0b00011010,"",X,X,"",X,"",50,19,18,0,1040,17,Defense,0,77,18,MagDef,0,90,-1,None,0,0,-1,None,0,0,0x2c9c00,76,Ceremonial Robe woven from plants.\nProtects the user from magic attacks.
-98,Golden Armor,0b00100101,X,"","",X,"",X,100,20,25,0,2480,17,Defense,0,90,18,MagDef,0,77,-1,None,0,0,-1,None,0,0,0x2c9c4c,52,Extremely heavy armor forged from Ixa'takan\ngold.
+98,Golden Armor,0b00100101,X,"","",X,"",X,75,20,25,0,2480,17,Defense,0,90,18,MagDef,0,77,-1,None,0,0,-1,None,0,0,0x2c9c4c,52,Extremely heavy armor forged from Ixa'takan\ngold.
 99,Ixa'takan Armor,0b00111111,X,X,X,X,X,X,50,31,29,0,2790,17,Defense,0,109,18,MagDef,0,109,32,Green,0,-2,-1,None,0,0,0x2c9c80,84,"A cloth tunic worn in the jungle, designed to\nprotect the wearer from Green Magic."
 100,Naval Uniform,0b00110101,X,X,"",X,"",X,50,32,44,0,2470,17,Defense,0,112,18,MagDef,0,112,-1,None,0,0,-1,None,0,0,0x2c9cd4,64,"A fairly light type of armor, designed for\nstealth missions."
 101,Nasr Uniform,0b00100111,X,"","",X,X,X,50,24,42,0,2070,17,Defense,0,104,18,MagDef,0,96,-1,None,0,0,-1,None,0,0,0x2c9d14,92,"A uniform designed for the Nasr Sailors. It's\nin good condition, but has no rank markings."

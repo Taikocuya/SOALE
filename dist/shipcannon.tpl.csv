@@ -2,8 +2,8 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Typ
 400,Main Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,35,80,0,4,-1,None,0,450,50
 401,Standard Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,40,83,0,3,-1,None,0,730,50
 402,Heavy Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,50,85,0,3,-1,None,0,1900,50
-403,G-Type Cannon,Undefined,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,3000,70
-404,B-Type Cannon,Undefined,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,75,90,0,3,-1,None,0,4000,50
+403,G-Type Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,3000,50
+404,B-Type Cannon,True,0b00110000,X,X,,,,0,Main Cannon,6,Neutral,75,90,0,3,-1,None,0,4000,50
 405,Prototype Cannon,True,0b00001110,,,X,X,X,0,Main Cannon,6,Neutral,100,85,0,6,-1,None,0,5000,50
 406,Advanced Cannon,False,0b00001110,,,X,X,X,0,Main Cannon,6,Neutral,150,90,0,7,-1,None,0,5500,50
 407,Yamato Spirit,False,0b00001110,,,X,X,X,0,Main Cannon,6,Neutral,250,90,0,8,-1,None,0,6700,70
@@ -11,7 +11,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Typ
 409,X Cannon,False,0b00001110,,,X,X,X,0,Main Cannon,6,Neutral,400,97,0,10,-1,None,0,11000,50
 410,"3""Cannon",True,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,70,80,1,1,-1,None,0,520,50
 411,"3""Blaster",True,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,80,83,1,2,-1,None,0,1015,50
-412,"5""Cannon",Undefined,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,90,80,1,2,-1,None,0,1330,50
+412,"5""Cannon",True,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,90,80,1,2,-1,None,0,1330,50
 413,"8""Cannon",Undefined,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,100,82,2,2,-1,None,0,2100,50
 414,"12""Cannon",False,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,170,77,2,4,-1,None,0,3500,50
 415,"10""Cannon",False,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,200,82,3,4,-1,None,0,3640,50
@@ -21,7 +21,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Typ
 419,5'Cannon,False,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,330,90,2,6,-1,None,0,5110,50
 420,Light Torpedo,True,0b00110000,X,X,,,,2,Torpedo,6,Neutral,120,60,2,2,-1,None,0,1520,50
 421,Guided Torpedo,Undefined,0b00110000,X,X,,,,2,Torpedo,6,Neutral,160,70,2,2,-1,None,0,1760,50
-422,Shock Torpedo,Undefined,0b00110000,X,X,,,,2,Torpedo,6,Neutral,140,55,2,2,-1,None,0,2000,50
+422,Shock Torpedo,True,0b00110000,X,X,,,,2,Torpedo,6,Neutral,140,55,2,2,-1,None,0,2000,50
 423,Hunter Torpedo,Undefined,0b00110000,X,X,,,,2,Torpedo,0,Green,160,60,3,2,-1,None,0,2240,50
 424,Valuan Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,220,60,2,3,-1,None,0,2400,50
 425,Heavy Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,250,50,3,4,-1,None,0,4400,50
@@ -38,4 +38,4 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Typ
 436,Wevl Cannon,False,0b00001110,,,X,X,X,1,Sec Cannon,3,Blue,180,120,3,4,-1,None,0,10200,50
 437,Electril Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,4,Yellow,500,50,3,6,-1,None,0,1000,50
 438,Crystil Cannon,False,0b00001110,,,X,X,X,0,Main Cannon,2,Purple,550,60,0,9,-1,None,0,1000,50
-439,Kazai Gun,Undefined,0b00110000,X,X,,,,1,Sec Cannon,3,Blue,60,81,1,1,-1,None,0,500,50
+439,Kazai Gun,True,0b00110000,X,X,,,,1,Sec Cannon,3,Blue,60,81,1,1,-1,None,0,500,50

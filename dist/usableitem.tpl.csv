@@ -30,12 +30,12 @@ Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect N
 268,Pyrum Box,False,0b0010,,X,,0,Damage,4,All ECs,32,10,2400,360,1,Red,1,Magical,-1,None,0
 269,Crystales Box,False,0b0010,,X,,0,Damage,3,Single EC,32,10,1600,330,2,Purple,1,Magical,-1,None,0
 270,Crystalen Box,False,0b0010,,X,,0,Damage,3,Single EC,32,10,3600,600,2,Purple,1,Magical,-1,None,0
-271,Wevles Box,False,0b0010,,X,,0,Damage,33,EC Square S5,32,10,1000,170,3,Blue,1,Magical,-1,None,0
+271,Wevles Box,Assigned,0b0010,,X,,0,Damage,33,EC Square S5,32,10,1000,170,3,Blue,1,Magical,-1,None,0
 272,Wevlen Box,False,0b0010,,X,,0,Damage,34,EC Square S7,32,10,3600,525,3,Blue,1,Magical,-1,None,0
 273,Electri Box,True,0b0010,,X,,0,Damage,36,EC Ray S1,16,10,500,90,4,Yellow,1,Magical,-1,None,0
 274,Electrum Box,False,0b0010,,X,,0,Damage,37,EC Ray S3,32,10,2400,420,4,Yellow,1,Magical,-1,None,0
 275,Sacri Box,True,0b0010,,X,,31,Recover HP,1,Single PC,20,10,700,500,0,Green,1,Magical,-1,None,0
-276,Sacrum Box,False,0b0010,,X,,31,Recover HP,2,All PCs,32,10,4000,1000,0,Green,1,Magical,-1,None,0
+276,Sacrum Box,False,0b0010,,X,,31,Recover HP,2,All PCs,32,10,4000,500,0,Green,1,Magical,-1,None,0
 277,Riselem Box,False,0b0010,,X,,28,Revive w/ HP of 100%,1,Single PC,48,10,4200,0,5,Silver,1,Magical,7,Revival,0
 278,Sylenis Box,True,0b0010,,X,,12,Silence,3,Single EC,32,10,300,0,2,Purple,1,Magical,5,Silence,30
 279,Panika Box,True,0b0010,,X,,11,Confusion,3,Single EC,32,10,300,0,2,Purple,1,Magical,4,Confusion,30
@@ -61,21 +61,21 @@ Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect N
 299,Magillex Idol,False,0b0000,,,,-1,None,0,None,0,100,25000,0,-1,None,-1,None,-1,None,0
 300,Pharax Idol,False,0b0000,,,,-1,None,0,None,0,100,25000,0,-1,None,-1,None,-1,None,0
 301,Euconyx Idol,False,0b0000,,,,-1,None,0,None,0,100,25000,0,-1,None,-1,None,-1,None,0
-302,ダミー,Undefined,0b0000,,,,-1,None,0,None,0,0,0,0,0,Green,0,Physical,0,Poison,0
-303,ダミー,Undefined,0b0000,,,,-1,None,0,None,0,0,0,0,0,Green,0,Physical,0,Poison,0
-304,ダミー,Undefined,0b0000,,,,-1,None,0,None,0,0,0,0,0,Green,0,Physical,0,Poison,0
-305,Drajik Fish,Undefined,0b0000,,,,-1,None,0,None,100,100,3000,0,-1,None,-1,None,-1,None,0
-306,Kite Ray,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,20,20,-1,None,-1,None,-1,None,0
-307,Stealth Ray,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,200,200,-1,None,-1,None,-1,None,0
-308,Spear Squid,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,30,30,-1,None,-1,None,-1,None,0
-309,Drill Squid,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,300,300,-1,None,-1,None,-1,None,0
-310,Grule,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,40,40,-1,None,-1,None,-1,None,0
-311,Rainbow Grule,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,400,400,-1,None,-1,None,-1,None,0
-312,Sky Jellyfish,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,150,50,-1,None,-1,None,-1,None,0
-313,Silverfish,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,1500,500,-1,None,-1,None,-1,None,0
-314,Romuhai Fish,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,150,50,-1,None,-1,None,-1,None,0
-315,Hamahai Fish,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,1500,500,-1,None,-1,None,-1,None,0
-316,Nerath Eel,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,150,50,-1,None,-1,None,-1,None,0
-317,Great Nerath Eel,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,1500,500,-1,None,-1,None,-1,None,0
-318,Red Dragon,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,200,100,-1,None,-1,None,-1,None,0
-319,Gold Dragon,Undefined,0b0100,X,,,31,Recover HP,1,Single PC,100,100,2000,1000,-1,None,-1,None,-1,None,0
+302,ダミー,True,0b0000,,,,-1,None,0,None,0,0,0,0,0,Green,0,Physical,0,Poison,0
+303,ダミー,True,0b0000,,,,-1,None,0,None,0,0,0,0,0,Green,0,Physical,0,Poison,0
+304,ダミー,True,0b0000,,,,-1,None,0,None,0,0,0,0,0,Green,0,Physical,0,Poison,0
+305,Drajik Fish,True,0b0000,,,,-1,None,0,None,100,100,3000,0,-1,None,-1,None,-1,None,0
+306,Kite Ray,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,20,20,-1,None,-1,None,-1,None,0
+307,Stealth Ray,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,200,200,-1,None,-1,None,-1,None,0
+308,Spear Squid,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,30,30,-1,None,-1,None,-1,None,0
+309,Drill Squid,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,300,300,-1,None,-1,None,-1,None,0
+310,Grule,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,40,40,-1,None,-1,None,-1,None,0
+311,Rainbow Grule,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,400,400,-1,None,-1,None,-1,None,0
+312,Sky Jellyfish,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,150,50,-1,None,-1,None,-1,None,0
+313,Silverfish,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,1500,500,-1,None,-1,None,-1,None,0
+314,Romuhai Fish,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,150,50,-1,None,-1,None,-1,None,0
+315,Hamahai Fish,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,1500,500,-1,None,-1,None,-1,None,0
+316,Nerath Eel,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,150,50,-1,None,-1,None,-1,None,0
+317,Great Nerath Eel,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,1500,500,-1,None,-1,None,-1,None,0
+318,Red Dragon,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,200,100,-1,None,-1,None,-1,None,0
+319,Gold Dragon,True,0b0100,X,,,31,Recover HP,1,Single PC,100,100,2000,1000,-1,None,-1,None,-1,None,0

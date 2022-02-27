@@ -1039,18 +1039,18 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 21,r555a.tec,1,バルアЖ駆逐艦,5,1,3,Rating,50,%,1,Magic,0,24,バーニィ,0,0,Attack,0,-1,None,0
 22,r555a.tec,1,バルアЖ駆逐艦,5,2,3,Rating,30,%,3,Guard,-1,-1,None,0,2,Focus,-1,0,Focus,0
 23,r555a.tec,1,バルアЖ駆逐艦,5,3,-1,None,0,None,1,Magic,0,24,バーニィ,0,1,Magic,0,24,バーニィ,0
-0,r556a.tec,3,バルアЖ巡洋艦,0,0,0,PS HP ≤,50,%,4,Nothing,-1,-1,None,0,1,Magic,-1,23,バーナ,0
-1,r556a.tec,3,バルアЖ巡洋艦,0,1,0,PS HP ≤,20,%,4,Nothing,-1,-1,None,0,1,Magic,-1,23,バーナ,0
+0,r556a.tec,3,バルアЖ巡洋艦,0,0,0,PS HP ≤,50,%,4,Nothing,-1,-1,None,0,1,Magic,-1,24,バーニィ,0
+1,r556a.tec,3,バルアЖ巡洋艦,0,1,0,PS HP ≤,20,%,4,Nothing,-1,-1,None,0,1,Magic,-1,24,バーニィ,0
 2,r556a.tec,3,バルアЖ巡洋艦,0,2,3,Rating,30,%,3,Guard,-1,0,Evasive Action,0,2,Focus,-1,0,Focus,0
 3,r556a.tec,3,バルアЖ巡洋艦,0,3,3,Rating,10,%,3,Guard,-1,0,Evasive Action,0,0,Attack,1,-1,None,0
-4,r556a.tec,3,バルアЖ巡洋艦,1,0,0,PS HP ≤,20,%,4,Nothing,-1,-1,None,0,1,Magic,-1,23,バーナ,0
+4,r556a.tec,3,バルアЖ巡洋艦,1,0,0,PS HP ≤,20,%,4,Nothing,-1,-1,None,0,1,Magic,-1,24,バーニィ,0
 5,r556a.tec,3,バルアЖ巡洋艦,1,1,1,ES HP ≤,40,%,1,Magic,-1,6,サプラ,0,0,Attack,0,-1,None,0
 6,r556a.tec,3,バルアЖ巡洋艦,1,2,3,Rating,30,%,3,Guard,-1,0,Evasive Action,0,4,Nothing,-1,-1,None,0
-7,r556a.tec,3,バルアЖ巡洋艦,1,3,3,Rating,30,%,3,Guard,-1,0,Evasive Action,0,1,Magic,-1,23,バーナ,0
+7,r556a.tec,3,バルアЖ巡洋艦,1,3,3,Rating,30,%,3,Guard,-1,0,Evasive Action,0,1,Magic,-1,24,バーニィ,0
 8,r556a.tec,3,バルアЖ巡洋艦,2,0,1,ES HP ≤,20,%,1,Magic,-1,6,サプラ,0,0,Attack,1,-1,None,3
-9,r556a.tec,3,バルアЖ巡洋艦,2,1,1,ES HP ≤,10,%,1,Magic,-1,6,サプラ,0,1,Magic,-1,23,バーナ,0
+9,r556a.tec,3,バルアЖ巡洋艦,2,1,1,ES HP ≤,10,%,1,Magic,-1,6,サプラ,0,1,Magic,-1,24,バーニィ,0
 10,r556a.tec,3,バルアЖ巡洋艦,2,2,3,Rating,50,%,2,Focus,-1,0,Focus,0,3,Guard,-1,0,Evasive Action,0
-11,r556a.tec,3,バルアЖ巡洋艦,2,3,1,ES HP ≤,10,%,1,Magic,-1,6,サプラ,0,1,Magic,-1,23,バーナ,0
+11,r556a.tec,3,バルアЖ巡洋艦,2,3,1,ES HP ≤,10,%,1,Magic,-1,6,サプラ,0,1,Magic,-1,24,バーニィ,0
 12,r556a.tec,3,バルアЖ巡洋艦,3,0,3,Rating,50,%,0,Attack,1,-1,None,2,2,Focus,-1,0,Focus,0
 13,r556a.tec,3,バルアЖ巡洋艦,3,1,1,ES HP ≤,30,%,3,Guard,-1,0,Evasive Action,0,4,Nothing,-1,-1,None,0
 14,r556a.tec,3,バルアЖ巡洋艦,3,2,3,Rating,30,%,1,Magic,-1,6,サプラ,0,2,Focus,-1,0,Focus,0

@@ -15,9 +15,9 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 93,Nasrean Mail,True,0b00111111,X,X,X,X,X,X,50,920,17,Defense,66,18,MagDef,66,33,Red,-2,-1,None,0
 94,Ceramic Armor,True,0b00100101,X,,,X,,X,50,1040,17,Defense,73,18,MagDef,62,-1,None,0,-1,None,0
 95,Agile Robe,True,0b00001010,,,X,,X,,50,930,17,Defense,65,18,MagDef,65,19,Hit%,10,20,Dodge%,5
-96,Miner's Overalls,Undefined,0b00100111,X,,,X,X,X,25,910,17,Defense,87,18,MagDef,80,-1,None,0,-1,None,0
-97,Fiber Robe,Undefined,0b00011010,,X,X,,X,,50,1040,17,Defense,77,18,MagDef,90,-1,None,0,-1,None,0
-98,Golden Armor,Undefined,0b00100101,X,,,X,,X,100,2480,17,Defense,90,18,MagDef,77,-1,None,0,-1,None,0
+96,Miner's Overalls,True,0b00100111,X,,,X,X,X,25,910,17,Defense,87,18,MagDef,80,-1,None,0,-1,None,0
+97,Fiber Robe,True,0b00011010,,X,X,,X,,50,1040,17,Defense,77,18,MagDef,90,-1,None,0,-1,None,0
+98,Golden Armor,True,0b00100101,X,,,X,,X,75,2480,17,Defense,90,18,MagDef,77,-1,None,0,-1,None,0
 99,Ixa'takan Armor,False,0b00111111,X,X,X,X,X,X,50,2790,17,Defense,109,18,MagDef,109,32,Green,-2,-1,None,0
 100,Naval Uniform,False,0b00110101,X,X,,X,,X,50,2470,17,Defense,112,18,MagDef,112,-1,None,0,-1,None,0
 101,Nasr Uniform,False,0b00100111,X,,,X,X,X,50,2070,17,Defense,104,18,MagDef,96,-1,None,0,-1,None,0
@@ -51,31 +51,31 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 129,Moss Armor,False,0b00001010,,,X,,X,,100,1280,17,Defense,126,18,MagDef,126,19,Hit%,20,20,Dodge%,10
 130,Moonlight Robe,False,0b00011000,,X,X,,,,100,4460,17,Defense,134,18,MagDef,145,20,Dodge%,20,-1,None,0
 131,Silver Armor,False,0b00111111,X,X,X,X,X,X,100,8580,17,Defense,160,18,MagDef,160,37,Silver,-2,-1,None,0
-132,Victory Mail,Undefined,0b00111111,X,X,X,X,X,X,100,620,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5
+132,Victory Mail,True,0b00111111,X,X,X,X,X,X,100,620,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5
 133,Flame Mantle,True,0b00100111,X,,,X,X,X,100,390,17,Defense,74,18,MagDef,69,-1,None,0,-1,None,0
 134,Female Armor,Undefined,0b00011000,,X,X,,,,100,660,17,Defense,92,18,MagDef,99,-1,None,0,-1,None,0
 135,Ghost Mail,False,0b00110101,X,X,,X,,X,100,1310,17,Defense,128,18,MagDef,128,-1,None,0,-1,None,0
 136,Light Coat,Undefined,0b00001010,,,X,,X,,100,830,17,Defense,103,18,MagDef,103,19,Hit%,10,20,Dodge%,5
 137,Fiber Mail,False,0b00100101,X,,,X,,X,100,2180,17,Defense,164,18,MagDef,139,-1,None,0,-1,None,0
 138,Moon Robe,False,0b00011010,,X,X,,X,,100,1300,17,Defense,125,18,MagDef,146,-1,None,0,-1,None,0
-139,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-140,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-141,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-142,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-143,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-144,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-145,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-146,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-147,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-148,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-149,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-150,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-151,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-152,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-153,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-154,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-155,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-156,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-157,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-158,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
-159,ダミー防具,Undefined,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+139,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+140,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+141,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+142,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+143,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+144,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+145,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+146,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+147,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+148,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+149,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+150,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+151,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+152,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+153,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+154,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+155,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+156,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+157,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+158,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
+159,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0

@@ -8,7 +8,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 6,Iron-cutter,False,0,Vyse,50,-1,None,3870,112,90,-1,None,0,0
 7,Nasr Cutlass,True,0,Vyse,50,-1,None,1340,70,90,-1,None,0,0
 8,Sword of Daccat,False,0,Vyse,50,1,Sleep by 50%,4690,120,90,-1,None,0,0
-9,Hunter's Sword,Undefined,0,Vyse,50,-1,None,2280,87,90,-1,None,0,0
+9,Hunter's Sword,True,0,Vyse,50,-1,None,2280,87,90,-1,None,0,0
 10,Stonecutter,Undefined,0,Vyse,50,-1,None,3120,99,90,-1,None,0,0
 11,Dream Cutlass,False,0,Vyse,50,-1,None,6690,137,90,35,Blue,0,-2
 12,Windslicer,False,0,Vyse,50,-1,None,8760,153,90,-1,None,0,0
@@ -21,7 +21,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 19,Ice Splitter,False,1,Aika,50,-1,None,7390,142,110,34,Purple,0,-2
 20,Leather Crescent,True,1,Aika,50,-1,None,140,30,110,-1,None,0,0
 21,Throwing Blade,True,1,Aika,50,-1,None,310,38,110,-1,None,0,0
-22,Hunting Arc,Undefined,1,Aika,50,-1,None,1820,80,110,-1,None,0,0
+22,Hunting Arc,True,1,Aika,50,-1,None,1820,80,110,-1,None,0,0
 23,Valuarang,True,1,Aika,50,-1,None,480,46,110,-1,None,0,0
 24,Yin Wing,False,1,Aika,50,17,Sleep by 5%,5930,130,110,-1,None,0,0
 25,Dancing Arc,True,1,Aika,50,-1,None,1100,65,110,-1,None,0,0
@@ -73,9 +73,9 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 71,Tuna Cutlass,False,0,Vyse,100,-1,None,22222,150,0,-1,None,0,0
 72,Swirlmerang,False,1,Aika,100,11,Confusion by 100%,11111,100,0,-1,None,0,0
 73,Sky Fang,False,0,Vyse,50,-1,None,50000,220,95,-1,None,0,0
-74,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
-75,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
-76,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
-77,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
-78,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
-79,ダミー武器,Undefined,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+74,ダミー武器,True,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+75,ダミー武器,True,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+76,ダミー武器,True,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+77,ダミー武器,True,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+78,ダミー武器,True,0,Vyse,0,-1,None,0,0,0,-1,None,0,0
+79,ダミー武器,True,0,Vyse,0,-1,None,0,0,0,-1,None,0,0

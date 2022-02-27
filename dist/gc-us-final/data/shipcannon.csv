@@ -2,7 +2,7 @@ Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Ele
 400,Main Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,35,80,0,4,-1,None,0,0,450,50,0,26,0,0x2ce220,88,"The Little Jack's main cannon. It's rather old,\nbut Drachma has kept it in great shape."
 401,Standard Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,40,83,0,3,-1,None,0,0,730,50,1,35,0,0x2ce278,84,"The main cannon used on Valuan Warships,\nsometimes available on the Black Market."
 402,Heavy Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,50,85,0,3,-1,None,0,0,1900,50,2,21,0,0x2ce2cc,88,"An upgraded version of the Standard Valuan\nCannon, used on light warships in Mid Ocean."
-403,G-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,0,3000,70,3,18,0,0x2ce324,92,"Cannons used on Armada ships, when they defeated\nIxa'taka. Slightly outdated, but powerful."
+403,G-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,0,3000,50,3,18,0,0x2ce324,92,"Cannons used on Armada ships, when they defeated\nIxa'taka. Slightly outdated, but powerful."
 404,B-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,75,90,0,3,-1,None,0,0,4000,50,4,13,0,0x2ce380,96,"An upgraded version of the G-Type Cannon, with\nthe same basic design, but greater firepower."
 405,Prototype Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,100,85,0,6,-1,None,0,0,5000,50,5,31,0,0x2ce3e0,76,"A rotating cannon that can track enemy targets,\nbut doesn't do much damage."
 406,Advanced Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,150,90,0,7,-1,None,0,0,5500,50,6,10,0,0x2ce42c,92,A new rotating main cannon developed for Valuan\nDestroyers. Available on the Black Market.
