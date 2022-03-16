@@ -719,102 +719,102 @@ Entry ID,[Filter],Initiative,Magic EXP,EC1 ID,[EC1 JP Name],EC2 ID,[EC2 JP Name]
 29,a109d_ep.enp,29,1,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
 30,a109d_ep.enp,29,1,25,Salamander,25,Salamander,25,Salamander,30,Loopalon,30,Loopalon,30,Loopalon,30,Loopalon,255,None
 31,a109d_ep.enp,24,1,24,Magma Tiki,24,Magma Tiki,24,Magma Tiki,255,None,255,None,255,None,255,None,255,None
-0,a111b_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None,255,None,255,None
-1,a111b_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None
-2,a111b_ep.enp,97,2,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
-3,a111b_ep.enp,97,2,41,Elooper,41,Elooper,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
-4,a111b_ep.enp,82,2,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
-5,a111b_ep.enp,82,2,47,Lucich,47,Lucich,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
-6,a111b_ep.enp,92,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,255,None,255,None,255,None,255,None
-7,a111b_ep.enp,92,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None,255,None,255,None
-8,a111b_ep.enp,92,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None
-9,a111b_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,255,None,255,None,255,None
-10,a111b_ep.enp,87,2,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
-11,a111b_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
-12,a111b_ep.enp,87,2,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
-13,a111b_ep.enp,87,2,48,Digger,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
-14,a111b_ep.enp,77,2,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
-15,a111b_ep.enp,77,2,48,Digger,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
-16,a111b_ep.enp,82,2,33,Serpentis,33,Serpentis,255,None,255,None,255,None,255,None,255,None,255,None
-17,a111b_ep.enp,87,2,33,Serpentis,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
-18,a111b_ep.enp,87,2,33,Serpentis,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
-19,a111b_ep.enp,87,2,33,Serpentis,33,Serpentis,41,Elooper,255,None,255,None,255,None,255,None,255,None
-20,a111b_ep.enp,77,2,33,Serpentis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
-21,a111b_ep.enp,77,2,33,Serpentis,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
-22,a111b_ep.enp,77,2,33,Serpentis,33,Serpentis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
-23,a111b_ep.enp,87,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None,255,None
-24,a111b_ep.enp,87,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None
-25,a111b_ep.enp,82,2,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
-26,a111b_ep.enp,82,2,48,Digger,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
-27,a111b_ep.enp,82,2,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
-28,a111b_ep.enp,82,2,73,Mine Patrol,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
-29,a111b_ep.enp,82,2,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None,255,None
-30,a111b_ep.enp,82,2,73,Mine Patrol,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None
-31,a111b_ep.enp,82,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None
-0,a111c_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None,255,None,255,None
-1,a111c_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None
-2,a111c_ep.enp,97,2,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
-3,a111c_ep.enp,97,2,41,Elooper,41,Elooper,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
-4,a111c_ep.enp,82,2,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
-5,a111c_ep.enp,82,2,47,Lucich,47,Lucich,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
-6,a111c_ep.enp,92,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,255,None,255,None,255,None,255,None
-7,a111c_ep.enp,92,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None,255,None,255,None
-8,a111c_ep.enp,92,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None
-9,a111c_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,255,None,255,None,255,None
-10,a111c_ep.enp,87,2,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
-11,a111c_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
-12,a111c_ep.enp,87,2,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
-13,a111c_ep.enp,87,2,48,Digger,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
-14,a111c_ep.enp,77,2,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
-15,a111c_ep.enp,77,2,48,Digger,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
-16,a111c_ep.enp,82,2,33,Serpentis,33,Serpentis,255,None,255,None,255,None,255,None,255,None,255,None
-17,a111c_ep.enp,87,2,33,Serpentis,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
-18,a111c_ep.enp,87,2,33,Serpentis,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
-19,a111c_ep.enp,87,2,33,Serpentis,33,Serpentis,41,Elooper,255,None,255,None,255,None,255,None,255,None
-20,a111c_ep.enp,77,2,33,Serpentis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
-21,a111c_ep.enp,77,2,33,Serpentis,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
-22,a111c_ep.enp,77,2,33,Serpentis,33,Serpentis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
-23,a111c_ep.enp,87,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None,255,None
-24,a111c_ep.enp,87,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None
-25,a111c_ep.enp,82,2,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
-26,a111c_ep.enp,82,2,48,Digger,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
-27,a111c_ep.enp,82,2,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
-28,a111c_ep.enp,82,2,73,Mine Patrol,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
-29,a111c_ep.enp,82,2,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None,255,None
-30,a111c_ep.enp,82,2,73,Mine Patrol,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None
-31,a111c_ep.enp,82,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None
-0,a111d_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None,255,None,255,None
-1,a111d_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None
-2,a111d_ep.enp,97,2,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
-3,a111d_ep.enp,97,2,41,Elooper,41,Elooper,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
-4,a111d_ep.enp,82,2,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
-5,a111d_ep.enp,82,2,47,Lucich,47,Lucich,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
-6,a111d_ep.enp,92,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,255,None,255,None,255,None,255,None
-7,a111d_ep.enp,92,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None,255,None,255,None
-8,a111d_ep.enp,92,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None
-9,a111d_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,255,None,255,None,255,None
-10,a111d_ep.enp,87,2,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
-11,a111d_ep.enp,87,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
-12,a111d_ep.enp,87,2,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
-13,a111d_ep.enp,87,2,48,Digger,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
-14,a111d_ep.enp,77,2,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
-15,a111d_ep.enp,77,2,48,Digger,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
-16,a111d_ep.enp,82,2,33,Serpentis,33,Serpentis,255,None,255,None,255,None,255,None,255,None,255,None
-17,a111d_ep.enp,87,2,33,Serpentis,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
-18,a111d_ep.enp,87,2,33,Serpentis,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
-19,a111d_ep.enp,87,2,33,Serpentis,33,Serpentis,41,Elooper,255,None,255,None,255,None,255,None,255,None
-20,a111d_ep.enp,77,2,33,Serpentis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
-21,a111d_ep.enp,77,2,33,Serpentis,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
-22,a111d_ep.enp,77,2,33,Serpentis,33,Serpentis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
-23,a111d_ep.enp,87,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None,255,None
-24,a111d_ep.enp,87,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None
-25,a111d_ep.enp,82,2,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
-26,a111d_ep.enp,82,2,48,Digger,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
-27,a111d_ep.enp,82,2,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
-28,a111d_ep.enp,82,2,73,Mine Patrol,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
-29,a111d_ep.enp,82,2,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None,255,None
-30,a111d_ep.enp,82,2,73,Mine Patrol,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None
-31,a111d_ep.enp,82,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None
+0,a111b_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None,255,None,255,None
+1,a111b_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None
+2,a111b_ep.enp,52,2,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
+3,a111b_ep.enp,52,2,41,Elooper,41,Elooper,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
+4,a111b_ep.enp,37,2,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
+5,a111b_ep.enp,37,2,47,Lucich,47,Lucich,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
+6,a111b_ep.enp,47,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,255,None,255,None,255,None,255,None
+7,a111b_ep.enp,47,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None,255,None,255,None
+8,a111b_ep.enp,47,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None
+9,a111b_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,255,None,255,None,255,None
+10,a111b_ep.enp,42,2,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
+11,a111b_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
+12,a111b_ep.enp,42,2,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
+13,a111b_ep.enp,42,2,48,Digger,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
+14,a111b_ep.enp,32,2,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
+15,a111b_ep.enp,32,2,48,Digger,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
+16,a111b_ep.enp,37,2,33,Serpantis,33,Serpantis,255,None,255,None,255,None,255,None,255,None,255,None
+17,a111b_ep.enp,42,2,33,Serpantis,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
+18,a111b_ep.enp,42,2,33,Serpantis,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
+19,a111b_ep.enp,42,2,33,Serpantis,33,Serpantis,41,Elooper,255,None,255,None,255,None,255,None,255,None
+20,a111b_ep.enp,32,2,33,Serpantis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
+21,a111b_ep.enp,32,2,33,Serpantis,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
+22,a111b_ep.enp,32,2,33,Serpantis,33,Serpantis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
+23,a111b_ep.enp,42,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None,255,None
+24,a111b_ep.enp,42,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None
+25,a111b_ep.enp,37,2,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
+26,a111b_ep.enp,37,2,48,Digger,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
+27,a111b_ep.enp,37,2,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
+28,a111b_ep.enp,37,2,73,Mine Patrol,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
+29,a111b_ep.enp,37,2,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None,255,None
+30,a111b_ep.enp,37,2,73,Mine Patrol,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None
+31,a111b_ep.enp,37,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None
+0,a111c_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None,255,None,255,None
+1,a111c_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None
+2,a111c_ep.enp,52,2,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
+3,a111c_ep.enp,52,2,41,Elooper,41,Elooper,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
+4,a111c_ep.enp,37,2,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
+5,a111c_ep.enp,37,2,47,Lucich,47,Lucich,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
+6,a111c_ep.enp,47,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,255,None,255,None,255,None,255,None
+7,a111c_ep.enp,47,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None,255,None,255,None
+8,a111c_ep.enp,47,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None
+9,a111c_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,255,None,255,None,255,None
+10,a111c_ep.enp,42,2,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
+11,a111c_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
+12,a111c_ep.enp,42,2,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
+13,a111c_ep.enp,42,2,48,Digger,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
+14,a111c_ep.enp,32,2,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
+15,a111c_ep.enp,32,2,48,Digger,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
+16,a111c_ep.enp,37,2,33,Serpantis,33,Serpantis,255,None,255,None,255,None,255,None,255,None,255,None
+17,a111c_ep.enp,42,2,33,Serpantis,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
+18,a111c_ep.enp,42,2,33,Serpantis,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
+19,a111c_ep.enp,42,2,33,Serpantis,33,Serpantis,41,Elooper,255,None,255,None,255,None,255,None,255,None
+20,a111c_ep.enp,32,2,33,Serpantis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
+21,a111c_ep.enp,32,2,33,Serpantis,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
+22,a111c_ep.enp,32,2,33,Serpantis,33,Serpantis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
+23,a111c_ep.enp,42,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None,255,None
+24,a111c_ep.enp,42,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None
+25,a111c_ep.enp,37,2,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
+26,a111c_ep.enp,37,2,48,Digger,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
+27,a111c_ep.enp,37,2,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
+28,a111c_ep.enp,37,2,73,Mine Patrol,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
+29,a111c_ep.enp,37,2,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None,255,None
+30,a111c_ep.enp,37,2,73,Mine Patrol,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None
+31,a111c_ep.enp,37,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None
+0,a111d_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None,255,None,255,None
+1,a111d_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,255,None
+2,a111d_ep.enp,52,2,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
+3,a111d_ep.enp,52,2,41,Elooper,41,Elooper,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
+4,a111d_ep.enp,37,2,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
+5,a111d_ep.enp,37,2,47,Lucich,47,Lucich,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
+6,a111d_ep.enp,47,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,255,None,255,None,255,None,255,None
+7,a111d_ep.enp,47,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None,255,None,255,None
+8,a111d_ep.enp,47,2,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,255,None
+9,a111d_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,255,None,255,None,255,None
+10,a111d_ep.enp,42,2,90,Tsorok,90,Tsorok,41,Elooper,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
+11,a111d_ep.enp,42,2,90,Tsorok,90,Tsorok,90,Tsorok,41,Elooper,47,Lucich,47,Lucich,255,None,255,None
+12,a111d_ep.enp,42,2,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
+13,a111d_ep.enp,42,2,48,Digger,48,Digger,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None
+14,a111d_ep.enp,32,2,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
+15,a111d_ep.enp,32,2,48,Digger,48,Digger,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None
+16,a111d_ep.enp,37,2,33,Serpantis,33,Serpantis,255,None,255,None,255,None,255,None,255,None,255,None
+17,a111d_ep.enp,42,2,33,Serpantis,41,Elooper,255,None,255,None,255,None,255,None,255,None,255,None
+18,a111d_ep.enp,42,2,33,Serpantis,41,Elooper,41,Elooper,255,None,255,None,255,None,255,None,255,None
+19,a111d_ep.enp,42,2,33,Serpantis,33,Serpantis,41,Elooper,255,None,255,None,255,None,255,None,255,None
+20,a111d_ep.enp,32,2,33,Serpantis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None,255,None
+21,a111d_ep.enp,32,2,33,Serpantis,47,Lucich,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
+22,a111d_ep.enp,32,2,33,Serpantis,33,Serpantis,47,Lucich,47,Lucich,255,None,255,None,255,None,255,None
+23,a111d_ep.enp,42,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None,255,None
+24,a111d_ep.enp,42,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,255,None,255,None,255,None,255,None
+25,a111d_ep.enp,37,2,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
+26,a111d_ep.enp,37,2,48,Digger,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
+27,a111d_ep.enp,37,2,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None,255,None
+28,a111d_ep.enp,37,2,73,Mine Patrol,48,Digger,48,Digger,48,Digger,255,None,255,None,255,None,255,None
+29,a111d_ep.enp,37,2,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None,255,None
+30,a111d_ep.enp,37,2,73,Mine Patrol,73,Mine Patrol,48,Digger,48,Digger,255,None,255,None,255,None,255,None
+31,a111d_ep.enp,37,2,73,Mine Patrol,73,Mine Patrol,73,Mine Patrol,48,Digger,255,None,255,None,255,None,255,None
 0,a112b_ep.enp,95,2,92,Langry,92,Langry,92,Langry,92,Langry,92,Langry,255,None,255,None,255,None
 1,a112b_ep.enp,95,2,92,Langry,92,Langry,92,Langry,92,Langry,92,Langry,92,Langry,92,Langry,255,None
 2,a112b_ep.enp,105,2,22,Ferlith,22,Ferlith,255,None,255,None,255,None,255,None,255,None,255,None

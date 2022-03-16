@@ -20,7 +20,7 @@ Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Ele
 418,3'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,280,87,3,6,-1,None,0,0,4690,50,18,4,0,0x2ce79c,76,"A secondary cannon developed in Yafutoma,\ninspired by cylindrical plants."
 419,5'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,330,90,2,6,-1,None,0,0,5110,50,19,7,0,0x2ce7e8,92,"A secondary cannon used by the Yafutoman Navy.\nIt is a short-range, high-powered cannon."
 420,Light Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,120,60,2,2,-1,None,0,0,1520,50,20,25,0,0x2ce844,96,"A light torpedo, well-suited for smaller ships.\nAfter launch, it attacks its target from above."
-421,Guided Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,160,70,2,2,-1,None,0,0,1760,50,21,19,0,0x2ce8a4,96,A torpedo equippable by the Little Jack. Has the\nhighest chance to hit out of all the torpedos.
+421,Guided Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,160,70,2,3,-1,None,0,0,1760,50,21,19,0,0x2ce8a4,96,A torpedo equippable by the Little Jack. Has the\nhighest chance to hit out of all the torpedos.
 422,Shock Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,140,55,2,2,-1,None,0,0,2000,50,22,34,0,0x2ce904,92,"A torpedo equippable by the Little Jack.\nAfter launch, it charges its target from above."
 423,Hunter Torpedo,0b00110000,X,X,"","","",2,Torpedo,0,Green,160,60,3,2,-1,None,0,0,2240,50,23,23,0,0x2ce960,84,A torpedo equippable by the Little Jack. Has\ngreater range than standard torpedos.
 424,Valuan Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,220,60,2,3,-1,None,0,0,2400,50,24,36,0,0x2ce9b4,76,A torpedo used by Valua against the Nasrean Navy\nduring the Valua-Nasr War.

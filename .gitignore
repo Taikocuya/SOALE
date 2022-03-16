@@ -59,6 +59,14 @@ Thumbs.db
 # Magic Droplet at New Game
 !/dist/**/field/me201a.sct
 
+# Enemy 5 (Enforcer)
+!/dist/**/bchara/mg005.mld
+!/dist/**/bchara/mg005.std
+!/dist/**/bchara/mg0050.std
+!/dist/**/beff/f0500005.mlk
+!/dist/**/beff/f2907005.mlk
+!/dist/**/beff/f2907205.mlk
+
 # Enemy 166 (Spell Warden)
 !/dist/**/bchara/mg038.mld
 !/dist/**/bchara/mg038.std
@@ -121,3 +129,15 @@ Thumbs.db
 !/dist/**/bchara/mg049.std
 !/dist/**/bchara/mg0490.std
 !/dist/**/beff/f05000b1.mlk
+
+# Enemy 180 (Mage Warden)
+!/dist/**/bchara/mg052.mld
+!/dist/**/bchara/mg052.std
+!/dist/**/bchara/mg0520.std
+!/dist/**/beff/f05000b4.mlk
+
+# Enemy 181 (Mage Warden)
+!/dist/**/bchara/mg053.mld
+!/dist/**/bchara/mg053.std
+!/dist/**/bchara/mg0530.std
+!/dist/**/beff/f05000b5.mlk

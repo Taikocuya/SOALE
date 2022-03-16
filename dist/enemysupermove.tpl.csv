@@ -39,7 +39,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 37,Focus,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 38,Eternal Freeze,False,0,S-Move,0,Damage,2,All PCs,16,Attack,12,2,Purple,0,Physical,0,Power,0,Power,-1,None,0
 39,Lightning Strike,False,0,S-Move,0,Damage,1,Single PC,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
-40,Terrible Bite,Undefined,0,S-Move,72,Fatigue + Damage,1,Single PC,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,6,Fatigue,20
+40,Terrible Bite,True,0,S-Move,72,Fatigue + Damage,1,Single PC,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,6,Fatigue,20
 41,Deep Sleep,Undefined,0,S-Move,63,Regenerate + Sleep,5,Self,400,HP,65280,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 42,Avalauncher,False,0,S-Move,0,Damage,102,PC Ray S5,16,Attack,35,2,Purple,0,Physical,0,Power,0,Power,-1,None,0
 43,Silver Eclipse,False,0,S-Move,0,Damage,2,All PCs,16,Attack,25,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
@@ -69,9 +69,9 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 67,Call Allies,False,0,S-Move,43,Call EC,0,None,60,Soldier,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 68,Call Allies,False,0,S-Move,43,Call EC,0,None,84,Kilite,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 69,Call Allies,False,0,S-Move,43,Call EC,0,None,107,Jynnus,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-70,Grenade,False,0,S-Move,0,Damage,96,PC Square S3,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
+70,Grenade,True,0,S-Move,0,Damage,96,PC Square S3,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
 71,Poison Gas,False,0,S-Move,4,Poison + Damage,96,PC Square S3,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50
-72,Sacrum Crystal,False,0,S-Move,31,Recover HP,4,All ECs,400,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+72,Sacrum Crystal,True,0,S-Move,31,Recover HP,4,All ECs,400,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 73,Call Allies,False,0,S-Move,43,Call EC,0,None,97,Razorbeak,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 74,Call Allies,False,0,S-Move,43,Call EC,0,None,75,Destroyer,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 75,Discharge,False,0,S-Move,0,Damage,2,All PCs,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
@@ -161,7 +161,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 159,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 160,Search,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 161,Poison Gas,False,0,S-Move,4,Poison + Damage,96,PC Square S3,16,Attack,15,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50
-162,Fatigue Gas,Undefined,0,S-Move,72,Fatigue + Damage,96,PC Square S3,16,Attack,15,4,Yellow,0,Physical,16,Attack,17,Defense,6,Fatigue,20
+162,Fatigue Gas,True,0,S-Move,72,Fatigue + Damage,96,PC Square S3,16,Attack,15,4,Yellow,0,Physical,16,Attack,17,Defense,6,Fatigue,20
 163,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 164,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 165,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
@@ -219,7 +219,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 217,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 218,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 219,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-220,Rapid Fire,Undefined,0,S-Move,0,Damage,1,Single PC,16,Attack,30,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
+220,Rapid Fire,True,0,S-Move,0,Damage,1,Single PC,16,Attack,30,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
 221,欠番,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 222,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 223,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
@@ -269,7 +269,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 267,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 268,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 269,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-270,Self-destruct,Undefined,0,S-Move,62,Defeat User + Damage,200,PCs Nearby S1,16,Attack,40,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,100
+270,Self-destruct,True,0,S-Move,62,Defeat User + Damage,200,PCs Nearby S1,16,Attack,40,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,100
 271,Poison Explode,True,0,S-Move,62,Defeat User + Damage,200,PCs Nearby S1,16,Attack,40,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50
 272,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 273,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0

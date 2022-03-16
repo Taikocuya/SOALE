@@ -5,7 +5,7 @@ Entry ID,Entry JP Name,[Finalized],[Descr Str],Effect ID,[Effect Name],State ID,
 3,Confusion,False,Confusion by 20%,70,Confusion + Damage,4,Confusion,80
 4,Silence,True,Silence by 20%,71,Silence + Damage,5,Silence,80
 5,Confusion,False,Confusion by 20%,70,Confusion + Damage,4,Confusion,80
-6,Unconscious,False,Unconscious by 10%,68,Unconscious + Damage B,1,Unconscious,90
+6,Unconscious,True,Unconscious by 10%,68,Unconscious + Damage B,1,Unconscious,90
 7,Silence,False,Silence by 20%,71,Silence + Damage,5,Silence,80
 8,Stone,False,Stone by 10%,8,Stone + Damage,2,Stone,90
 9,Sleep,False,Sleep by 50%,69,Sleep + Damage,3,Sleep,50

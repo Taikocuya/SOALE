@@ -53,7 +53,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 51,Mining Arm,False,3,Drachma,50,-1,None,9980,172,80,-1,None,0,0
 52,Dragon Arm,False,3,Drachma,50,-1,None,11850,181,80,-1,None,0,0
 53,Beak Hand,True,3,Drachma,50,5,Confusion by 20%,880,60,80,-1,None,0,0
-54,De Loco Drill,False,3,Drachma,50,6,Unconscious by 10%,2600,95,80,-1,None,0,0
+54,De Loco Drill,True,3,Drachma,50,6,Unconscious by 10%,2600,95,80,-1,None,0,0
 55,Excavation Arm,True,3,Drachma,50,-1,None,1340,73,80,-1,None,0,0
 56,Ruin Arm,Undefined,3,Drachma,50,-1,None,3860,112,80,-1,None,0,0
 57,Silver Arm,False,3,Drachma,50,-1,None,13710,190,80,37,Silver,0,-2

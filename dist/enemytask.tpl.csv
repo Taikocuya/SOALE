@@ -64,6 +64,47 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 900,*,4,Grouder,True,1,Action,503,Panika,14,PC w/o Confusion
 1000,*,4,Grouder,True,1,Action,520,Wevli,2,Random PC
 1100,*,4,Grouder,True,1,Action,57,Eerie Wail,2,Random PC
+0,*,5,Enforcer,True,0,Branch,17,ECs Alive = 1,4000,Go to 4000
+5,*,5,Enforcer,True,0,Branch,66,ECs Alive = 3,20,Go to 20
+10,*,5,Enforcer,True,0,Branch,54,ECs Alive ≤ 3,3000,Go to 3000
+20,*,5,Enforcer,True,0,Branch,18,SP = 100%,10010,Guard
+30,*,5,Enforcer,True,0,Branch,19,SP ≤ 50%,50,Go to 50
+40,*,5,Enforcer,True,0,Branch,27,Rating 70%,10010,Guard
+50,*,5,Enforcer,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,100,Go to 100
+60,*,5,Enforcer,True,0,Branch,39,Any EC HP < 25%,10030,Sacrum Crystal
+70,*,5,Enforcer,True,0,Branch,1,HP < 50%,10030,Sacrum Crystal
+80,*,5,Enforcer,True,0,Branch,0,HP = 100%,2000,Go to 2000
+90,*,5,Enforcer,True,0,Branch,30,Always,1000,Go to 1000
+100,*,5,Enforcer,True,0,Branch,38,Any EC HP < 50%,1000,Go to 1000
+110,*,5,Enforcer,True,0,Branch,30,Always,2000,Go to 2000
+1000,*,5,Enforcer,True,0,Branch,27,Rating 70%,10030,Sacrum Crystal
+2000,*,5,Enforcer,True,0,Branch,11,Turn 1,2030,Go to 2030
+2010,*,5,Enforcer,True,0,Branch,12,Turn 2,2030,Go to 2030
+2020,*,5,Enforcer,True,0,Branch,23,Rating 30%,10030,Sacrum Crystal
+2030,*,5,Enforcer,True,0,Branch,26,Rating 60%,10020,Grenade
+2040,*,5,Enforcer,True,0,Branch,21,Rating 10%,10010,Guard
+2050,*,5,Enforcer,True,0,Branch,30,Always,10000,Attack
+3000,*,5,Enforcer,True,0,Branch,62,PCs Alive = 1,4100,Go to 4100
+3010,*,5,Enforcer,True,0,Branch,63,PCs Alive = 2,4100,Go to 4100
+3020,*,5,Enforcer,True,0,Branch,50,Used S-Move?,3100,Go to 3100
+3030,*,5,Enforcer,True,0,Branch,28,Rating 80%,10020,Grenade
+3040,*,5,Enforcer,True,0,Branch,21,Rating 10%,10010,Guard
+3050,*,5,Enforcer,True,0,Branch,30,Always,10000,Attack
+3100,*,5,Enforcer,True,0,Branch,25,Rating 50%,10020,Grenade
+3110,*,5,Enforcer,True,0,Branch,21,Rating 10%,10010,Guard
+3120,*,5,Enforcer,True,0,Branch,30,Always,10000,Attack
+4000,*,5,Enforcer,True,0,Branch,62,PCs Alive = 1,4100,Go to 4100
+4010,*,5,Enforcer,True,0,Branch,63,PCs Alive = 2,4100,Go to 4100
+4020,*,5,Enforcer,True,0,Branch,28,Rating 80%,10020,Grenade
+4030,*,5,Enforcer,True,0,Branch,21,Rating 10%,10010,Guard
+4040,*,5,Enforcer,True,0,Branch,30,Always,10000,Attack
+4100,*,5,Enforcer,True,0,Branch,23,Rating 30%,10020,Grenade
+4110,*,5,Enforcer,True,0,Branch,21,Rating 10%,10010,Guard
+4120,*,5,Enforcer,True,0,Branch,30,Always,10000,Attack
+10000,*,5,Enforcer,True,1,Action,550,Attack,2,Random PC
+10010,*,5,Enforcer,True,1,Action,551,Guard,-1,None
+10020,*,5,Enforcer,True,1,Action,70,Grenade,2,Random PC
+10030,*,5,Enforcer,True,1,Action,72,Sacrum Crystal,-1,None
 0,*,7,Spell Warden,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,10,Go to 10
 5,*,7,Spell Warden,True,0,Branch,11,Turn 1,10020,Increm
 10,*,7,Spell Warden,True,0,Branch,37,Turn ≥ 5,30,Go to 30
@@ -504,15 +545,15 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 300,*,32,Enforcer,False,1,Action,550,Attack,2,Random PC
 400,*,32,Enforcer,False,1,Action,70,Grenade,2,Random PC
 500,*,32,Enforcer,False,1,Action,551,Guard,-1,None
-100,*,33,Serpentis,Undefined,0,Branch,34,Used Attack Spells ≥ 2,300,Go to 300
-200,*,33,Serpentis,Undefined,0,Branch,22,Rating 20%,700,Go to 700
-300,*,33,Serpentis,Undefined,0,Branch,26,Rating 60%,600,Go to 600
-400,*,33,Serpentis,Undefined,0,Branch,28,Rating 80%,800,Go to 800
-500,*,33,Serpentis,Undefined,0,Branch,30,Always,900,Go to 900
-600,*,33,Serpentis,Undefined,1,Action,550,Attack,2,Random PC
-700,*,33,Serpentis,Undefined,1,Action,524,Pyres,-1,None
-800,*,33,Serpentis,Undefined,1,Action,40,Terrible Bite,1,Same PC
-900,*,33,Serpentis,Undefined,1,Action,551,Guard,-1,None
+100,*,33,Serpantis,True,0,Branch,34,Used Attack Spells ≥ 2,300,Go to 300
+200,*,33,Serpantis,True,0,Branch,22,Rating 20%,700,Go to 700
+300,*,33,Serpantis,True,0,Branch,26,Rating 60%,600,Go to 600
+400,*,33,Serpantis,True,0,Branch,28,Rating 80%,800,Go to 800
+500,*,33,Serpantis,True,0,Branch,30,Always,900,Go to 900
+600,*,33,Serpantis,True,1,Action,550,Attack,2,Random PC
+700,*,33,Serpantis,True,1,Action,524,Pyres,-1,None
+800,*,33,Serpantis,True,1,Action,40,Terrible Bite,1,Same PC
+900,*,33,Serpantis,True,1,Action,551,Guard,-1,None
 100,*,34,Dralnog,True,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,34,Dralnog,True,0,Branch,30,Always,400,Go to 400
 300,*,34,Dralnog,True,0,Branch,26,Rating 60%,1700,Go to 1700
@@ -702,39 +743,40 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1500,*,46,Medulizk,False,1,Action,505,Drilnos,-1,None
 1600,*,46,Medulizk,False,1,Action,521,Wevles,2,Random PC
 1700,*,46,Medulizk,False,1,Action,100,Magic?,-1,None
-100,*,47,Lucich,Undefined,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
-200,*,47,Lucich,Undefined,0,Branch,30,Always,400,Go to 400
-300,*,47,Lucich,Undefined,0,Branch,26,Rating 60%,1700,Go to 1700
-400,*,47,Lucich,Undefined,0,Branch,2,HP < 25%,600,Go to 600
-500,*,47,Lucich,Undefined,0,Branch,30,Always,700,Go to 700
-600,*,47,Lucich,Undefined,0,Branch,28,Rating 80%,1800,Go to 1800
-700,*,47,Lucich,Undefined,0,Branch,1,HP < 50%,900,Go to 900
-800,*,47,Lucich,Undefined,0,Branch,30,Always,1000,Go to 1000
-900,*,47,Lucich,Undefined,0,Branch,24,Rating 40%,1800,Go to 1800
-1000,*,47,Lucich,Undefined,0,Branch,35,Used State Spells ≥ 1,1200,Go to 1200
-1100,*,47,Lucich,Undefined,0,Branch,22,Rating 20%,1900,Go to 1900
-1200,*,47,Lucich,Undefined,0,Branch,22,Rating 20%,1800,Go to 1800
-1300,*,47,Lucich,Undefined,0,Branch,27,Rating 70%,1600,Go to 1600
-1400,*,47,Lucich,Undefined,0,Branch,26,Rating 60%,2000,Go to 2000
-1500,*,47,Lucich,Undefined,0,Branch,30,Always,1700,Go to 1700
-1600,*,47,Lucich,Undefined,1,Action,550,Attack,2,Random PC
-1700,*,47,Lucich,Undefined,1,Action,552,Run,-1,None
-1800,*,47,Lucich,Undefined,1,Action,270,Self-destruct,-1,None
-1900,*,47,Lucich,Undefined,1,Action,517,Eterni,1,Same PC
-2000,*,47,Lucich,Undefined,1,Action,100,Magic?,-1,None
-100,*,48,Digger,Undefined,0,Branch,11,Turn 1,600,Go to 600
-200,*,48,Digger,Undefined,0,Branch,24,Rating 40%,1000,Go to 1000
-300,*,48,Digger,Undefined,0,Branch,22,Rating 20%,1100,Go to 1100
-400,*,48,Digger,Undefined,0,Branch,25,Rating 50%,1200,Go to 1200
-500,*,48,Digger,Undefined,0,Branch,30,Always,1300,Go to 1300
-600,*,48,Digger,Undefined,0,Branch,25,Rating 50%,1000,Go to 1000
-700,*,48,Digger,Undefined,0,Branch,24,Rating 40%,1100,Go to 1100
-800,*,48,Digger,Undefined,0,Branch,27,Rating 70%,1200,Go to 1200
-900,*,48,Digger,Undefined,0,Branch,30,Always,1300,Go to 1300
-1000,*,48,Digger,Undefined,1,Action,550,Attack,2,Random PC
-1100,*,48,Digger,Undefined,1,Action,551,Guard,-1,None
-1200,*,48,Digger,Undefined,1,Action,162,Fatigue Gas,18,PC w/o Fatigue
-1300,*,48,Digger,Undefined,1,Action,220,Rapid Fire,2,Random PC
+100,*,47,Lucich,True,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
+200,*,47,Lucich,True,0,Branch,30,Always,400,Go to 400
+300,*,47,Lucich,True,0,Branch,26,Rating 60%,1700,Go to 1700
+400,*,47,Lucich,True,0,Branch,2,HP < 25%,600,Go to 600
+500,*,47,Lucich,True,0,Branch,30,Always,700,Go to 700
+600,*,47,Lucich,True,0,Branch,28,Rating 80%,1800,Go to 1800
+700,*,47,Lucich,True,0,Branch,1,HP < 50%,900,Go to 900
+800,*,47,Lucich,True,0,Branch,30,Always,1000,Go to 1000
+900,*,47,Lucich,True,0,Branch,24,Rating 40%,1800,Go to 1800
+1000,*,47,Lucich,True,0,Branch,16,Has Silence?,1200,Go to 1200
+1050,*,47,Lucich,True,0,Branch,36,Used State Spells ≥ 2,1200,Go to 1200
+1100,*,47,Lucich,True,0,Branch,22,Rating 20%,1900,Go to 1900
+1200,*,47,Lucich,True,0,Branch,22,Rating 20%,1800,Go to 1800
+1300,*,47,Lucich,True,0,Branch,27,Rating 70%,1600,Go to 1600
+1400,*,47,Lucich,True,0,Branch,26,Rating 60%,2000,Go to 2000
+1500,*,47,Lucich,True,0,Branch,30,Always,1700,Go to 1700
+1600,*,47,Lucich,True,1,Action,550,Attack,2,Random PC
+1700,*,47,Lucich,True,1,Action,552,Run,-1,None
+1800,*,47,Lucich,True,1,Action,270,Self-destruct,-1,None
+1900,*,47,Lucich,True,1,Action,517,Eterni,1,Same PC
+2000,*,47,Lucich,True,1,Action,100,Magic?,-1,None
+100,*,48,Digger,True,0,Branch,11,Turn 1,600,Go to 600
+200,*,48,Digger,True,0,Branch,24,Rating 40%,1000,Go to 1000
+300,*,48,Digger,True,0,Branch,22,Rating 20%,1100,Go to 1100
+400,*,48,Digger,True,0,Branch,25,Rating 50%,1200,Go to 1200
+500,*,48,Digger,True,0,Branch,30,Always,1300,Go to 1300
+600,*,48,Digger,True,0,Branch,25,Rating 50%,1000,Go to 1000
+700,*,48,Digger,True,0,Branch,24,Rating 40%,1100,Go to 1100
+800,*,48,Digger,True,0,Branch,27,Rating 70%,1200,Go to 1200
+900,*,48,Digger,True,0,Branch,30,Always,1300,Go to 1300
+1000,*,48,Digger,True,1,Action,550,Attack,2,Random PC
+1100,*,48,Digger,True,1,Action,551,Guard,-1,None
+1200,*,48,Digger,True,1,Action,162,Fatigue Gas,18,PC w/o Fatigue
+1300,*,48,Digger,True,1,Action,220,Rapid Fire,2,Random PC
 100,*,49,Flat Fiend,False,0,Branch,11,Turn 1,600,Go to 600
 200,*,49,Flat Fiend,False,0,Branch,12,Turn 2,900,Go to 900
 300,*,49,Flat Fiend,False,0,Branch,28,Rating 80%,1100,Go to 1100
@@ -1086,20 +1128,37 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10020,*,72,Patrol Guard,True,1,Action,513,Quika,-1,None
 10030,*,72,Patrol Guard,True,1,Action,532,Electri,2,Random PC
 10040,*,72,Patrol Guard,True,1,Action,79,Sacri Crystal,7,EC w/ Least HP
-100,*,73,Mine Patrol,Undefined,0,Branch,11,Turn 1,400,Go to 400
-200,*,73,Mine Patrol,Undefined,0,Branch,12,Turn 2,600,Go to 600
-300,*,73,Mine Patrol,Undefined,0,Branch,30,Always,700,Go to 700
-400,*,73,Mine Patrol,Undefined,0,Branch,22,Rating 20%,1300,Go to 1300
-500,*,73,Mine Patrol,Undefined,0,Branch,30,Always,700,Go to 700
-600,*,73,Mine Patrol,Undefined,0,Branch,21,Rating 10%,1300,Go to 1300
-700,*,73,Mine Patrol,Undefined,0,Branch,26,Rating 60%,1100,Go to 1100
-800,*,73,Mine Patrol,Undefined,0,Branch,24,Rating 40%,1200,Go to 1200
-900,*,73,Mine Patrol,Undefined,0,Branch,33,Used Attack Spells ≥ 1,1100,Go to 1100
-1000,*,73,Mine Patrol,Undefined,0,Branch,30,Always,1400,Go to 1400
-1100,*,73,Mine Patrol,Undefined,1,Action,550,Attack,2,Random PC
-1200,*,73,Mine Patrol,Undefined,1,Action,551,Guard,-1,None
-1300,*,73,Mine Patrol,Undefined,1,Action,513,Quika,-1,None
-1400,*,73,Mine Patrol,Undefined,1,Action,527,Crystales,7,EC w/ Least HP
+100,*,73,Mine Patrol,True,0,Branch,11,Turn 1,400,Go to 400
+200,*,73,Mine Patrol,True,0,Branch,12,Turn 2,600,Go to 600
+300,*,73,Mine Patrol,True,0,Branch,30,Always,700,Go to 700
+400,*,73,Mine Patrol,True,0,Branch,22,Rating 20%,1300,Go to 1300
+500,*,73,Mine Patrol,True,0,Branch,30,Always,700,Go to 700
+600,*,73,Mine Patrol,True,0,Branch,21,Rating 10%,1300,Go to 1300
+700,*,73,Mine Patrol,True,0,Branch,26,Rating 60%,1100,Go to 1100
+800,*,73,Mine Patrol,True,0,Branch,24,Rating 40%,1200,Go to 1200
+900,*,73,Mine Patrol,True,0,Branch,34,Used Attack Spells ≥ 2,1100,Go to 1100
+1000,*,73,Mine Patrol,True,0,Branch,30,Always,1400,Go to 1400
+1100,*,73,Mine Patrol,True,1,Action,550,Attack,2,Random PC
+1200,*,73,Mine Patrol,True,1,Action,551,Guard,-1,None
+1300,*,73,Mine Patrol,True,1,Action,513,Quika,-1,None
+1400,*,73,Mine Patrol,True,1,Action,527,Crystales,2,Random PC
+0,epevent.evp,73,Mine Patrol,True,0,Branch,11,Turn 1,1000,Go to 1000
+10,epevent.evp,73,Mine Patrol,True,0,Branch,12,Turn 2,1000,Go to 1000
+20,epevent.evp,73,Mine Patrol,True,0,Branch,0,HP = 100%,2000,Go to 2000
+30,epevent.evp,73,Mine Patrol,True,0,Branch,42,Used Sacri Crystals ≥ 1,2000,Go to 2000
+40,epevent.evp,73,Mine Patrol,True,0,Branch,25,Rating 50%,10040,Sacri Crystal
+1000,epevent.evp,73,Mine Patrol,True,0,Branch,35,Used State Spells ≥ 1,2000,Go to 2000
+1010,epevent.evp,73,Mine Patrol,True,0,Branch,25,Rating 50%,10020,Quika
+1020,epevent.evp,73,Mine Patrol,True,0,Branch,12,Turn 2,10020,Quika
+2000,epevent.evp,73,Mine Patrol,True,0,Branch,26,Rating 60%,10000,Attack
+2010,epevent.evp,73,Mine Patrol,True,0,Branch,24,Rating 40%,10010,Guard
+2020,epevent.evp,73,Mine Patrol,True,0,Branch,30,Always,10030,Crystales
+10000,epevent.evp,73,Mine Patrol,True,1,Action,550,Attack,2,Random PC
+10010,epevent.evp,73,Mine Patrol,True,1,Action,551,Guard,-1,None
+10020,epevent.evp,73,Mine Patrol,True,1,Action,513,Quika,-1,None
+10030,epevent.evp,73,Mine Patrol,True,1,Action,527,Crystales,2,Random PC
+10040,epevent.evp,73,Mine Patrol,True,1,Action,79,Sacri Crystal,22,Self
+10050,epevent.evp,73,Mine Patrol,True,1,Action,79,Sacri Crystal,7,EC w/ Least HP
 100,*,74,Forst Worm,False,0,Branch,1,HP < 50%,700,Go to 700
 200,*,74,Forst Worm,False,0,Branch,23,Rating 30%,1200,Go to 1200
 300,*,74,Forst Worm,False,0,Branch,22,Rating 20%,1300,Go to 1300
@@ -2980,44 +3039,111 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1700,*,179,Tara,False,1,Action,550,Attack,2,Random PC
 1800,*,179,Tara,False,1,Action,551,Guard,-1,None
 1900,*,179,Tara,False,1,Action,280,Chak Mol,-1,None
-100,*,180,Tara,False,0,Branch,19,SP ≤ 50%,400,Go to 400
-200,*,180,Tara,False,0,Branch,28,Rating 80%,1400,Go to 1400
-300,*,180,Tara,False,0,Branch,30,Always,1800,Go to 1800
-400,*,180,Tara,False,0,Branch,39,Any EC HP < 25%,900,Go to 900
-500,*,180,Tara,False,0,Branch,38,Any EC HP < 50%,1100,Go to 1100
-600,*,180,Tara,False,0,Branch,26,Rating 60%,1700,Go to 1700
-700,*,180,Tara,False,0,Branch,27,Rating 70%,1800,Go to 1800
-800,*,180,Tara,False,0,Branch,30,Always,1400,Go to 1400
-900,*,180,Tara,False,0,Branch,26,Rating 60%,1700,Go to 1700
-1000,*,180,Tara,False,0,Branch,30,Always,1400,Go to 1400
-1100,*,180,Tara,False,0,Branch,25,Rating 50%,1700,Go to 1700
-1200,*,180,Tara,False,0,Branch,26,Rating 60%,1800,Go to 1800
-1300,*,180,Tara,False,0,Branch,30,Always,1400,Go to 1400
-1400,*,180,Tara,False,0,Branch,64,PCs Alive = 3,1700,Go to 1700
-1500,*,180,Tara,False,0,Branch,50,Used S-Move?,1700,Go to 1700
-1600,*,180,Tara,False,0,Branch,66,ECs Alive = 3,1900,Go to 1900
-1700,*,180,Tara,False,1,Action,550,Attack,2,Random PC
-1800,*,180,Tara,False,1,Action,551,Guard,-1,None
-1900,*,180,Tara,False,1,Action,280,Chak Mol,-1,None
-100,*,181,Tara,False,0,Branch,19,SP ≤ 50%,400,Go to 400
-200,*,181,Tara,False,0,Branch,28,Rating 80%,1400,Go to 1400
-300,*,181,Tara,False,0,Branch,30,Always,1800,Go to 1800
-400,*,181,Tara,False,0,Branch,39,Any EC HP < 25%,900,Go to 900
-500,*,181,Tara,False,0,Branch,38,Any EC HP < 50%,1100,Go to 1100
-600,*,181,Tara,False,0,Branch,26,Rating 60%,1700,Go to 1700
-700,*,181,Tara,False,0,Branch,27,Rating 70%,1800,Go to 1800
-800,*,181,Tara,False,0,Branch,30,Always,1400,Go to 1400
-900,*,181,Tara,False,0,Branch,26,Rating 60%,1700,Go to 1700
-1000,*,181,Tara,False,0,Branch,30,Always,1400,Go to 1400
-1100,*,181,Tara,False,0,Branch,25,Rating 50%,1700,Go to 1700
-1200,*,181,Tara,False,0,Branch,26,Rating 60%,1800,Go to 1800
-1300,*,181,Tara,False,0,Branch,30,Always,1400,Go to 1400
-1400,*,181,Tara,False,0,Branch,64,PCs Alive = 3,1700,Go to 1700
-1500,*,181,Tara,False,0,Branch,50,Used S-Move?,1700,Go to 1700
-1600,*,181,Tara,False,0,Branch,66,ECs Alive = 3,1900,Go to 1900
-1700,*,181,Tara,False,1,Action,550,Attack,2,Random PC
-1800,*,181,Tara,False,1,Action,551,Guard,-1,None
-1900,*,181,Tara,False,1,Action,280,Chak Mol,-1,None
+0,*,180,Mage Warden,True,0,Branch,1,HP < 50%,2000,Go to 2000
+10,*,180,Mage Warden,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,30,Go to 30
+20,*,180,Mage Warden,True,0,Branch,30,Always,40,Go to 40
+30,*,180,Mage Warden,True,0,Branch,38,Any EC HP < 50%,1000,Go to 1000
+40,*,180,Mage Warden,True,0,Branch,31,Used Sacri Spells ≥ 1,3000,Go to 3000
+50,*,180,Mage Warden,True,0,Branch,0,HP = 100%,3000,Go to 3000
+60,*,180,Mage Warden,True,0,Branch,30,Always,2000,Go to 2000
+1000,*,180,Mage Warden,True,0,Branch,32,Used Sacri Spells ≥ 2,1020,Go to 1020
+1010,*,180,Mage Warden,True,0,Branch,25,Rating 50%,10050,Sacres
+1020,*,180,Mage Warden,True,0,Branch,23,Rating 30%,10050,Sacres
+1030,*,180,Mage Warden,True,0,Branch,30,Always,3000,Go to 3000
+2000,*,180,Mage Warden,True,0,Branch,32,Used Sacri Spells ≥ 2,2020,Go to 2020
+2010,*,180,Mage Warden,True,0,Branch,25,Rating 50%,10040,Sacres
+2020,*,180,Mage Warden,True,0,Branch,23,Rating 30%,10040,Sacres
+3000,*,180,Mage Warden,True,0,Branch,51,Used Focus?,4000,Go to 4000
+3010,*,180,Mage Warden,True,0,Branch,54,ECs Alive ≤ 3,4000,Go to 4000
+3020,*,180,Mage Warden,True,0,Branch,19,SP ≤ 50%,3040,Go to 3040
+3030,*,180,Mage Warden,True,0,Branch,27,Rating 70%,10010,Guard
+3040,*,180,Mage Warden,True,0,Branch,49,Used Spell?,3060,Go to 3060
+3050,*,180,Mage Warden,True,0,Branch,30,Always,4000,Go to 4000
+3060,*,180,Mage Warden,True,0,Branch,25,Rating 50%,5000,Go to 5000
+3070,*,180,Mage Warden,True,0,Branch,36,Used State Spells ≥ 2,3090,Go to 3090
+3080,*,180,Mage Warden,True,0,Branch,25,Rating 50%,6000,Go to 6000
+3090,*,180,Mage Warden,True,0,Branch,24,Rating 40%,6000,Go to 6000
+3100,*,180,Mage Warden,True,0,Branch,24,Rating 40%,10090,Focus
+3110,*,180,Mage Warden,True,0,Branch,30,Always,10000,Attack
+4000,*,180,Mage Warden,True,0,Branch,49,Used Spell?,4030,Go to 4030
+4010,*,180,Mage Warden,True,0,Branch,28,Rating 80%,5000,Go to 5000
+4020,*,180,Mage Warden,True,0,Branch,30,Always,4040,Go to 4040
+4030,*,180,Mage Warden,True,0,Branch,26,Rating 60%,5000,Go to 5000
+4040,*,180,Mage Warden,True,0,Branch,24,Rating 40%,10030,Driln
+4050,*,180,Mage Warden,True,0,Branch,21,Rating 10%,10010,Guard
+4060,*,180,Mage Warden,True,0,Branch,30,Always,10000,Attack
+5000,*,180,Mage Warden,True,0,Branch,62,PCs Alive = 1,5030,Go to 5030
+5010,*,180,Mage Warden,True,0,Branch,63,PCs Alive = 2,5030,Go to 5030
+5020,*,180,Mage Warden,True,0,Branch,54,ECs Alive ≤ 3,5100,Go to 5100
+5030,*,180,Mage Warden,True,0,Branch,23,Rating 30%,10060,Crystalum
+5040,*,180,Mage Warden,True,0,Branch,30,Always,10070,Wevlum
+5100,*,180,Mage Warden,True,0,Branch,25,Rating 50%,10080,Electrulen
+5110,*,180,Mage Warden,True,0,Branch,30,Always,10070,Wevlum
+6000,*,180,Mage Warden,True,0,Branch,23,Rating 30%,10020,Sylenis
+6010,*,180,Mage Warden,True,0,Branch,30,Always,10030,Driln
+10000,*,180,Mage Warden,True,1,Action,550,Attack,1,Same PC
+10010,*,180,Mage Warden,True,1,Action,551,Guard,-1,None
+10020,*,180,Mage Warden,True,1,Action,502,Sylenis,15,PC w/o Silence
+10030,*,180,Mage Warden,True,1,Action,504,Driln,17,PC w/o Weak
+10040,*,180,Mage Warden,True,1,Action,507,Sacres,22,Self
+10050,*,180,Mage Warden,True,1,Action,507,Sacres,7,EC w/ Least HP
+10060,*,180,Mage Warden,True,1,Action,528,Crystalum,2,Random PC
+10070,*,180,Mage Warden,True,1,Action,531,Wevlum,2,Random PC
+10080,*,180,Mage Warden,True,1,Action,535,Electrulen,2,Random PC
+10090,*,180,Mage Warden,True,1,Action,37,Focus,-1,None
+0,*,181,Mage Warden,True,0,Branch,1,HP < 50%,2000,Go to 2000
+10,*,181,Mage Warden,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,30,Go to 30
+20,*,181,Mage Warden,True,0,Branch,30,Always,40,Go to 40
+30,*,181,Mage Warden,True,0,Branch,38,Any EC HP < 50%,1000,Go to 1000
+40,*,181,Mage Warden,True,0,Branch,31,Used Sacri Spells ≥ 1,3000,Go to 3000
+50,*,181,Mage Warden,True,0,Branch,0,HP = 100%,3000,Go to 3000
+60,*,181,Mage Warden,True,0,Branch,30,Always,2000,Go to 2000
+1000,*,181,Mage Warden,True,0,Branch,32,Used Sacri Spells ≥ 2,1020,Go to 1020
+1010,*,181,Mage Warden,True,0,Branch,25,Rating 50%,10050,Sacres
+1020,*,181,Mage Warden,True,0,Branch,23,Rating 30%,10050,Sacres
+1030,*,181,Mage Warden,True,0,Branch,30,Always,3000,Go to 3000
+2000,*,181,Mage Warden,True,0,Branch,32,Used Sacri Spells ≥ 2,2020,Go to 2020
+2010,*,181,Mage Warden,True,0,Branch,25,Rating 50%,10040,Sacres
+2020,*,181,Mage Warden,True,0,Branch,23,Rating 30%,10040,Sacres
+3000,*,181,Mage Warden,True,0,Branch,51,Used Focus?,4000,Go to 4000
+3010,*,181,Mage Warden,True,0,Branch,54,ECs Alive ≤ 3,4000,Go to 4000
+3015,*,181,Mage Warden,True,0,Branch,11,Turn 1,3070,Go to 3070
+3020,*,181,Mage Warden,True,0,Branch,19,SP ≤ 50%,3040,Go to 3040
+3030,*,181,Mage Warden,True,0,Branch,27,Rating 70%,10010,Guard
+3040,*,181,Mage Warden,True,0,Branch,49,Used Spell?,3060,Go to 3060
+3050,*,181,Mage Warden,True,0,Branch,30,Always,4000,Go to 4000
+3060,*,181,Mage Warden,True,0,Branch,25,Rating 50%,5000,Go to 5000
+3070,*,181,Mage Warden,True,0,Branch,36,Used State Spells ≥ 2,3090,Go to 3090
+3080,*,181,Mage Warden,True,0,Branch,25,Rating 50%,6000,Go to 6000
+3090,*,181,Mage Warden,True,0,Branch,24,Rating 40%,6000,Go to 6000
+3100,*,181,Mage Warden,True,0,Branch,24,Rating 40%,10090,Focus
+3110,*,181,Mage Warden,True,0,Branch,30,Always,10000,Attack
+4000,*,181,Mage Warden,True,0,Branch,49,Used Spell?,4030,Go to 4030
+4010,*,181,Mage Warden,True,0,Branch,28,Rating 80%,5000,Go to 5000
+4020,*,181,Mage Warden,True,0,Branch,30,Always,4040,Go to 4040
+4030,*,181,Mage Warden,True,0,Branch,26,Rating 60%,5000,Go to 5000
+4040,*,181,Mage Warden,True,0,Branch,24,Rating 40%,10030,Driln
+4050,*,181,Mage Warden,True,0,Branch,21,Rating 10%,10010,Guard
+4060,*,181,Mage Warden,True,0,Branch,30,Always,10000,Attack
+5000,*,181,Mage Warden,True,0,Branch,62,PCs Alive = 1,5030,Go to 5030
+5010,*,181,Mage Warden,True,0,Branch,63,PCs Alive = 2,5030,Go to 5030
+5020,*,181,Mage Warden,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,5100,Go to 5100
+5030,*,181,Mage Warden,True,0,Branch,23,Rating 30%,10060,Crystalum
+5040,*,181,Mage Warden,True,0,Branch,30,Always,10070,Wevlum
+5100,*,181,Mage Warden,True,0,Branch,25,Rating 50%,10080,Electrulen
+5110,*,181,Mage Warden,True,0,Branch,30,Always,10070,Wevlum
+6000,*,181,Mage Warden,True,0,Branch,23,Rating 30%,10020,Sylenis
+6010,*,181,Mage Warden,True,0,Branch,30,Always,10030,Driln
+10000,*,181,Mage Warden,True,1,Action,550,Attack,1,Same PC
+10010,*,181,Mage Warden,True,1,Action,551,Guard,-1,None
+10020,*,181,Mage Warden,True,1,Action,502,Sylenis,15,PC w/o Silence
+10030,*,181,Mage Warden,True,1,Action,504,Driln,17,PC w/o Weak
+10040,*,181,Mage Warden,True,1,Action,507,Sacres,22,Self
+10050,*,181,Mage Warden,True,1,Action,507,Sacres,7,EC w/ Least HP
+10060,*,181,Mage Warden,True,1,Action,528,Crystalum,2,Random PC
+10070,*,181,Mage Warden,True,1,Action,531,Wevlum,2,Random PC
+10080,*,181,Mage Warden,True,1,Action,535,Electrulen,2,Random PC
+10090,*,181,Mage Warden,True,1,Action,37,Focus,-1,None
 100,*,182,Tara,False,0,Branch,19,SP ≤ 50%,400,Go to 400
 200,*,182,Tara,False,0,Branch,28,Rating 80%,1400,Go to 1400
 300,*,182,Tara,False,0,Branch,30,Always,1800,Go to 1800
