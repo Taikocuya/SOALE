@@ -103,15 +103,6 @@ Thumbs.db
 !/dist/**/sound/b7025644_L.dsp
 !/dist/**/sound/b7025644_R.dsp
 
-# Enemy 174 (Kantor)
-!/dist/**/bchara/mg046.mld
-!/dist/**/bchara/mg046.std
-!/dist/**/bchara/mg0460.std
-!/dist/**/beff/f05000ae.mlk
-!/dist/**/beff/f29005ae.mlk
-!/dist/**/sound/b7025646_L.dsp
-!/dist/**/sound/b7025646_R.dsp
-
 # Enemy 175 (Polraxis)
 !/dist/**/bchara/mg047.mld
 !/dist/**/bchara/mg047.std

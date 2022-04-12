@@ -1981,13 +1981,21 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10000,*,134,Rokwyrm,True,1,Action,550,Attack,2,Random PC
 10010,*,134,Rokwyrm,True,1,Action,0,Volcanic Blast,-1,None
 10020,*,134,Rokwyrm,True,1,Action,1,Cinder Storm,13,PC w/o Stone
-100,*,136,Antonio 2,Undefined,0,Branch,50,Used S-Move?,400,Go to 400
-200,*,136,Antonio 2,Undefined,0,Branch,23,Rating 30%,600,Go to 600
-300,*,136,Antonio 2,Undefined,0,Branch,30,Always,700,Go to 700
-400,*,136,Antonio 2,Undefined,0,Branch,27,Rating 70%,600,Go to 600
-500,*,136,Antonio 2,Undefined,0,Branch,30,Always,700,Go to 700
-600,*,136,Antonio 2,Undefined,1,Action,550,Attack,2,Random PC
-700,*,136,Antonio 2,Undefined,1,Action,5,Thunder of Fury,2,Random PC
+0,*,136,Antonio 2,True,0,Branch,1,HP < 50%,3000,Go to 3000
+10,*,136,Antonio 2,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,3000,Go to 3000
+20,*,136,Antonio 2,True,0,Branch,12,Turn 2,3000,Go to 3000
+30,*,136,Antonio 2,True,0,Branch,13,Turn 3,3000,Go to 3000
+1000,*,136,Antonio 2,True,0,Branch,50,Used S-Move?,2000,Go to 2000
+1010,*,136,Antonio 2,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
+1020,*,136,Antonio 2,True,0,Branch,63,PCs Alive = 2,2000,Go to 2000
+1030,*,136,Antonio 2,True,0,Branch,22,Rating 20%,10000,Attack
+1040,*,136,Antonio 2,True,0,Branch,30,Always,10010,Thunder of Fury
+2000,*,136,Antonio 2,True,0,Branch,27,Rating 70%,10000,Attack
+2010,*,136,Antonio 2,True,0,Branch,30,Always,10010,Thunder of Fury
+3000,*,136,Antonio 2,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
+3010,*,136,Antonio 2,True,0,Branch,27,Rating 70%,10010,Thunder of Fury
+10000,*,136,Antonio 2,True,1,Action,550,Attack,2,Random PC
+10010,*,136,Antonio 2,True,1,Action,5,Thunder of Fury,2,Random PC
 100,*,137,Rik'talish,Undefined,0,Branch,11,Turn 1,1100,Go to 1100
 200,*,137,Rik'talish,Undefined,0,Branch,12,Turn 2,1100,Go to 1100
 300,*,137,Rik'talish,Undefined,0,Branch,1,HP < 50%,1500,Go to 1500
@@ -2936,13 +2944,15 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 2010,*,171,Kantor,True,0,Branch,30,Always,10010,Thunder of Fury
 10000,*,171,Kantor,True,1,Action,550,Attack,2,Random PC
 10010,*,171,Kantor,True,1,Action,5,Thunder of Fury,2,Random PC
-100,*,172,Kantor,False,0,Branch,50,Used S-Move?,400,Go to 400
-200,*,172,Kantor,False,0,Branch,23,Rating 30%,600,Go to 600
-300,*,172,Kantor,False,0,Branch,30,Always,700,Go to 700
-400,*,172,Kantor,False,0,Branch,27,Rating 70%,600,Go to 600
-500,*,172,Kantor,False,0,Branch,30,Always,700,Go to 700
-600,*,172,Kantor,False,1,Action,550,Attack,2,Random PC
-700,*,172,Kantor,False,1,Action,5,Thunder of Fury,2,Random PC
+0,*,172,Kantor,True,0,Branch,11,Turn 1,1000,Go to 1000
+10,*,172,Kantor,True,0,Branch,12,Turn 2,1000,Go to 1000
+20,*,172,Kantor,True,0,Branch,50,Used S-Move?,2000,Go to 2000
+1000,*,172,Kantor,True,0,Branch,23,Rating 30%,10000,Attack
+1010,*,172,Kantor,True,0,Branch,30,Always,10010,Thunder of Fury
+2000,*,172,Kantor,True,0,Branch,27,Rating 70%,10000,Attack
+2010,*,172,Kantor,True,0,Branch,30,Always,10010,Thunder of Fury
+10000,*,172,Kantor,True,1,Action,550,Attack,2,Random PC
+10010,*,172,Kantor,True,1,Action,5,Thunder of Fury,2,Random PC
 100,*,173,Piastol,False,0,Branch,2,HP < 25%,2500,Go to 2500
 200,*,173,Piastol,False,0,Branch,17,ECs Alive = 1,2800,Go to 2800
 300,*,173,Piastol,False,0,Branch,19,SP ≤ 50%,600,Go to 600
@@ -2985,13 +2995,15 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 4000,*,173,Piastol,False,1,Action,519,Eternum,2,Random PC
 4100,*,173,Piastol,False,1,Action,522,Wevlen,2,Random PC
 4200,*,173,Piastol,False,1,Action,551,Guard,-1,None
-100,*,174,Kantor,Undefined,0,Branch,50,Used S-Move?,400,Go to 400
-200,*,174,Kantor,Undefined,0,Branch,23,Rating 30%,600,Go to 600
-300,*,174,Kantor,Undefined,0,Branch,30,Always,700,Go to 700
-400,*,174,Kantor,Undefined,0,Branch,27,Rating 70%,600,Go to 600
-500,*,174,Kantor,Undefined,0,Branch,30,Always,700,Go to 700
-600,*,174,Kantor,Undefined,1,Action,550,Attack,2,Random PC
-700,*,174,Kantor,Undefined,1,Action,5,Thunder of Fury,2,Random PC
+0,*,174,Kantor,True,0,Branch,11,Turn 1,1000,Go to 1000
+10,*,174,Kantor,True,0,Branch,12,Turn 2,1000,Go to 1000
+20,*,174,Kantor,True,0,Branch,50,Used S-Move?,2000,Go to 2000
+1000,*,174,Kantor,True,0,Branch,23,Rating 30%,10000,Attack
+1010,*,174,Kantor,True,0,Branch,30,Always,10010,Thunder of Fury
+2000,*,174,Kantor,True,0,Branch,27,Rating 70%,10000,Attack
+2010,*,174,Kantor,True,0,Branch,30,Always,10010,Thunder of Fury
+10000,*,174,Kantor,True,1,Action,550,Attack,2,Random PC
+10010,*,174,Kantor,True,1,Action,5,Thunder of Fury,2,Random PC
 100,*,175,Polraxis,Undefined,0,Branch,21,Rating 10%,300,Go to 300
 200,*,175,Polraxis,Undefined,1,Action,550,Attack,2,Random PC
 300,*,175,Polraxis,Undefined,1,Action,551,Guard,-1,None
