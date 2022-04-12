@@ -1956,10 +1956,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10025,*,133,Royal Guard,True,1,Action,506,Sacri,22,Self
 10030,*,133,Royal Guard,True,1,Action,533,Electres,2,Random PC
 10040,*,133,Royal Guard,True,1,Action,533,Electres,23,Aika
-0,*,134,Rokwyrm,True,0,Branch,17,ECs Alive = 1,2000,Go to 2000
-10,*,134,Rokwyrm,True,0,Branch,14,Turn 4,2000,Go to 2000
-20,*,134,Rokwyrm,True,0,Branch,37,Turn ≥ 5,2000,Go to 2000
-30,*,134,Rokwyrm,True,0,Branch,1,HP < 50%,3000,Go to 3000
+0,*,134,Rokwyrm,True,0,Branch,1,HP < 50%,3000,Go to 3000
+10,*,134,Rokwyrm,True,0,Branch,17,ECs Alive = 1,2000,Go to 2000
+20,*,134,Rokwyrm,True,0,Branch,14,Turn 4,2000,Go to 2000
+30,*,134,Rokwyrm,True,0,Branch,37,Turn ≥ 5,2000,Go to 2000
 1000,*,134,Rokwyrm,True,0,Branch,25,Rating 50%,10020,Cinder Storm
 1010,*,134,Rokwyrm,True,0,Branch,50,Used S-Move?,1040,Go to 1040
 1020,*,134,Rokwyrm,True,0,Branch,12,Turn 2,10020,Cinder Storm

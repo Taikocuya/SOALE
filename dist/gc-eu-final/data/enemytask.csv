@@ -1956,10 +1956,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 4100,*,133,Royal Guard,Sceptrum Praeses,1,Action,506,Sacri,22,Self
 4200,*,133,Royal Guard,Sceptrum Praeses,1,Action,533,Electres,2,Random PC
 4300,*,133,Royal Guard,Sceptrum Praeses,1,Action,533,Electres,23,Aika
-100,*,134,Rokwyrm,Rokwyrm,0,Branch,17,ECs Alive = 1,1000,Go to 1000
-200,*,134,Rokwyrm,Rokwyrm,0,Branch,14,Turn 4,1000,Go to 1000
-300,*,134,Rokwyrm,Rokwyrm,0,Branch,37,Turn ≥ 5,1000,Go to 1000
-400,*,134,Rokwyrm,Rokwyrm,0,Branch,1,HP < 50%,1700,Go to 1700
+100,*,134,Rokwyrm,Rokwyrm,0,Branch,1,HP < 50%,1700,Go to 1700
+200,*,134,Rokwyrm,Rokwyrm,0,Branch,17,ECs Alive = 1,1000,Go to 1000
+300,*,134,Rokwyrm,Rokwyrm,0,Branch,14,Turn 4,1000,Go to 1000
+400,*,134,Rokwyrm,Rokwyrm,0,Branch,37,Turn ≥ 5,1000,Go to 1000
 500,*,134,Rokwyrm,Rokwyrm,0,Branch,25,Rating 50%,2500,Go to 2500
 600,*,134,Rokwyrm,Rokwyrm,0,Branch,50,Used S-Move?,900,Go to 900
 700,*,134,Rokwyrm,Rokwyrm,0,Branch,12,Turn 2,2500,Go to 2500
