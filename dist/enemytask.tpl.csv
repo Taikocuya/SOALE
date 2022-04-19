@@ -2770,9 +2770,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1000,*,166,Spell Warden,True,0,Branch,51,Used Focus?,4000,Go to 4000
 1010,*,166,Spell Warden,True,0,Branch,33,Used Attack Spells ≥ 1,1030,Go to 1030
 1020,*,166,Spell Warden,True,0,Branch,27,Rating 70%,4000,Go to 4000
-1030,*,166,Spell Warden,True,0,Branch,49,Used Spell?,2000,Go to 2000
-1040,*,166,Spell Warden,True,0,Branch,23,Rating 30%,4000,Go to 4000
-2000,*,166,Spell Warden,True,0,Branch,22,Rating 20%,10030,Crystalum
+1030,*,166,Spell Warden,True,0,Branch,49,Used Spell?,3000,Go to 3000
+1040,*,166,Spell Warden,True,0,Branch,25,Rating 50%,4000,Go to 4000
 3000,*,166,Spell Warden,True,0,Branch,26,Rating 60%,10050,Focus
 3010,*,166,Spell Warden,True,0,Branch,26,Rating 60%,10010,Guard
 3020,*,166,Spell Warden,True,0,Branch,30,Always,10000,Attack
