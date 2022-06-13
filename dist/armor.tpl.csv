@@ -53,7 +53,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 131,Silver Armor,False,0b00111111,X,X,X,X,X,X,100,8580,17,Defense,160,18,MagDef,160,37,Silver,-2,-1,None,0
 132,Victory Mail,True,0b00111111,X,X,X,X,X,X,100,620,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5
 133,Flame Mantle,True,0b00100111,X,,,X,X,X,100,390,17,Defense,74,18,MagDef,69,-1,None,0,-1,None,0
-134,Female Armor,Undefined,0b00011000,,X,X,,,,100,660,17,Defense,92,18,MagDef,99,-1,None,0,-1,None,0
+134,Female Armor,True,0b00011000,,X,X,,,,100,660,17,Defense,92,18,MagDef,99,-1,None,0,-1,None,0
 135,Ghost Mail,False,0b00110101,X,X,,X,,X,100,1310,17,Defense,128,18,MagDef,128,-1,None,0,-1,None,0
 136,Light Coat,Undefined,0b00001010,,,X,,X,,100,830,17,Defense,103,18,MagDef,103,19,Hit%,10,20,Dodge%,5
 137,Fiber Mail,False,0b00100101,X,,,X,,X,100,2180,17,Defense,164,18,MagDef,139,-1,None,0,-1,None,0

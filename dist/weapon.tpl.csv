@@ -9,7 +9,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 7,Nasr Cutlass,True,0,Vyse,50,-1,None,1340,70,90,-1,None,0,0
 8,Sword of Daccat,False,0,Vyse,50,1,Sleep by 50%,4690,120,90,-1,None,0,0
 9,Hunter's Sword,True,0,Vyse,50,-1,None,2280,87,90,-1,None,0,0
-10,Stonecutter,Undefined,0,Vyse,50,-1,None,3120,99,90,-1,None,0,0
+10,Stonecutter,True,0,Vyse,50,-1,None,3120,99,90,-1,None,0,0
 11,Dream Cutlass,False,0,Vyse,50,-1,None,6690,137,90,35,Blue,0,-2
 12,Windslicer,False,0,Vyse,50,-1,None,8760,153,90,-1,None,0,0
 13,Vorlik Blade,False,0,Vyse,50,-1,None,16500,200,90,-1,None,0,0
@@ -55,7 +55,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 53,Beak Hand,True,3,Drachma,50,5,Confusion by 20%,880,60,80,-1,None,0,0
 54,De Loco Drill,True,3,Drachma,50,6,Unconscious by 10%,2600,95,80,-1,None,0,0
 55,Excavation Arm,True,3,Drachma,50,-1,None,1340,73,80,-1,None,0,0
-56,Ruin Arm,Undefined,3,Drachma,50,-1,None,3860,112,80,-1,None,0,0
+56,Ruin Arm,True,3,Drachma,50,-1,None,3860,112,80,-1,None,0,0
 57,Silver Arm,False,3,Drachma,50,-1,None,13710,190,80,37,Silver,0,-2
 58,Rapier,False,4,Enrique,50,12,Silence by 20%,4200,122,95,-1,None,0,0
 59,Stoneblade,False,4,Enrique,50,13,Stone by 10%,9850,171,95,-1,None,0,0

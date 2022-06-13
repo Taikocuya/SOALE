@@ -24,11 +24,11 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 182,Ivy Band,True,0b00111111,X,X,X,X,X,X,50,520,48,Poison,-5,32,Green,-2,17,Defense,12,18,MagDef,12
 183,Silvite Ring,True,0b00111111,X,X,X,X,X,X,50,760,49,Unconscious,-5,37,Silver,-2,17,Defense,18,18,MagDef,18
 184,Gem of Fluidity,True,0b00111111,X,X,X,X,X,X,50,350,50,Stone,-5,17,Defense,10,18,MagDef,10,-1,None,0
-185,Wind Gem Ring,True,0b00111111,X,X,X,X,X,X,50,710,51,Sleep,-5,35,Blue,-2,17,Defense,18,18,MagDef,18
-186,Eye of Truth,Undefined,0b00111111,X,X,X,X,X,X,50,100,52,Confusion,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
+185,Wind Gem Ring,True,0b00111111,X,X,X,X,X,X,50,730,51,Sleep,-5,35,Blue,-2,17,Defense,18,18,MagDef,18
+186,Eye of Truth,True,0b00111111,X,X,X,X,X,X,50,710,52,Confusion,-5,34,Purple,-2,17,Defense,18,18,MagDef,18
 187,Revered Voice,True,0b00111111,X,X,X,X,X,X,50,480,53,Silence,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
 188,Everlasting Gem,True,0b00111111,X,X,X,X,X,X,50,680,54,Fatigue,-5,17,Defense,22,18,MagDef,22,-1,None,0
-189,Behemoth's Ring,True,0b00111111,X,X,X,X,X,X,50,710,56,Weak,-5,36,Yellow,-2,17,Defense,18,18,MagDef,18
+189,Behemoth's Ring,True,0b00111111,X,X,X,X,X,X,50,740,56,Weak,-5,36,Yellow,-2,17,Defense,18,18,MagDef,18
 190,Constitution Gem,False,0b00000101,,,,X,,X,50,1000,79,Block Neg States,-3,17,Defense,10,18,MagDef,10,-1,None,0
 191,Nomadic Veil,True,0b00111111,X,X,X,X,X,X,50,640,17,Defense,18,18,MagDef,18,-1,None,0,-1,None,0
 192,Radiant Fur,False,0b00111111,X,X,X,X,X,X,50,3580,17,Defense,24,18,MagDef,24,-1,None,0,-1,None,0

@@ -1,13 +1,13 @@
 Entry ID,[Entry Name],[Finalized],Element ID,[Element Name],Order,Occasion Flags,[M],[B],[S],Effect ID,[Effect Name],Scope ID,[Scope Name],Category ID,[Category Name],Effect Speed,Effect SP,Effect Base,Type ID,[Type Name],State ID,[State Name],State Miss%,Ship Occ ID,[Ship Occ Name],Pad 6,Ship Eff ID,[Ship Eff Name],Ship Eff SP,Ship Eff Turns,Ship Eff Base,Unk
 36,Cutlass Fury,True,6,Neutral,200,0b0010,,X,,0,Damage,3,Single EC,0,Vyse,1,7,25,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
-37,Rain of Swords,Undefined,6,Neutral,202,0b0010,,X,,0,Damage,4,All ECs,0,Vyse,1,14,15,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
+37,Rain of Swords,True,6,Neutral,202,0b0010,,X,,0,Damage,4,All ECs,0,Vyse,1,10,10,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 38,Pirates' Wrath,Undefined,6,Neutral,204,0b0010,,X,,0,Damage,3,Single EC,0,Vyse,1,21,75,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 39,Omega Psyclone,False,1,Red,214,0b0010,,X,,0,Damage,4,All ECs,1,Aika,1,12,230,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 40,Alpha Storm,True,1,Red,210,0b0010,,X,,0,Damage,39,EC Ray S3,1,Aika,1,4,60,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
-41,Lambda Burst,False,1,Red,212,0b0010,,X,,0,Damage,4,All ECs,1,Aika,1,8,130,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
-42,Lunar Glyph,Undefined,5,Silver,221,0b0010,,X,,8,Stone + Damage,3,Single EC,2,Fina,1,4,110,0,Physical,2,Stone,30,0,Magic Cannon,0,0,Damage,0,0,0,0
+41,Lambda Burst,True,1,Red,212,0b0010,,X,,0,Damage,4,All ECs,1,Aika,1,6,90,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
+42,Lunar Glyph,True,5,Silver,221,0b0010,,X,,8,Stone + Damage,3,Single EC,2,Fina,1,4,110,0,Physical,2,Stone,30,0,Magic Cannon,0,0,Damage,0,0,0,0
 43,Lunar Winds,Undefined,5,Silver,223,0b0010,,X,,17,Rem Pos States + Damage,4,All ECs,2,Fina,1,10,180,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
-44,Tackle,Undefined,6,Neutral,230,0b0010,,X,,0,Damage,3,Single EC,3,Drachma,1,10,30,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
+44,Tackle,True,6,Neutral,230,0b0010,,X,,0,Damage,3,Single EC,3,Drachma,1,10,30,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 45,Hand of Fate,Undefined,6,Neutral,232,0b0010,,X,,68,Unconscious + Damage B,3,Single EC,3,Drachma,1,25,90,0,Physical,1,Unconscious,90,0,Magic Cannon,0,0,Damage,0,0,0,0
 46,Royal Blade,Undefined,6,Neutral,240,0b0010,,X,,0,Damage,3,Single EC,4,Enrique,1,8,40,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 47,The Judgement,Undefined,6,Neutral,242,0b0010,,X,,0,Damage,3,Single EC,4,Enrique,1,16,80,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
@@ -15,12 +15,12 @@ Entry ID,[Entry Name],[Finalized],Element ID,[Element Name],Order,Occasion Flags
 49,The Claudia,Undefined,6,Neutral,252,0b0010,,X,,0,Damage,4,All ECs,5,Gilder,1,18,15,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 50,Counterstrike,True,6,Neutral,301,0b0010,,X,,38,Counter% to 100% + Guard,5,Self,0,Vyse,2,0,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 51,Skull Shield,False,6,Neutral,303,0b0010,,X,,46,Counter% to 100% + Block Attack,2,All PCs,0,Vyse,2,5,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
-52,Delta Shield,False,6,Neutral,311,0b0010,,X,,39,Block Magic,2,All PCs,1,Aika,2,6,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
+52,Delta Shield,Assigned,6,Neutral,311,0b0010,,X,,39,Block Magic,2,All PCs,1,Aika,2,5,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 53,Epsilon Mirror,False,6,Neutral,313,0b0010,,X,,77,Recover MP + Invulnerable,5,Self,1,Aika,2,6,10,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
-54,Lunar Blessing,False,6,Neutral,320,0b0010,,X,,33,Regenerate,2,All PCs,2,Fina,1,8,100,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
+54,Lunar Blessing,True,6,Neutral,320,0b0010,,X,,33,Regenerate,2,All PCs,2,Fina,1,8,100,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 55,Lunar Cleansing,False,6,Neutral,322,0b0010,,X,,30,Rem Neg States B,2,All PCs,2,Fina,1,6,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 56,Lunar Light,False,6,Neutral,324,0b0010,,X,,47,Recover HP & MP + Rem Neg States,2,All PCs,2,Fina,1,18,10000,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
-57,Spirit Charge,False,6,Neutral,331,0b0010,,X,,41,Recover SP by 200% + Guard,5,Self,3,Drachma,2,0,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
+57,Spirit Charge,True,6,Neutral,331,0b0010,,X,,41,Recover SP by 200% + Guard,5,Self,3,Drachma,2,0,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 58,Justice Shield,False,6,Neutral,341,0b0010,,X,,1,Guard,2,All PCs,4,Enrique,2,12,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 59,Aura of Denial,False,6,Neutral,351,0b0010,,X,,42,Block Neg States,2,All PCs,5,Gilder,2,6,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
 60,Blue Rogues,Undefined,6,Neutral,-1,0b0010,,X,,66,Crew Special B,6,All PCs & ECs,0,Vyse,-1,-1,0,0,Physical,-1,None,0,0,Magic Cannon,0,0,Damage,0,0,0,0
