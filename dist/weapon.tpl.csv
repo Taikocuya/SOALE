@@ -29,7 +29,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 27,Storm Wing,True,1,Aika,50,2,Weak by 10%,1280,69,150,-1,None,0,0
 28,Moon Wing,False,1,Aika,50,-1,None,10170,161,110,-1,None,0,0
 29,Hydra Wing,False,1,Aika,50,-1,None,11390,168,110,-1,None,0,0
-30,Grendel Wing,Undefined,1,Aika,50,-1,None,2820,96,150,32,Green,0,-2
+30,Grendel Wing,True,1,Aika,50,-1,None,2820,96,150,32,Green,0,-2
 31,Flutter Blade,False,1,Aika,50,3,Confusion by 20%,8910,153,110,-1,None,0,0
 32,Cupil,True,2,Fina,0,-1,None,0,58,120,-1,None,0,0
 33,Cupil Lance,True,2,Fina,0,-1,None,0,110,120,-1,None,0,0

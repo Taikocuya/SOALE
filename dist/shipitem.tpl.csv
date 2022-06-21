@@ -16,7 +16,7 @@ Entry ID,[Entry name],[Finalized],Occasion Flags,[M],[B],[S],Ship Eff ID,[Ship E
 494,Gear Grease,False,0b0001,,,X,102,Recover SP,-1,100,1600,100,10,6,Neutral,0,0,0
 495,Thermal Grease,False,0b0001,,,X,103,Recover SP by 100%,-1,100,5000,100,0,6,Neutral,0,0,0
 496,Captain's Stripe,True,0b0100,X,,,115,Grow All Attr,-1,100,50000,0,0,6,Neutral,0,0,0
-497,Apa Wax,Assigned,0b0001,,,X,105,Incr Attack + Defense,2,100,1500,50,0,1,Red,0,0,0
+497,Apa Wax,False,0b0001,,,X,105,Incr Attack + Defense,2,100,1500,50,0,1,Red,0,0,0
 498,Apo Wax,False,0b0001,,,X,105,Incr Attack + Defense,4,100,3500,50,0,1,Red,0,0,0
 499,Speed Wax,False,0b0001,,,X,104,Incr Quick,1,100,1000,50,0,3,Blue,0,0,0
 500,Hybrid Wax,False,0b0001,,,X,108,Incr All Attr,1,100,1200,50,50,6,Neutral,0,0,0

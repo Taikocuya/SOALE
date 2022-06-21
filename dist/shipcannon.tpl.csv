@@ -22,7 +22,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Typ
 420,Light Torpedo,True,0b00110000,X,X,,,,2,Torpedo,6,Neutral,120,60,2,2,-1,None,0,1520,50
 421,Guided Torpedo,True,0b00110000,X,X,,,,2,Torpedo,6,Neutral,160,70,2,3,-1,None,0,1760,50
 422,Shock Torpedo,True,0b00110000,X,X,,,,2,Torpedo,6,Neutral,140,55,2,2,-1,None,0,2000,50
-423,Hunter Torpedo,Undefined,0b00110000,X,X,,,,2,Torpedo,0,Green,160,60,3,2,-1,None,0,2240,50
+423,Hunter Torpedo,True,0b00110000,X,X,,,,2,Torpedo,0,Green,160,60,3,2,-1,None,0,2240,50
 424,Valuan Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,220,60,2,3,-1,None,0,2400,50
 425,Heavy Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,250,50,3,4,-1,None,0,4400,50
 426,Serpent Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,300,65,2,4,-1,None,0,5360,50
