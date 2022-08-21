@@ -31,9 +31,9 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Typ
 429,Dragon Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,450,60,2,7,-1,None,0,8800,50
 430,Harpoon Cannon,True,0b00100000,X,,,,,3,Special,6,Neutral,350,65535,0,15,-1,None,0,0,0
 431,MoonStone Cannon,False,0b00001110,,,X,X,X,3,Special,6,Neutral,800,65535,0,20,-1,None,0,0,0
-432,Moon Cannon,False,0b00111110,X,X,X,X,X,0,Main Cannon,6,Neutral,500,99,0,9,-1,None,0,1000,100
-433,Moon Gun,False,0b00111110,X,X,X,X,X,1,Sec Cannon,6,Neutral,400,99,3,5,-1,None,0,1000,100
-434,Moon Torpedo,False,0b00111110,X,X,X,X,X,2,Torpedo,6,Neutral,600,75,3,6,-1,None,0,1000,100
+432,Moon Cannon,False,0b00001110,,,X,X,X,0,Main Cannon,6,Neutral,500,99,0,9,-1,None,0,1000,100
+433,Moon Gun,False,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,400,99,3,5,-1,None,0,1000,100
+434,Moon Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,6,Neutral,600,75,3,6,-1,None,0,1000,100
 435,Pyril Cannon,False,0b00001110,,,X,X,X,0,Main Cannon,1,Red,200,120,0,6,-1,None,0,13200,50
 436,Wevl Cannon,False,0b00001110,,,X,X,X,1,Sec Cannon,3,Blue,180,120,3,4,-1,None,0,10200,50
 437,Electril Torpedo,False,0b00001110,,,X,X,X,2,Torpedo,4,Yellow,500,50,3,6,-1,None,0,1000,50

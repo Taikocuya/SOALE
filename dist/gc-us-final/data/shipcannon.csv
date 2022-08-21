@@ -31,9 +31,9 @@ Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Ele
 429,Dragon Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,450,60,2,7,-1,None,0,0,8800,50,29,15,0,0x2ceb58,96,A torpedo that emphasizes firepower more than\nrange. Does a great deal of damage when it hits.
 430,Harpoon Cannon,0b00100000,X,"","","","",3,Special,6,Neutral,350,65535,0,15,-1,None,0,0,0,0,30,20,0,0x2cebb8,72,The Little Jack's ultimate weapon. It was\nacquired to destroy Rhaknam.
 431,MoonStone Cannon,0b00001110,"","",X,X,X,3,Special,6,Neutral,800,65535,0,20,-1,None,0,0,0,0,31,30,0,0x2cec00,96,The ultimate weapon of the Delphinus. Builds up\nMoon energy and releases it in a massive blast.
-432,Moon Cannon,0b00111110,X,X,X,X,X,0,Main Cannon,6,Neutral,500,99,0,9,-1,None,0,0,1000,100,32,27,0,0x2cec60,72,A main cannon that uses both Moonstone energy\nand gunpowder to fire.
-433,Moon Gun,0b00111110,X,X,X,X,X,1,Sec Cannon,6,Neutral,400,99,3,5,-1,None,0,0,1000,100,33,28,0,0x2ceca8,80,A secondary cannon that relies on Moonstone\nenergy instead of draining Spirit.
-434,Moon Torpedo,0b00111110,X,X,X,X,X,2,Torpedo,6,Neutral,600,75,3,6,-1,None,0,0,1000,100,34,29,0,0x2cecf8,72,A torpedo that uses Moonstone energy to keep\nSpirit consumption low.
+432,Moon Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,500,99,0,9,-1,None,0,0,1000,100,32,27,0,0x2cec60,72,A main cannon that uses both Moonstone energy\nand gunpowder to fire.
+433,Moon Gun,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,400,99,3,5,-1,None,0,0,1000,100,33,28,0,0x2ceca8,80,A secondary cannon that relies on Moonstone\nenergy instead of draining Spirit.
+434,Moon Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,600,75,3,6,-1,None,0,0,1000,100,34,29,0,0x2cecf8,72,A torpedo that uses Moonstone energy to keep\nSpirit consumption low.
 435,Pyril Cannon,0b00001110,"","",X,X,X,0,Main Cannon,1,Red,200,120,0,6,-1,None,0,0,13200,50,35,32,0,0x2ced40,84,"A rotating cannon designed for battleships.\nHas Red properties, and high accuracy."
 436,Wevl Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,3,Blue,180,120,3,4,-1,None,0,0,10200,50,36,37,0,0x2ced94,88,"A secondary cannon designed for battleships.\nHas Blue properties, and high accuracy."
 437,Electril Torpedo,0b00001110,"","",X,X,X,2,Torpedo,4,Yellow,500,50,3,6,-1,None,0,0,1000,50,37,16,0,0x2cedec,84,"A torpedo designed for large warships. Has\nYellow properties, and great firepower."

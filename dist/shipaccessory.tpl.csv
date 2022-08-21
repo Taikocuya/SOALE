@@ -1,7 +1,7 @@
 Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[Trait 1 Name],Trait 1 Value,Trait 2 ID,[Trait 2 Name],Trait 2 Value,Trait 3 ID,[Trait 3 Name],Trait 3 Value,Trait 4 ID,[Trait 4 Name],Trait 4 Value,Buy,Sell%
 440,Rogue Figure,True,0b00111110,X,X,X,X,X,7,Value,800,3,MagDef,11,-1,None,0,-1,None,0,800,50
 441,Pryn Figure,True,0b00111110,X,X,X,X,X,7,Value,2400,3,MagDef,16,-1,None,0,-1,None,0,2400,50
-442,Pyrynn Figure,False,0b00111110,X,X,X,X,X,7,Value,4400,3,MagDef,20,-1,None,0,-1,None,0,4400,50
+442,Pyrynn Figure,Assigned,0b00111110,X,X,X,X,X,7,Value,4400,3,MagDef,20,-1,None,0,-1,None,0,4400,50
 443,Arcwhale Figure,False,0b00111110,X,X,X,X,X,7,Value,4640,3,MagDef,25,-1,None,0,-1,None,0,4640,50
 444,Quetya Figure,False,0b00111110,X,X,X,X,X,7,Value,4880,3,MagDef,30,-1,None,0,-1,None,0,4880,50
 445,Giant Figure,False,0b00111110,X,X,X,X,X,7,Value,5120,3,MagDef,40,-1,None,0,-1,None,0,5120,50

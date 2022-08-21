@@ -55,7 +55,7 @@ Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect N
 293,Orb of Serenity,Undefined,0b0000,,,,-1,None,0,None,0,100,10000,0,-1,None,-1,None,-1,None,0
 294,Kabal Skewer,False,0b0110,X,X,,48,Recover MP,1,Single PC,100,100,150,2,-1,None,-1,None,-1,None,0
 295,Mom's Skewer,False,0b0110,X,X,,49,Recover MP of 100%,1,Single PC,100,100,2000,100,-1,None,-1,None,-1,None,0
-296,Tropica,False,0b0100,X,,,59,Grow MAXHP,1,Single PC,100,100,1000,100,-1,None,-1,None,-1,None,0
+296,Tropica,True,0b0100,X,,,59,Grow MAXHP,1,Single PC,100,100,1000,100,-1,None,-1,None,-1,None,0
 297,Urala's Lunch,False,0b0100,X,,,51,Recover HP & MP by 100% B,1,Single PC,100,100,200,10000,-1,None,-1,None,-1,None,0
 298,Polly Special,False,0b0100,X,,,51,Recover HP & MP by 100% B,1,Single PC,100,100,200,10000,-1,None,-1,None,-1,None,0
 299,Magillex Idol,False,0b0000,,,,-1,None,0,None,0,100,25000,0,-1,None,-1,None,-1,None,0

@@ -1103,30 +1103,30 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 13,r558a.tec,4,Valuan Gunboat,True,3,1,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,-1,None,-1,None,-1,None,0
 14,r558a.tec,4,Valuan Gunboat,True,3,2,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
 15,r558a.tec,4,Valuan Gunboat,True,3,3,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,3,Guard,-1,None,-1,None,0
-0,r559a.tec,22,Spell Pirates,Undefined,0,0,-1,None,0,None,0,Attack,1,Black Torpedo,-1,None,3,0,Attack,-1,None,-1,None,0
-1,r559a.tec,22,Spell Pirates,Undefined,0,1,3,Rating,50,%,0,Attack,0,Black Cannon,-1,None,0,0,Attack,1,Black Torpedo,-1,None,2
-2,r559a.tec,22,Spell Pirates,Undefined,0,2,3,Rating,70,%,1,Magic,-1,None,25,Pyrum,0,2,Focus,-1,None,-1,None,0
-3,r559a.tec,22,Spell Pirates,Undefined,0,3,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,0,Attack,-1,None,-1,None,0
-4,r559a.tec,22,Spell Pirates,Undefined,1,0,3,Rating,50,%,0,Attack,1,Black Torpedo,-1,None,3,2,Focus,-1,None,-1,None,0
-5,r559a.tec,22,Spell Pirates,Undefined,1,1,3,Rating,65,%,1,Magic,-1,None,25,Pyrum,0,1,Magic,-1,None,6,Sacri,0
-6,r559a.tec,22,Spell Pirates,Undefined,1,2,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-7,r559a.tec,22,Spell Pirates,Undefined,1,3,-1,None,0,None,2,Focus,-1,None,-1,None,0,-1,None,-1,None,-1,None,0
-8,r559a.tec,22,Spell Pirates,Undefined,2,0,3,Rating,35,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,Black Cannon,-1,None,0
-9,r559a.tec,22,Spell Pirates,Undefined,2,1,3,Rating,50,%,0,Attack,1,Black Torpedo,-1,None,1,2,Focus,-1,None,0,Focus,0
-10,r559a.tec,22,Spell Pirates,Undefined,2,2,-1,None,0,None,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,-1,None,0
-11,r559a.tec,22,Spell Pirates,Undefined,2,3,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,25,Pyrum,0
-12,r559a.tec,22,Spell Pirates,Undefined,3,0,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
-13,r559a.tec,22,Spell Pirates,Undefined,3,1,3,Rating,50,%,0,Attack,1,Black Torpedo,-1,None,2,4,Nothing,-1,None,0,Awaiting Orders,0
-14,r559a.tec,22,Spell Pirates,Undefined,3,2,3,Rating,50,%,0,Attack,0,Black Cannon,-1,None,0,0,Attack,1,Black Torpedo,-1,None,1
-15,r559a.tec,22,Spell Pirates,Undefined,3,3,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,-1,None,-1,None,-1,None,0
-16,r559a.tec,22,Spell Pirates,Undefined,4,0,3,Rating,50,%,0,Attack,1,Black Torpedo,-1,None,1,0,Attack,1,Black Torpedo,-1,None,2
-17,r559a.tec,22,Spell Pirates,Undefined,4,1,3,Rating,50,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-18,r559a.tec,22,Spell Pirates,Undefined,4,2,-1,None,0,None,1,Magic,-1,None,25,Pyrum,0,-1,None,-1,None,-1,None,0
-19,r559a.tec,22,Spell Pirates,Undefined,4,3,-1,None,0,None,1,Magic,-1,None,25,Pyrum,0,-1,None,-1,None,-1,None,0
-20,r559a.tec,22,Spell Pirates,Undefined,5,0,-1,None,0,None,2,Focus,-1,None,-1,None,0,-1,None,-1,None,-1,None,0
-21,r559a.tec,22,Spell Pirates,Undefined,5,1,-1,None,0,None,0,Attack,1,Black Torpedo,0,None,1,-1,None,-1,None,-1,None,0
-22,r559a.tec,22,Spell Pirates,Undefined,5,2,3,Rating,41,%,4,Nothing,0,None,-1,None,0,2,Focus,-1,None,-1,None,0
-23,r559a.tec,22,Spell Pirates,Undefined,5,3,-1,None,0,None,4,Nothing,-1,None,-1,None,0,-1,None,-1,None,-1,None,0
+0,r559a.tec,22,Spell Pirates,True,0,0,-1,None,0,None,0,Attack,1,Black Torpedo,-1,None,3,0,Attack,-1,None,-1,None,0
+1,r559a.tec,22,Spell Pirates,True,0,1,3,Rating,50,%,0,Attack,0,Black Cannon,-1,None,0,0,Attack,1,Black Torpedo,-1,None,2
+2,r559a.tec,22,Spell Pirates,True,0,2,3,Rating,70,%,1,Magic,-1,None,24,Pyres,0,2,Focus,-1,None,-1,None,0
+3,r559a.tec,22,Spell Pirates,True,0,3,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,0,Attack,-1,None,-1,None,0
+4,r559a.tec,22,Spell Pirates,True,1,0,3,Rating,50,%,0,Attack,1,Black Torpedo,-1,None,3,2,Focus,-1,None,-1,None,0
+5,r559a.tec,22,Spell Pirates,True,1,1,3,Rating,65,%,1,Magic,-1,None,24,Pyres,0,1,Magic,-1,None,6,Sacri,0
+6,r559a.tec,22,Spell Pirates,True,1,2,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+7,r559a.tec,22,Spell Pirates,True,1,3,-1,None,0,None,2,Focus,-1,None,-1,None,0,-1,None,-1,None,-1,None,0
+8,r559a.tec,22,Spell Pirates,True,2,0,3,Rating,35,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,Black Cannon,-1,None,0
+9,r559a.tec,22,Spell Pirates,True,2,1,3,Rating,50,%,0,Attack,1,Black Torpedo,-1,None,1,2,Focus,-1,None,0,Focus,0
+10,r559a.tec,22,Spell Pirates,True,2,2,-1,None,0,None,2,Focus,-1,None,0,Focus,0,-1,None,-1,None,-1,None,0
+11,r559a.tec,22,Spell Pirates,True,2,3,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,1,Magic,-1,None,24,Pyres,0
+12,r559a.tec,22,Spell Pirates,True,3,0,3,Rating,80,%,0,Attack,0,Black Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
+13,r559a.tec,22,Spell Pirates,True,3,1,3,Rating,50,%,0,Attack,1,Black Torpedo,-1,None,2,4,Nothing,-1,None,0,Awaiting Orders,0
+14,r559a.tec,22,Spell Pirates,True,3,2,3,Rating,50,%,0,Attack,0,Black Cannon,-1,None,0,0,Attack,1,Black Torpedo,-1,None,1
+15,r559a.tec,22,Spell Pirates,True,3,3,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,-1,None,-1,None,-1,None,0
+16,r559a.tec,22,Spell Pirates,True,4,0,3,Rating,50,%,0,Attack,1,Black Torpedo,-1,None,1,0,Attack,1,Black Torpedo,-1,None,2
+17,r559a.tec,22,Spell Pirates,True,4,1,3,Rating,50,%,0,Attack,0,Black Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+18,r559a.tec,22,Spell Pirates,True,4,2,-1,None,0,None,1,Magic,-1,None,24,Pyres,0,-1,None,-1,None,-1,None,0
+19,r559a.tec,22,Spell Pirates,True,4,3,-1,None,0,None,1,Magic,-1,None,24,Pyres,0,-1,None,-1,None,-1,None,0
+20,r559a.tec,22,Spell Pirates,True,5,0,-1,None,0,None,2,Focus,-1,None,-1,None,0,-1,None,-1,None,-1,None,0
+21,r559a.tec,22,Spell Pirates,True,5,1,-1,None,0,None,0,Attack,1,Black Torpedo,0,None,1,-1,None,-1,None,-1,None,0
+22,r559a.tec,22,Spell Pirates,True,5,2,3,Rating,41,%,4,Nothing,0,None,-1,None,0,2,Focus,-1,None,-1,None,0
+23,r559a.tec,22,Spell Pirates,True,5,3,-1,None,0,None,4,Nothing,-1,None,-1,None,0,-1,None,-1,None,-1,None,0
 0,r560a.tec,1,Valuan Spellship,False,0,0,3,Rating,50,%,0,Attack,0,Small Cannon,-1,None,0,0,Attack,1,Light Subcannon,-1,None,0
 1,r560a.tec,1,Valuan Spellship,False,0,1,-1,None,0,None,0,Attack,1,Light Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
 2,r560a.tec,1,Valuan Spellship,False,0,2,3,Rating,75,%,1,Magic,-1,None,24,Pyres,0,0,Attack,0,Small Cannon,-1,None,0
