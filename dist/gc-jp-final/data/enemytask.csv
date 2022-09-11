@@ -2414,50 +2414,49 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1100,*,154,Eliminator,1,Action,9,ターゲットサーチ,-1,None
 1200,*,154,Eliminator,1,Action,99,ブラスター,2,Random PC
 1300,*,154,Eliminator,1,Action,31,ソリッドレーザー,13,PC w/o Stone
-100,*,155,Gordo,0,Branch,11,Turn 1,2300,Go to 2300
+100,*,155,Gordo,0,Branch,11,Turn 1,2200,Go to 2200
 200,*,155,Gordo,0,Branch,16,Has Silence?,1500,Go to 1500
 300,*,155,Gordo,0,Branch,1,HP < 50%,600,Go to 600
 400,*,155,Gordo,0,Branch,0,HP = 100%,900,Go to 900
 500,*,155,Gordo,0,Branch,30,Always,800,Go to 800
 600,*,155,Gordo,0,Branch,17,ECs Alive = 1,800,Go to 800
-700,*,155,Gordo,0,Branch,24,Rating 40%,4200,Go to 4200
-800,*,155,Gordo,0,Branch,25,Rating 50%,4200,Go to 4200
-900,*,155,Gordo,0,Branch,17,ECs Alive = 1,2300,Go to 2300
+700,*,155,Gordo,0,Branch,24,Rating 40%,4100,Go to 4100
+800,*,155,Gordo,0,Branch,25,Rating 50%,4100,Go to 4100
+900,*,155,Gordo,0,Branch,17,ECs Alive = 1,2200,Go to 2200
 1000,*,155,Gordo,0,Branch,25,Rating 50%,1200,Go to 1200
-1100,*,155,Gordo,0,Branch,38,Any EC HP < 50%,4200,Go to 4200
-1200,*,155,Gordo,0,Branch,49,Used Spell?,2300,Go to 2300
-1300,*,155,Gordo,0,Branch,25,Rating 50%,4200,Go to 4200
-1400,*,155,Gordo,0,Branch,30,Always,2300,Go to 2300
-1500,*,155,Gordo,0,Branch,55,Used Digest?,2300,Go to 2300
-1600,*,155,Gordo,0,Branch,14,Turn 4,4300,Go to 4300
-1700,*,155,Gordo,0,Branch,15,Turn 8,4300,Go to 4300
-1800,*,155,Gordo,0,Branch,2,HP < 25%,2300,Go to 2300
+1100,*,155,Gordo,0,Branch,38,Any EC HP < 50%,4100,Go to 4100
+1200,*,155,Gordo,0,Branch,49,Used Spell?,2200,Go to 2200
+1300,*,155,Gordo,0,Branch,25,Rating 50%,4100,Go to 4100
+1400,*,155,Gordo,0,Branch,30,Always,2200,Go to 2200
+1500,*,155,Gordo,0,Branch,55,Used Digest?,2200,Go to 2200
+1600,*,155,Gordo,0,Branch,14,Turn 4,4200,Go to 4200
+1700,*,155,Gordo,0,Branch,15,Turn 8,4200,Go to 4200
+1800,*,155,Gordo,0,Branch,1,HP < 50%,2200,Go to 2200
 1900,*,155,Gordo,0,Branch,37,Turn ≥ 5,2100,Go to 2100
-2000,*,155,Gordo,0,Branch,30,Always,2300,Go to 2300
-2100,*,155,Gordo,0,Branch,1,HP < 50%,2300,Go to 2300
-2200,*,155,Gordo,0,Branch,22,Rating 20%,4300,Go to 4300
-2300,*,155,Gordo,0,Branch,1,HP < 50%,3500,Go to 3500
-2400,*,155,Gordo,0,Branch,19,SP ≤ 50%,2600,Go to 2600
-2500,*,155,Gordo,0,Branch,22,Rating 20%,4100,Go to 4100
-2600,*,155,Gordo,0,Branch,21,Rating 10%,4100,Go to 4100
-2700,*,155,Gordo,0,Branch,11,Turn 1,3100,Go to 3100
-2800,*,155,Gordo,0,Branch,55,Used Digest?,3000,Go to 3000
-2900,*,155,Gordo,0,Branch,50,Used S-Move?,3100,Go to 3100
-3000,*,155,Gordo,0,Branch,27,Rating 70%,4400,Go to 4400
-3100,*,155,Gordo,0,Branch,27,Rating 70%,4000,Go to 4000
-3200,*,155,Gordo,0,Branch,62,PCs Alive = 1,4000,Go to 4000
-3300,*,155,Gordo,0,Branch,63,PCs Alive = 2,4000,Go to 4000
-3400,*,155,Gordo,0,Branch,30,Always,4400,Go to 4400
-3500,*,155,Gordo,0,Branch,62,PCs Alive = 1,3900,Go to 3900
-3600,*,155,Gordo,0,Branch,63,PCs Alive = 2,3900,Go to 3900
-3700,*,155,Gordo,0,Branch,25,Rating 50%,4400,Go to 4400
-3800,*,155,Gordo,0,Branch,30,Always,4000,Go to 4000
-3900,*,155,Gordo,0,Branch,23,Rating 30%,4400,Go to 4400
-4000,*,155,Gordo,1,Action,550,Attack,2,Random PC
-4100,*,155,Gordo,1,Action,551,Guard,-1,None
-4200,*,155,Gordo,1,Action,508,サプレス,-1,None
-4300,*,155,Gordo,1,Action,63,腹ごなし,-1,None
-4400,*,155,Gordo,1,Action,182,ウォッカ一気飲み,-1,None
+2000,*,155,Gordo,0,Branch,30,Always,2200,Go to 2200
+2100,*,155,Gordo,0,Branch,22,Rating 20%,4200,Go to 4200
+2200,*,155,Gordo,0,Branch,1,HP < 50%,3400,Go to 3400
+2300,*,155,Gordo,0,Branch,19,SP ≤ 50%,2500,Go to 2500
+2400,*,155,Gordo,0,Branch,22,Rating 20%,4000,Go to 4000
+2500,*,155,Gordo,0,Branch,21,Rating 10%,4000,Go to 4000
+2600,*,155,Gordo,0,Branch,11,Turn 1,3000,Go to 3000
+2700,*,155,Gordo,0,Branch,55,Used Digest?,2900,Go to 2900
+2800,*,155,Gordo,0,Branch,50,Used S-Move?,3000,Go to 3000
+2900,*,155,Gordo,0,Branch,27,Rating 70%,4300,Go to 4300
+3000,*,155,Gordo,0,Branch,27,Rating 70%,3900,Go to 3900
+3100,*,155,Gordo,0,Branch,62,PCs Alive = 1,3900,Go to 3900
+3200,*,155,Gordo,0,Branch,63,PCs Alive = 2,3900,Go to 3900
+3300,*,155,Gordo,0,Branch,30,Always,4300,Go to 4300
+3400,*,155,Gordo,0,Branch,62,PCs Alive = 1,3800,Go to 3800
+3500,*,155,Gordo,0,Branch,63,PCs Alive = 2,3800,Go to 3800
+3600,*,155,Gordo,0,Branch,25,Rating 50%,4300,Go to 4300
+3700,*,155,Gordo,0,Branch,30,Always,3900,Go to 3900
+3800,*,155,Gordo,0,Branch,23,Rating 30%,4300,Go to 4300
+3900,*,155,Gordo,1,Action,550,Attack,2,Random PC
+4000,*,155,Gordo,1,Action,551,Guard,-1,None
+4100,*,155,Gordo,1,Action,508,サプレス,-1,None
+4200,*,155,Gordo,1,Action,63,腹ごなし,-1,None
+4300,*,155,Gordo,1,Action,182,ウォッカ一気飲み,-1,None
 100,*,156,Mad Chef,0,Branch,16,Has Silence?,1000,Go to 1000
 200,*,156,Mad Chef,0,Branch,17,ECs Alive = 1,500,Go to 500
 300,*,156,Mad Chef,0,Branch,62,PCs Alive = 1,1000,Go to 1000

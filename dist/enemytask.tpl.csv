@@ -2431,11 +2431,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 500,*,155,Gordo,True,0,Branch,55,Used Digest?,600,Go to 600
 510,*,155,Gordo,True,0,Branch,14,Turn 4,10030,Digest
 520,*,155,Gordo,True,0,Branch,15,Turn 8,10030,Digest
-530,*,155,Gordo,True,0,Branch,2,HP < 25%,600,Go to 600
+530,*,155,Gordo,True,0,Branch,1,HP < 50%,600,Go to 600
 540,*,155,Gordo,True,0,Branch,37,Turn ≥ 5,560,Go to 560
 550,*,155,Gordo,True,0,Branch,30,Always,600,Go to 600
-560,*,155,Gordo,True,0,Branch,1,HP < 50%,600,Go to 600
-570,*,155,Gordo,True,0,Branch,22,Rating 20%,10030,Digest
+560,*,155,Gordo,True,0,Branch,22,Rating 20%,10030,Digest
 600,*,155,Gordo,True,0,Branch,1,HP < 50%,2000,Go to 2000
 1000,*,155,Gordo,True,0,Branch,19,SP ≤ 50%,1020,Go to 1020
 1010,*,155,Gordo,True,0,Branch,22,Rating 20%,10010,Guard
