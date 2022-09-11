@@ -14,7 +14,7 @@ Entry ID,Magic EXP,PC1 ID,[PC1 Name],PC1 X,PC1 Z,PC2 ID,[PC2 Name],PC2 X,PC2 Z,P
 12,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,180,Mage Warden,3,1,181,Mage Warden,7,1,5,Enforcer,2,3,5,Enforcer,8,3,73,Mine Patrol,4,4,73,Mine Patrol,6,4,255,None,-1,-1,42,1,May Try Again,1,Must Not Escape,60
 13,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,136,Antonio 2,4,2,172,Kantor,0,1,172,Kantor,8,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,42,1,May Try Again,1,Must Not Escape,60
 14,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,137,Rik'talish,4,1,175,Polraxis,2,5,176,Polraxis,5,5,177,Polraxis,8,5,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,46,1,May Try Again,1,Must Not Escape,60
-15,2,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,155,Gordo,5,1,156,Mad Chef,5,3,156,Mad Chef,3,1,156,Mad Chef,7,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,94,1,May Try Again,1,Must Not Escape,60
+15,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,155,Gordo,5,1,156,Mad Chef,5,3,156,Mad Chef,3,1,156,Mad Chef,7,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,54,1,May Try Again,1,Must Not Escape,60
 16,2,0,Vyse,4,6,1,Aika,6,6,2,Fina,3,7,3,Drachma,7,7,32,Enforcer,4,3,32,Enforcer,6,3,32,Enforcer,3,4,32,Enforcer,7,4,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,98,1,May Try Again,1,Must Not Escape,58
 17,4,0,Vyse,6,4,1,Aika,4,4,2,Fina,4,6,5,Gilder,6,6,138,Sinistra,1,1,139,Destra,7,7,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,104,1,May Try Again,1,Must Not Escape,60
 18,0,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,5,Gilder,8,9,140,Ramirez,5,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,106,2,May Lose,1,Must Not Escape,61

@@ -2414,32 +2414,64 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,154,Eliminator,Eliminator,1,Action,9,Target Search,-1,None
 1200,*,154,Eliminator,Eliminator,1,Action,99,Blaster,2,Random PC
 1300,*,154,Eliminator,Eliminator,1,Action,31,Laser Blast,13,PC w/o Stone
-100,*,155,Gordo,Gordo,0,Branch,55,Used Digest?,1700,Go to 1700
-200,*,155,Gordo,Gordo,0,Branch,11,Turn 1,700,Go to 700
-300,*,155,Gordo,Gordo,0,Branch,12,Turn 2,700,Go to 700
-400,*,155,Gordo,Gordo,0,Branch,38,Any EC HP < 50%,900,Go to 900
-500,*,155,Gordo,Gordo,0,Branch,1,HP < 50%,900,Go to 900
-600,*,155,Gordo,Gordo,0,Branch,26,Rating 60%,1300,Go to 1300
-700,*,155,Gordo,Gordo,0,Branch,22,Rating 20%,1400,Go to 1400
-800,*,155,Gordo,Gordo,0,Branch,30,Always,1600,Go to 1600
-900,*,155,Gordo,Gordo,0,Branch,32,Used Sacri Spells ≥ 2,1100,Go to 1100
-1000,*,155,Gordo,Gordo,0,Branch,28,Rating 80%,1500,Go to 1500
-1100,*,155,Gordo,Gordo,0,Branch,22,Rating 20%,1500,Go to 1500
-1200,*,155,Gordo,Gordo,0,Branch,30,Always,600,Go to 600
-1300,*,155,Gordo,Gordo,1,Action,550,Attack,2,Random PC
-1400,*,155,Gordo,Gordo,1,Action,551,Guard,-1,None
-1500,*,155,Gordo,Gordo,1,Action,508,Sacrum,-1,None
-1600,*,155,Gordo,Gordo,1,Action,63,Digest,-1,None
-1700,*,155,Gordo,Gordo,1,Action,182,Loqua Spray,-1,None
-100,*,156,Mad Chef,Furiosus,0,Branch,21,Rating 10%,800,Go to 800
-200,*,156,Mad Chef,Furiosus,0,Branch,25,Rating 50%,400,Go to 400
-300,*,156,Mad Chef,Furiosus,0,Branch,30,Always,700,Go to 700
-400,*,156,Mad Chef,Furiosus,0,Branch,34,Used Attack Spells ≥ 2,600,Go to 600
-500,*,156,Mad Chef,Furiosus,0,Branch,30,Always,900,Go to 900
-600,*,156,Mad Chef,Furiosus,0,Branch,25,Rating 50%,900,Go to 900
-700,*,156,Mad Chef,Furiosus,1,Action,550,Attack,2,Random PC
-800,*,156,Mad Chef,Furiosus,1,Action,551,Guard,-1,None
-900,*,156,Mad Chef,Furiosus,1,Action,524,Pyres,-1,None
+100,*,155,Gordo,Gordo,0,Branch,11,Turn 1,2400,Go to 2400
+200,*,155,Gordo,Gordo,0,Branch,16,Has Silence?,1500,Go to 1500
+300,*,155,Gordo,Gordo,0,Branch,1,HP < 50%,600,Go to 600
+400,*,155,Gordo,Gordo,0,Branch,0,HP = 100%,900,Go to 900
+500,*,155,Gordo,Gordo,0,Branch,30,Always,800,Go to 800
+600,*,155,Gordo,Gordo,0,Branch,17,ECs Alive = 1,800,Go to 800
+700,*,155,Gordo,Gordo,0,Branch,24,Rating 40%,4300,Go to 4300
+800,*,155,Gordo,Gordo,0,Branch,25,Rating 50%,4300,Go to 4300
+900,*,155,Gordo,Gordo,0,Branch,17,ECs Alive = 1,2400,Go to 2400
+1000,*,155,Gordo,Gordo,0,Branch,25,Rating 50%,1200,Go to 1200
+1100,*,155,Gordo,Gordo,0,Branch,38,Any EC HP < 50%,4300,Go to 4300
+1200,*,155,Gordo,Gordo,0,Branch,49,Used Spell?,2400,Go to 2400
+1300,*,155,Gordo,Gordo,0,Branch,25,Rating 50%,4300,Go to 4300
+1400,*,155,Gordo,Gordo,0,Branch,30,Always,2400,Go to 2400
+1500,*,155,Gordo,Gordo,0,Branch,55,Used Digest?,2400,Go to 2400
+1600,*,155,Gordo,Gordo,0,Branch,14,Turn 4,4400,Go to 4400
+1700,*,155,Gordo,Gordo,0,Branch,15,Turn 8,4400,Go to 4400
+1800,*,155,Gordo,Gordo,0,Branch,2,HP < 25%,2400,Go to 2400
+1900,*,155,Gordo,Gordo,0,Branch,37,Turn ≥ 5,2100,Go to 2100
+2000,*,155,Gordo,Gordo,0,Branch,30,Always,2400,Go to 2400
+2100,*,155,Gordo,Gordo,0,Branch,1,HP < 50%,2300,Go to 2300
+2200,*,155,Gordo,Gordo,0,Branch,22,Rating 20%,4400,Go to 4400
+2300,*,155,Gordo,Gordo,0,Branch,21,Rating 10%,4400,Go to 4400
+2400,*,155,Gordo,Gordo,0,Branch,1,HP < 50%,3600,Go to 3600
+2500,*,155,Gordo,Gordo,0,Branch,19,SP ≤ 50%,2700,Go to 2700
+2600,*,155,Gordo,Gordo,0,Branch,22,Rating 20%,4200,Go to 4200
+2700,*,155,Gordo,Gordo,0,Branch,21,Rating 10%,4200,Go to 4200
+2800,*,155,Gordo,Gordo,0,Branch,11,Turn 1,3200,Go to 3200
+2900,*,155,Gordo,Gordo,0,Branch,55,Used Digest?,3100,Go to 3100
+3000,*,155,Gordo,Gordo,0,Branch,50,Used S-Move?,3200,Go to 3200
+3100,*,155,Gordo,Gordo,0,Branch,27,Rating 70%,4500,Go to 4500
+3200,*,155,Gordo,Gordo,0,Branch,27,Rating 70%,4100,Go to 4100
+3300,*,155,Gordo,Gordo,0,Branch,62,PCs Alive = 1,4100,Go to 4100
+3400,*,155,Gordo,Gordo,0,Branch,63,PCs Alive = 2,4100,Go to 4100
+3500,*,155,Gordo,Gordo,0,Branch,30,Always,4500,Go to 4500
+3600,*,155,Gordo,Gordo,0,Branch,62,PCs Alive = 1,4000,Go to 4000
+3700,*,155,Gordo,Gordo,0,Branch,63,PCs Alive = 2,4000,Go to 4000
+3800,*,155,Gordo,Gordo,0,Branch,25,Rating 50%,4500,Go to 4500
+3900,*,155,Gordo,Gordo,0,Branch,30,Always,4100,Go to 4100
+4000,*,155,Gordo,Gordo,0,Branch,23,Rating 30%,4500,Go to 4500
+4100,*,155,Gordo,Gordo,1,Action,550,Attack,2,Random PC
+4200,*,155,Gordo,Gordo,1,Action,551,Guard,-1,None
+4300,*,155,Gordo,Gordo,1,Action,508,Sacrum,-1,None
+4400,*,155,Gordo,Gordo,1,Action,63,Digest,-1,None
+4500,*,155,Gordo,Gordo,1,Action,182,Loqua Spray,-1,None
+100,*,156,Mad Chef,Furiosus,0,Branch,16,Has Silence?,1000,Go to 1000
+200,*,156,Mad Chef,Furiosus,0,Branch,17,ECs Alive = 1,500,Go to 500
+300,*,156,Mad Chef,Furiosus,0,Branch,62,PCs Alive = 1,1000,Go to 1000
+400,*,156,Mad Chef,Furiosus,0,Branch,63,PCs Alive = 2,1000,Go to 1000
+500,*,156,Mad Chef,Furiosus,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,800,Go to 800
+600,*,156,Mad Chef,Furiosus,0,Branch,49,Used Spell?,1000,Go to 1000
+700,*,156,Mad Chef,Furiosus,0,Branch,30,Always,900,Go to 900
+800,*,156,Mad Chef,Furiosus,0,Branch,26,Rating 60%,1300,Go to 1300
+900,*,156,Mad Chef,Furiosus,0,Branch,26,Rating 60%,1300,Go to 1300
+1000,*,156,Mad Chef,Furiosus,0,Branch,21,Rating 10%,1200,Go to 1200
+1100,*,156,Mad Chef,Furiosus,1,Action,550,Attack,2,Random PC
+1200,*,156,Mad Chef,Furiosus,1,Action,551,Guard,-1,None
+1300,*,156,Mad Chef,Furiosus,1,Action,524,Pyres,-1,None
 100,*,157,Ramirez,Ramirez,0,Branch,60,Destruction on Recharge?,1100,Go to 1100
 200,*,157,Ramirez,Ramirez,0,Branch,57,Any PC Has Strengthen?,400,Go to 400
 300,*,157,Ramirez,Ramirez,0,Branch,30,Always,500,Go to 500

@@ -62,7 +62,7 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 60,0x802b101c,0x179b,15,Vigoros Zauber,0x17f2,17,Magia de Vigoro ,0x17eb,17,Charme de Vigoro,0x1792,15,Vigoro's Charm,0,S-Move,70,Confusion + Damage,1,Single PC,0,16,Attack,5,1,Red,0,Physical,16,Attack,17,Defense,4,Confusion,0,0,0
 61,0x802b0f10,0x17aa,10,Laserstoß,0x1803,13,Ráfaga láser,0x17fc,16,Explosion Laser,0x17a1,12,Laser Blast,0,S-Move,8,Stone + Damage,1,Single PC,0,16,Attack,20,5,Silver,0,Physical,16,Attack,17,Defense,2,Stone,50,0,0
 62,0x802b0ef8,0x17b4,17,Verbündete rufen,0x1810,17,Convocar aliados,0x180c,15,Appel d'alliés,0x17ad,12,Call Allies,0,S-Move,43,Call EC,0,None,0,12,Varkris,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-63,0x8034c0f0,0x17c5,9,Verdauen,0x1821,8,Digerir,0x181b,8,Digérer,0x17b9,7,Digest,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
+63,0x8034c0f0,0x17c5,9,Verdauen,0x1821,8,Digerir,0x181b,8,Digérer,0x17b9,7,Digest,0,S-Move,30,Rem Neg States B,5,Self,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 64,0x802b0f74,0x17ce,17,Furchtbarer Biss,0x1829,17,Mordisco Temible,0x1823,17,Terrible Morsure,0x17c0,14,Terrible Bite,0,S-Move,72,Fatigue + Damage,1,Single PC,0,16,Attack,20,2,Purple,0,Physical,16,Attack,17,Defense,6,Fatigue,20,0,0
 65,0x8034c0f8,0x17df,8,Neglora,0x183a,8,Neglora,0x1834,8,Neglora,0x17ce,8,Neglora,0,S-Move,17,Rem Pos States + Damage,2,All PCs,0,16,Attack,5,4,Yellow,0,Physical,0,Power,0,Power,-1,None,-1,0,0
 66,0x802b102c,0x17e7,9,Eissturm,0x1842,16,Ráfaga de Hielo,0x183c,15,Orage de Glace,0x17d6,10,Ice Storm,0,S-Move,0,Damage,2,All PCs,0,16,Attack,20,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
@@ -181,7 +181,7 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 179,0x8034c108,0x1c27,6,DUMMY,0x1cb7,6,DUMMY,0x1c8b,6,DUMMY,0x1bbd,6,DUMMY,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 180,0x802b1164,0x1c2d,10,Lavasturm,0x1cbd,17,Tormenta de lava,0x1c91,14,Orage de Lave,0x1bc3,11,Lava Storm,0,S-Move,0,Damage,2,All PCs,0,16,Attack,20,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
 181,0x802b1170,0x1c37,13,Blast-Breath,0x1cce,16,Ráfaga de Brisa,0x1c9f,16,Soufflexplosion,0x1bce,13,Blast Breath,0,S-Move,0,Damage,2,All PCs,0,16,Attack,15,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
-182,0x802b1180,0x1c44,12,Loqua-Spray,0x1cde,12,Spray Loqua,0x1caf,12,Spray Loqua,0x1bdb,12,Loqua Spray,0,S-Move,0,Damage,2,All PCs,0,16,Attack,25,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
+182,0x802b1180,0x1c44,12,Loqua-Spray,0x1cde,12,Spray Loqua,0x1caf,12,Spray Loqua,0x1bdb,12,Loqua Spray,0,S-Move,8,Stone + Damage,2,All PCs,0,16,Attack,20,1,Red,0,Physical,16,Attack,17,Defense,2,Stone,80,0,0
 183,0x802b118c,0x1c50,10,Frostatem,0x1cea,15,Brisa de Hielo,0x1cbb,15,Souffle de Gel,0x1be7,13,Frost Breath,0,S-Move,17,Rem Pos States + Damage,2,All PCs,0,16,Attack,15,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
 184,0x802b118c,0x1c5a,10,Frostatem,0x1cf9,15,Brisa de Hielo,0x1cca,15,Souffle de Gel,0x1bf4,13,Frost Breath,0,S-Move,17,Rem Pos States + Damage,2,All PCs,0,16,Attack,15,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
 185,0x8034c108,0x1c64,6,DUMMY,0x1d08,6,DUMMY,0x1cd9,6,DUMMY,0x1c01,6,DUMMY,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
