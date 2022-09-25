@@ -8,7 +8,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 166,Cupil Ring,False,0b00001000,,,X,,,,50,2200,49,Unconscious,-3,37,Silver,-2,18,MagDef,45,1,Will,45
 167,Warrior's Heart,False,0b00111010,X,X,X,,X,,50,10,77,Recover SP,1,4,Quick,-75,-1,None,0,-1,None,0
 168,Throkryn's Scale,True,0b00110101,X,X,,X,,X,50,300,16,Attack,10,-1,None,0,-1,None,0,-1,None,0
-169,Thryllak's Scale,False,0b00110101,X,X,,X,,X,50,2300,16,Attack,36,-1,None,0,-1,None,0,-1,None,0
+169,Thryllak's Scale,Assigned,0b00110101,X,X,,X,,X,50,2300,16,Attack,36,-1,None,0,-1,None,0,-1,None,0
 170,Marocca's Shell,True,0b00110101,X,X,,X,,X,50,100,17,Defense,6,-1,None,0,-1,None,0,-1,None,0
 171,Burocca's Shell,False,0b00110101,X,X,,X,,X,50,1920,17,Defense,36,-1,None,0,-1,None,0,-1,None,0
 172,Crylhound's Claw,True,0b00110101,X,X,,X,,X,50,420,19,Hit%,20,16,Attack,12,-1,None,0,-1,None,0

@@ -313,24 +313,24 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC US Name],Type ID,[Type Name],Task ID,
 1400,*,17,Tsirat,Tsirat,1,Action,211,HP Absorb,3,PC w/ Most HP
 1500,*,17,Tsirat,Tsirat,1,Action,532,Electri,2,Random PC
 1600,*,17,Tsirat,Tsirat,1,Action,551,Guard,-1,None
-100,*,18,Thorkyn,Thorkryn,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
-200,*,18,Thorkyn,Thorkryn,0,Branch,30,Always,400,Go to 400
-300,*,18,Thorkyn,Thorkryn,0,Branch,24,Rating 40%,1600,Go to 1600
-400,*,18,Thorkyn,Thorkryn,0,Branch,40,Used Gather Strength?,1800,Go to 1800
-500,*,18,Thorkyn,Thorkryn,0,Branch,4,Got Hit?,800,Go to 800
-600,*,18,Thorkyn,Thorkryn,0,Branch,54,ECs Alive ≤ 3,800,Go to 800
-700,*,18,Thorkyn,Thorkryn,0,Branch,30,Always,1000,Go to 1000
-800,*,18,Thorkyn,Thorkryn,0,Branch,50,Used S-Move?,1000,Go to 1000
-900,*,18,Thorkyn,Thorkryn,0,Branch,25,Rating 50%,1800,Go to 1800
-1000,*,18,Thorkyn,Thorkryn,0,Branch,25,Rating 50%,1700,Go to 1700
-1100,*,18,Thorkyn,Thorkryn,0,Branch,27,Rating 70%,1400,Go to 1400
-1200,*,18,Thorkyn,Thorkryn,0,Branch,27,Rating 70%,1500,Go to 1500
-1300,*,18,Thorkyn,Thorkryn,0,Branch,30,Always,1600,Go to 1600
-1400,*,18,Thorkyn,Thorkryn,1,Action,550,Attack,2,Random PC
-1500,*,18,Thorkyn,Thorkryn,1,Action,551,Guard,-1,None
-1600,*,18,Thorkyn,Thorkryn,1,Action,552,Run,-1,None
-1700,*,18,Thorkyn,Thorkryn,1,Action,20,Gather Strength,-1,None
-1800,*,18,Thorkyn,Thorkryn,1,Action,170,Needle Storm,2,Random PC
+100,*,18,Thorkryn,Thorkryn,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
+200,*,18,Thorkryn,Thorkryn,0,Branch,30,Always,400,Go to 400
+300,*,18,Thorkryn,Thorkryn,0,Branch,24,Rating 40%,1600,Go to 1600
+400,*,18,Thorkryn,Thorkryn,0,Branch,40,Used Gather Strength?,1800,Go to 1800
+500,*,18,Thorkryn,Thorkryn,0,Branch,4,Got Hit?,800,Go to 800
+600,*,18,Thorkryn,Thorkryn,0,Branch,54,ECs Alive ≤ 3,800,Go to 800
+700,*,18,Thorkryn,Thorkryn,0,Branch,30,Always,1000,Go to 1000
+800,*,18,Thorkryn,Thorkryn,0,Branch,50,Used S-Move?,1000,Go to 1000
+900,*,18,Thorkryn,Thorkryn,0,Branch,25,Rating 50%,1800,Go to 1800
+1000,*,18,Thorkryn,Thorkryn,0,Branch,25,Rating 50%,1700,Go to 1700
+1100,*,18,Thorkryn,Thorkryn,0,Branch,27,Rating 70%,1400,Go to 1400
+1200,*,18,Thorkryn,Thorkryn,0,Branch,27,Rating 70%,1500,Go to 1500
+1300,*,18,Thorkryn,Thorkryn,0,Branch,30,Always,1600,Go to 1600
+1400,*,18,Thorkryn,Thorkryn,1,Action,550,Attack,2,Random PC
+1500,*,18,Thorkryn,Thorkryn,1,Action,551,Guard,-1,None
+1600,*,18,Thorkryn,Thorkryn,1,Action,552,Run,-1,None
+1700,*,18,Thorkryn,Thorkryn,1,Action,20,Gather Strength,-1,None
+1800,*,18,Thorkryn,Thorkryn,1,Action,170,Needle Storm,2,Random PC
 100,*,19,Scorfly,Scorfly,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,19,Scorfly,Scorfly,0,Branch,30,Always,400,Go to 400
 300,*,19,Scorfly,Scorfly,0,Branch,24,Rating 40%,700,Go to 700
@@ -1362,7 +1362,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC US Name],Type ID,[Type Name],Task ID,
 1500,*,87,Jellikra,Jellikra,1,Action,505,Drilnos,-1,None
 1600,*,87,Jellikra,Jellikra,1,Action,531,Wevlum,2,Random PC
 1700,*,87,Jellikra,Jellikra,1,Action,100,Magic?,-1,None
-100,*,88,Scorpon,Scorpon,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
+100,*,88,Scorpon,Scorpon,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,88,Scorpon,Scorpon,0,Branch,30,Always,400,Go to 400
 300,*,88,Scorpon,Scorpon,0,Branch,24,Rating 40%,700,Go to 700
 400,*,88,Scorpon,Scorpon,0,Branch,21,Rating 10%,700,Go to 700
@@ -1467,19 +1467,22 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC US Name],Type ID,[Type Name],Task ID,
 800,*,94,Totelm,Totelm,1,Action,58,Assess Damage,-1,None
 100,*,95,Thryllak,Thryllak,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,95,Thryllak,Thryllak,0,Branch,30,Always,400,Go to 400
-300,*,95,Thryllak,Thryllak,0,Branch,24,Rating 40%,1300,Go to 1300
-400,*,95,Thryllak,Thryllak,0,Branch,40,Used Gather Strength?,1500,Go to 1500
-500,*,95,Thryllak,Thryllak,0,Branch,11,Turn 1,700,Go to 700
-600,*,95,Thryllak,Thryllak,0,Branch,30,Always,800,Go to 800
-700,*,95,Thryllak,Thryllak,0,Branch,25,Rating 50%,1400,Go to 1400
-800,*,95,Thryllak,Thryllak,0,Branch,27,Rating 70%,1100,Go to 1100
-900,*,95,Thryllak,Thryllak,0,Branch,27,Rating 70%,1200,Go to 1200
-1000,*,95,Thryllak,Thryllak,0,Branch,30,Always,1300,Go to 1300
-1100,*,95,Thryllak,Thryllak,1,Action,550,Attack,2,Random PC
-1200,*,95,Thryllak,Thryllak,1,Action,551,Guard,-1,None
-1300,*,95,Thryllak,Thryllak,1,Action,552,Run,-1,None
-1400,*,95,Thryllak,Thryllak,1,Action,20,Gather Strength,-1,None
-1500,*,95,Thryllak,Thryllak,1,Action,170,Needle Storm,2,Random PC
+300,*,95,Thryllak,Thryllak,0,Branch,24,Rating 40%,1600,Go to 1600
+400,*,95,Thryllak,Thryllak,0,Branch,40,Used Gather Strength?,1800,Go to 1800
+500,*,95,Thryllak,Thryllak,0,Branch,4,Got Hit?,800,Go to 800
+600,*,95,Thryllak,Thryllak,0,Branch,54,ECs Alive ≤ 3,800,Go to 800
+700,*,95,Thryllak,Thryllak,0,Branch,30,Always,1000,Go to 1000
+800,*,95,Thryllak,Thryllak,0,Branch,50,Used S-Move?,1000,Go to 1000
+900,*,95,Thryllak,Thryllak,0,Branch,25,Rating 50%,1800,Go to 1800
+1000,*,95,Thryllak,Thryllak,0,Branch,25,Rating 50%,1700,Go to 1700
+1100,*,95,Thryllak,Thryllak,0,Branch,27,Rating 70%,1400,Go to 1400
+1200,*,95,Thryllak,Thryllak,0,Branch,27,Rating 70%,1500,Go to 1500
+1300,*,95,Thryllak,Thryllak,0,Branch,30,Always,1600,Go to 1600
+1400,*,95,Thryllak,Thryllak,1,Action,550,Attack,2,Random PC
+1500,*,95,Thryllak,Thryllak,1,Action,551,Guard,-1,None
+1600,*,95,Thryllak,Thryllak,1,Action,552,Run,-1,None
+1700,*,95,Thryllak,Thryllak,1,Action,20,Gather Strength,-1,None
+1800,*,95,Thryllak,Thryllak,1,Action,170,Needle Storm,2,Random PC
 100,*,96,Stonebeak,Stonebeak,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,96,Stonebeak,Stonebeak,0,Branch,30,Always,400,Go to 400
 300,*,96,Stonebeak,Stonebeak,0,Branch,27,Rating 70%,800,Go to 800
@@ -1621,24 +1624,25 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC US Name],Type ID,[Type Name],Task ID,
 1000,*,106,Elite Guard,Elite Guard,1,Action,551,Guard,-1,None
 100,*,107,Jynnus,Jynnus,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,107,Jynnus,Jynnus,0,Branch,30,Always,400,Go to 400
-300,*,107,Jynnus,Jynnus,0,Branch,27,Rating 70%,1500,Go to 1500
-400,*,107,Jynnus,Jynnus,0,Branch,25,Rating 50%,1300,Go to 1300
+300,*,107,Jynnus,Jynnus,0,Branch,27,Rating 70%,1600,Go to 1600
+400,*,107,Jynnus,Jynnus,0,Branch,25,Rating 50%,1400,Go to 1400
 500,*,107,Jynnus,Jynnus,0,Branch,24,Rating 40%,800,Go to 800
 600,*,107,Jynnus,Jynnus,0,Branch,27,Rating 70%,1100,Go to 1100
-700,*,107,Jynnus,Jynnus,0,Branch,30,Always,1400,Go to 1400
-800,*,107,Jynnus,Jynnus,0,Branch,25,Rating 50%,1600,Go to 1600
-900,*,107,Jynnus,Jynnus,0,Branch,24,Rating 40%,1700,Go to 1700
-1000,*,107,Jynnus,Jynnus,0,Branch,30,Always,1800,Go to 1800
-1100,*,107,Jynnus,Jynnus,0,Branch,35,Used State Spells ≥ 1,2000,Go to 2000
-1200,*,107,Jynnus,Jynnus,0,Branch,30,Always,1900,Go to 1900
-1300,*,107,Jynnus,Jynnus,1,Action,550,Attack,2,Random PC
-1400,*,107,Jynnus,Jynnus,1,Action,551,Guard,-1,None
-1500,*,107,Jynnus,Jynnus,1,Action,552,Run,-1,None
-1600,*,107,Jynnus,Jynnus,1,Action,69,Call Allies,-1,None
-1700,*,107,Jynnus,Jynnus,1,Action,73,Call Allies,-1,None
-1800,*,107,Jynnus,Jynnus,1,Action,109,Call Allies,-1,None
-1900,*,107,Jynnus,Jynnus,1,Action,517,Eterni,2,Random PC
-2000,*,107,Jynnus,Jynnus,1,Action,100,Magic?,-1,None
+700,*,107,Jynnus,Jynnus,0,Branch,30,Always,1500,Go to 1500
+800,*,107,Jynnus,Jynnus,0,Branch,25,Rating 50%,1700,Go to 1700
+900,*,107,Jynnus,Jynnus,0,Branch,24,Rating 40%,1800,Go to 1800
+1000,*,107,Jynnus,Jynnus,0,Branch,30,Always,1900,Go to 1900
+1100,*,107,Jynnus,Jynnus,0,Branch,16,Has Silence?,2100,Go to 2100
+1200,*,107,Jynnus,Jynnus,0,Branch,36,Used State Spells ≥ 2,2100,Go to 2100
+1300,*,107,Jynnus,Jynnus,0,Branch,30,Always,2000,Go to 2000
+1400,*,107,Jynnus,Jynnus,1,Action,550,Attack,2,Random PC
+1500,*,107,Jynnus,Jynnus,1,Action,551,Guard,-1,None
+1600,*,107,Jynnus,Jynnus,1,Action,552,Run,-1,None
+1700,*,107,Jynnus,Jynnus,1,Action,69,Call Allies,-1,None
+1800,*,107,Jynnus,Jynnus,1,Action,73,Call Allies,-1,None
+1900,*,107,Jynnus,Jynnus,1,Action,109,Call Allies,-1,None
+2000,*,107,Jynnus,Jynnus,1,Action,517,Eterni,2,Random PC
+2100,*,107,Jynnus,Jynnus,1,Action,100,Magic?,-1,None
 100,*,108,Hydra Elite,Hydra Elite,0,Branch,17,ECs Alive = 1,1200,Go to 1200
 200,*,108,Hydra Elite,Hydra Elite,0,Branch,16,Has Silence?,800,Go to 800
 300,*,108,Hydra Elite,Hydra Elite,0,Branch,21,Rating 10%,1600,Go to 1600
@@ -1658,17 +1662,18 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC US Name],Type ID,[Type Name],Task ID,
 1700,*,108,Hydra Elite,Hydra Elite,1,Action,251,Sonic Wave,2,Random PC
 1800,*,108,Hydra Elite,Hydra Elite,1,Action,535,Electrulen,2,Random PC
 1900,*,108,Hydra Elite,Hydra Elite,1,Action,551,Guard,-1,None
-100,*,109,Yulooper,Yulooper,0,Branch,1,HP < 50%,900,Go to 900
-200,*,109,Yulooper,Yulooper,0,Branch,25,Rating 50%,900,Go to 900
-300,*,109,Yulooper,Yulooper,0,Branch,24,Rating 40%,700,Go to 700
-400,*,109,Yulooper,Yulooper,0,Branch,23,Rating 30%,800,Go to 800
-500,*,109,Yulooper,Yulooper,0,Branch,33,Used Attack Spells ≥ 1,1100,Go to 1100
-600,*,109,Yulooper,Yulooper,0,Branch,30,Always,1000,Go to 1000
-700,*,109,Yulooper,Yulooper,1,Action,550,Attack,2,Random PC
-800,*,109,Yulooper,Yulooper,1,Action,551,Guard,-1,None
-900,*,109,Yulooper,Yulooper,1,Action,552,Run,-1,None
-1000,*,109,Yulooper,Yulooper,1,Action,533,Electres,-1,None
-1100,*,109,Yulooper,Yulooper,1,Action,100,Magic?,-1,None
+100,*,109,Yulooper,Yulooper,0,Branch,1,HP < 50%,1000,Go to 1000
+200,*,109,Yulooper,Yulooper,0,Branch,25,Rating 50%,1000,Go to 1000
+300,*,109,Yulooper,Yulooper,0,Branch,24,Rating 40%,800,Go to 800
+400,*,109,Yulooper,Yulooper,0,Branch,23,Rating 30%,900,Go to 900
+500,*,109,Yulooper,Yulooper,0,Branch,16,Has Silence?,1200,Go to 1200
+600,*,109,Yulooper,Yulooper,0,Branch,34,Used Attack Spells ≥ 2,1200,Go to 1200
+700,*,109,Yulooper,Yulooper,0,Branch,30,Always,1100,Go to 1100
+800,*,109,Yulooper,Yulooper,1,Action,550,Attack,2,Random PC
+900,*,109,Yulooper,Yulooper,1,Action,551,Guard,-1,None
+1000,*,109,Yulooper,Yulooper,1,Action,552,Run,-1,None
+1100,*,109,Yulooper,Yulooper,1,Action,533,Electres,-1,None
+1200,*,109,Yulooper,Yulooper,1,Action,100,Magic?,-1,None
 100,*,110,Hunter,Hunter,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,110,Hunter,Hunter,0,Branch,30,Always,400,Go to 400
 300,*,110,Hunter,Hunter,0,Branch,28,Rating 80%,1100,Go to 1100
