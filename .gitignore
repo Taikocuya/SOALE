@@ -132,3 +132,13 @@ Thumbs.db
 !/dist/**/bchara/mg053.std
 !/dist/**/bchara/mg0530.std
 !/dist/**/beff/f05000b5.mlk
+
+# Enemy 182 (Executioner)
+!/dist/**/bchara/mg054.mld
+!/dist/**/bchara/mg054.std
+!/dist/**/bchara/mg0540.std
+!/dist/**/beff/f05000b6.mlk
+!/dist/**/beff/f29011b6.mlk
+!/dist/**/beff/f29251b6.mlk
+!/dist/**/sound/b7025554_L.dsp
+!/dist/**/sound/b7025554_R.dsp

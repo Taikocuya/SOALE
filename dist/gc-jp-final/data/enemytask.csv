@@ -540,11 +540,28 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1500,*,31,Tsurak,1,Action,98,仲間を呼ぶ,-1,None
 1600,*,31,Tsurak,1,Action,552,Run,-1,None
 1700,*,31,Tsurak,1,Action,551,Guard,-1,None
-100,*,32,Enforcer,0,Branch,21,Rating 10%,500,Go to 500
-200,*,32,Enforcer,0,Branch,23,Rating 30%,400,Go to 400
-300,*,32,Enforcer,1,Action,550,Attack,2,Random PC
-400,*,32,Enforcer,1,Action,70,手りゅう弾,2,Random PC
-500,*,32,Enforcer,1,Action,551,Guard,-1,None
+100,*,32,Enforcer,0,Branch,17,ECs Alive = 1,1100,Go to 1100
+200,*,32,Enforcer,0,Branch,38,Any EC HP < 50%,400,Go to 400
+300,*,32,Enforcer,0,Branch,30,Always,500,Go to 500
+400,*,32,Enforcer,0,Branch,27,Rating 70%,2200,Go to 2200
+500,*,32,Enforcer,0,Branch,11,Turn 1,800,Go to 800
+600,*,32,Enforcer,0,Branch,12,Turn 2,800,Go to 800
+700,*,32,Enforcer,0,Branch,23,Rating 30%,2200,Go to 2200
+800,*,32,Enforcer,0,Branch,26,Rating 60%,2100,Go to 2100
+900,*,32,Enforcer,0,Branch,21,Rating 10%,2000,Go to 2000
+1000,*,32,Enforcer,0,Branch,30,Always,1900,Go to 1900
+1100,*,32,Enforcer,0,Branch,62,PCs Alive = 1,1600,Go to 1600
+1200,*,32,Enforcer,0,Branch,63,PCs Alive = 2,1600,Go to 1600
+1300,*,32,Enforcer,0,Branch,28,Rating 80%,2100,Go to 2100
+1400,*,32,Enforcer,0,Branch,21,Rating 10%,2000,Go to 2000
+1500,*,32,Enforcer,0,Branch,30,Always,1900,Go to 1900
+1600,*,32,Enforcer,0,Branch,23,Rating 30%,2100,Go to 2100
+1700,*,32,Enforcer,0,Branch,21,Rating 10%,2000,Go to 2000
+1800,*,32,Enforcer,0,Branch,30,Always,1900,Go to 1900
+1900,*,32,Enforcer,1,Action,550,Attack,2,Random PC
+2000,*,32,Enforcer,1,Action,551,Guard,-1,None
+2100,*,32,Enforcer,1,Action,70,手りゅう弾,2,Random PC
+2200,*,32,Enforcer,1,Action,72,サプハネの葉,-1,None
 100,*,33,Serpantis,0,Branch,16,Has Silence?,400,Go to 400
 200,*,33,Serpantis,0,Branch,34,Used Attack Spells ≥ 2,400,Go to 400
 300,*,33,Serpantis,0,Branch,22,Rating 20%,800,Go to 800
@@ -3241,25 +3258,26 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 5100,*,181,Mage Warden,1,Action,531,ウェイベス,2,Random PC
 5200,*,181,Mage Warden,1,Action,535,ボルドーラ,2,Random PC
 5300,*,181,Mage Warden,1,Action,37,ガッツ,-1,None
-100,*,182,Tara,0,Branch,19,SP ≤ 50%,400,Go to 400
-200,*,182,Tara,0,Branch,28,Rating 80%,1400,Go to 1400
-300,*,182,Tara,0,Branch,30,Always,1800,Go to 1800
-400,*,182,Tara,0,Branch,39,Any EC HP < 25%,900,Go to 900
-500,*,182,Tara,0,Branch,38,Any EC HP < 50%,1100,Go to 1100
-600,*,182,Tara,0,Branch,26,Rating 60%,1700,Go to 1700
-700,*,182,Tara,0,Branch,27,Rating 70%,1800,Go to 1800
-800,*,182,Tara,0,Branch,30,Always,1400,Go to 1400
-900,*,182,Tara,0,Branch,26,Rating 60%,1700,Go to 1700
-1000,*,182,Tara,0,Branch,30,Always,1400,Go to 1400
-1100,*,182,Tara,0,Branch,25,Rating 50%,1700,Go to 1700
-1200,*,182,Tara,0,Branch,26,Rating 60%,1800,Go to 1800
-1300,*,182,Tara,0,Branch,30,Always,1400,Go to 1400
-1400,*,182,Tara,0,Branch,64,PCs Alive = 3,1700,Go to 1700
-1500,*,182,Tara,0,Branch,50,Used S-Move?,1700,Go to 1700
-1600,*,182,Tara,0,Branch,66,ECs Alive = 3,1900,Go to 1900
-1700,*,182,Tara,1,Action,550,Attack,2,Random PC
-1800,*,182,Tara,1,Action,551,Guard,-1,None
-1900,*,182,Tara,1,Action,280,チャックモール,-1,None
+100,*,182,Executioner,0,Branch,1,HP < 50%,600,Go to 600
+200,*,182,Executioner,0,Branch,13,Turn 3,600,Go to 600
+300,*,182,Executioner,0,Branch,14,Turn 4,600,Go to 600
+400,*,182,Executioner,0,Branch,37,Turn ≥ 5,600,Go to 600
+500,*,182,Executioner,0,Branch,66,ECs Alive = 3,800,Go to 800
+600,*,182,Executioner,0,Branch,50,Used S-Move?,800,Go to 800
+700,*,182,Executioner,0,Branch,27,Rating 70%,1800,Go to 1800
+800,*,182,Executioner,0,Branch,24,Rating 40%,1600,Go to 1600
+900,*,182,Executioner,0,Branch,62,PCs Alive = 1,1200,Go to 1200
+1000,*,182,Executioner,0,Branch,63,PCs Alive = 2,1200,Go to 1200
+1100,*,182,Executioner,0,Branch,24,Rating 40%,1800,Go to 1800
+1200,*,182,Executioner,0,Branch,24,Rating 40%,1900,Go to 1900
+1300,*,182,Executioner,0,Branch,16,Has Silence?,1500,Go to 1500
+1400,*,182,Executioner,0,Branch,26,Rating 60%,2000,Go to 2000
+1500,*,182,Executioner,0,Branch,30,Always,1700,Go to 1700
+1600,*,182,Executioner,1,Action,550,Attack,2,Random PC
+1700,*,182,Executioner,1,Action,551,Guard,-1,None
+1800,*,182,Executioner,1,Action,11,キャノンボール,2,Random PC
+1900,*,182,Executioner,1,Action,251,ブロードソニック,2,Random PC
+2000,*,182,Executioner,1,Action,533,ボルティ,2,Random PC
 100,*,183,Lira,0,Branch,39,Any EC HP < 25%,900,Go to 900
 200,*,183,Lira,0,Branch,2,HP < 25%,1100,Go to 1100
 300,*,183,Lira,0,Branch,38,Any EC HP < 50%,700,Go to 700
