@@ -295,22 +295,22 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 37,r515a.tec,25,Grendel,9,1,9,PS Phase Actions ≥ 2 or Used S-Cannon?,0,None,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Fist of Grendel,-1,None,0
 38,r515a.tec,25,Grendel,9,2,3,Rating,50,%,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,2,Stomp,-1,None,0
 39,r515a.tec,25,Grendel,9,3,3,Rating,50,%,4,Nothing,-1,None,2,Assessing Damage,0,3,Guard,-1,None,0,Evasive Action,0
-0,r518a.tec,4,Valuan Gunboat,0,0,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-1,r518a.tec,4,Valuan Gunboat,0,1,3,Rating,80,%,0,Attack,1,Heavy Subcannon,-1,None,1,4,Nothing,0,None,0,Awaiting Orders,0
-2,r518a.tec,4,Valuan Gunboat,0,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,-1,None,-1,None,0
-3,r518a.tec,4,Valuan Gunboat,0,3,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-4,r518a.tec,4,Valuan Gunboat,1,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,0,Large Cannon,-1,None,0
-5,r518a.tec,4,Valuan Gunboat,1,1,3,Rating,80,%,0,Attack,0,Large Cannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
-6,r518a.tec,4,Valuan Gunboat,1,2,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,2,4,Nothing,-1,None,0,Awaiting Orders,0
-7,r518a.tec,4,Valuan Gunboat,1,3,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-8,r518a.tec,4,Valuan Gunboat,2,0,3,Rating,80,%,0,Attack,2,Torpedo,-1,None,3,2,Focus,-1,None,0,Focus,0
-9,r518a.tec,4,Valuan Gunboat,2,1,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,1,3,Guard,0,None,0,Evasive Action,0
-10,r518a.tec,4,Valuan Gunboat,2,2,-1,None,0,None,0,Attack,0,Large Cannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-11,r518a.tec,4,Valuan Gunboat,2,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
-12,r518a.tec,4,Valuan Gunboat,3,0,-1,None,0,None,0,Attack,2,Torpedo,-1,None,1,0,Attack,-1,None,-1,None,0
-13,r518a.tec,4,Valuan Gunboat,3,1,-1,None,0,None,0,Attack,2,Torpedo,-1,None,2,0,Attack,-1,None,-1,None,0
-14,r518a.tec,4,Valuan Gunboat,3,2,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,2,Focus,0,None,-1,None,0
-15,r518a.tec,4,Valuan Gunboat,3,3,3,Rating,30,%,0,Attack,1,Heavy Subcannon,-1,None,0,0,Attack,0,Large Cannon,-1,None,0
+0,r518a.tec,4,Valuan Gunboat,0,0,3,Rating,80,%,0,Attack,1,Heavy Subcannon,-1,None,3,0,Attack,2,Torpedo,-1,None,1
+1,r518a.tec,4,Valuan Gunboat,0,1,1,ES HP ≤,80,%,1,Magic,-1,None,6,Sacri,0,0,Attack,2,Torpedo,-1,None,1
+2,r518a.tec,4,Valuan Gunboat,0,2,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,1,Magic,-1,None,25,Pyrum,0
+3,r518a.tec,4,Valuan Gunboat,0,3,3,Rating,50,%,0,Attack,1,Heavy Subcannon,-1,None,0,1,Magic,-1,None,25,Pyrum,0
+4,r518a.tec,4,Valuan Gunboat,1,0,3,Rating,70,%,0,Attack,1,Heavy Subcannon,-1,None,3,0,Attack,2,Torpedo,-1,None,2
+5,r518a.tec,4,Valuan Gunboat,1,1,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,1,Magic,-1,None,25,Pyrum,0
+6,r518a.tec,4,Valuan Gunboat,1,2,1,ES HP ≤,80,%,1,Magic,-1,None,6,Sacri,0,0,Attack,2,Torpedo,-1,None,1
+7,r518a.tec,4,Valuan Gunboat,1,3,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,1,Magic,-1,None,25,Pyrum,0
+8,r518a.tec,4,Valuan Gunboat,2,0,3,Rating,80,%,0,Attack,2,Torpedo,-1,None,1,0,Attack,2,Torpedo,-1,None,2
+9,r518a.tec,4,Valuan Gunboat,2,1,3,Rating,50,%,0,Attack,2,Torpedo,-1,None,1,0,Attack,2,Torpedo,-1,None,2
+10,r518a.tec,4,Valuan Gunboat,2,2,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,1,Magic,-1,None,25,Pyrum,0
+11,r518a.tec,4,Valuan Gunboat,2,3,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,1,Magic,-1,None,25,Pyrum,0
+12,r518a.tec,4,Valuan Gunboat,3,0,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,-1,None,-1,None,-1,None,0
+13,r518a.tec,4,Valuan Gunboat,3,1,3,Rating,50,%,3,Guard,-1,None,0,Evasive Action,0,1,Magic,-1,None,6,Sacri,0
+14,r518a.tec,4,Valuan Gunboat,3,2,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,1,Magic,-1,None,25,Pyrum,0
+15,r518a.tec,4,Valuan Gunboat,3,3,3,Rating,50,%,0,Attack,0,Large Cannon,-1,None,0,1,Magic,-1,None,25,Pyrum,0
 0,r519a.tec,38,Fortress Gates,0,0,-1,None,0,None,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Small Cannon,-1,None,0
 1,r519a.tec,38,Fortress Gates,0,1,-1,None,0,None,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Small Cannon,-1,None,0
 2,r519a.tec,38,Fortress Gates,0,2,-1,None,0,None,0,Attack,0,Small Cannon,-1,None,0,0,Attack,0,Small Cannon,-1,None,0
