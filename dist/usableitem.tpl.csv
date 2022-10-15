@@ -1,16 +1,16 @@
 Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect Name],Scope ID,[Scope Name],Consume%,Sell%,Buy,Effect Base,Element ID,[Element Name],Type ID,[Type Name],State ID,[State Name],State Miss%
 240,Sacri Crystal,True,0b0110,X,X,,31,Recover HP,1,Single PC,100,50,100,400,0,Green,1,Magical,-1,None,0
-241,Sacres Crystal,Assigned,0b0110,X,X,,31,Recover HP,1,Single PC,100,50,300,800,0,Green,1,Magical,-1,None,0
-242,Sacrum Crystal,Assigned,0b0110,X,X,,31,Recover HP,2,All PCs,100,50,900,400,0,Green,1,Magical,-1,None,0
-243,Sacrulen Crystal,False,0b0110,X,X,,31,Recover HP,1,Single PC,100,50,500,1600,0,Green,1,Magical,-1,None,0
+241,Sacres Crystal,Assigned,0b0110,X,X,,31,Recover HP,1,Single PC,100,50,500,800,0,Green,1,Magical,-1,None,0
+242,Sacrum Crystal,Assigned,0b0110,X,X,,31,Recover HP,2,All PCs,100,50,2000,400,0,Green,1,Magical,-1,None,0
+243,Sacrulen Crystal,False,0b0110,X,X,,31,Recover HP,1,Single PC,100,50,1000,1600,0,Green,1,Magical,-1,None,0
 244,Magic Droplet,True,0b0111,X,X,X,48,Recover MP,1,Single PC,100,50,100,3,-1,None,-1,None,-1,None,0
-245,Magic Dew,False,0b0111,X,X,X,48,Recover MP,1,Single PC,100,50,200,5,-1,None,-1,None,-1,None,0
-246,Aura of Valor,Undefined,0b0011,,X,X,35,Recover SP,2,All PCs,100,100,1000,40,-1,None,-1,None,-1,None,0
+245,Magic Dew,False,0b0111,X,X,X,48,Recover MP,1,Single PC,100,50,300,5,-1,None,-1,None,-1,None,0
+246,Aura of Valor,Assigned,0b0011,,X,X,35,Recover SP,2,All PCs,100,100,1000,40,-1,None,-1,None,-1,None,0
 247,Soul Crystal,True,0b0000,,,,-1,None,0,None,0,100,3000,0,-1,None,-1,None,-1,None,0
 248,Unholy Dagger,True,0b0000,,,,-1,None,0,None,0,100,4000,0,-1,None,-1,None,-1,None,0
 249,Curia Crystal,True,0b0010,,X,,30,Rem Neg States B,1,Single PC,100,50,100,0,5,Silver,1,Magical,-1,None,0
 250,Risan Crystal,True,0b0010,,X,,27,Revive w/ HP of 50%,1,Single PC,100,50,300,0,5,Silver,1,Magical,7,Revival,-1
-251,Riselem Crystal,Assigned,0b0010,,X,,28,Revive w/ HP of 100%,1,Single PC,100,50,900,0,5,Silver,1,Magical,7,Revival,0
+251,Riselem Crystal,Assigned,0b0010,,X,,28,Revive w/ HP of 100%,1,Single PC,100,50,1000,0,5,Silver,1,Magical,7,Revival,0
 252,Glyph of Might,True,0b0010,,X,,21,Incr Attack & Defense,1,Single PC,100,50,2000,0,1,Red,1,Magical,-1,None,0
 253,Glyph of Speed,True,0b0010,,X,,20,Incr Quick,2,All PCs,100,50,1000,0,3,Blue,1,Magical,-1,None,0
 254,Healing Salve,True,0b0010,,X,,33,Regenerate,1,Single PC,100,50,500,100,-1,None,-1,None,-1,None,0

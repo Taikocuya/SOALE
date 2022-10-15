@@ -20,8 +20,8 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 18,Horteka,True,22,Hunting Arc,1
 19,Horteka,True,479,Indoor Plant,1
 20,Nasrad,False,264,Sylph Seed,1
-21,Deserted Island,False,258,Moonberry,1
-22,Deserted Island,False,520,Gold,1827
+21,Deserted Island,True,258,Moonberry,1
+22,Deserted Island,True,520,Gold,1827
 23,Nasrad,False,258,Moonberry,1
 24,Esparanza,False,258,Moonberry,1
 25,Esparanza,False,87,Valuan Uniform,3

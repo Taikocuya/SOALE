@@ -682,11 +682,13 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1000,*,41,Elooper,True,1,Action,552,Run,-1,None
 1100,*,41,Elooper,True,1,Action,507,Sacres,7,EC w/ Least HP
 1200,*,41,Elooper,True,1,Action,100,Magic?,-1,None
-100,*,42,Grapor,False,0,Branch,23,Rating 30%,400,Go to 400
-200,*,42,Grapor,False,0,Branch,21,Rating 10%,500,Go to 500
-300,*,42,Grapor,False,1,Action,550,Attack,2,Random PC
-400,*,42,Grapor,False,1,Action,552,Run,-1,None
-500,*,42,Grapor,False,1,Action,551,Guard,-1,None
+1000,*,42,Grapor,True,0,Branch,23,Rating 30%,10010,Run
+1010,*,42,Grapor,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,1030,Go to 1030
+1020,*,42,Grapor,True,0,Branch,24,Rating 40%,10020,Guard
+1030,*,42,Grapor,True,0,Branch,21,Rating 10%,10020,Guard
+10000,*,42,Grapor,True,1,Action,550,Attack,2,Random PC
+10010,*,42,Grapor,True,1,Action,552,Run,-1,None
+10020,*,42,Grapor,True,1,Action,551,Guard,-1,None
 100,*,43,Sphyrus,False,0,Branch,11,Turn 1,500,Go to 500
 200,*,43,Sphyrus,False,0,Branch,12,Turn 2,600,Go to 600
 300,*,43,Sphyrus,False,0,Branch,29,Rating 90%,700,Go to 700

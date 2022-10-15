@@ -1,10 +1,10 @@
 Entry ID,[Filter],[Finalized],Initiative,Magic EXP,EC1 ID,[EC1 JP Name],EC2 ID,[EC2 JP Name],EC3 ID,[EC3 JP Name],EC4 ID,[EC4 JP Name],EC5 ID,[EC5 JP Name],EC6 ID,[EC6 JP Name],EC7 ID,[EC7 JP Name],EC8 ID,[EC8 JP Name]
-0,a017a_ep.enp,False,102,2,42,Grapor,255,None,255,None,255,None,255,None,255,None,255,None,255,None
-1,a017a_ep.enp,False,102,2,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None,255,None,255,None
-2,a017a_ep.enp,False,102,2,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None,255,None
-3,a017a_ep.enp,False,102,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None
-4,a017a_ep.enp,False,102,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None
-5,a017a_ep.enp,False,102,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None
+0,a017a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None,255,None
+1,a017a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None
+2,a017a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None
+3,a017a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None
+4,a017a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None
+5,a017a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor
 0,a020b_ep.enp,False,154,3,71,Tenkou,255,None,255,None,255,None,255,None,255,None,255,None,255,None
 1,a020b_ep.enp,False,149,3,71,Tenkou,71,Tenkou,255,None,255,None,255,None,255,None,255,None,255,None
 2,a020b_ep.enp,False,144,3,71,Tenkou,71,Tenkou,71,Tenkou,255,None,255,None,255,None,255,None,255,None
@@ -847,12 +847,12 @@ Entry ID,[Filter],[Finalized],Initiative,Magic EXP,EC1 ID,[EC1 JP Name],EC2 ID,[
 29,a112b_ep.enp,True,56,2,39,Polraxis,92,Langry,92,Langry,92,Langry,255,None,255,None,255,None,255,None
 30,a112b_ep.enp,True,46,2,39,Polraxis,92,Langry,92,Langry,92,Langry,92,Langry,92,Langry,92,Langry,255,None
 31,a112b_ep.enp,True,51,2,39,Polraxis,39,Polraxis,92,Langry,92,Langry,92,Langry,92,Langry,255,None,255,None
-0,a114a_ep.enp,False,102,1,42,Grapor,255,None,255,None,255,None,255,None,255,None,255,None,255,None
-1,a114a_ep.enp,False,102,1,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None,255,None,255,None
-2,a114a_ep.enp,False,102,1,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None,255,None
-3,a114a_ep.enp,False,102,1,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None
-4,a114a_ep.enp,False,102,1,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None
-5,a114a_ep.enp,False,102,1,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None
+0,a114a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None,255,None
+1,a114a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None,255,None
+2,a114a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None,255,None
+3,a114a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None,255,None
+4,a114a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,255,None
+5,a114a_ep.enp,True,58,2,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor,42,Grapor
 0,a115b_ep.enp,False,97,2,50,Burocca,50,Burocca,255,None,255,None,255,None,255,None,255,None,255,None
 1,a115b_ep.enp,False,92,2,50,Burocca,50,Burocca,50,Burocca,50,Burocca,255,None,255,None,255,None,255,None
 2,a115b_ep.enp,False,102,2,26,Baroo,26,Baroo,26,Baroo,255,None,255,None,255,None,255,None,255,None

@@ -1,16 +1,16 @@
 Entry ID,Entry US Name,Occasion Flags,[M],[B],[S],Effect ID,[Effect Name],Scope ID,[Scope Name],Consume%,Sell%,US Order 1,US Order 2,Buy,Pad 1,Pad 2,Effect Base,Element ID,[Element Name],Type ID,[Type Name],State ID,[State Name],State Miss%,[US Descr Pos],[US Descr Size],US Descr Str
 240,Sacri Crystal,0b0110,X,X,"",31,Recover HP,1,Single PC,100,50,0,55,100,0,0,400,0,Green,1,Magical,-1,None,0,0x2cbc88,88,An enchanted crystal created by Mages of the\nGreen Moon. Restores 400 HP for one ally.
-241,Sacres Crystal,0b0110,X,X,"",31,Recover HP,1,Single PC,100,50,1,53,300,0,0,800,0,Green,1,Magical,-1,None,0,0x2cbce0,92,An enchanted crystal created by Mages of the\nGreen Moon. Restores 800 HP for one ally.  
-242,Sacrum Crystal,0b0110,X,X,"",31,Recover HP,2,All PCs,100,50,2,58,900,0,0,400,0,Green,1,Magical,-1,None,0,0x2cbd3c,92,An enchanted crystal created by Mages of the\nGreen Moon. Restores 400 HP for all allies.
-243,Sacrulen Crystal,0b0110,X,X,"",31,Recover HP,1,Single PC,100,50,3,57,500,0,0,1600,0,Green,1,Magical,-1,None,0,0x2cbd98,88,An enchanted crystal created by Mages of the\nGr. Moon. Restores 1600 HP for one ally.
+241,Sacres Crystal,0b0110,X,X,"",31,Recover HP,1,Single PC,100,50,1,53,500,0,0,800,0,Green,1,Magical,-1,None,0,0x2cbce0,92,An enchanted crystal created by Mages of the\nGreen Moon. Restores 800 HP for one ally.  
+242,Sacrum Crystal,0b0110,X,X,"",31,Recover HP,2,All PCs,100,50,2,58,2000,0,0,400,0,Green,1,Magical,-1,None,0,0x2cbd3c,92,An enchanted crystal created by Mages of the\nGreen Moon. Restores 400 HP for all allies.
+243,Sacrulen Crystal,0b0110,X,X,"",31,Recover HP,1,Single PC,100,50,3,57,1000,0,0,1600,0,Green,1,Magical,-1,None,0,0x2cbd98,88,An enchanted crystal created by Mages of the\nGr. Moon. Restores 1600 HP for one ally.
 244,Magic Droplet,0b0111,X,X,X,48,Recover MP,1,Single PC,100,50,4,31,100,0,0,3,-1,None,-1,None,-1,None,0,0x2cbdf0,80,Created from the dew that forms on a magical\ntree. Restores 3 MP for one ally.
-245,Magic Dew,0b0111,X,X,X,48,Recover MP,1,Single PC,100,50,5,30,200,0,0,5,-1,None,-1,None,-1,None,0,0x2cbe40,76,A more concentrated form of the Magic Droplet.\nRestores 5 MP for one ally.
+245,Magic Dew,0b0111,X,X,X,48,Recover MP,1,Single PC,100,50,5,30,300,0,0,5,-1,None,-1,None,-1,None,0,0x2cbe40,76,A more concentrated form of the Magic Droplet.\nRestores 5 MP for one ally.
 246,Aura of Valor,0b0011,"",X,X,35,Recover SP,2,All PCs,100,100,6,1,1000,0,0,40,-1,None,-1,None,-1,None,0,0x2cbe8c,76,A sacred stone that boosts the Spirit of the\nentire party to heroic levels.
 247,Soul Crystal,0b0000,"","","",-1,None,0,None,0,100,49,62,3000,0,0,0,-1,None,-1,None,-1,None,0,0x2cbed8,64,A valuable treasure sought by Zivilyn Bane on\nDaccat's Island.
 248,Unholy Dagger,0b0000,"","","",-1,None,0,None,0,100,50,69,4000,0,0,0,-1,None,-1,None,-1,None,0,0x2cbf18,68,A valuable treasure sought by Zivilyn Bane in\nthe Grand Fortress.
 249,Curia Crystal,0b0010,"",X,"",30,Rem Neg States B,1,Single PC,100,50,7,7,100,0,0,0,5,Silver,1,Magical,-1,None,0,0x2cbf5c,92,"An ensorcelled crystal that cures all adverse\neffects on one ally, except for Unconscious."
 250,Risan Crystal,0b0010,"",X,"",27,Revive w/ HP of 50%,1,Single PC,100,50,8,48,300,0,0,0,5,Silver,1,Magical,7,Revival,-1,0x2cbfb8,100,"Has a 90% chance of reviving an Unconscious\nally, along with 50% of their HP.                   "
-251,Riselem Crystal,0b0010,"",X,"",28,Revive w/ HP of 100%,1,Single PC,100,50,9,50,900,0,0,0,5,Silver,1,Magical,7,Revival,0,0x2cc01c,60,An ensorcelled crystal that will revive an ally\nto Max HP.
+251,Riselem Crystal,0b0010,"",X,"",28,Revive w/ HP of 100%,1,Single PC,100,50,9,50,1000,0,0,0,5,Silver,1,Magical,7,Revival,0,0x2cc01c,60,An ensorcelled crystal that will revive an ally\nto Max HP.
 252,Glyph of Might,0b0010,"",X,"",21,Incr Attack & Defense,1,Single PC,100,50,10,17,2000,0,0,0,1,Red,1,Magical,-1,None,0,0x2cc058,72,Developed by De Loco's Researchers.\nIncreases the Power of one ally.
 253,Glyph of Speed,0b0010,"",X,"",20,Incr Quick,2,All PCs,100,50,11,18,1000,0,0,0,3,Blue,1,Magical,-1,None,0,0x2cc0a0,80,Developed by De Loco's Researchers.\nIncreases the Quick of the entire party.
 254,Healing Salve,0b0010,"",X,"",33,Regenerate,1,Single PC,100,50,12,25,500,0,0,100,-1,None,-1,None,-1,None,0,0x2cc0f0,76,Developed by De Loco's Researchers.\nAllows one ally to regenerate health.

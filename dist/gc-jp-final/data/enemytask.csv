@@ -682,11 +682,13 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1100,*,41,Elooper,1,Action,552,Run,-1,None
 1200,*,41,Elooper,1,Action,507,サプリィ,7,EC w/ Least HP
 1300,*,41,Elooper,1,Action,100,Ж術？,-1,None
-100,*,42,Grapor,0,Branch,23,Rating 30%,400,Go to 400
-200,*,42,Grapor,0,Branch,21,Rating 10%,500,Go to 500
-300,*,42,Grapor,1,Action,550,Attack,2,Random PC
-400,*,42,Grapor,1,Action,552,Run,-1,None
-500,*,42,Grapor,1,Action,551,Guard,-1,None
+100,*,42,Grapor,0,Branch,23,Rating 30%,600,Go to 600
+200,*,42,Grapor,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,400,Go to 400
+300,*,42,Grapor,0,Branch,24,Rating 40%,700,Go to 700
+400,*,42,Grapor,0,Branch,21,Rating 10%,700,Go to 700
+500,*,42,Grapor,1,Action,550,Attack,2,Random PC
+600,*,42,Grapor,1,Action,552,Run,-1,None
+700,*,42,Grapor,1,Action,551,Guard,-1,None
 100,*,43,Sphyrus,0,Branch,11,Turn 1,500,Go to 500
 200,*,43,Sphyrus,0,Branch,12,Turn 2,600,Go to 600
 300,*,43,Sphyrus,0,Branch,29,Rating 90%,700,Go to 700
