@@ -38,7 +38,7 @@ Entry ID,Entry US Name,PC Flags,[V],[A],[F],[D],[E],[G],Sell%,US Order 1,US Orde
 196,Blue Rogue Patch,0b00111111,X,X,X,X,X,X,50,41,5,0,6820,17,Defense,0,18,18,MagDef,0,18,16,Attack,0,18,1,Will,0,18,0x2cb414,88,"Can be worn to show determination. Improves\nAttacks, Defense, Will and Magic Defense."
 197,Assassin Ring,0b00111111,X,X,X,X,X,X,50,36,1,0,3200,80,PC 1st Strike%,0,40,19,Hit%,0,40,-1,None,0,0,-1,None,0,0,0x2cb46c,72,"A ring crafted in Nasr. Improves chances for\na First Strike, and Hit%."
 198,Stealth Ring,0b00111111,X,X,X,X,X,X,50,37,51,0,3000,81,PC Run%,0,100,4,Quick,0,10,20,Dodge%,0,10,-1,None,0,0,0x2cb4b4,92,"A ring that improves Agile and Dodge%. In\nmost cases, you can run away 100% of the time."
-199,Dhabu Hide,0b00111111,X,X,X,X,X,X,50,38,16,0,2800,4,Quick,0,50,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x2cb510,56,"A folded piece of cured Dhabu hide, used as a\narmor."
+199,Dhabu Hide,0b00111111,X,X,X,X,X,X,50,38,16,0,2800,4,Quick,0,40,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x2cb510,56,"A folded piece of cured Dhabu hide, used as a\narmor."
 200,Ominous Mask,0b00100101,X,"","",X,"",X,50,42,38,0,4760,68,Reduce SP,0,1,16,Attack,0,45,17,Defense,0,45,-1,None,0,0,0x2cb548,92,"Gives a large boost to Attack Power and Defense,\nbut reduces the party's Spirit to zero."
 201,Flash Ribbon,0b00011101,"",X,X,X,"",X,50,43,19,0,60,4,Quick,0,2,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x2cb5a4,48,An enchanted Ribbon that improves Aika's\nQuick.
 202,The Unseen Hand,0b00011101,"",X,X,X,"",X,50,44,52,0,2960,4,Quick,0,30,20,Dodge%,0,5,-1,None,0,0,-1,None,0,0,0x2cb5d4,76,"An enchantment that enables a warrior to Attack\nfaster, and avoid enemies."

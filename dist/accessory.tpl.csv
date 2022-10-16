@@ -36,9 +36,9 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 194,Skull Cap,False,0b00111111,X,X,X,X,X,X,50,4300,16,Attack,24,1,Will,24,-1,None,0,-1,None,0
 195,Mage's Bane,True,0b00111111,X,X,X,X,X,X,50,480,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
 196,Blue Rogue Patch,False,0b00111111,X,X,X,X,X,X,50,6820,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
-197,Assassin Ring,False,0b00111111,X,X,X,X,X,X,50,3200,80,First Strike%,40,19,Hit%,40,-1,None,0,-1,None,0
-198,Stealth Ring,False,0b00111111,X,X,X,X,X,X,50,3000,81,PC Run%,100,4,Quick,10,20,Dodge%,10,-1,None,0
-199,Dhabu Hide,False,0b00111111,X,X,X,X,X,X,50,2800,4,Quick,50,-1,None,0,-1,None,0,-1,None,0
+197,Assassin Ring,True,0b00111111,X,X,X,X,X,X,50,3200,80,First Strike%,40,19,Hit%,40,-1,None,0,-1,None,0
+198,Stealth Ring,True,0b00111111,X,X,X,X,X,X,50,3000,81,PC Run%,100,4,Quick,10,20,Dodge%,10,-1,None,0
+199,Dhabu Hide,True,0b00111111,X,X,X,X,X,X,50,2800,4,Quick,40,-1,None,0,-1,None,0,-1,None,0
 200,Ominous Mask,False,0b00100101,X,,,X,,X,50,4760,68,Reduce SP,1,16,Attack,45,17,Defense,45,-1,None,0
 201,Flash Ribbon,True,0b00011101,,X,X,X,,X,50,60,4,Quick,2,-1,None,0,-1,None,0,-1,None,0
 202,The Unseen Hand,False,0b00011101,,X,X,X,,X,50,2960,4,Quick,30,20,Dodge%,5,-1,None,0,-1,None,0
@@ -55,10 +55,10 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 213,Mesh Tights,False,0b00010000,,X,,,,,50,10,16,Attack,40,1,Will,40,-1,None,0,-1,None,0
 214,Black Eyepatch,True,0b00100101,X,,,X,,X,50,20,16,Attack,7,-1,None,0,-1,None,0,-1,None,0
 215,Silver Veil,True,0b00011000,,X,X,,,,50,200,1,Will,16,18,MagDef,16,-1,None,0,-1,None,0
-216,Imperial Crest,Assigned,0b00000010,,,,,X,,50,2000,17,Defense,20,18,MagDef,20,-1,None,0,-1,None,0
-217,Gilder's Amulet,Assigned,0b00110001,X,X,,,,X,50,1000,17,Defense,11,18,MagDef,11,16,Attack,11,1,Will,11
+216,Imperial Crest,True,0b00000010,,,,,X,,50,2000,17,Defense,20,18,MagDef,20,-1,None,0,-1,None,0
+217,Gilder's Amulet,True,0b00110001,X,X,,,,X,50,1000,17,Defense,11,18,MagDef,11,16,Attack,11,1,Will,11
 218,Valuan Medallion,False,0b00111111,X,X,X,X,X,X,50,5000,49,Unconscious,-3,17,Defense,30,18,MagDef,30,-1,None,0
-219,Immunity Ring,False,0b00000101,,,,X,,X,50,1490,79,Block Neg States,-2,17,Defense,21,-1,None,0,-1,None,0
+219,Immunity Ring,True,0b00000101,,,,X,,X,50,1490,79,Block Neg States,-2,17,Defense,21,-1,None,0,-1,None,0
 220,Thermo Ring,True,0b00111111,X,X,X,X,X,X,50,700,33,Red,-1,34,Purple,-1,1,Will,15,18,MagDef,15
 221,Slayer Ring,True,0b00111111,X,X,X,X,X,X,50,600,1,Will,8,17,Defense,8,19,Hit%,10,4,Quick,8
 222,Chance Ring,False,0b00111111,X,X,X,X,X,X,50,1000,79,Block Neg States,90,17,Defense,45,18,MagDef,45,-1,None,0

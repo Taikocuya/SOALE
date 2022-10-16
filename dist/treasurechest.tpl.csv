@@ -19,7 +19,7 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 17,Horteka,True,132,Victory Mail,1
 18,Horteka,True,22,Hunting Arc,1
 19,Horteka,True,479,Indoor Plant,1
-20,Nasrad,False,264,Sylph Seed,1
+20,Nasrad,True,264,Sylph Seed,1
 21,Deserted Island,True,258,Moonberry,1
 22,Deserted Island,True,520,Gold,1827
 23,Nasrad,False,258,Moonberry,1

@@ -20,8 +20,8 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 98,Golden Armor,True,0b00100101,X,,,X,,X,75,2480,17,Defense,90,18,MagDef,77,-1,None,0,-1,None,0
 99,Ixa'takan Armor,False,0b00111111,X,X,X,X,X,X,50,2790,17,Defense,109,18,MagDef,109,32,Green,-2,-1,None,0
 100,Naval Uniform,False,0b00110101,X,X,,X,,X,50,2470,17,Defense,112,18,MagDef,112,-1,None,0,-1,None,0
-101,Nasr Uniform,False,0b00100111,X,,,X,X,X,50,2070,17,Defense,104,18,MagDef,96,-1,None,0,-1,None,0
-102,Caravan Armor,False,0b00110101,X,X,,X,,X,50,1930,17,Defense,100,18,MagDef,100,-1,None,0,-1,None,0
+101,Nasr Uniform,True,0b00100111,X,,,X,X,X,50,2070,17,Defense,104,18,MagDef,96,-1,None,0,-1,None,0
+102,Caravan Armor,True,0b00110101,X,X,,X,,X,50,1930,17,Defense,100,18,MagDef,100,-1,None,0,-1,None,0
 103,Holy Robe,False,0b00011010,,X,X,,X,,50,1520,17,Defense,92,18,MagDef,108,-1,None,0,-1,None,0
 104,Daccat's Tunic,False,0b00111111,X,X,X,X,X,X,50,3500,17,Defense,121,18,MagDef,121,35,Blue,-2,-1,None,0
 105,Battleworn Armor,False,0b00100101,X,,,X,,X,50,3810,17,Defense,133,18,MagDef,114,-1,None,0,-1,None,0
