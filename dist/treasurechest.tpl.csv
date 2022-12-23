@@ -19,7 +19,7 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 17,Horteka,True,132,Victory Mail,1
 18,Horteka,True,22,Hunting Arc,1
 19,Horteka,True,479,Indoor Plant,1
-20,Nasrad,True,264,Sylph Seed,1
+20,Nasrad,True,199,Dhabu Hide,1
 21,Deserted Island,True,258,Moonberry,1
 22,Deserted Island,True,520,Gold,1827
 23,Nasrad,False,258,Moonberry,1
@@ -71,19 +71,19 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 69,Rixis,True,10,Stonecutter,1
 70,Rixis,True,258,Moonberry,1
 71,Rixis,True,261,Icyl Seed,1
-72,Daccat's Island,False,243,Sacrulen Crystal,2
-73,Daccat's Island,False,17,Skywing,1
-74,Daccat's Island,False,521,Gold,2001
-75,Daccat's Island,False,247,Soul Crystal,1
-76,Daccat's Island,False,128,Daccat's Armor,1
-77,Daccat's Island,False,244,Magic Droplet,4
-78,Daccat's Island,False,124,Maiden's Armor,2
-79,Daccat's Island,False,245,Magic Dew,1
-80,Daccat's Island,False,258,Moonberry,1
-81,Daccat's Island,False,258,Moonberry,1
-82,Daccat's Island,False,250,Risan Crystal,2
-83,Daccat's Island,False,274,Electrum Box,1
-84,Daccat's Island,False,265,Vidal Seed,1
+72,Daccat's Island,True,124,Maiden's Armor,1
+73,Daccat's Island,True,17,Skywing,1
+74,Daccat's Island,True,521,Gold,2001
+75,Daccat's Island,True,247,Soul Crystal,1
+76,Daccat's Island,True,128,Daccat's Armor,1
+77,Daccat's Island,True,251,Riselem Crystal,1
+78,Daccat's Island,True,265,Vidal Seed,1
+79,Daccat's Island,True,242,Sacrum Crystal,1
+80,Daccat's Island,True,258,Moonberry,1
+81,Daccat's Island,True,258,Moonberry,1
+82,Daccat's Island,True,250,Risan Crystal,2
+83,Daccat's Island,True,269,Crystales Box,1
+84,Daccat's Island,True,124,Maiden's Armor,1
 85,Grand Fortress,False,248,Unholy Dagger,1
 86,Grand Fortress,False,258,Moonberry,1
 87,Mount Kazai,False,256,Windsong Orb,1

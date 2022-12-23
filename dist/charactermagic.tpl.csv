@@ -13,7 +13,7 @@ Entry ID,[Entry Name],[Finalized],Element ID,[Element Name],Occasion Flags,[M],[
 11,Noxus,True,0,Green,0b0010,,X,,4,Poison + Damage,4,All ECs,6,Magic,0,6,110,1,Magical,0,Poison,60,-1,Never,-1,None,-1,-1,0,-1
 12,Slipara,Undefined,3,Blue,0b0010,,X,,9,Sleep,4,All ECs,6,Magic,0,6,0,1,Magical,3,Sleep,60,-1,Never,-1,None,-1,-1,0,-1
 13,Quika,Undefined,3,Blue,0b0011,,X,X,20,Incr Quick,2,All PCs,6,Magic,0,6,0,1,Magical,-1,None,0,1,Always,104,Incr Quick,2,1,0,-1
-14,Curia,Undefined,5,Silver,0b0010,,X,,30,Rem Neg States B,1,Single PC,6,Magic,0,1,0,1,Magical,-1,None,0,-1,Never,-1,None,-1,-1,0,-1
+14,Curia,True,5,Silver,0b0010,,X,,30,Rem Neg States B,1,Single PC,6,Magic,0,1,0,1,Magical,-1,None,0,-1,Never,-1,None,-1,-1,0,-1
 15,Risan,True,5,Silver,0b0010,,X,,27,Revive w/ HP of 50%,1,Single PC,6,Magic,0,2,0,1,Magical,7,Revival,-1,-1,Never,-1,None,-1,-1,0,-1
 16,Riselem,Undefined,5,Silver,0b0010,,X,,28,Revive w/ HP of 100%,1,Single PC,6,Magic,0,3,0,1,Magical,7,Revival,0,-1,Never,-1,None,-1,-1,0,-1
 17,Eterni,True,5,Silver,0b0010,,X,,68,Unconscious + Damage B,3,Single EC,6,Magic,0,2,60,1,Magical,1,Unconscious,90,-1,Never,-1,None,-1,-1,0,-1

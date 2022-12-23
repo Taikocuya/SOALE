@@ -10,7 +10,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 168,Throkryn's Scale,True,0b00110101,X,X,,X,,X,50,300,16,Attack,10,-1,None,0,-1,None,0,-1,None,0
 169,Thryllak's Scale,Assigned,0b00110101,X,X,,X,,X,50,2300,16,Attack,36,-1,None,0,-1,None,0,-1,None,0
 170,Marocca's Shell,True,0b00110101,X,X,,X,,X,50,100,17,Defense,6,-1,None,0,-1,None,0,-1,None,0
-171,Burocca's Shell,False,0b00110101,X,X,,X,,X,50,1920,17,Defense,36,-1,None,0,-1,None,0,-1,None,0
+171,Burocca's Shell,Assigned,0b00110101,X,X,,X,,X,50,1920,17,Defense,36,-1,None,0,-1,None,0,-1,None,0
 172,Crylhound's Claw,True,0b00110101,X,X,,X,,X,50,420,19,Hit%,20,16,Attack,12,-1,None,0,-1,None,0
 173,Hunter's Hand,True,0b00110101,X,X,,X,,X,50,1010,19,Hit%,40,16,Attack,4,-1,None,0,-1,None,0
 174,Thief's Aura,True,0b00111101,X,X,X,X,,X,50,230,20,Dodge%,10,17,Defense,5,-1,None,0,-1,None,0
@@ -22,13 +22,13 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 180,Counter Bracer,True,0b00110101,X,X,,X,,X,50,1360,73,Counter%,20,16,Attack,20,19,Hit%,20,-1,None,0
 181,Defensive Aura,False,0b00011000,,X,X,,,,50,10,65,Block Attack,1,77,Recover SP,-1,54,Fatigue,-10,-1,None,0
 182,Ivy Band,True,0b00111111,X,X,X,X,X,X,50,520,48,Poison,-5,32,Green,-2,17,Defense,12,18,MagDef,12
-183,Silvite Ring,True,0b00111111,X,X,X,X,X,X,50,760,49,Unconscious,-5,37,Silver,-2,17,Defense,18,18,MagDef,18
+183,Silvite Ring,True,0b00111111,X,X,X,X,X,X,50,760,49,Unconscious,-5,37,Silver,-2,17,Defense,14,18,MagDef,14
 184,Gem of Fluidity,True,0b00111111,X,X,X,X,X,X,50,350,50,Stone,-5,17,Defense,10,18,MagDef,10,-1,None,0
-185,Wind Gem Ring,True,0b00111111,X,X,X,X,X,X,50,730,51,Sleep,-5,35,Blue,-2,17,Defense,18,18,MagDef,18
-186,Eye of Truth,True,0b00111111,X,X,X,X,X,X,50,710,52,Confusion,-5,34,Purple,-2,17,Defense,18,18,MagDef,18
+185,Wind Gem Ring,True,0b00111111,X,X,X,X,X,X,50,730,51,Sleep,-5,35,Blue,-2,17,Defense,14,18,MagDef,14
+186,Eye of Truth,True,0b00111111,X,X,X,X,X,X,50,710,52,Confusion,-5,34,Purple,-2,17,Defense,14,18,MagDef,14
 187,Revered Voice,True,0b00111111,X,X,X,X,X,X,50,480,53,Silence,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
-188,Everlasting Gem,True,0b00111111,X,X,X,X,X,X,50,680,54,Fatigue,-5,17,Defense,22,18,MagDef,22,-1,None,0
-189,Behemoth's Ring,True,0b00111111,X,X,X,X,X,X,50,740,56,Weak,-5,36,Yellow,-2,17,Defense,18,18,MagDef,18
+188,Everlasting Gem,True,0b00111111,X,X,X,X,X,X,50,680,54,Fatigue,-5,17,Defense,16,18,MagDef,16,-1,None,0
+189,Behemoth's Ring,True,0b00111111,X,X,X,X,X,X,50,740,56,Weak,-5,36,Yellow,-2,17,Defense,16,18,MagDef,16
 190,Constitution Gem,False,0b00000101,,,,X,,X,50,1000,79,Block Neg States,-3,17,Defense,10,18,MagDef,10,-1,None,0
 191,Nomadic Veil,True,0b00111111,X,X,X,X,X,X,50,640,17,Defense,18,18,MagDef,18,-1,None,0,-1,None,0
 192,Radiant Fur,False,0b00111111,X,X,X,X,X,X,50,3580,17,Defense,24,18,MagDef,24,-1,None,0,-1,None,0
@@ -36,9 +36,9 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 194,Skull Cap,False,0b00111111,X,X,X,X,X,X,50,4300,16,Attack,24,1,Will,24,-1,None,0,-1,None,0
 195,Mage's Bane,True,0b00111111,X,X,X,X,X,X,50,480,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
 196,Blue Rogue Patch,False,0b00111111,X,X,X,X,X,X,50,6820,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
-197,Assassin Ring,True,0b00111111,X,X,X,X,X,X,50,3200,80,First Strike%,40,19,Hit%,40,-1,None,0,-1,None,0
-198,Stealth Ring,True,0b00111111,X,X,X,X,X,X,50,3000,81,PC Run%,100,4,Quick,10,20,Dodge%,10,-1,None,0
-199,Dhabu Hide,True,0b00111111,X,X,X,X,X,X,50,2800,4,Quick,40,-1,None,0,-1,None,0,-1,None,0
+197,Assassin Ring,False,0b00111111,X,X,X,X,X,X,50,3200,80,First Strike%,40,19,Hit%,40,-1,None,0,-1,None,0
+198,Stealth Ring,False,0b00111111,X,X,X,X,X,X,50,3000,81,PC Run%,100,4,Quick,10,20,Dodge%,10,-1,None,0
+199,Dhabu Hide,Assigned,0b00111111,X,X,X,X,X,X,50,2800,4,Quick,40,-1,None,0,-1,None,0,-1,None,0
 200,Ominous Mask,False,0b00100101,X,,,X,,X,50,4760,68,Reduce SP,1,16,Attack,45,17,Defense,45,-1,None,0
 201,Flash Ribbon,True,0b00011101,,X,X,X,,X,50,60,4,Quick,2,-1,None,0,-1,None,0,-1,None,0
 202,The Unseen Hand,False,0b00011101,,X,X,X,,X,50,2960,4,Quick,30,20,Dodge%,5,-1,None,0,-1,None,0
