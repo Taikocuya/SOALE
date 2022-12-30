@@ -7,7 +7,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 5,Thunder Cutlass,False,0,Vyse,50,-1,None,8610,160,90,36,Yellow,0,-2
 6,Iron-cutter,True,0,Vyse,50,-1,None,3870,112,90,-1,None,0,0
 7,Nasr Cutlass,True,0,Vyse,50,-1,None,1340,70,90,-1,None,0,0
-8,Sword of Daccat,False,0,Vyse,50,1,Sleep by 50%,4690,120,90,-1,None,0,0
+8,Sword of Daccat,True,0,Vyse,50,15,Sleep by 10%,4690,120,90,-1,None,0,0
 9,Hunter's Sword,True,0,Vyse,50,-1,None,2280,87,90,-1,None,0,0
 10,Stonecutter,True,0,Vyse,50,-1,None,3120,99,90,-1,None,0,0
 11,Dream Cutlass,False,0,Vyse,50,-1,None,6690,137,90,35,Blue,0,-2
@@ -68,7 +68,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 66,Warrior's Pistol,False,5,Gilder,50,-1,None,10920,176,100,-1,None,0,0
 67,Valuan Pistol,False,5,Gilder,50,-1,None,8140,160,100,-1,None,0,0
 68,Marksman Gun,False,5,Gilder,50,10,Unconscious by 20%,3000,100,200,-1,None,0,0
-69,Daccat Custom,False,5,Gilder,50,9,Sleep by 50%,4290,120,100,-1,None,0,0
+69,Daccat Custom,True,5,Gilder,50,15,Sleep by 10%,4290,120,100,-1,None,0,0
 70,Gilder Special,False,5,Gilder,50,-1,None,9460,168,100,-1,None,0,0
 71,Tuna Cutlass,False,0,Vyse,100,-1,None,22222,150,0,-1,None,0,0
 72,Swirlmerang,False,1,Aika,100,11,Confusion by 100%,11111,100,0,-1,None,0,0

@@ -7,7 +7,7 @@ Entry ID,Entry US Name,PC ID,[PC Name],Sell%,US Order 1,US Order 2,Effect ID,[Ef
 5,Thunder Cutlass,0,Vyse,50,13,64,-1,None,8610,160,90,36,Yellow,0,-2,0x2c7f6c,96,An ancient cutlass made from Yeligar's hardened\nskin. Some say it can cut through lightning.
 6,Iron-cutter,0,Vyse,50,7,40,-1,None,3870,112,90,-1,None,0,0,0x2c7fcc,96,"An ancient blade of pre-Old World times, it is\nsaid that this blade was used to cut iron ore."
 7,Nasr Cutlass,0,Vyse,50,4,46,-1,None,1340,70,90,-1,None,0,0,0x2c802c,96,"A cutlass used by desert-faring merchants for\nself-defense, its blade is finely worked stone."
-8,Sword of Daccat,0,Vyse,50,8,62,1,Sleep by 50%,4690,120,90,-1,None,0,0,0x2c808c,88,"The sword of the great Air Pirate Daccat, it has\nthe power to lull enemies to sleep."
+8,Sword of Daccat,0,Vyse,50,8,62,15,Sleep by 10%,4690,120,90,-1,None,0,0,0x2c808c,88,"The sword of the great Air Pirate Daccat, it has\nthe power to lull enemies to sleep."
 9,Hunter's Sword,0,Vyse,50,5,35,-1,None,2280,87,90,-1,None,0,0,0x2c80e4,92,A hunting blade fashioned to resemble a beast's\nfang. A favorite among Ixa'takan warriors.
 10,Stonecutter,0,Vyse,50,6,58,-1,None,3120,99,90,-1,None,0,0,0x2c8140,92,"A blade originally used in masonry work, it has\nsince been modified to be used in combat."
 11,Dream Cutlass,0,Vyse,50,10,26,-1,None,6690,137,90,35,Blue,0,-2,0x2c819c,92,A legendary sword that can supposedly rip the\nfabric of reality and make dreams come true.
@@ -68,7 +68,7 @@ Entry ID,Entry US Name,PC ID,[PC Name],Sell%,US Order 1,US Order 2,Effect ID,[Ef
 66,Warrior's Pistol,5,Gilder,50,72,69,-1,None,10920,176,100,-1,None,0,0,0x2c944c,88,A small gun used by ancient warriors. Its\nappearance hides its destructive power well.
 67,Valuan Pistol,5,Gilder,50,69,66,-1,None,8140,160,100,-1,None,0,0,0x2c94a4,96,"A stolen Valuan pistol, modified by sailors to\nincrease power, without sacrificing accuracy."
 68,Marksman Gun,5,Gilder,50,71,43,10,Unconscious by 20%,3000,100,200,-1,None,0,0,0x2c9504,84,A small pistol used by Valuan assassins. Can\ncause instant death with a good shot.
-69,Daccat Custom,5,Gilder,50,68,22,9,Sleep by 50%,4290,120,100,-1,None,0,0,0x2c9558,92,"A long pistol used by the legendary Air Pirate,\nDaccat. Can sometimes put enemies to Sleep."
+69,Daccat Custom,5,Gilder,50,68,22,15,Sleep by 10%,4290,120,100,-1,None,0,0,0x2c9558,92,"A long pistol used by the legendary Air Pirate,\nDaccat. Can sometimes put enemies to Sleep."
 70,Gilder Special,5,Gilder,50,70,31,-1,None,9460,168,100,-1,None,0,0,0x2c95b4,84,A gun made specifically to fit Gilder's touch.\nIt has unequaled accuracy and power.
 71,Tuna Cutlass,0,Vyse,100,16,65,-1,None,22222,150,0,-1,None,0,0,0x2c9608,80,"Received from the imposter, Vize.\nBoasts high attack power, but low accuracy."
 72,Swirlmerang,1,Aika,100,33,61,11,Confusion by 100%,11111,100,0,-1,None,0,0,0x2c9658,88,"Received from the imposter, Anita. Will always\nConfuse any enemy not immune to Confuse."

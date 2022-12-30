@@ -2064,52 +2064,62 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10010,*,137,Rik'talish,True,1,Action,2,Feather Slash,2,Random PC
 10020,*,137,Rik'talish,True,1,Action,7,Circle of Panic,14,PC w/o Confusion
 10030,*,137,Rik'talish,True,1,Action,8,Ring of Sleep,16,PC w/o Sleep
-100,*,138,Sinistra,False,0,Branch,17,ECs Alive = 1,1800,Go to 1800
-200,*,138,Sinistra,False,0,Branch,53,Used Engage?,2200,Go to 2200
-300,*,138,Sinistra,False,0,Branch,11,Turn 1,900,Go to 900
-400,*,138,Sinistra,False,0,Branch,12,Turn 2,1200,Go to 1200
-500,*,138,Sinistra,False,0,Branch,38,Any EC HP < 50%,1600,Go to 1600
-600,*,138,Sinistra,False,0,Branch,39,Any EC HP < 25%,1700,Go to 1700
-700,*,138,Sinistra,False,0,Branch,25,Rating 50%,2000,Go to 2000
-800,*,138,Sinistra,False,0,Branch,30,Always,2100,Go to 2100
-900,*,138,Sinistra,False,0,Branch,25,Rating 50%,2300,Go to 2300
-1000,*,138,Sinistra,False,0,Branch,25,Rating 50%,2000,Go to 2000
-1100,*,138,Sinistra,False,0,Branch,30,Always,2100,Go to 2100
-1200,*,138,Sinistra,False,0,Branch,50,Used S-Move?,1400,Go to 1400
-1300,*,138,Sinistra,False,0,Branch,30,Always,1500,Go to 1500
-1400,*,138,Sinistra,False,0,Branch,25,Rating 50%,2000,Go to 2000
-1500,*,138,Sinistra,False,0,Branch,30,Always,2100,Go to 2100
-1600,*,138,Sinistra,False,0,Branch,23,Rating 30%,2300,Go to 2300
-1700,*,138,Sinistra,False,0,Branch,21,Rating 10%,2300,Go to 2300
-1800,*,138,Sinistra,False,0,Branch,23,Rating 30%,2000,Go to 2000
-1900,*,138,Sinistra,False,0,Branch,30,Always,2100,Go to 2100
-2000,*,138,Sinistra,False,1,Action,550,Attack,2,Random PC
-2100,*,138,Sinistra,False,1,Action,51,Explode,-1,None
-2200,*,138,Sinistra,False,1,Action,54,Death Waltz,-1,None
-2300,*,138,Sinistra,False,1,Action,55,Engage,-1,None
-100,*,139,Destra,False,0,Branch,17,ECs Alive = 1,1800,Go to 1800
-200,*,139,Destra,False,0,Branch,53,Used Engage?,2200,Go to 2200
-300,*,139,Destra,False,0,Branch,12,Turn 2,900,Go to 900
-400,*,139,Destra,False,0,Branch,13,Turn 3,1200,Go to 1200
-500,*,139,Destra,False,0,Branch,38,Any EC HP < 50%,1600,Go to 1600
-600,*,139,Destra,False,0,Branch,39,Any EC HP < 25%,1700,Go to 1700
-700,*,139,Destra,False,0,Branch,25,Rating 50%,2000,Go to 2000
-800,*,139,Destra,False,0,Branch,30,Always,2100,Go to 2100
-900,*,139,Destra,False,0,Branch,25,Rating 50%,2300,Go to 2300
-1000,*,139,Destra,False,0,Branch,25,Rating 50%,2000,Go to 2000
-1100,*,139,Destra,False,0,Branch,30,Always,2100,Go to 2100
-1200,*,139,Destra,False,0,Branch,50,Used S-Move?,1400,Go to 1400
-1300,*,139,Destra,False,0,Branch,30,Always,1500,Go to 1500
-1400,*,139,Destra,False,0,Branch,25,Rating 50%,2000,Go to 2000
-1500,*,139,Destra,False,0,Branch,30,Always,2100,Go to 2100
-1600,*,139,Destra,False,0,Branch,23,Rating 30%,2300,Go to 2300
-1700,*,139,Destra,False,0,Branch,21,Rating 10%,2300,Go to 2300
-1800,*,139,Destra,False,0,Branch,23,Rating 30%,2000,Go to 2000
-1900,*,139,Destra,False,0,Branch,30,Always,2100,Go to 2100
-2000,*,139,Destra,False,1,Action,550,Attack,2,Random PC
-2100,*,139,Destra,False,1,Action,53,Tundra Blast,-1,None
-2200,*,139,Destra,False,1,Action,59,Death Waltz,-1,None
-2300,*,139,Destra,False,1,Action,55,Engage,-1,None
+0,*,138,Sinistra,True,0,Branch,17,ECs Alive = 1,4000,Go to 4000
+10,*,138,Sinistra,True,0,Branch,53,Used Engage?,5000,Go to 5000
+20,*,138,Sinistra,True,0,Branch,11,Turn 1,2000,Go to 2000
+30,*,138,Sinistra,True,0,Branch,12,Turn 2,3000,Go to 3000
+1000,*,138,Sinistra,True,0,Branch,25,Rating 50%,10030,Engage
+2000,*,138,Sinistra,True,0,Branch,50,Used S-Move?,2020,Go to 2020
+2010,*,138,Sinistra,True,0,Branch,27,Rating 70%,10010,Explode
+2020,*,138,Sinistra,True,0,Branch,27,Rating 70%,10000,Attack
+2030,*,138,Sinistra,True,0,Branch,62,PCs Alive = 1,10000,Attack
+2040,*,138,Sinistra,True,0,Branch,63,PCs Alive = 2,10000,Attack
+2050,*,138,Sinistra,True,0,Branch,30,Always,10010,Explode
+3000,*,138,Sinistra,True,0,Branch,25,Rating 50%,10010,Explode
+3010,*,138,Sinistra,True,0,Branch,50,Used S-Move?,10000,Attack
+3020,*,138,Sinistra,True,0,Branch,30,Always,10010,Explode
+4000,*,138,Sinistra,True,0,Branch,62,PCs Alive = 1,4030,Go to 4030
+4010,*,138,Sinistra,True,0,Branch,63,PCs Alive = 2,4030,Go to 4030
+4020,*,138,Sinistra,True,0,Branch,24,Rating 40%,10010,Explode
+4030,*,138,Sinistra,True,0,Branch,23,Rating 30%,10010,Explode
+4040,*,138,Sinistra,True,0,Branch,30,Always,10000,Attack
+5000,*,138,Sinistra,True,0,Branch,62,PCs Alive = 1,5030,Go to 5030
+5010,*,138,Sinistra,True,0,Branch,63,PCs Alive = 2,5030,Go to 5030
+5020,*,138,Sinistra,True,0,Branch,30,Always,10020,Death Waltz
+5030,*,138,Sinistra,True,0,Branch,23,Rating 30%,10020,Death Waltz
+5040,*,138,Sinistra,True,0,Branch,23,Rating 30%,10010,Explode
+10000,*,138,Sinistra,True,1,Action,550,Attack,2,Random PC
+10010,*,138,Sinistra,True,1,Action,51,Explode,-1,None
+10020,*,138,Sinistra,True,1,Action,54,Death Waltz,-1,None
+10030,*,138,Sinistra,True,1,Action,55,Engage,-1,None
+0,*,139,Destra,True,0,Branch,17,ECs Alive = 1,4000,Go to 4000
+10,*,139,Destra,True,0,Branch,53,Used Engage?,5000,Go to 5000
+20,*,139,Destra,True,0,Branch,12,Turn 2,2000,Go to 2000
+30,*,139,Destra,True,0,Branch,13,Turn 3,3000,Go to 3000
+1000,*,139,Destra,True,0,Branch,25,Rating 50%,10030,Engage
+2000,*,139,Destra,True,0,Branch,50,Used S-Move?,2020,Go to 2020
+2010,*,139,Destra,True,0,Branch,27,Rating 70%,10010,Tundra Blast
+2020,*,139,Destra,True,0,Branch,27,Rating 70%,10000,Attack
+2030,*,139,Destra,True,0,Branch,62,PCs Alive = 1,10000,Attack
+2040,*,139,Destra,True,0,Branch,63,PCs Alive = 2,10000,Attack
+2050,*,139,Destra,True,0,Branch,30,Always,10010,Tundra Blast
+3000,*,139,Destra,True,0,Branch,25,Rating 50%,10010,Tundra Blast
+3010,*,139,Destra,True,0,Branch,50,Used S-Move?,10000,Tundra Blast
+3020,*,139,Destra,True,0,Branch,30,Always,10010,Explode
+4000,*,139,Destra,True,0,Branch,62,PCs Alive = 1,4030,Go to 4030
+4010,*,139,Destra,True,0,Branch,63,PCs Alive = 2,4030,Go to 4030
+4020,*,139,Destra,True,0,Branch,24,Rating 40%,10010,Tundra Blast
+4030,*,139,Destra,True,0,Branch,23,Rating 30%,10010,Tundra Blast
+4040,*,139,Destra,True,0,Branch,30,Always,10000,Attack
+5000,*,139,Destra,True,0,Branch,62,PCs Alive = 1,5030,Go to 5030
+5010,*,139,Destra,True,0,Branch,63,PCs Alive = 2,5030,Go to 5030
+5020,*,139,Destra,True,0,Branch,30,Always,10020,Death Waltz
+5030,*,139,Destra,True,0,Branch,23,Rating 30%,10020,Death Waltz
+5040,*,139,Destra,True,0,Branch,23,Rating 30%,10010,Tundra Blast
+10000,*,139,Destra,True,1,Action,550,Attack,2,Random PC
+10010,*,139,Destra,True,1,Action,53,Tundra Blast,-1,None
+10020,*,139,Destra,True,1,Action,59,Death Waltz,-1,None
+10030,*,139,Destra,True,1,Action,55,Engage,-1,None
 100,*,140,Ramirez,False,0,Branch,1,HP < 50%,1400,Go to 1400
 200,*,140,Ramirez,False,0,Branch,11,Turn 1,1000,Go to 1000
 300,*,140,Ramirez,False,0,Branch,12,Turn 2,900,Go to 900

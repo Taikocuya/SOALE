@@ -2064,52 +2064,62 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 3000,*,137,Rik'talish,1,Action,2,フェザーティアー,2,Random PC
 3100,*,137,Rik'talish,1,Action,7,パニカリング,14,PC w/o Confusion
 3200,*,137,Rik'talish,1,Action,8,スリーパリング,16,PC w/o Sleep
-100,*,138,Sinistra,0,Branch,17,ECs Alive = 1,1800,Go to 1800
-200,*,138,Sinistra,0,Branch,53,Used Engage?,2200,Go to 2200
-300,*,138,Sinistra,0,Branch,11,Turn 1,900,Go to 900
+100,*,138,Sinistra,0,Branch,17,ECs Alive = 1,1500,Go to 1500
+200,*,138,Sinistra,0,Branch,53,Used Engage?,2000,Go to 2000
+300,*,138,Sinistra,0,Branch,11,Turn 1,600,Go to 600
 400,*,138,Sinistra,0,Branch,12,Turn 2,1200,Go to 1200
-500,*,138,Sinistra,0,Branch,38,Any EC HP < 50%,1600,Go to 1600
-600,*,138,Sinistra,0,Branch,39,Any EC HP < 25%,1700,Go to 1700
-700,*,138,Sinistra,0,Branch,25,Rating 50%,2000,Go to 2000
-800,*,138,Sinistra,0,Branch,30,Always,2100,Go to 2100
-900,*,138,Sinistra,0,Branch,25,Rating 50%,2300,Go to 2300
-1000,*,138,Sinistra,0,Branch,25,Rating 50%,2000,Go to 2000
-1100,*,138,Sinistra,0,Branch,30,Always,2100,Go to 2100
-1200,*,138,Sinistra,0,Branch,50,Used S-Move?,1400,Go to 1400
-1300,*,138,Sinistra,0,Branch,30,Always,1500,Go to 1500
-1400,*,138,Sinistra,0,Branch,25,Rating 50%,2000,Go to 2000
-1500,*,138,Sinistra,0,Branch,30,Always,2100,Go to 2100
-1600,*,138,Sinistra,0,Branch,23,Rating 30%,2300,Go to 2300
-1700,*,138,Sinistra,0,Branch,21,Rating 10%,2300,Go to 2300
-1800,*,138,Sinistra,0,Branch,23,Rating 30%,2000,Go to 2000
-1900,*,138,Sinistra,0,Branch,30,Always,2100,Go to 2100
-2000,*,138,Sinistra,1,Action,550,Attack,2,Random PC
-2100,*,138,Sinistra,1,Action,51,エクスプロア,-1,None
-2200,*,138,Sinistra,1,Action,54,デスマリッジ,-1,None
-2300,*,138,Sinistra,1,Action,55,エンゲイジ,-1,None
-100,*,139,Destra,0,Branch,17,ECs Alive = 1,1800,Go to 1800
-200,*,139,Destra,0,Branch,53,Used Engage?,2200,Go to 2200
-300,*,139,Destra,0,Branch,12,Turn 2,900,Go to 900
+500,*,138,Sinistra,0,Branch,25,Rating 50%,2800,Go to 2800
+600,*,138,Sinistra,0,Branch,50,Used S-Move?,800,Go to 800
+700,*,138,Sinistra,0,Branch,27,Rating 70%,2600,Go to 2600
+800,*,138,Sinistra,0,Branch,27,Rating 70%,2500,Go to 2500
+900,*,138,Sinistra,0,Branch,62,PCs Alive = 1,2500,Go to 2500
+1000,*,138,Sinistra,0,Branch,63,PCs Alive = 2,2500,Go to 2500
+1100,*,138,Sinistra,0,Branch,30,Always,2600,Go to 2600
+1200,*,138,Sinistra,0,Branch,25,Rating 50%,2600,Go to 2600
+1300,*,138,Sinistra,0,Branch,50,Used S-Move?,2500,Go to 2500
+1400,*,138,Sinistra,0,Branch,30,Always,2600,Go to 2600
+1500,*,138,Sinistra,0,Branch,62,PCs Alive = 1,1800,Go to 1800
+1600,*,138,Sinistra,0,Branch,63,PCs Alive = 2,1800,Go to 1800
+1700,*,138,Sinistra,0,Branch,24,Rating 40%,2600,Go to 2600
+1800,*,138,Sinistra,0,Branch,23,Rating 30%,2600,Go to 2600
+1900,*,138,Sinistra,0,Branch,30,Always,2500,Go to 2500
+2000,*,138,Sinistra,0,Branch,62,PCs Alive = 1,2300,Go to 2300
+2100,*,138,Sinistra,0,Branch,63,PCs Alive = 2,2300,Go to 2300
+2200,*,138,Sinistra,0,Branch,30,Always,2700,Go to 2700
+2300,*,138,Sinistra,0,Branch,23,Rating 30%,2700,Go to 2700
+2400,*,138,Sinistra,0,Branch,23,Rating 30%,2600,Go to 2600
+2500,*,138,Sinistra,1,Action,550,Attack,2,Random PC
+2600,*,138,Sinistra,1,Action,51,エクスプロア,-1,None
+2700,*,138,Sinistra,1,Action,54,デスマリッジ,-1,None
+2800,*,138,Sinistra,1,Action,55,エンゲイジ,-1,None
+100,*,139,Destra,0,Branch,17,ECs Alive = 1,1500,Go to 1500
+200,*,139,Destra,0,Branch,53,Used Engage?,2000,Go to 2000
+300,*,139,Destra,0,Branch,12,Turn 2,600,Go to 600
 400,*,139,Destra,0,Branch,13,Turn 3,1200,Go to 1200
-500,*,139,Destra,0,Branch,38,Any EC HP < 50%,1600,Go to 1600
-600,*,139,Destra,0,Branch,39,Any EC HP < 25%,1700,Go to 1700
-700,*,139,Destra,0,Branch,25,Rating 50%,2000,Go to 2000
-800,*,139,Destra,0,Branch,30,Always,2100,Go to 2100
-900,*,139,Destra,0,Branch,25,Rating 50%,2300,Go to 2300
-1000,*,139,Destra,0,Branch,25,Rating 50%,2000,Go to 2000
-1100,*,139,Destra,0,Branch,30,Always,2100,Go to 2100
-1200,*,139,Destra,0,Branch,50,Used S-Move?,1400,Go to 1400
-1300,*,139,Destra,0,Branch,30,Always,1500,Go to 1500
-1400,*,139,Destra,0,Branch,25,Rating 50%,2000,Go to 2000
-1500,*,139,Destra,0,Branch,30,Always,2100,Go to 2100
-1600,*,139,Destra,0,Branch,23,Rating 30%,2300,Go to 2300
-1700,*,139,Destra,0,Branch,21,Rating 10%,2300,Go to 2300
-1800,*,139,Destra,0,Branch,23,Rating 30%,2000,Go to 2000
-1900,*,139,Destra,0,Branch,30,Always,2100,Go to 2100
-2000,*,139,Destra,1,Action,550,Attack,2,Random PC
-2100,*,139,Destra,1,Action,53,ブリザーダ,-1,None
-2200,*,139,Destra,1,Action,59,デスマリッジ,-1,None
-2300,*,139,Destra,1,Action,55,エンゲイジ,-1,None
+500,*,139,Destra,0,Branch,25,Rating 50%,2800,Go to 2800
+600,*,139,Destra,0,Branch,50,Used S-Move?,800,Go to 800
+700,*,139,Destra,0,Branch,27,Rating 70%,2600,Go to 2600
+800,*,139,Destra,0,Branch,27,Rating 70%,2500,Go to 2500
+900,*,139,Destra,0,Branch,62,PCs Alive = 1,2500,Go to 2500
+1000,*,139,Destra,0,Branch,63,PCs Alive = 2,2500,Go to 2500
+1100,*,139,Destra,0,Branch,30,Always,2600,Go to 2600
+1200,*,139,Destra,0,Branch,25,Rating 50%,2600,Go to 2600
+1300,*,139,Destra,0,Branch,50,Used S-Move?,2500,Go to 2500
+1400,*,139,Destra,0,Branch,30,Always,2600,Go to 2600
+1500,*,139,Destra,0,Branch,62,PCs Alive = 1,1800,Go to 1800
+1600,*,139,Destra,0,Branch,63,PCs Alive = 2,1800,Go to 1800
+1700,*,139,Destra,0,Branch,24,Rating 40%,2600,Go to 2600
+1800,*,139,Destra,0,Branch,23,Rating 30%,2600,Go to 2600
+1900,*,139,Destra,0,Branch,30,Always,2500,Go to 2500
+2000,*,139,Destra,0,Branch,62,PCs Alive = 1,2300,Go to 2300
+2100,*,139,Destra,0,Branch,63,PCs Alive = 2,2300,Go to 2300
+2200,*,139,Destra,0,Branch,30,Always,2700,Go to 2700
+2300,*,139,Destra,0,Branch,23,Rating 30%,2700,Go to 2700
+2400,*,139,Destra,0,Branch,23,Rating 30%,2600,Go to 2600
+2500,*,139,Destra,1,Action,550,Attack,2,Random PC
+2600,*,139,Destra,1,Action,53,ブリザーダ,-1,None
+2700,*,139,Destra,1,Action,59,デスマリッジ,-1,None
+2800,*,139,Destra,1,Action,55,エンゲイジ,-1,None
 100,*,140,Ramirez,0,Branch,1,HP < 50%,1400,Go to 1400
 200,*,140,Ramirez,0,Branch,11,Turn 1,1000,Go to 1000
 300,*,140,Ramirez,0,Branch,12,Turn 2,900,Go to 900

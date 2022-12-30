@@ -50,11 +50,11 @@ Entry ID,Entry US Name,Pad 1,Pad 2,Pad 3,Pad 4,Category ID,[Category Name],Effec
 48,Silver Tundra,0,0,0,0,0,S-Move,0,Damage,1,Single PC,16,Attack,50,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
 49,Call Allies,0,0,0,0,0,S-Move,43,Call EC,0,None,54,Kanezl,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 50,Call Allies,0,0,0,0,0,S-Move,43,Call EC,0,None,85,Imezl,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-51,Explode,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,20,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
+51,Explode,0,0,0,0,0,S-Move,8,Stone + Damage,2,All PCs,16,Attack,20,1,Red,0,Physical,16,Attack,17,Defense,2,Stone,90,0,0
 52,Stone Ooze,0,0,0,0,0,S-Move,7,Stone,1,Single PC,0,Power,0,6,Neutral,0,Physical,16,Attack,17,Defense,2,Stone,40,0,0
-53,Tundra Blast,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,20,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
+53,Tundra Blast,0,0,0,0,0,S-Move,17,Rem Pos States + Damage,2,All PCs,16,Attack,20,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
 54,Death Waltz,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,40,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-55,Engage,0,0,0,0,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
+55,Engage,0,0,0,0,0,S-Move,1,Guard,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 56,Thunder Storm,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0,0,0
 57,Eerie Wail,0,0,0,0,0,S-Move,70,Confusion + Damage,107,PC Triangle 60°,16,Attack,15,2,Purple,0,Physical,16,Attack,17,Defense,4,Confusion,70,0,0
 58,Assess Damage,0,0,0,0,0,S-Move,67,Invulnerable,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
@@ -209,7 +209,7 @@ Entry ID,Entry US Name,Pad 1,Pad 2,Pad 3,Pad 4,Category ID,[Category Name],Effec
 207,ダミー,0,0,0,0,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 208,ダミー,0,0,0,0,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 209,ダミー,0,0,0,0,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-210,HP Absorb,0,0,0,0,0,S-Move,44,Absorb HP,1,Single PC,2,Vigor,10,0,Green,0,Physical,0,Power,0,Power,-1,None,0,0,0
+210,HP Absorb,0,0,0,0,0,S-Move,44,Absorb HP,1,Single PC,2,Vigor,10,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 211,HP Absorb,0,0,0,0,0,S-Move,44,Absorb HP,1,Single PC,2,Vigor,10,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0,0,0
 212,HP Absorb,0,0,0,0,0,S-Move,44,Absorb HP,1,Single PC,2,Vigor,20,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
 213,HP Absorb,0,0,0,0,0,S-Move,44,Absorb HP,1,Single PC,2,Vigor,20,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
