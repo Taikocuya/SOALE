@@ -2487,11 +2487,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1140,*,155,Gordo,True,0,Branch,62,PCs Alive = 1,10000,Attack
 1150,*,155,Gordo,True,0,Branch,63,PCs Alive = 2,10000,Attack
 1160,*,155,Gordo,True,0,Branch,30,Always,10040,Loqua Spray
-2000,*,155,Gordo,True,0,Branch,62,PCs Alive = 1,2100,Go to 2100
-2010,*,155,Gordo,True,0,Branch,63,PCs Alive = 2,2100,Go to 2100
-2020,*,155,Gordo,True,0,Branch,25,Rating 50%,10040,Loqua Spray
-2030,*,155,Gordo,True,0,Branch,30,Always,10000,Attack
-2100,*,155,Gordo,True,0,Branch,23,Rating 30%,10040,Loqua Spray
+2000,*,155,Gordo,True,0,Branch,62,PCs Alive = 1,2030,Go to 2030
+2010,*,155,Gordo,True,0,Branch,63,PCs Alive = 2,2030,Go to 2030
+2020,*,155,Gordo,True,0,Branch,23,Rating 30%,10040,Loqua Spray
+2030,*,155,Gordo,True,0,Branch,23,Rating 30%,10040,Loqua Spray
 10000,*,155,Gordo,True,1,Action,550,Attack,2,Random PC
 10010,*,155,Gordo,True,1,Action,551,Guard,-1,None
 10020,*,155,Gordo,True,1,Action,508,Sacrum,-1,None
