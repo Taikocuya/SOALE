@@ -29,11 +29,11 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 187,Revered Voice,True,0b00111111,X,X,X,X,X,X,50,480,53,Silence,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
 188,Everlasting Gem,True,0b00111111,X,X,X,X,X,X,50,680,54,Fatigue,-5,17,Defense,16,18,MagDef,16,-1,None,0
 189,Behemoth's Ring,True,0b00111111,X,X,X,X,X,X,50,740,56,Weak,-5,36,Yellow,-2,17,Defense,16,18,MagDef,16
-190,Constitution Gem,False,0b00000101,,,,X,,X,50,1000,79,Block Neg States,-3,17,Defense,10,18,MagDef,10,-1,None,0
+190,Constitution Gem,False,0b00000101,,,,X,,X,50,1000,79,Block Neg States,-4,17,Defense,10,18,MagDef,10,-1,None,0
 191,Nomadic Veil,True,0b00111111,X,X,X,X,X,X,50,640,17,Defense,18,18,MagDef,18,-1,None,0,-1,None,0
 192,Radiant Fur,False,0b00111111,X,X,X,X,X,X,50,3580,17,Defense,24,18,MagDef,24,-1,None,0,-1,None,0
 193,Sand Storm Ring,True,0b00111111,X,X,X,X,X,X,50,770,16,Attack,18,1,Will,18,-1,None,0,-1,None,0
-194,Skull Cap,False,0b00111111,X,X,X,X,X,X,50,4300,16,Attack,24,1,Will,24,-1,None,0,-1,None,0
+194,Skull Cap,Assigned,0b00111111,X,X,X,X,X,X,50,4300,16,Attack,24,1,Will,24,-1,None,0,-1,None,0
 195,Mage's Bane,True,0b00111111,X,X,X,X,X,X,50,480,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
 196,Blue Rogue Patch,False,0b00111111,X,X,X,X,X,X,50,6820,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
 197,Assassin Ring,False,0b00111111,X,X,X,X,X,X,50,3200,80,First Strike%,40,19,Hit%,40,-1,None,0,-1,None,0
