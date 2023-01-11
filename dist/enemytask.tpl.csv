@@ -2120,20 +2120,20 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10010,*,139,Destra,True,1,Action,53,Tundra Blast,-1,None
 10020,*,139,Destra,True,1,Action,59,Death Waltz,-1,None
 10030,*,139,Destra,True,1,Action,55,Engage,-1,None
-100,*,140,Ramirez,False,0,Branch,1,HP < 50%,1400,Go to 1400
-200,*,140,Ramirez,False,0,Branch,11,Turn 1,1000,Go to 1000
-300,*,140,Ramirez,False,0,Branch,12,Turn 2,900,Go to 900
-400,*,140,Ramirez,False,0,Branch,13,Turn 3,800,Go to 800
-500,*,140,Ramirez,False,0,Branch,14,Turn 4,700,Go to 700
-600,*,140,Ramirez,False,0,Branch,24,Rating 40%,1300,Go to 1300
-700,*,140,Ramirez,False,0,Branch,24,Rating 40%,1300,Go to 1300
-800,*,140,Ramirez,False,0,Branch,24,Rating 40%,1300,Go to 1300
-900,*,140,Ramirez,False,0,Branch,24,Rating 40%,1200,Go to 1200
-1000,*,140,Ramirez,False,0,Branch,22,Rating 20%,1200,Go to 1200
-1100,*,140,Ramirez,False,1,Action,550,Attack,2,Random PC
-1200,*,140,Ramirez,False,1,Action,519,Eternum,2,Random PC
-1300,*,140,Ramirez,False,1,Action,43,Silver Eclipse,-1,None
-1400,*,140,Ramirez,False,1,Action,509,Sacrulen,22,Self
+100,*,140,Ramirez,True,0,Branch,1,HP < 50%,1400,Go to 1400
+200,*,140,Ramirez,True,0,Branch,11,Turn 1,1000,Go to 1000
+300,*,140,Ramirez,True,0,Branch,12,Turn 2,900,Go to 900
+400,*,140,Ramirez,True,0,Branch,13,Turn 3,800,Go to 800
+500,*,140,Ramirez,True,0,Branch,14,Turn 4,700,Go to 700
+600,*,140,Ramirez,True,0,Branch,24,Rating 40%,1300,Go to 1300
+700,*,140,Ramirez,True,0,Branch,24,Rating 40%,1300,Go to 1300
+800,*,140,Ramirez,True,0,Branch,24,Rating 40%,1300,Go to 1300
+900,*,140,Ramirez,True,0,Branch,24,Rating 40%,1200,Go to 1200
+1000,*,140,Ramirez,True,0,Branch,22,Rating 20%,1200,Go to 1200
+1100,*,140,Ramirez,True,1,Action,550,Attack,2,Random PC
+1200,*,140,Ramirez,True,1,Action,519,Eternum,2,Random PC
+1300,*,140,Ramirez,True,1,Action,43,Silver Eclipse,-1,None
+1400,*,140,Ramirez,True,1,Action,509,Sacrulen,22,Self
 100,*,141,Vigoro,False,0,Branch,50,Used S-Move?,500,Go to 500
 200,*,141,Vigoro,False,0,Branch,11,Turn 1,900,Go to 900
 300,*,141,Vigoro,False,0,Branch,14,Turn 4,900,Go to 900

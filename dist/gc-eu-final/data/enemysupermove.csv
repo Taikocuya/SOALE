@@ -42,7 +42,7 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 40,0x802b0f74,0x169e,17,Furchtbarer Biss,0x16db,17,Mordisco Temible,0x16d3,17,Terrible Morsure,0x16aa,14,Terrible Bite,0,S-Move,72,Fatigue + Damage,1,Single PC,0,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,6,Fatigue,20,0,0
 41,0x802b0f84,0x16af,11,Tiefschlaf,0x16ec,15,Sueño Profundo,0x16e4,16,Profond Sommeil,0x16b8,11,Deep Sleep,0,S-Move,63,Regenerate + Sleep,5,Self,0,400,HP,65280,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 42,0x802b0f90,0x16ba,12,Avalauncher,0x16fb,12,Avalauncher,0x16f4,11,Avalanceur,0x16c3,12,Avalauncher,0,S-Move,0,Damage,102,PC Ray S5,0,16,Attack,35,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
-43,0x802b0f9c,0x16c6,15,Silber-Eklipse,0x1707,17,Eclipse de Plata,0x16ff,17,Éclipse d'argent,0x16cf,15,Silver Eclipse,0,S-Move,0,Damage,2,All PCs,0,16,Attack,25,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
+43,0x802b0f9c,0x16c6,15,Silber-Eklipse,0x1707,17,Eclipse de Plata,0x16ff,17,Éclipse d'argent,0x16cf,15,Silver Eclipse,0,S-Move,0,Damage,2,All PCs,0,16,Attack,30,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
 44,0x8034c0d0,0x16d5,11,Entwässern,0x1718,8,Desecar,0x1710,11,Épuisement,0x16de,6,Drain,0,S-Move,26,Decr All Attr,1,Single PC,0,0,Power,0,6,Neutral,0,Physical,16,Attack,17,Defense,8,Weak,0,0,0
 45,0x802b0fac,0x16e0,15,Erholungspause,0x1720,17,Turno de Reposar,0x171b,13,Récupération,0x16e4,14,Turn Recovery,0,S-Move,33,Regenerate,5,Self,0,0,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 46,0x802b0fbc,0x16ef,11,Zerstörung,0x1731,12,Destrucción,0x1728,12,Destruction,0x16f2,12,Destruction,0,S-Move,17,Rem Pos States + Damage,2,All PCs,0,16,Attack,10,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0

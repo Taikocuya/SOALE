@@ -42,7 +42,7 @@ Entry ID,Entry US Name,Pad 1,Pad 2,Pad 3,Pad 4,Category ID,[Category Name],Effec
 40,Terrible Bite,0,0,0,0,0,S-Move,72,Fatigue + Damage,1,Single PC,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,6,Fatigue,20,0,0
 41,Deep Sleep,0,0,0,0,0,S-Move,63,Regenerate + Sleep,5,Self,400,HP,65280,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 42,Avalauncher,0,0,0,0,0,S-Move,0,Damage,102,PC Ray S5,16,Attack,35,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
-43,Silver Eclipse,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,25,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
+43,Silver Eclipse,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,30,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
 44,Drain,0,0,0,0,0,S-Move,26,Decr All Attr,1,Single PC,0,Power,0,6,Neutral,0,Physical,16,Attack,17,Defense,8,Weak,0,0,0
 45,Turn Recovery,0,0,0,0,0,S-Move,33,Regenerate,5,Self,0,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 46,Destruction,0,0,0,0,0,S-Move,17,Rem Pos States + Damage,2,All PCs,16,Attack,10,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
