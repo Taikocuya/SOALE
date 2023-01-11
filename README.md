@@ -72,12 +72,12 @@ attacking with attributes and defending with certain party members.
    ROMhacking.net.
 3. Run GCRebuilder, select `Image > Open` and choose your GCM or ISO image.
 4. Note the content of the `Region` attribute for later, which may be 
-   `EUR/PAL`, `JAP/NTSC` or `USA/NTSC`.
+   `EUR/PAL`, `JAP/NTSC` or `USA/NTSC`.  
    ![GCRebuilder](doc/install4.png)
 5. Right-click on `root` in the tree structure, select `Export` and extract 
    the files to any directory wherever you want. A new folder called `root` 
    with all game contents will be created. After the export is finished, 
-   choose `Image > Close`.
+   choose `Image > Close`.  
    ![GCRebuilder](doc/install5.png)
 6. Open the correct `dist/gc-*-final/gameroot` directory which match with 
    your `Region` attribute from step 4 and copy all contents of that folder.
@@ -85,11 +85,11 @@ attacking with attributes and defending with certain party members.
     * `dist/gc-jp-final/gameroot` for `JAP/NTSC` region 
     * `dist/gc-us-final/gameroot` for `USA/NTSC` region 
 7. Paste all contents into your extracted `root` folder from step 5 and 
-   replace the files.
+   replace the files.  
    ![File Explorer](doc/install7.png)
 8. In GCRebuilder, select `Root > Open` and choose your modified `root`
    folder from step 7. If you have done everything right, you are able to 
-   read `Encore` in the `Name` and `Banner` attributes.
+   read `Encore` in the `Name` and `Banner` attributes.  
    ![GCRebuilder](doc/install8.png)
 9. Select `Root > Save`, save the file wherever you want and run 
    `Root > Rebuild`. GCRebuilder will compile a new working ISO image that you 
@@ -110,6 +110,6 @@ software that made this project possible.
 
 ## License
 
-Copyright (C) 2022 Marcel Renner. Skies of Arcadia Legends Encore is 
+Copyright (C) 2023 Marcel Renner. Skies of Arcadia Legends Encore is 
 licensed under the zlib license. See [LICENSE.md](LICENSE.md) for the full 
 license text.
