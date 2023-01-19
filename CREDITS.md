@@ -4,6 +4,10 @@
 
 * Marcel Renner — [@Taikocuya](https://twitter.com/Taikocuya)
 
+## Contributors
+
+* [@Jahorta](https://github.com/jahorta)
+
 ## Software
 
 * [ALX](https://sourceforge.net/projects/aex/) — Skies of Arcadia Editor
