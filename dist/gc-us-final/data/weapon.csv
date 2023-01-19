@@ -1,36 +1,36 @@
 Entry ID,Entry US Name,PC ID,[PC Name],Sell%,US Order 1,US Order 2,Effect ID,[Effect Name],Buy,Attack,Hit%,Trait ID,[Trait Name],Pad 1,Trait Value,[US Descr Pos],[US Descr Size],US Descr Str
-0,Cutlass,0,Vyse,50,0,21,-1,None,70,20,90,-1,None,0,0,0x2c7d9c,96,"Vyse received these swords as a gift from his\nfather, Dyne. It is light, with a short blade."
-1,Pirate Cutlass,0,Vyse,50,1,48,-1,None,170,33,90,-1,None,0,0,0x2c7dfc,96,The favorite sword among Air Pirates in the Mid\nOcean area. It is light and very easy to wield.
-2,Sky Cutlass,0,Vyse,50,2,54,-1,None,450,45,90,-1,None,0,0,0x2c7e5c,88,A cutlass used by Pirates and fishermen alike.\nIts edge is perfect for cleaning fish.
-3,Admiral Cutlass,0,Vyse,50,9,0,-1,None,4970,128,90,-1,None,0,0,0x2c7eb4,88,An old sword that once belonged to a Valuan\nAdmiral when he was stationed in Esparanza.
-4,Assassin Blade,0,Vyse,50,3,2,0,Poison by 10%,830,58,90,-1,None,0,0,0x2c7f0c,96,"A favorite among assassins of the world, mainly\nbecause it has a chance to poison its target."
-5,Thunder Cutlass,0,Vyse,50,13,64,-1,None,8610,160,90,36,Yellow,0,-2,0x2c7f6c,96,An ancient cutlass made from Yeligar's hardened\nskin. Some say it can cut through lightning.
-6,Iron-cutter,0,Vyse,50,7,40,-1,None,3870,112,90,-1,None,0,0,0x2c7fcc,96,"An ancient blade of pre-Old World times, it is\nsaid that this blade was used to cut iron ore."
-7,Nasr Cutlass,0,Vyse,50,4,46,-1,None,1340,70,90,-1,None,0,0,0x2c802c,96,"A cutlass used by desert-faring merchants for\nself-defense, its blade is finely worked stone."
-8,Sword of Daccat,0,Vyse,50,8,62,15,Sleep by 10%,4690,120,90,-1,None,0,0,0x2c808c,88,"The sword of the great Air Pirate Daccat, it has\nthe power to lull enemies to sleep."
-9,Hunter's Sword,0,Vyse,50,5,35,-1,None,2280,87,90,-1,None,0,0,0x2c80e4,92,A hunting blade fashioned to resemble a beast's\nfang. A favorite among Ixa'takan warriors.
-10,Stonecutter,0,Vyse,50,6,58,-1,None,3120,99,90,-1,None,0,0,0x2c8140,92,"A blade originally used in masonry work, it has\nsince been modified to be used in combat."
-11,Dream Cutlass,0,Vyse,50,10,26,-1,None,6690,137,90,35,Blue,0,-2,0x2c819c,92,A legendary sword that can supposedly rip the\nfabric of reality and make dreams come true.
-12,Windslicer,0,Vyse,50,12,70,-1,None,8760,153,90,-1,None,0,0,0x2c81f8,80,A blade so slender that it is fabled to be able\nto cut the very air in half.
-13,Vorlik Blade,0,Vyse,50,15,68,-1,None,16500,200,90,-1,None,0,0,0x2c8248,76,"A masterpiece of the legendary swordsmith,\nRyu-kan, forged from Velorium."
-14,Suiran Blade,0,Vyse,50,11,60,-1,None,7500,141,90,-1,None,0,0,0x2c8294,92,"A short sword used by Yafutoman soldiers, its\nthick, heavy blade is still easy to handle."
-15,Soul Sword,0,Vyse,50,14,56,16,Unconscious by 5%,12340,174,90,-1,None,0,0,0x2c82f0,96,"The ultimate sword, the best work of the master\nswordsmith, Ryu-kan. Can cause instant death."
-16,Boomerang,1,Aika,50,17,5,-1,None,70,19,110,-1,None,0,0,0x2c8350,80,"Aika's favorite boomerang. It's large but light,\nand relatively easy to aim."
-17,Skywing,1,Aika,50,26,55,-1,None,3670,107,110,-1,None,0,0,0x2c83a0,92,"A boomerang shaped like a flying bird. It\nalways returns, no matter how far it is thrown."
-18,Scout Wing,1,Aika,50,21,51,-1,None,680,53,110,-1,None,0,0,0x2c83fc,84,"A weapon carried by crews of scouting parties,\nit is meant to be fast and deadly."
-19,Ice Splitter,1,Aika,50,29,38,-1,None,7390,142,110,34,Purple,0,-2,0x2c8450,92,"A boomerang with an icy clear, sharp blade that\nseemingly freezes the air it flies through."
-20,Leather Crescent,1,Aika,50,18,41,-1,None,140,30,110,-1,None,0,0,0x2c84ac,88,"A leather-reinforced boomerang that is very\nsturdy in build, and packs an extra punch."
-21,Throwing Blade,1,Aika,50,19,63,-1,None,310,38,110,-1,None,0,0,0x2c8504,96,An ancient weapon found near Sailors' Island.\nThought to have been used for wood & stone work.
-22,Hunting Arc,1,Aika,50,24,36,-1,None,1820,80,110,-1,None,0,0,0x2c8564,96,"A traditional Ixa'takan hunting weapon, children\nare taught to use them from a very young age."
-23,Valuarang,1,Aika,50,20,67,-1,None,480,46,110,-1,None,0,0,0x2c85c4,92,A light boomerang used to practice for the\nannual boomerang contest in the Valuan Coliseum.
-24,Yin Wing,1,Aika,50,28,72,17,Sleep by 5%,5930,130,110,-1,None,0,0,0x2c8620,88,A tear-shaped blade crafted by a master\nweaponsmith from a single piece of Moon Stone.
-25,Dancing Arc,1,Aika,50,22,23,-1,None,1100,65,110,-1,None,0,0,0x2c8678,96,A decorative throwing blade used by Nasrean\ndancers. It is used as a hunting weapon as well.
-26,Wing of Hope,1,Aika,50,27,71,-1,None,4760,119,110,-1,None,0,0,0x2c86d8,92,Crafted in memory of those lost in the Dark Rift\nand in hopes that others will fare better.
-27,Storm Wing,1,Aika,50,23,59,2,Weak by 10%,1280,69,150,-1,None,0,0,0x2c8734,92,"Used by guards in an ancient imperial palace,\nthis blade has the power to weaken enemies."
-28,Moon Wing,1,Aika,50,31,45,-1,None,10170,161,110,-1,None,0,0,0x2c8790,96,"A superb weapon created by the master, Ryu-kan.\nA perfect balance of design and functionality."
-29,Hydra Wing,1,Aika,50,32,37,-1,None,11390,168,110,-1,None,0,0,0x2c87f0,88,A boomerang modified by the Valuan army with\nreinforcement for close-quarters combat.
-30,Grendel Wing,1,Aika,50,25,33,-1,None,2820,96,150,32,Green,0,-2,0x2c8848,88,A boomerang made from a bone of the Green Gigas.\nIts power rivals the Fist of Grendel.
-31,Flutter Blade,1,Aika,50,30,29,3,Confusion by 20%,8910,153,110,-1,None,0,0,0x2c88a0,96,A double-bladed boomerang with an unpredictable\nflight path. It can induce Confuse in enemies.
+0,Cutlass,0,Vyse,25,0,21,-1,None,70,20,90,-1,None,0,0,0x2c7d9c,96,"Vyse received these swords as a gift from his\nfather, Dyne. It is light, with a short blade."
+1,Pirate Cutlass,0,Vyse,25,1,48,-1,None,150,33,90,-1,None,0,0,0x2c7dfc,96,The favorite sword among Air Pirates in the Mid\nOcean area. It is light and very easy to wield.
+2,Sky Cutlass,0,Vyse,25,2,54,-1,None,500,45,90,-1,None,0,0,0x2c7e5c,88,A cutlass used by Pirates and fishermen alike.\nIts edge is perfect for cleaning fish.
+3,Admiral Cutlass,0,Vyse,25,9,0,-1,None,5000,128,90,-1,None,0,0,0x2c7eb4,88,An old sword that once belonged to a Valuan\nAdmiral when he was stationed in Esparanza.
+4,Assassin Blade,0,Vyse,25,3,2,0,Poison by 10%,800,58,90,-1,None,0,0,0x2c7f0c,96,"A favorite among assassins of the world, mainly\nbecause it has a chance to poison its target."
+5,Thunder Cutlass,0,Vyse,25,13,64,-1,None,8600,160,90,36,Yellow,0,-2,0x2c7f6c,96,An ancient cutlass made from Yeligar's hardened\nskin. Some say it can cut through lightning.
+6,Iron-cutter,0,Vyse,25,7,40,-1,None,3900,112,90,-1,None,0,0,0x2c7fcc,96,"An ancient blade of pre-Old World times, it is\nsaid that this blade was used to cut iron ore."
+7,Nasr Cutlass,0,Vyse,25,4,46,-1,None,1300,70,90,-1,None,0,0,0x2c802c,96,"A cutlass used by desert-faring merchants for\nself-defense, its blade is finely worked stone."
+8,Sword of Daccat,0,Vyse,25,8,62,15,Sleep by 10%,4700,120,90,-1,None,0,0,0x2c808c,88,"The sword of the great Air Pirate Daccat, it has\nthe power to lull enemies to sleep."
+9,Hunter's Sword,0,Vyse,25,5,35,-1,None,2300,87,90,-1,None,0,0,0x2c80e4,92,A hunting blade fashioned to resemble a beast's\nfang. A favorite among Ixa'takan warriors.
+10,Stonecutter,0,Vyse,25,6,58,-1,None,3100,99,90,-1,None,0,0,0x2c8140,92,"A blade originally used in masonry work, it has\nsince been modified to be used in combat."
+11,Dream Cutlass,0,Vyse,25,10,26,-1,None,6700,137,90,35,Blue,0,-2,0x2c819c,92,A legendary sword that can supposedly rip the\nfabric of reality and make dreams come true.
+12,Windslicer,0,Vyse,25,12,70,-1,None,8800,153,90,-1,None,0,0,0x2c81f8,80,A blade so slender that it is fabled to be able\nto cut the very air in half.
+13,Vorlik Blade,0,Vyse,25,15,68,-1,None,16500,200,90,-1,None,0,0,0x2c8248,76,"A masterpiece of the legendary swordsmith,\nRyu-kan, forged from Velorium."
+14,Suiran Blade,0,Vyse,25,11,60,-1,None,7500,141,90,-1,None,0,0,0x2c8294,92,"A short sword used by Yafutoman soldiers, its\nthick, heavy blade is still easy to handle."
+15,Soul Sword,0,Vyse,25,14,56,16,Unconscious by 5%,12300,174,90,-1,None,0,0,0x2c82f0,96,"The ultimate sword, the best work of the master\nswordsmith, Ryu-kan. Can cause instant death."
+16,Boomerang,1,Aika,25,17,5,-1,None,70,19,110,-1,None,0,0,0x2c8350,80,"Aika's favorite boomerang. It's large but light,\nand relatively easy to aim."
+17,Skywing,1,Aika,25,26,55,-1,None,3700,107,110,-1,None,0,0,0x2c83a0,92,"A boomerang shaped like a flying bird. It\nalways returns, no matter how far it is thrown."
+18,Scout Wing,1,Aika,25,21,51,-1,None,700,53,110,-1,None,0,0,0x2c83fc,84,"A weapon carried by crews of scouting parties,\nit is meant to be fast and deadly."
+19,Ice Splitter,1,Aika,25,29,38,-1,None,7400,142,110,34,Purple,0,-2,0x2c8450,92,"A boomerang with an icy clear, sharp blade that\nseemingly freezes the air it flies through."
+20,Leather Crescent,1,Aika,25,18,41,-1,None,150,30,110,-1,None,0,0,0x2c84ac,88,"A leather-reinforced boomerang that is very\nsturdy in build, and packs an extra punch."
+21,Throwing Blade,1,Aika,25,19,63,-1,None,300,38,110,-1,None,0,0,0x2c8504,96,An ancient weapon found near Sailors' Island.\nThought to have been used for wood & stone work.
+22,Hunting Arc,1,Aika,25,24,36,-1,None,1800,80,110,-1,None,0,0,0x2c8564,96,"A traditional Ixa'takan hunting weapon, children\nare taught to use them from a very young age."
+23,Valuarang,1,Aika,25,20,67,-1,None,500,46,110,-1,None,0,0,0x2c85c4,92,A light boomerang used to practice for the\nannual boomerang contest in the Valuan Coliseum.
+24,Yin Wing,1,Aika,25,28,72,17,Sleep by 5%,5900,130,110,-1,None,0,0,0x2c8620,88,A tear-shaped blade crafted by a master\nweaponsmith from a single piece of Moon Stone.
+25,Dancing Arc,1,Aika,25,22,23,-1,None,1100,65,110,-1,None,0,0,0x2c8678,96,A decorative throwing blade used by Nasrean\ndancers. It is used as a hunting weapon as well.
+26,Wing of Hope,1,Aika,25,27,71,-1,None,4800,119,110,-1,None,0,0,0x2c86d8,92,Crafted in memory of those lost in the Dark Rift\nand in hopes that others will fare better.
+27,Storm Wing,1,Aika,25,23,59,2,Weak by 10%,1300,69,150,-1,None,0,0,0x2c8734,92,"Used by guards in an ancient imperial palace,\nthis blade has the power to weaken enemies."
+28,Moon Wing,1,Aika,25,31,45,-1,None,10200,161,110,-1,None,0,0,0x2c8790,96,"A superb weapon created by the master, Ryu-kan.\nA perfect balance of design and functionality."
+29,Hydra Wing,1,Aika,25,32,37,-1,None,11400,168,110,-1,None,0,0,0x2c87f0,88,A boomerang modified by the Valuan army with\nreinforcement for close-quarters combat.
+30,Grendel Wing,1,Aika,25,25,33,-1,None,2800,96,150,32,Green,0,-2,0x2c8848,88,A boomerang made from a bone of the Green Gigas.\nIts power rivals the Fist of Grendel.
+31,Flutter Blade,1,Aika,25,30,29,3,Confusion by 20%,8900,153,110,-1,None,0,0,0x2c88a0,96,A double-bladed boomerang with an unpredictable\nflight path. It can induce Confuse in enemies.
 32,Cupil,2,Fina,0,34,7,-1,None,0,58,120,-1,None,0,0,0x2c8900,88,An artificial life form created by Silvites.\nCupil has been with Fina since she was 4.
 33,Cupil Lance,2,Fina,0,41,14,-1,None,0,110,120,-1,None,0,0,0x2c8958,80,Cupil morphs into a lance and lunges itself at\nwhatever enemy Fina commands.
 34,Cupil Star,2,Fina,0,40,18,-1,None,0,103,120,-1,None,0,0,0x2c89a8,56,Cupil morphs into a star and spirals towards its\nenemy.
@@ -47,32 +47,32 @@ Entry ID,Entry US Name,PC ID,[PC Name],Sell%,US Order 1,US Order 2,Effect ID,[Ef
 45,Cupil Club,2,Fina,0,39,11,-1,None,0,99,110,-1,None,0,0,0x2c8d10,88,Morphs into a club and bludgeons enemies into\nsubmission. Even Cupil has a mean-streak.
 46,Cupil Hammer,2,Fina,0,42,13,-1,None,0,122,110,-1,None,0,0,0x2c8d68,84,Cupil morphs into the shape of a giant hammer\nand hits enemies over their heads.
 47,Final Cupil,2,Fina,0,49,28,-1,None,0,300,100,-1,None,0,0,0x2c8dbc,84,"Cupil's final and ultimate form, it looks very\nimpressive, and packs quite a punch."
-48,Artificial Arm,3,Drachma,50,50,1,-1,None,390,43,80,-1,None,0,0,0x2c8e10,88,"A mechanical arm that shows signs of rigorous\nuse over many years, yet it looks sturdy."
-49,Hook Hand,3,Drachma,50,51,34,-1,None,580,51,80,-1,None,0,0,0x2c8e68,80,"An attachment for Drachma's arm, it is a\nhook-shaped blade that is razor sharp."
-50,Mace Hand,3,Drachma,50,54,42,-1,None,2000,125,0,-1,None,0,0,0x2c8eb8,80,"A heavy, spiked steel ball with awesome\ndestructive power, but low accuracy."
-51,Mining Arm,3,Drachma,50,57,44,-1,None,9980,172,80,-1,None,0,0,0x2c8f08,96,Equipment designed to mine Moon Stones. Created\nby De Loco when he was assigned to Ixa'taka.
-52,Dragon Arm,3,Drachma,50,58,25,-1,None,11850,181,80,-1,None,0,0,0x2c8f68,76,"An arm specially designed for Drachma by the\nmaster swordsmith, Ryu-kan."
-53,Beak Hand,3,Drachma,50,52,3,5,Confusion by 20%,880,60,80,-1,None,0,0,0x2c8fb4,96,An attachment for Drachma's arm that is shaped\nlike a bird's beak. It can also Confuse enemies.
-54,De Loco Drill,3,Drachma,50,55,24,6,Unconscious by 10%,2600,95,80,-1,None,0,0,0x2c9014,96,"A drill taken from mining equipment designed by\nDe Loco, its spinning blade can kill instantly."
-55,Excavation Arm,3,Drachma,50,53,27,-1,None,1340,73,80,-1,None,0,0,0x2c9074,92,"An instrument designed for archeological digs,\nit can even be used for delicate movements."
-56,Ruin Arm,3,Drachma,50,56,50,-1,None,3860,112,80,-1,None,0,0,0x2c90d0,92,"A strange arm, based on unknown technology,\nleft behind in the ruins of an ancient city."
-57,Silver Arm,3,Drachma,50,59,53,-1,None,13710,190,80,37,Silver,0,-2,0x2c912c,92,Part of an android soldier created by the Silver\nCivilization. Boasts high attack power.
-58,Rapier,4,Enrique,50,60,49,12,Silence by 20%,4200,122,95,-1,None,0,0,0x2c9188,88,"A thin but sharp blade, a symbol of the noble\nwarrior. Can impose Silence on enemies."
-59,Stoneblade,4,Enrique,50,64,57,13,Stone by 10%,9850,171,95,-1,None,0,0,0x2c91e0,88,"A work of genius by the master swordsmith,\nRyu-kan. It can also turn enemies to stone."
-60,Imperial Blade,4,Enrique,50,63,39,7,Silence by 20%,8660,163,95,-1,None,0,0,0x2c9238,80,The sword of the legitimate heir to the throne.\nCan impose Silence on enemies.
-61,Serpent Strike,4,Enrique,50,65,52,8,Stone by 10%,11150,179,95,-1,None,0,0,0x2c9288,92,A powerful sword worn by warriors of the Silver\nCivilization. Can turn enemies to Stone.
-62,Frostblade,4,Enrique,50,62,30,14,Confusion by 20%,7020,150,95,-1,None,0,0,0x2c92e4,88,"A blade so sharp and cold, it is almost numbing\nto the touch. It can Confuse enemies."
-63,Blade of Slumber,4,Enrique,50,61,4,15,Sleep by 10%,5690,138,95,-1,None,0,0,0x2c933c,92,"A large sword used in Yafutoman ceremonies, its\nmysterious powers can put enemies to Sleep."
-64,Gilder's Own,5,Gilder,50,66,32,-1,None,2910,104,100,-1,None,0,0,0x2c9398,84,"A gun that has gotten Gilder through many a\ntight spot. Small, but easy to handle."
-65,Nasr Pistol,5,Gilder,50,67,47,-1,None,3520,112,100,33,Red,0,-2,0x2c93ec,96,"A replica of the weapon used by the Royal Guard,\nwithout the unnecessary decorative elements."
-66,Warrior's Pistol,5,Gilder,50,72,69,-1,None,10920,176,100,-1,None,0,0,0x2c944c,88,A small gun used by ancient warriors. Its\nappearance hides its destructive power well.
-67,Valuan Pistol,5,Gilder,50,69,66,-1,None,8140,160,100,-1,None,0,0,0x2c94a4,96,"A stolen Valuan pistol, modified by sailors to\nincrease power, without sacrificing accuracy."
-68,Marksman Gun,5,Gilder,50,71,43,10,Unconscious by 20%,3000,100,200,-1,None,0,0,0x2c9504,84,A small pistol used by Valuan assassins. Can\ncause instant death with a good shot.
-69,Daccat Custom,5,Gilder,50,68,22,15,Sleep by 10%,4290,120,100,-1,None,0,0,0x2c9558,92,"A long pistol used by the legendary Air Pirate,\nDaccat. Can sometimes put enemies to Sleep."
-70,Gilder Special,5,Gilder,50,70,31,-1,None,9460,168,100,-1,None,0,0,0x2c95b4,84,A gun made specifically to fit Gilder's touch.\nIt has unequaled accuracy and power.
-71,Tuna Cutlass,0,Vyse,100,16,65,-1,None,22222,150,0,-1,None,0,0,0x2c9608,80,"Received from the imposter, Vize.\nBoasts high attack power, but low accuracy."
-72,Swirlmerang,1,Aika,100,33,61,11,Confusion by 100%,11111,100,0,-1,None,0,0,0x2c9658,88,"Received from the imposter, Anita. Will always\nConfuse any enemy not immune to Confuse."
-73,Sky Fang,0,Vyse,50,17,23,-1,None,50000,220,95,-1,None,0,0,0x2c96b0,84,"A sword so powerful, it is said that it can\nsplit the heavens. The ultimate sword."
+48,Artificial Arm,3,Drachma,25,50,1,-1,None,400,43,80,-1,None,0,0,0x2c8e10,88,"A mechanical arm that shows signs of rigorous\nuse over many years, yet it looks sturdy."
+49,Hook Hand,3,Drachma,25,51,34,-1,None,600,51,80,-1,None,0,0,0x2c8e68,80,"An attachment for Drachma's arm, it is a\nhook-shaped blade that is razor sharp."
+50,Mace Hand,3,Drachma,25,54,42,-1,None,2000,125,0,-1,None,0,0,0x2c8eb8,80,"A heavy, spiked steel ball with awesome\ndestructive power, but low accuracy."
+51,Mining Arm,3,Drachma,25,57,44,-1,None,10000,172,80,-1,None,0,0,0x2c8f08,96,Equipment designed to mine Moon Stones. Created\nby De Loco when he was assigned to Ixa'taka.
+52,Dragon Arm,3,Drachma,25,58,25,-1,None,11900,181,80,-1,None,0,0,0x2c8f68,76,"An arm specially designed for Drachma by the\nmaster swordsmith, Ryu-kan."
+53,Beak Hand,3,Drachma,25,52,3,5,Confusion by 20%,900,60,80,-1,None,0,0,0x2c8fb4,96,An attachment for Drachma's arm that is shaped\nlike a bird's beak. It can also Confuse enemies.
+54,De Loco Drill,3,Drachma,25,55,24,6,Unconscious by 10%,2600,95,80,-1,None,0,0,0x2c9014,96,"A drill taken from mining equipment designed by\nDe Loco, its spinning blade can kill instantly."
+55,Excavation Arm,3,Drachma,25,53,27,-1,None,1300,73,80,-1,None,0,0,0x2c9074,92,"An instrument designed for archeological digs,\nit can even be used for delicate movements."
+56,Ruin Arm,3,Drachma,25,56,50,-1,None,3900,112,80,-1,None,0,0,0x2c90d0,92,"A strange arm, based on unknown technology,\nleft behind in the ruins of an ancient city."
+57,Silver Arm,3,Drachma,25,59,53,-1,None,13700,190,80,37,Silver,0,-2,0x2c912c,92,Part of an android soldier created by the Silver\nCivilization. Boasts high attack power.
+58,Rapier,4,Enrique,25,60,49,12,Silence by 20%,4200,122,95,-1,None,0,0,0x2c9188,88,"A thin but sharp blade, a symbol of the noble\nwarrior. Can impose Silence on enemies."
+59,Stoneblade,4,Enrique,25,64,57,13,Stone by 10%,9900,171,95,-1,None,0,0,0x2c91e0,88,"A work of genius by the master swordsmith,\nRyu-kan. It can also turn enemies to stone."
+60,Imperial Blade,4,Enrique,25,63,39,7,Silence by 20%,8700,163,95,-1,None,0,0,0x2c9238,80,The sword of the legitimate heir to the throne.\nCan impose Silence on enemies.
+61,Serpent Strike,4,Enrique,25,65,52,8,Stone by 10%,11200,179,95,-1,None,0,0,0x2c9288,92,A powerful sword worn by warriors of the Silver\nCivilization. Can turn enemies to Stone.
+62,Frostblade,4,Enrique,25,62,30,14,Confusion by 20%,7000,150,95,-1,None,0,0,0x2c92e4,88,"A blade so sharp and cold, it is almost numbing\nto the touch. It can Confuse enemies."
+63,Blade of Slumber,4,Enrique,25,61,4,15,Sleep by 10%,5700,138,95,-1,None,0,0,0x2c933c,92,"A large sword used in Yafutoman ceremonies, its\nmysterious powers can put enemies to Sleep."
+64,Gilder's Own,5,Gilder,25,66,32,-1,None,2900,104,100,-1,None,0,0,0x2c9398,84,"A gun that has gotten Gilder through many a\ntight spot. Small, but easy to handle."
+65,Nasr Pistol,5,Gilder,25,67,47,-1,None,3500,112,100,33,Red,0,-2,0x2c93ec,96,"A replica of the weapon used by the Royal Guard,\nwithout the unnecessary decorative elements."
+66,Warrior's Pistol,5,Gilder,25,72,69,-1,None,10900,176,100,-1,None,0,0,0x2c944c,88,A small gun used by ancient warriors. Its\nappearance hides its destructive power well.
+67,Valuan Pistol,5,Gilder,25,69,66,-1,None,8100,160,100,-1,None,0,0,0x2c94a4,96,"A stolen Valuan pistol, modified by sailors to\nincrease power, without sacrificing accuracy."
+68,Marksman Gun,5,Gilder,25,71,43,10,Unconscious by 20%,3000,100,200,-1,None,0,0,0x2c9504,84,A small pistol used by Valuan assassins. Can\ncause instant death with a good shot.
+69,Daccat Custom,5,Gilder,25,68,22,15,Sleep by 10%,4300,120,100,-1,None,0,0,0x2c9558,92,"A long pistol used by the legendary Air Pirate,\nDaccat. Can sometimes put enemies to Sleep."
+70,Gilder Special,5,Gilder,25,70,31,-1,None,9500,168,100,-1,None,0,0,0x2c95b4,84,A gun made specifically to fit Gilder's touch.\nIt has unequaled accuracy and power.
+71,Tuna Cutlass,0,Vyse,100,16,65,-1,None,22200,150,0,-1,None,0,0,0x2c9608,80,"Received from the imposter, Vize.\nBoasts high attack power, but low accuracy."
+72,Swirlmerang,1,Aika,100,33,61,11,Confusion by 100%,11100,100,0,-1,None,0,0,0x2c9658,88,"Received from the imposter, Anita. Will always\nConfuse any enemy not immune to Confuse."
+73,Sky Fang,0,Vyse,25,17,23,-1,None,50000,220,95,-1,None,0,0,0x2c96b0,84,"A sword so powerful, it is said that it can\nsplit the heavens. The ultimate sword."
 74,ダミー武器,0,Vyse,0,-1,-1,-1,None,0,0,0,-1,None,0,0,0x2c9704,16,ダミーです。
 75,ダミー武器,0,Vyse,0,-1,-1,-1,None,0,0,0,-1,None,0,0,0x0,0,""
 76,ダミー武器,0,Vyse,0,-1,-1,-1,None,0,0,0,-1,None,0,0,0x0,0,""

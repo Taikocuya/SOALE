@@ -1,41 +1,41 @@
 Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Element ID,[Element Name],Attack,Hit%,Limit,SP,Trait ID,[Trait Name],Pad 1,Trait Value,Buy,Sell%,US Order 1,US Order 2,Pad,[US Descr Pos],[US Descr Size],US Descr Str
-400,Main Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,35,80,0,4,-1,None,0,0,450,50,0,26,0,0x2ce220,88,"The Little Jack's main cannon. It's rather old,\nbut Drachma has kept it in great shape."
-401,Standard Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,40,83,0,3,-1,None,0,0,730,50,1,35,0,0x2ce278,84,"The main cannon used on Valuan Warships,\nsometimes available on the Black Market."
-402,Heavy Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,50,85,0,3,-1,None,0,0,1900,50,2,21,0,0x2ce2cc,88,"An upgraded version of the Standard Valuan\nCannon, used on light warships in Mid Ocean."
-403,G-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,0,3000,50,3,18,0,0x2ce324,92,"Cannons used on Armada ships, when they defeated\nIxa'taka. Slightly outdated, but powerful."
-404,B-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,75,90,0,3,-1,None,0,0,4000,50,4,13,0,0x2ce380,96,"An upgraded version of the G-Type Cannon, with\nthe same basic design, but greater firepower."
-405,Prototype Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,100,85,0,6,-1,None,0,0,5000,50,5,31,0,0x2ce3e0,76,"A rotating cannon that can track enemy targets,\nbut doesn't do much damage."
-406,Advanced Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,150,90,0,7,-1,None,0,0,5500,50,6,10,0,0x2ce42c,92,A new rotating main cannon developed for Valuan\nDestroyers. Available on the Black Market.
-407,Yamato Spirit,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,250,90,0,8,-1,None,0,0,6700,70,7,39,0,0x2ce488,76,A large and powerful cannon based on traditional\nYafutoman craftsmanship.
-408,Ancient Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,300,95,0,9,-1,None,0,0,8500,50,8,11,0,0x2ce4d4,64,A durable cannon made from ancient metals from\nthe Old World.
-409,X Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,400,97,0,10,-1,None,0,0,11000,50,9,38,0,0x2ce514,84,A very large cannon that enables large ships to \nblast small ships out of the sky.
-410,"3""Cannon",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,70,80,1,1,-1,None,0,0,520,50,10,6,0,0x2ce568,56,A small caliber secondary cannon for smaller \nships.
-411,"3""Blaster",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,80,83,1,2,-1,None,0,0,1015,50,11,5,0,0x2ce5a0,84,A secondary cannon for the Little Jack. An\nupgraded version of the 3 Inch Cannon.
-412,"5""Cannon",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,90,80,1,2,-1,None,0,0,1330,50,12,8,0,0x2ce5f4,80,A secondary cannon for the Little Jack. More\npowerful than the 3 Inch Cannon.
-413,"8""Cannon",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,100,82,2,2,-1,None,0,0,2100,50,13,9,0,0x2ce644,80,A secondary cannon for the Little Jack.\nA modified version of the Main Cannon.
-414,"12""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,170,77,2,4,-1,None,0,0,3500,50,14,3,0,0x2ce694,56,A high-caliber secondary cannon developed for\nwarships.
-415,"10""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,200,82,3,4,-1,None,0,0,3640,50,15,0,0,0x2ce6cc,68,"The first 10 Inch secondary cannon, developed\nby the Nasrean Navy."
-416,"10""Cannon Coil",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,220,89,3,4,-1,None,0,0,3710,50,16,1,0,0x2ce710,80,A 10 inch secondary cannon with a reinforced\nbarrel that helps to absorb shock.
-417,"12""Blaster",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,250,85,2,5,-1,None,0,0,3850,50,17,2,0,0x2ce760,60,"A high-caliber secondary cannon, only used\non larger ships."
-418,3'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,280,87,3,6,-1,None,0,0,4690,50,18,4,0,0x2ce79c,76,"A secondary cannon developed in Yafutoma,\ninspired by cylindrical plants."
-419,5'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,330,90,2,6,-1,None,0,0,5110,50,19,7,0,0x2ce7e8,92,"A secondary cannon used by the Yafutoman Navy.\nIt is a short-range, high-powered cannon."
-420,Light Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,120,60,2,2,-1,None,0,0,1520,50,20,25,0,0x2ce844,96,"A light torpedo, well-suited for smaller ships.\nAfter launch, it attacks its target from above."
-421,Guided Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,160,70,2,3,-1,None,0,0,1760,50,21,19,0,0x2ce8a4,96,A torpedo equippable by the Little Jack. Has the\nhighest chance to hit out of all the torpedos.
-422,Shock Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,140,55,2,2,-1,None,0,0,2000,50,22,34,0,0x2ce904,92,"A torpedo equippable by the Little Jack.\nAfter launch, it charges its target from above."
-423,Hunter Torpedo,0b00110000,X,X,"","","",2,Torpedo,0,Green,160,60,3,2,-1,None,0,0,2240,50,23,23,0,0x2ce960,84,A torpedo equippable by the Little Jack. Has\ngreater range than standard torpedos.
-424,Valuan Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,220,60,2,3,-1,None,0,0,2400,50,24,36,0,0x2ce9b4,76,A torpedo used by Valua against the Nasrean Navy\nduring the Valua-Nasr War.
-425,Heavy Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,250,50,3,4,-1,None,0,0,4400,50,25,22,0,0x2cea00,84,"A large torpedo with the same firepower as a\nmain cannon, but has lower accuracy."
-426,Serpent Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,300,65,2,4,-1,None,0,0,5360,50,26,33,0,0x2cea54,96,"A medium-sized torpedo that goes after a target\nlike a snake. Short range, but very powerful."
-427,Flash Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,350,70,3,5,-1,None,0,0,6320,50,27,17,0,0x2ceab4,76,A small torpedo that packs a big punch. Has long\nrange and good firepower.
-428,Arcwhale Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,400,70,3,6,-1,None,0,0,6800,50,28,12,0,0x2ceb00,88,"A torpedo with both good range and destructive\npower. But, uses a high level of Spirit."
-429,Dragon Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,450,60,2,7,-1,None,0,0,8800,50,29,15,0,0x2ceb58,96,A torpedo that emphasizes firepower more than\nrange. Does a great deal of damage when it hits.
+400,Main Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,35,80,0,4,-1,None,0,0,500,25,0,26,0,0x2ce220,88,"The Little Jack's main cannon. It's rather old,\nbut Drachma has kept it in great shape."
+401,Standard Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,40,83,0,3,-1,None,0,0,700,25,1,35,0,0x2ce278,84,"The main cannon used on Valuan Warships,\nsometimes available on the Black Market."
+402,Heavy Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,50,85,0,3,-1,None,0,0,1900,25,2,21,0,0x2ce2cc,88,"An upgraded version of the Standard Valuan\nCannon, used on light warships in Mid Ocean."
+403,G-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,0,3000,25,3,18,0,0x2ce324,92,"Cannons used on Armada ships, when they defeated\nIxa'taka. Slightly outdated, but powerful."
+404,B-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,75,90,0,3,-1,None,0,0,4000,25,4,13,0,0x2ce380,96,"An upgraded version of the G-Type Cannon, with\nthe same basic design, but greater firepower."
+405,Prototype Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,100,85,0,6,-1,None,0,0,5000,25,5,31,0,0x2ce3e0,76,"A rotating cannon that can track enemy targets,\nbut doesn't do much damage."
+406,Advanced Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,150,90,0,7,-1,None,0,0,5500,25,6,10,0,0x2ce42c,92,A new rotating main cannon developed for Valuan\nDestroyers. Available on the Black Market.
+407,Yamato Spirit,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,250,90,0,8,-1,None,0,0,6700,50,7,39,0,0x2ce488,76,A large and powerful cannon based on traditional\nYafutoman craftsmanship.
+408,Ancient Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,300,95,0,9,-1,None,0,0,8500,25,8,11,0,0x2ce4d4,64,A durable cannon made from ancient metals from\nthe Old World.
+409,X Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,400,97,0,10,-1,None,0,0,11000,25,9,38,0,0x2ce514,84,A very large cannon that enables large ships to \nblast small ships out of the sky.
+410,"3""Cannon",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,70,80,1,1,-1,None,0,0,500,25,10,6,0,0x2ce568,56,A small caliber secondary cannon for smaller \nships.
+411,"3""Blaster",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,80,83,1,2,-1,None,0,0,1000,25,11,5,0,0x2ce5a0,84,A secondary cannon for the Little Jack. An\nupgraded version of the 3 Inch Cannon.
+412,"5""Cannon",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,90,80,1,2,-1,None,0,0,1300,25,12,8,0,0x2ce5f4,80,A secondary cannon for the Little Jack. More\npowerful than the 3 Inch Cannon.
+413,"8""Cannon",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,100,82,2,2,-1,None,0,0,2100,25,13,9,0,0x2ce644,80,A secondary cannon for the Little Jack.\nA modified version of the Main Cannon.
+414,"12""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,170,77,2,4,-1,None,0,0,3500,25,14,3,0,0x2ce694,56,A high-caliber secondary cannon developed for\nwarships.
+415,"10""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,200,82,3,4,-1,None,0,0,3600,25,15,0,0,0x2ce6cc,68,"The first 10 Inch secondary cannon, developed\nby the Nasrean Navy."
+416,"10""Cannon Coil",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,220,89,3,4,-1,None,0,0,3700,25,16,1,0,0x2ce710,80,A 10 inch secondary cannon with a reinforced\nbarrel that helps to absorb shock.
+417,"12""Blaster",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,250,85,2,5,-1,None,0,0,3900,25,17,2,0,0x2ce760,60,"A high-caliber secondary cannon, only used\non larger ships."
+418,3'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,280,87,3,6,-1,None,0,0,4700,25,18,4,0,0x2ce79c,76,"A secondary cannon developed in Yafutoma,\ninspired by cylindrical plants."
+419,5'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,330,90,2,6,-1,None,0,0,5100,25,19,7,0,0x2ce7e8,92,"A secondary cannon used by the Yafutoman Navy.\nIt is a short-range, high-powered cannon."
+420,Light Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,120,60,2,2,-1,None,0,0,1500,25,20,25,0,0x2ce844,96,"A light torpedo, well-suited for smaller ships.\nAfter launch, it attacks its target from above."
+421,Guided Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,160,70,2,3,-1,None,0,0,1800,25,21,19,0,0x2ce8a4,96,A torpedo equippable by the Little Jack. Has the\nhighest chance to hit out of all the torpedos.
+422,Shock Torpedo,0b00110000,X,X,"","","",2,Torpedo,6,Neutral,140,55,2,2,-1,None,0,0,2000,25,22,34,0,0x2ce904,92,"A torpedo equippable by the Little Jack.\nAfter launch, it charges its target from above."
+423,Hunter Torpedo,0b00110000,X,X,"","","",2,Torpedo,0,Green,160,60,3,2,-1,None,0,0,2200,25,23,23,0,0x2ce960,84,A torpedo equippable by the Little Jack. Has\ngreater range than standard torpedos.
+424,Valuan Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,220,60,2,3,-1,None,0,0,2400,25,24,36,0,0x2ce9b4,76,A torpedo used by Valua against the Nasrean Navy\nduring the Valua-Nasr War.
+425,Heavy Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,250,50,3,4,-1,None,0,0,4400,25,25,22,0,0x2cea00,84,"A large torpedo with the same firepower as a\nmain cannon, but has lower accuracy."
+426,Serpent Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,300,65,2,4,-1,None,0,0,5400,25,26,33,0,0x2cea54,96,"A medium-sized torpedo that goes after a target\nlike a snake. Short range, but very powerful."
+427,Flash Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,350,70,3,5,-1,None,0,0,6300,25,27,17,0,0x2ceab4,76,A small torpedo that packs a big punch. Has long\nrange and good firepower.
+428,Arcwhale Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,400,70,3,6,-1,None,0,0,6800,25,28,12,0,0x2ceb00,88,"A torpedo with both good range and destructive\npower. But, uses a high level of Spirit."
+429,Dragon Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,450,60,2,7,-1,None,0,0,8800,25,29,15,0,0x2ceb58,96,A torpedo that emphasizes firepower more than\nrange. Does a great deal of damage when it hits.
 430,Harpoon Cannon,0b00100000,X,"","","","",3,Special,6,Neutral,350,65535,0,15,-1,None,0,0,0,0,30,20,0,0x2cebb8,72,The Little Jack's ultimate weapon. It was\nacquired to destroy Rhaknam.
 431,MoonStone Cannon,0b00001110,"","",X,X,X,3,Special,6,Neutral,800,65535,0,20,-1,None,0,0,0,0,31,30,0,0x2cec00,96,The ultimate weapon of the Delphinus. Builds up\nMoon energy and releases it in a massive blast.
 432,Moon Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,500,99,0,9,-1,None,0,0,1000,100,32,27,0,0x2cec60,72,A main cannon that uses both Moonstone energy\nand gunpowder to fire.
 433,Moon Gun,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,400,99,3,5,-1,None,0,0,1000,100,33,28,0,0x2ceca8,80,A secondary cannon that relies on Moonstone\nenergy instead of draining Spirit.
 434,Moon Torpedo,0b00001110,"","",X,X,X,2,Torpedo,6,Neutral,600,75,3,6,-1,None,0,0,1000,100,34,29,0,0x2cecf8,72,A torpedo that uses Moonstone energy to keep\nSpirit consumption low.
-435,Pyril Cannon,0b00001110,"","",X,X,X,0,Main Cannon,1,Red,200,120,0,6,-1,None,0,0,13200,50,35,32,0,0x2ced40,84,"A rotating cannon designed for battleships.\nHas Red properties, and high accuracy."
-436,Wevl Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,3,Blue,180,120,3,4,-1,None,0,0,10200,50,36,37,0,0x2ced94,88,"A secondary cannon designed for battleships.\nHas Blue properties, and high accuracy."
-437,Electril Torpedo,0b00001110,"","",X,X,X,2,Torpedo,4,Yellow,500,50,3,6,-1,None,0,0,1000,50,37,16,0,0x2cedec,84,"A torpedo designed for large warships. Has\nYellow properties, and great firepower."
-438,Crystil Cannon,0b00001110,"","",X,X,X,0,Main Cannon,2,Purple,550,60,0,9,-1,None,0,0,1000,50,38,14,0,0x2cee40,92,"Made of a special alloy for added durability.\nHas Purple properties, and great firepower."
-439,Kazai Gun,0b00110000,X,X,"","","",1,Sec Cannon,3,Blue,60,81,1,1,-1,None,0,0,500,50,39,24,0,0x2cee9c,92,"Contains a tower bar to absorb the shock of\nfiring. Has Blue properties, and high accuracy."
+435,Pyril Cannon,0b00001110,"","",X,X,X,0,Main Cannon,1,Red,200,120,0,6,-1,None,0,0,13200,25,35,32,0,0x2ced40,84,"A rotating cannon designed for battleships.\nHas Red properties, and high accuracy."
+436,Wevl Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,3,Blue,180,120,3,4,-1,None,0,0,10200,25,36,37,0,0x2ced94,88,"A secondary cannon designed for battleships.\nHas Blue properties, and high accuracy."
+437,Electril Torpedo,0b00001110,"","",X,X,X,2,Torpedo,4,Yellow,500,50,3,6,-1,None,0,0,1000,25,37,16,0,0x2cedec,84,"A torpedo designed for large warships. Has\nYellow properties, and great firepower."
+438,Crystil Cannon,0b00001110,"","",X,X,X,0,Main Cannon,2,Purple,550,60,0,9,-1,None,0,0,1000,25,38,14,0,0x2cee40,92,"Made of a special alloy for added durability.\nHas Purple properties, and great firepower."
+439,Kazai Gun,0b00110000,X,X,"","","",1,Sec Cannon,3,Blue,60,81,1,1,-1,None,0,0,500,25,39,24,0,0x2cee9c,92,"Contains a tower bar to absorb the shock of\nfiring. Has Blue properties, and high accuracy."

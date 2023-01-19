@@ -1,66 +1,66 @@
 Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Trait 1 ID,[Trait 1 Name],Trait 1 Value,Trait 2 ID,[Trait 2 Name],Trait 2 Value,Trait 3 ID,[Trait 3 Name],Trait 3 Value,Trait 4 ID,[Trait 4 Name],Trait 4 Value
-160,Gemstone Ring,True,0b00111010,X,X,X,,X,,50,150,18,MagDef,21,-1,None,0,-1,None,0,-1,None,0
-161,Prophet's Sand,False,0b00111010,X,X,X,,X,,50,890,18,MagDef,63,-1,None,0,-1,None,0,-1,None,0
-162,Meditation Ring,True,0b00111010,X,X,X,,X,,50,90,1,Will,10,-1,None,0,-1,None,0,-1,None,0
-163,Moondust Ring,False,0b00111010,X,X,X,,X,,50,1530,1,Will,48,-1,None,0,-1,None,0,-1,None,0
-164,Lover's Ring,True,0b00111010,X,X,X,,X,,50,300,18,MagDef,12,1,Will,12,-1,None,0,-1,None,0
-165,Jade Swirl Ring,False,0b00111010,X,X,X,,X,,50,2960,18,MagDef,45,1,Will,45,-1,None,0,-1,None,0
+160,Gemstone Ring,True,0b00111010,X,X,X,,X,,25,150,18,MagDef,21,-1,None,0,-1,None,0,-1,None,0
+161,Prophet's Sand,False,0b00111010,X,X,X,,X,,50,900,18,MagDef,63,-1,None,0,-1,None,0,-1,None,0
+162,Meditation Ring,True,0b00111010,X,X,X,,X,,25,100,1,Will,10,-1,None,0,-1,None,0,-1,None,0
+163,Moondust Ring,False,0b00111010,X,X,X,,X,,50,1500,1,Will,48,-1,None,0,-1,None,0,-1,None,0
+164,Lover's Ring,True,0b00111010,X,X,X,,X,,25,300,18,MagDef,12,1,Will,12,-1,None,0,-1,None,0
+165,Jade Swirl Ring,False,0b00111010,X,X,X,,X,,50,3000,18,MagDef,45,1,Will,45,-1,None,0,-1,None,0
 166,Cupil Ring,False,0b00001000,,,X,,,,50,2200,49,Unconscious,-3,37,Silver,-2,18,MagDef,45,1,Will,45
 167,Warrior's Heart,False,0b00111010,X,X,X,,X,,50,10,77,Recover SP,1,4,Quick,-75,-1,None,0,-1,None,0
-168,Throkryn's Scale,True,0b00110101,X,X,,X,,X,50,300,16,Attack,10,-1,None,0,-1,None,0,-1,None,0
+168,Throkryn's Scale,True,0b00110101,X,X,,X,,X,25,300,16,Attack,10,-1,None,0,-1,None,0,-1,None,0
 169,Thryllak's Scale,Assigned,0b00110101,X,X,,X,,X,50,2300,16,Attack,36,-1,None,0,-1,None,0,-1,None,0
-170,Marocca's Shell,True,0b00110101,X,X,,X,,X,50,100,17,Defense,6,-1,None,0,-1,None,0,-1,None,0
-171,Burocca's Shell,Assigned,0b00110101,X,X,,X,,X,50,1920,17,Defense,36,-1,None,0,-1,None,0,-1,None,0
-172,Crylhound's Claw,True,0b00110101,X,X,,X,,X,50,420,19,Hit%,20,16,Attack,12,-1,None,0,-1,None,0
-173,Hunter's Hand,True,0b00110101,X,X,,X,,X,50,1010,19,Hit%,40,16,Attack,4,-1,None,0,-1,None,0
-174,Thief's Aura,True,0b00111101,X,X,X,X,,X,50,230,20,Dodge%,10,17,Defense,5,-1,None,0,-1,None,0
-175,Quetya Feather,True,0b00111101,X,X,X,X,,X,50,810,20,Dodge%,20,17,Defense,4,-1,None,0,-1,None,0
-176,Vigoro's Chain,False,0b00100101,X,,,X,,X,50,2890,16,Attack,20,19,Hit%,30,-1,None,0,-1,None,0
-177,Sailor's Buckler,False,0b00110111,X,X,,X,X,X,50,1930,17,Defense,20,20,Dodge%,15,-1,None,0,-1,None,0
-178,Warrior's Rune,True,0b00111001,X,X,X,,,X,50,600,16,Attack,10,17,Defense,10,19,Hit%,10,20,Dodge%,5
+170,Marocca's Shell,True,0b00110101,X,X,,X,,X,25,100,17,Defense,6,-1,None,0,-1,None,0,-1,None,0
+171,Burocca's Shell,Assigned,0b00110101,X,X,,X,,X,50,1900,17,Defense,36,-1,None,0,-1,None,0,-1,None,0
+172,Crylhound's Claw,True,0b00110101,X,X,,X,,X,25,400,19,Hit%,20,16,Attack,12,-1,None,0,-1,None,0
+173,Hunter's Hand,True,0b00110101,X,X,,X,,X,25,1000,19,Hit%,40,16,Attack,4,-1,None,0,-1,None,0
+174,Thief's Aura,True,0b00111101,X,X,X,X,,X,25,200,20,Dodge%,10,17,Defense,5,-1,None,0,-1,None,0
+175,Quetya Feather,True,0b00111101,X,X,X,X,,X,25,800,20,Dodge%,20,17,Defense,4,-1,None,0,-1,None,0
+176,Vigoro's Chain,False,0b00100101,X,,,X,,X,50,2900,16,Attack,20,19,Hit%,30,-1,None,0,-1,None,0
+177,Sailor's Buckler,False,0b00110111,X,X,,X,X,X,50,1900,17,Defense,20,20,Dodge%,15,-1,None,0,-1,None,0
+178,Warrior's Rune,True,0b00111001,X,X,X,,,X,25,600,16,Attack,10,17,Defense,10,19,Hit%,10,20,Dodge%,5
 179,Ancient Bracer,False,0b00110101,X,X,,X,,X,50,10,16,Attack,20,17,Defense,20,19,Hit%,20,20,Dodge%,10
-180,Counter Bracer,True,0b00110101,X,X,,X,,X,50,1360,73,Counter%,20,16,Attack,20,19,Hit%,20,-1,None,0
+180,Counter Bracer,True,0b00110101,X,X,,X,,X,25,1400,73,Counter%,20,16,Attack,20,19,Hit%,20,-1,None,0
 181,Defensive Aura,False,0b00011000,,X,X,,,,50,10,65,Block Attack,1,77,Recover SP,-1,54,Fatigue,-10,-1,None,0
-182,Ivy Band,True,0b00111111,X,X,X,X,X,X,50,520,48,Poison,-5,32,Green,-2,17,Defense,12,18,MagDef,12
-183,Silvite Ring,True,0b00111111,X,X,X,X,X,X,50,760,49,Unconscious,-5,37,Silver,-2,17,Defense,14,18,MagDef,14
-184,Gem of Fluidity,True,0b00111111,X,X,X,X,X,X,50,350,50,Stone,-5,17,Defense,10,18,MagDef,10,-1,None,0
-185,Wind Gem Ring,True,0b00111111,X,X,X,X,X,X,50,730,51,Sleep,-5,35,Blue,-2,17,Defense,14,18,MagDef,14
-186,Eye of Truth,True,0b00111111,X,X,X,X,X,X,50,710,52,Confusion,-5,34,Purple,-2,17,Defense,14,18,MagDef,14
-187,Revered Voice,True,0b00111111,X,X,X,X,X,X,50,480,53,Silence,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
-188,Everlasting Gem,True,0b00111111,X,X,X,X,X,X,50,680,54,Fatigue,-5,17,Defense,16,18,MagDef,16,-1,None,0
-189,Behemoth's Ring,True,0b00111111,X,X,X,X,X,X,50,740,56,Weak,-5,36,Yellow,-2,17,Defense,16,18,MagDef,16
+182,Ivy Band,True,0b00111111,X,X,X,X,X,X,25,500,48,Poison,-5,32,Green,-2,17,Defense,12,18,MagDef,12
+183,Silvite Ring,True,0b00111111,X,X,X,X,X,X,25,800,49,Unconscious,-5,37,Silver,-2,17,Defense,14,18,MagDef,14
+184,Gem of Fluidity,True,0b00111111,X,X,X,X,X,X,25,400,50,Stone,-5,17,Defense,10,18,MagDef,10,-1,None,0
+185,Wind Gem Ring,True,0b00111111,X,X,X,X,X,X,25,700,51,Sleep,-5,35,Blue,-2,17,Defense,14,18,MagDef,14
+186,Eye of Truth,True,0b00111111,X,X,X,X,X,X,25,700,52,Confusion,-5,34,Purple,-2,17,Defense,14,18,MagDef,14
+187,Revered Voice,True,0b00111111,X,X,X,X,X,X,25,500,53,Silence,-5,34,Purple,-2,17,Defense,10,18,MagDef,10
+188,Everlasting Gem,True,0b00111111,X,X,X,X,X,X,25,700,54,Fatigue,-5,17,Defense,16,18,MagDef,16,-1,None,0
+189,Behemoth's Ring,True,0b00111111,X,X,X,X,X,X,25,700,56,Weak,-5,36,Yellow,-2,17,Defense,16,18,MagDef,16
 190,Constitution Gem,False,0b00000101,,,,X,,X,50,1000,79,Block Neg States,-4,17,Defense,10,18,MagDef,10,-1,None,0
-191,Nomadic Veil,True,0b00111111,X,X,X,X,X,X,50,640,17,Defense,18,18,MagDef,18,-1,None,0,-1,None,0
-192,Radiant Fur,False,0b00111111,X,X,X,X,X,X,50,3580,17,Defense,24,18,MagDef,24,-1,None,0,-1,None,0
-193,Sand Storm Ring,True,0b00111111,X,X,X,X,X,X,50,770,16,Attack,18,1,Will,18,-1,None,0,-1,None,0
+191,Nomadic Veil,True,0b00111111,X,X,X,X,X,X,25,600,17,Defense,18,18,MagDef,18,-1,None,0,-1,None,0
+192,Radiant Fur,False,0b00111111,X,X,X,X,X,X,50,3600,17,Defense,24,18,MagDef,24,-1,None,0,-1,None,0
+193,Sand Storm Ring,True,0b00111111,X,X,X,X,X,X,25,800,16,Attack,18,1,Will,18,-1,None,0,-1,None,0
 194,Skull Cap,Assigned,0b00111111,X,X,X,X,X,X,50,4300,16,Attack,24,1,Will,24,-1,None,0,-1,None,0
-195,Mage's Bane,True,0b00111111,X,X,X,X,X,X,50,480,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
-196,Blue Rogue Patch,False,0b00111111,X,X,X,X,X,X,50,6820,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
+195,Mage's Bane,True,0b00111111,X,X,X,X,X,X,25,500,17,Defense,4,18,MagDef,4,16,Attack,4,1,Will,4
+196,Blue Rogue Patch,False,0b00111111,X,X,X,X,X,X,50,6800,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
 197,Assassin Ring,False,0b00111111,X,X,X,X,X,X,50,3200,80,First Strike%,40,19,Hit%,40,-1,None,0,-1,None,0
 198,Stealth Ring,False,0b00111111,X,X,X,X,X,X,50,3000,81,PC Run%,100,4,Quick,10,20,Dodge%,10,-1,None,0
 199,Dhabu Hide,Assigned,0b00111111,X,X,X,X,X,X,50,2800,4,Quick,40,-1,None,0,-1,None,0,-1,None,0
-200,Ominous Mask,False,0b00100101,X,,,X,,X,50,4760,68,Reduce SP,1,16,Attack,45,17,Defense,45,-1,None,0
-201,Flash Ribbon,True,0b00011101,,X,X,X,,X,50,60,4,Quick,2,-1,None,0,-1,None,0,-1,None,0
-202,The Unseen Hand,False,0b00011101,,X,X,X,,X,50,2960,4,Quick,30,20,Dodge%,5,-1,None,0,-1,None,0
-203,Crescent Amulet,False,0b00011101,,X,X,X,,X,50,5710,4,Quick,19,17,Defense,28,18,MagDef,28,-1,None,0
-204,Skyseer Goggles,True,0b00110000,X,X,,,,,50,40,19,Hit%,5,-1,None,0,-1,None,0,-1,None,0
-205,Nocturnal Sight,False,0b00110000,X,X,,,,,50,1930,19,Hit%,60,16,Attack,6,-1,None,0,-1,None,0
-206,Critical Vision,False,0b00110000,X,X,,,,,50,6660,19,Hit%,50,16,Attack,19,-1,None,0,-1,None,0
-207,Gem of Purity,True,0b00000101,,,,X,,X,50,300,79,Block Neg States,-2,17,Defense,12,-1,None,0,-1,None,0
-208,Shard of Purity,False,0b00000101,,,,X,,X,50,4760,79,Block Neg States,-2,17,Defense,38,-1,None,0,-1,None,0
-209,Fortune Ring,False,0b00011000,,X,X,,,,50,2145,20,Dodge%,75,17,Defense,8,-1,None,0,-1,None,0
-210,Black Map,True,0b00100000,X,,,,,,50,777,84,Random Encounter%,100,80,PC 1st Strike%,25,82,EC 1st Strike%,0,83,EC Run%,0
-211,White Map,False,0b00100000,X,,,,,,50,666,84,Random Encounter%,5,80,PC 1st Strike%,0,82,EC 1st Strike%,0,81,PC Run%,100
+200,Ominous Mask,False,0b00100101,X,,,X,,X,50,4800,68,Reduce SP,1,16,Attack,45,17,Defense,45,-1,None,0
+201,Flash Ribbon,True,0b00011101,,X,X,X,,X,25,60,4,Quick,2,-1,None,0,-1,None,0,-1,None,0
+202,The Unseen Hand,False,0b00011101,,X,X,X,,X,50,3000,4,Quick,30,20,Dodge%,5,-1,None,0,-1,None,0
+203,Crescent Amulet,False,0b00011101,,X,X,X,,X,50,5700,4,Quick,19,17,Defense,28,18,MagDef,28,-1,None,0
+204,Skyseer Goggles,True,0b00110000,X,X,,,,,25,40,19,Hit%,5,-1,None,0,-1,None,0,-1,None,0
+205,Nocturnal Sight,False,0b00110000,X,X,,,,,50,1900,19,Hit%,60,16,Attack,6,-1,None,0,-1,None,0
+206,Critical Vision,False,0b00110000,X,X,,,,,50,6700,19,Hit%,50,16,Attack,19,-1,None,0,-1,None,0
+207,Gem of Purity,True,0b00000101,,,,X,,X,25,300,79,Block Neg States,-2,17,Defense,12,-1,None,0,-1,None,0
+208,Shard of Purity,False,0b00000101,,,,X,,X,50,4800,79,Block Neg States,-2,17,Defense,38,-1,None,0,-1,None,0
+209,Fortune Ring,False,0b00011000,,X,X,,,,50,2100,20,Dodge%,75,17,Defense,8,-1,None,0,-1,None,0
+210,Black Map,True,0b00100000,X,,,,,,25,800,84,Random Encounter%,100,80,PC 1st Strike%,25,82,EC 1st Strike%,0,83,EC Run%,0
+211,White Map,False,0b00100000,X,,,,,,50,700,84,Random Encounter%,5,80,PC 1st Strike%,0,82,EC 1st Strike%,0,81,PC Run%,100
 212,Captain's Hat,False,0b00100000,X,,,,,,50,10,16,Attack,45,-1,None,0,-1,None,0,-1,None,0
 213,Mesh Tights,False,0b00010000,,X,,,,,50,10,16,Attack,40,1,Will,40,-1,None,0,-1,None,0
-214,Black Eyepatch,True,0b00100101,X,,,X,,X,50,20,16,Attack,7,-1,None,0,-1,None,0,-1,None,0
-215,Silver Veil,True,0b00011000,,X,X,,,,50,200,1,Will,16,18,MagDef,16,-1,None,0,-1,None,0
-216,Imperial Crest,True,0b00000010,,,,,X,,50,2000,17,Defense,20,18,MagDef,20,-1,None,0,-1,None,0
-217,Gilder's Amulet,True,0b00110001,X,X,,,,X,50,1000,17,Defense,11,18,MagDef,11,16,Attack,11,1,Will,11
+214,Black Eyepatch,True,0b00100101,X,,,X,,X,25,20,16,Attack,7,-1,None,0,-1,None,0,-1,None,0
+215,Silver Veil,True,0b00011000,,X,X,,,,25,200,1,Will,16,18,MagDef,16,-1,None,0,-1,None,0
+216,Imperial Crest,True,0b00000010,,,,,X,,25,2000,17,Defense,20,18,MagDef,20,-1,None,0,-1,None,0
+217,Gilder's Amulet,True,0b00110001,X,X,,,,X,25,1000,17,Defense,11,18,MagDef,11,16,Attack,11,1,Will,11
 218,Valuan Medallion,False,0b00111111,X,X,X,X,X,X,50,5000,49,Unconscious,-3,17,Defense,30,18,MagDef,30,-1,None,0
-219,Immunity Ring,True,0b00000101,,,,X,,X,50,1490,79,Block Neg States,-2,17,Defense,21,-1,None,0,-1,None,0
-220,Thermo Ring,True,0b00111111,X,X,X,X,X,X,50,700,33,Red,-1,34,Purple,-1,1,Will,15,18,MagDef,15
-221,Slayer Ring,True,0b00111111,X,X,X,X,X,X,50,600,1,Will,8,17,Defense,8,19,Hit%,10,4,Quick,8
+219,Immunity Ring,True,0b00000101,,,,X,,X,25,1500,79,Block Neg States,-2,17,Defense,21,-1,None,0,-1,None,0
+220,Thermo Ring,True,0b00111111,X,X,X,X,X,X,25,700,33,Red,-1,34,Purple,-1,1,Will,15,18,MagDef,15
+221,Slayer Ring,True,0b00111111,X,X,X,X,X,X,25,600,1,Will,8,17,Defense,8,19,Hit%,10,4,Quick,8
 222,Chance Ring,False,0b00111111,X,X,X,X,X,X,50,1000,79,Block Neg States,90,17,Defense,45,18,MagDef,45,-1,None,0
 223,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
 224,ダミーアクセサリ,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0

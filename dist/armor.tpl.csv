@@ -1,62 +1,62 @@
 Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Trait 1 ID,[Trait 1 Name],Trait 1 Value,Trait 2 ID,[Trait 2 Name],Trait 2 Value,Trait 3 ID,[Trait 3 Name],Trait 3 Value,Trait 4 ID,[Trait 4 Name],Trait 4 Value
-80,Vyse's Uniform,True,0b00110001,X,X,,,,X,50,60,17,Defense,20,18,MagDef,20,-1,None,0,-1,None,0
-81,Aika's Shorts,True,0b00011000,,X,X,,,,50,50,17,Defense,19,18,MagDef,21,-1,None,0,-1,None,0
-82,Fina's Robe,True,0b00011010,,X,X,,X,,50,510,17,Defense,55,18,MagDef,64,-1,None,0,-1,None,0
-83,Drachma's Shirt,True,0b00000100,,,,X,,,50,340,17,Defense,45,18,MagDef,42,-1,None,0,-1,None,0
-84,Enrique's Coat,True,0b00000010,,,,,X,,50,3390,17,Defense,119,18,MagDef,119,19,Hit%,10,20,Dodge%,5
-85,Gilder's Mail,True,0b00100101,X,,,X,,X,50,2840,17,Defense,116,18,MagDef,99,-1,None,0,-1,None,0
-86,Light Robe,True,0b00011010,,X,X,,X,,50,100,17,Defense,26,18,MagDef,40,-1,None,0,-1,None,0
-87,Valuan Uniform,True,0b00110101,X,X,,X,,X,50,130,17,Defense,32,18,MagDef,32,-1,None,0,-1,None,0
-88,Sailor Uniform,True,0b00110101,X,X,,X,,X,50,330,17,Defense,44,18,MagDef,44,-1,None,0,-1,None,0
-89,Mystic Dress,True,0b00011000,,X,X,,,,75,310,17,Defense,40,18,MagDef,50,-1,None,0,-1,None,0
-90,Valuan Armor,True,0b00100101,X,,,X,,X,50,480,17,Defense,51,18,MagDef,44,-1,None,0,-1,None,0
-91,Elastamor,True,0b00111111,X,X,X,X,X,X,50,580,17,Defense,54,18,MagDef,78,36,Yellow,-2,-1,None,0
-92,Raincoat,True,0b00110101,X,X,,X,,X,50,560,17,Defense,56,18,MagDef,84,-1,None,0,-1,None,0
-93,Nasrean Mail,True,0b00111111,X,X,X,X,X,X,50,920,17,Defense,66,18,MagDef,66,33,Red,-2,-1,None,0
-94,Ceramic Armor,True,0b00100101,X,,,X,,X,50,1040,17,Defense,73,18,MagDef,62,-1,None,0,-1,None,0
-95,Agile Robe,True,0b00001010,,,X,,X,,50,930,17,Defense,65,18,MagDef,65,19,Hit%,10,20,Dodge%,5
-96,Miner's Overalls,True,0b00100111,X,,,X,X,X,25,910,17,Defense,87,18,MagDef,80,-1,None,0,-1,None,0
-97,Fiber Robe,True,0b00011010,,X,X,,X,,50,1040,17,Defense,77,18,MagDef,90,-1,None,0,-1,None,0
-98,Golden Armor,True,0b00100101,X,,,X,,X,75,2480,17,Defense,90,18,MagDef,77,-1,None,0,-1,None,0
-99,Ixa'takan Armor,False,0b00111111,X,X,X,X,X,X,50,2790,17,Defense,109,18,MagDef,109,32,Green,-2,-1,None,0
-100,Naval Uniform,False,0b00110101,X,X,,X,,X,50,2470,17,Defense,112,18,MagDef,112,-1,None,0,-1,None,0
-101,Nasr Uniform,True,0b00100111,X,,,X,X,X,50,2070,17,Defense,104,18,MagDef,96,-1,None,0,-1,None,0
-102,Caravan Armor,True,0b00110101,X,X,,X,,X,50,1930,17,Defense,100,18,MagDef,100,-1,None,0,-1,None,0
-103,Holy Robe,False,0b00011010,,X,X,,X,,50,1520,17,Defense,92,18,MagDef,108,-1,None,0,-1,None,0
-104,Daccat's Tunic,False,0b00111111,X,X,X,X,X,X,50,3500,17,Defense,121,18,MagDef,121,35,Blue,-2,-1,None,0
-105,Battleworn Armor,False,0b00100101,X,,,X,,X,50,3810,17,Defense,133,18,MagDef,114,-1,None,0,-1,None,0
-106,Miracle Robe,False,0b00011010,,X,X,,X,,50,2400,17,Defense,114,18,MagDef,133,-1,None,0,-1,None,0
-107,Scale Mail,False,0b00100111,X,,,X,X,X,50,3990,17,Defense,141,18,MagDef,130,-1,None,0,-1,None,0
-108,Soranchu Robe,False,0b00110101,X,X,,X,,X,50,3750,17,Defense,136,18,MagDef,136,-1,None,0,-1,None,0
-109,Long Robe,False,0b00001010,,,X,,X,,50,4110,17,Defense,130,18,MagDef,130,19,Hit%,20,20,Dodge%,10
-110,Captain's Cloak,False,0b00110101,X,X,,X,,X,50,4500,17,Defense,148,18,MagDef,148,-1,None,0,-1,None,0
-111,Blessed Robe,False,0b00001010,,,X,,X,,50,4980,17,Defense,142,18,MagDef,142,19,Hit%,30,20,Dodge%,15
-112,Insulated Mail,False,0b00111111,X,X,X,X,X,X,50,5180,17,Defense,145,18,MagDef,145,34,Purple,-2,-1,None,0
-113,Vengeance Armor,False,0b00100111,X,,,X,X,X,50,6460,17,Defense,162,18,MagDef,149,73,Counter%,10,-1,None,0
-114,Swift Dress,False,0b00011000,,X,X,,,,75,5670,17,Defense,149,18,MagDef,170,4,Quick,20,-1,None,0
-115,Gaia Cape,False,0b00110101,X,X,,X,,X,50,5910,17,Defense,168,18,MagDef,168,-1,None,0,-1,None,0
-116,Robe of Faith,False,0b00001010,,,X,,X,,50,6510,17,Defense,161,18,MagDef,161,19,Hit%,30,20,Dodge%,15
-117,Plated Armor,False,0b00100101,X,,,X,,X,50,7430,17,Defense,181,18,MagDef,154,-1,None,0,-1,None,0
-118,Robe of Truth,False,0b00011010,,X,X,,X,,50,4590,17,Defense,154,18,MagDef,181,-1,None,0,-1,None,0
-119,Berzerker Mail,False,0b00100111,X,,,X,X,X,50,4020,17,Defense,140,18,MagDef,140,16,Attack,20,19,Hit%,20
-120,Light Dress,False,0b00011000,,X,X,,,,75,940,17,Defense,70,18,MagDef,70,20,Dodge%,30,4,Quick,30
-121,Focus Robe,False,0b00011000,,X,X,,,,75,970,17,Defense,70,18,MagDef,70,1,Will,100,-1,None,0
-122,Nasr Combat Mail,True,0b00110101,X,X,,X,,X,100,320,17,Defense,66,18,MagDef,66,16,Attack,5,1,Will,5
-123,De Loco Armor,False,0b00100101,X,,,X,,X,100,2420,17,Defense,172,18,MagDef,147,-1,None,0,-1,None,0
-124,Maiden's Armor,False,0b00011000,,X,X,,,,100,840,17,Defense,103,18,MagDef,112,-1,None,0,-1,None,0
-125,Heavy Armor,True,0b00100111,X,,,X,X,X,100,230,17,Defense,58,18,MagDef,53,-1,None,0,-1,None,0
-126,Ancient Robe,True,0b00011010,,X,X,,X,,100,370,17,Defense,69,18,MagDef,82,-1,None,0,-1,None,0
-127,De Loco Mail,True,0b00100101,X,,,X,,X,100,730,17,Defense,99,18,MagDef,84,-1,None,0,-1,None,0
-128,Daccat's Armor,False,0b00110101,X,X,,X,,X,100,910,17,Defense,108,18,MagDef,108,-1,None,0,-1,None,0
-129,Moss Armor,False,0b00001010,,,X,,X,,100,1280,17,Defense,126,18,MagDef,126,19,Hit%,20,20,Dodge%,10
-130,Moonlight Robe,False,0b00011000,,X,X,,,,100,4460,17,Defense,134,18,MagDef,145,20,Dodge%,20,-1,None,0
-131,Silver Armor,False,0b00111111,X,X,X,X,X,X,100,8580,17,Defense,160,18,MagDef,160,37,Silver,-2,-1,None,0
-132,Victory Mail,True,0b00111111,X,X,X,X,X,X,100,620,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5
-133,Flame Mantle,True,0b00100111,X,,,X,X,X,100,390,17,Defense,74,18,MagDef,69,-1,None,0,-1,None,0
-134,Female Armor,True,0b00011000,,X,X,,,,100,660,17,Defense,92,18,MagDef,99,-1,None,0,-1,None,0
-135,Ghost Mail,False,0b00110101,X,X,,X,,X,100,1310,17,Defense,128,18,MagDef,128,-1,None,0,-1,None,0
-136,Light Coat,Undefined,0b00001010,,,X,,X,,100,830,17,Defense,103,18,MagDef,103,19,Hit%,10,20,Dodge%,5
-137,Fiber Mail,False,0b00100101,X,,,X,,X,100,2180,17,Defense,164,18,MagDef,139,-1,None,0,-1,None,0
+80,Vyse's Uniform,True,0b00110001,X,X,,,,X,25,60,17,Defense,20,18,MagDef,20,-1,None,0,-1,None,0
+81,Aika's Shorts,True,0b00011000,,X,X,,,,25,50,17,Defense,19,18,MagDef,21,-1,None,0,-1,None,0
+82,Fina's Robe,True,0b00011010,,X,X,,X,,25,500,17,Defense,55,18,MagDef,64,-1,None,0,-1,None,0
+83,Drachma's Shirt,True,0b00000100,,,,X,,,25,300,17,Defense,45,18,MagDef,42,-1,None,0,-1,None,0
+84,Enrique's Coat,True,0b00000010,,,,,X,,25,3400,17,Defense,119,18,MagDef,119,19,Hit%,10,20,Dodge%,5
+85,Gilder's Mail,True,0b00100101,X,,,X,,X,25,2800,17,Defense,116,18,MagDef,99,-1,None,0,-1,None,0
+86,Light Robe,True,0b00011010,,X,X,,X,,25,100,17,Defense,26,18,MagDef,40,-1,None,0,-1,None,0
+87,Valuan Uniform,True,0b00110101,X,X,,X,,X,25,150,17,Defense,32,18,MagDef,32,-1,None,0,-1,None,0
+88,Sailor Uniform,True,0b00110101,X,X,,X,,X,25,300,17,Defense,44,18,MagDef,44,-1,None,0,-1,None,0
+89,Mystic Dress,True,0b00011000,,X,X,,,,25,300,17,Defense,40,18,MagDef,50,-1,None,0,-1,None,0
+90,Valuan Armor,True,0b00100101,X,,,X,,X,25,500,17,Defense,51,18,MagDef,44,-1,None,0,-1,None,0
+91,Elastamor,True,0b00111111,X,X,X,X,X,X,25,600,17,Defense,54,18,MagDef,78,36,Yellow,-2,-1,None,0
+92,Raincoat,True,0b00110101,X,X,,X,,X,25,600,17,Defense,56,18,MagDef,84,-1,None,0,-1,None,0
+93,Nasrean Mail,True,0b00111111,X,X,X,X,X,X,25,900,17,Defense,66,18,MagDef,66,33,Red,-2,-1,None,0
+94,Ceramic Armor,True,0b00100101,X,,,X,,X,25,1000,17,Defense,73,18,MagDef,62,-1,None,0,-1,None,0
+95,Agile Robe,True,0b00001010,,,X,,X,,25,900,17,Defense,65,18,MagDef,65,19,Hit%,10,20,Dodge%,5
+96,Miner's Overalls,True,0b00100111,X,,,X,X,X,25,900,17,Defense,87,18,MagDef,80,-1,None,0,-1,None,0
+97,Fiber Robe,True,0b00011010,,X,X,,X,,25,1000,17,Defense,77,18,MagDef,90,-1,None,0,-1,None,0
+98,Golden Armor,True,0b00100101,X,,,X,,X,50,2500,17,Defense,90,18,MagDef,77,-1,None,0,-1,None,0
+99,Ixa'takan Armor,False,0b00111111,X,X,X,X,X,X,25,2800,17,Defense,109,18,MagDef,109,32,Green,-2,-1,None,0
+100,Naval Uniform,False,0b00110101,X,X,,X,,X,25,2500,17,Defense,112,18,MagDef,112,-1,None,0,-1,None,0
+101,Nasr Uniform,True,0b00100111,X,,,X,X,X,25,2100,17,Defense,104,18,MagDef,96,-1,None,0,-1,None,0
+102,Caravan Armor,True,0b00110101,X,X,,X,,X,25,1900,17,Defense,100,18,MagDef,100,-1,None,0,-1,None,0
+103,Holy Robe,False,0b00011010,,X,X,,X,,25,1500,17,Defense,92,18,MagDef,108,-1,None,0,-1,None,0
+104,Daccat's Tunic,False,0b00111111,X,X,X,X,X,X,25,3500,17,Defense,121,18,MagDef,121,35,Blue,-2,-1,None,0
+105,Battleworn Armor,False,0b00100101,X,,,X,,X,25,3800,17,Defense,133,18,MagDef,114,-1,None,0,-1,None,0
+106,Miracle Robe,False,0b00011010,,X,X,,X,,25,2400,17,Defense,114,18,MagDef,133,-1,None,0,-1,None,0
+107,Scale Mail,False,0b00100111,X,,,X,X,X,25,4000,17,Defense,141,18,MagDef,130,-1,None,0,-1,None,0
+108,Soranchu Robe,False,0b00110101,X,X,,X,,X,25,3800,17,Defense,136,18,MagDef,136,-1,None,0,-1,None,0
+109,Long Robe,False,0b00001010,,,X,,X,,25,4100,17,Defense,130,18,MagDef,130,19,Hit%,20,20,Dodge%,10
+110,Captain's Cloak,False,0b00110101,X,X,,X,,X,25,4500,17,Defense,148,18,MagDef,148,-1,None,0,-1,None,0
+111,Blessed Robe,False,0b00001010,,,X,,X,,25,5000,17,Defense,142,18,MagDef,142,19,Hit%,30,20,Dodge%,15
+112,Insulated Mail,False,0b00111111,X,X,X,X,X,X,25,5200,17,Defense,145,18,MagDef,145,34,Purple,-2,-1,None,0
+113,Vengeance Armor,False,0b00100111,X,,,X,X,X,25,6500,17,Defense,162,18,MagDef,149,73,Counter%,10,-1,None,0
+114,Swift Dress,False,0b00011000,,X,X,,,,25,5700,17,Defense,149,18,MagDef,170,4,Quick,20,-1,None,0
+115,Gaia Cape,False,0b00110101,X,X,,X,,X,25,5900,17,Defense,168,18,MagDef,168,-1,None,0,-1,None,0
+116,Robe of Faith,False,0b00001010,,,X,,X,,25,6500,17,Defense,161,18,MagDef,161,19,Hit%,30,20,Dodge%,15
+117,Plated Armor,False,0b00100101,X,,,X,,X,25,7400,17,Defense,181,18,MagDef,154,-1,None,0,-1,None,0
+118,Robe of Truth,False,0b00011010,,X,X,,X,,25,4600,17,Defense,154,18,MagDef,181,-1,None,0,-1,None,0
+119,Berzerker Mail,False,0b00100111,X,,,X,X,X,25,4000,17,Defense,140,18,MagDef,140,16,Attack,20,19,Hit%,20
+120,Light Dress,False,0b00011000,,X,X,,,,25,900,17,Defense,70,18,MagDef,70,20,Dodge%,30,4,Quick,30
+121,Focus Robe,False,0b00011000,,X,X,,,,25,1000,17,Defense,70,18,MagDef,70,1,Will,100,-1,None,0
+122,Nasr Combat Mail,True,0b00110101,X,X,,X,,X,100,300,17,Defense,66,18,MagDef,66,16,Attack,5,1,Will,5
+123,De Loco Armor,False,0b00100101,X,,,X,,X,100,2400,17,Defense,172,18,MagDef,147,-1,None,0,-1,None,0
+124,Maiden's Armor,False,0b00011000,,X,X,,,,100,800,17,Defense,103,18,MagDef,112,-1,None,0,-1,None,0
+125,Heavy Armor,True,0b00100111,X,,,X,X,X,100,200,17,Defense,58,18,MagDef,53,-1,None,0,-1,None,0
+126,Ancient Robe,True,0b00011010,,X,X,,X,,100,400,17,Defense,69,18,MagDef,82,-1,None,0,-1,None,0
+127,De Loco Mail,True,0b00100101,X,,,X,,X,100,700,17,Defense,99,18,MagDef,84,-1,None,0,-1,None,0
+128,Daccat's Armor,False,0b00110101,X,X,,X,,X,100,900,17,Defense,108,18,MagDef,108,-1,None,0,-1,None,0
+129,Moss Armor,False,0b00001010,,,X,,X,,100,1300,17,Defense,126,18,MagDef,126,19,Hit%,20,20,Dodge%,10
+130,Moonlight Robe,False,0b00011000,,X,X,,,,100,4500,17,Defense,134,18,MagDef,145,20,Dodge%,20,-1,None,0
+131,Silver Armor,False,0b00111111,X,X,X,X,X,X,100,8600,17,Defense,160,18,MagDef,160,37,Silver,-2,-1,None,0
+132,Victory Mail,True,0b00111111,X,X,X,X,X,X,100,600,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5
+133,Flame Mantle,True,0b00100111,X,,,X,X,X,100,400,17,Defense,74,18,MagDef,69,-1,None,0,-1,None,0
+134,Female Armor,True,0b00011000,,X,X,,,,100,700,17,Defense,92,18,MagDef,99,-1,None,0,-1,None,0
+135,Ghost Mail,False,0b00110101,X,X,,X,,X,100,1300,17,Defense,128,18,MagDef,128,-1,None,0,-1,None,0
+136,Light Coat,Undefined,0b00001010,,,X,,X,,100,800,17,Defense,103,18,MagDef,103,19,Hit%,10,20,Dodge%,5
+137,Fiber Mail,False,0b00100101,X,,,X,,X,100,2200,17,Defense,164,18,MagDef,139,-1,None,0,-1,None,0
 138,Moon Robe,False,0b00011010,,X,X,,X,,100,1300,17,Defense,125,18,MagDef,146,-1,None,0,-1,None,0
 139,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
 140,ダミー防具,True,0b00000000,,,,,,,0,0,-1,None,0,-1,None,0,-1,None,0,-1,None,0
