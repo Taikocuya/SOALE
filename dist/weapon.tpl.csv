@@ -26,7 +26,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 24,Yin Wing,False,1,Aika,25,17,Sleep by 5%,5900,130,110,-1,None,0,0
 25,Dancing Arc,True,1,Aika,25,-1,None,1100,65,110,-1,None,0,0
 26,Wing of Hope,False,1,Aika,25,-1,None,4800,119,110,-1,None,0,0
-27,Storm Wing,True,1,Aika,25,2,Weak by 10%,1300,69,150,-1,None,0,0
+27,Storm Wing,False,1,Aika,25,2,Weak by 10%,1300,69,150,-1,None,0,0
 28,Moon Wing,False,1,Aika,25,-1,None,10200,161,110,-1,None,0,0
 29,Hydra Wing,False,1,Aika,25,-1,None,11400,168,110,-1,None,0,0
 30,Grendel Wing,True,1,Aika,25,-1,None,2800,96,150,32,Green,0,-2
