@@ -59,66 +59,66 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 29,r503a.tec,21,Black Pirates,True,7,1,-1,None,0,None,0,Attack,1,Black Torpedo,-1,None,3,0,Attack,1,Black Torpedo,-1,None,3
 30,r503a.tec,21,Black Pirates,True,7,2,1,ES HP ≤,50,%,0,Attack,0,Black Cannon,-1,None,0,4,Nothing,-1,None,0,Awaiting Orders,0
 31,r503a.tec,21,Black Pirates,True,7,3,-1,None,0,None,0,Attack,0,Black Cannon,-1,None,0,0,Attack,0,Black Cannon,-1,None,0
-0,r506a.tec,24,Recumen,True,0,0,-1,None,0,None,1,Magic,-1,None,0,Increm,0,0,Attack,0,Red Ray,-1,None,0
+0,r506a.tec,24,Recumen,True,0,0,-1,None,0,None,1,Magic,-1,None,0,Increm,0,0,Attack,-1,None,-1,None,0
 1,r506a.tec,24,Recumen,True,0,1,3,Rating,50,%,0,Attack,0,Red Ray,-1,None,0,4,Nothing,-1,None,2,Assessing Damage,0
-2,r506a.tec,24,Recumen,True,0,2,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
-3,r506a.tec,24,Recumen,True,0,3,0,PS HP ≤,0,%,0,Attack,0,Red Ray,-1,None,0,0,Attack,0,Red Ray,-1,None,0
-4,r506a.tec,24,Recumen,True,1,0,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
-5,r506a.tec,24,Recumen,True,1,1,0,PS HP ≤,0,%,0,Attack,0,Red Ray,-1,None,0,0,Attack,0,Red Ray,-1,None,0
-6,r506a.tec,24,Recumen,True,1,2,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
-7,r506a.tec,24,Recumen,True,1,3,3,Rating,80,%,0,Attack,0,Red Ray,-1,None,0,4,Nothing,-1,None,2,Assessing Damage,0
-8,r506a.tec,24,Recumen,True,2,0,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
-9,r506a.tec,24,Recumen,True,2,1,3,Rating,50,%,0,Attack,0,Red Ray,-1,None,0,4,Nothing,-1,None,2,Assessing Damage,0
+2,r506a.tec,24,Recumen,True,0,2,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Red Ray,-1,None,0
+3,r506a.tec,24,Recumen,True,0,3,-1,None,0,None,0,Attack,0,Red Ray,-1,None,0,0,Attack,-1,None,-1,None,0
+4,r506a.tec,24,Recumen,True,1,0,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,-1,None,-1,None,0
+5,r506a.tec,24,Recumen,True,1,1,-1,None,0,None,0,Attack,0,Red Ray,-1,None,0,0,Attack,-1,None,-1,None,0
+6,r506a.tec,24,Recumen,True,1,2,3,Rating,50,%,0,Attack,0,Red Ray,-1,None,0,2,Focus,-1,None,2,Preparing Attack,0
+7,r506a.tec,24,Recumen,True,1,3,4,ES Previous Task Type =,0,Attack,0,Attack,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
+8,r506a.tec,24,Recumen,True,2,0,3,Rating,50,%,0,Attack,0,Red Ray,-1,None,0,2,Focus,-1,None,2,Preparing Attack,0
+9,r506a.tec,24,Recumen,True,2,1,4,ES Previous Task Type =,0,Attack,0,Attack,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
 10,r506a.tec,24,Recumen,True,2,2,9,PS Phase Actions ≥ 2 or Used S-Cannon?,0,None,4,Nothing,-1,None,4,Red Ray,0,0,Attack,0,Red Ray,-1,None,0
-11,r506a.tec,24,Recumen,True,2,3,-1,None,0,None,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Red Ray,-1,None,0
-12,r506a.tec,24,Recumen,True,3,0,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
+11,r506a.tec,24,Recumen,True,2,3,-1,None,0,None,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,-1,None,-1,None,0
+12,r506a.tec,24,Recumen,True,3,0,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,-1,None,-1,None,0
 13,r506a.tec,24,Recumen,True,3,1,9,PS Phase Actions ≥ 2 or Used S-Cannon?,0,None,4,Nothing,-1,None,4,Red Ray,0,0,Attack,0,Red Ray,-1,None,0
 14,r506a.tec,24,Recumen,True,3,2,9,PS Phase Actions ≥ 2 or Used S-Cannon?,0,None,4,Nothing,-1,None,4,Red Ray,0,0,Attack,0,Red Ray,-1,None,0
-15,r506a.tec,24,Recumen,True,3,3,-1,None,0,None,1,Magic,-1,None,0,Increm,0,0,Attack,0,Red Ray,-1,None,0
-16,r506a.tec,24,Recumen,True,4,0,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
+15,r506a.tec,24,Recumen,True,3,3,-1,None,0,None,1,Magic,-1,None,0,Increm,0,0,Attack,-1,None,-1,None,0
+16,r506a.tec,24,Recumen,True,4,0,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,-1,None,-1,None,0
 17,r506a.tec,24,Recumen,True,4,1,9,PS Phase Actions ≥ 2 or Used S-Cannon?,0,None,4,Nothing,-1,None,4,Red Ray,0,0,Attack,0,Red Ray,-1,None,0
-18,r506a.tec,24,Recumen,True,4,2,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
+18,r506a.tec,24,Recumen,True,4,2,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,-1,None,-1,None,0
 19,r506a.tec,24,Recumen,True,4,3,9,PS Phase Actions ≥ 2 or Used S-Cannon?,0,None,4,Nothing,-1,None,4,Red Ray,0,0,Attack,0,Red Ray,-1,None,0
-20,r506a.tec,24,Recumen,True,5,0,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
+20,r506a.tec,24,Recumen,True,5,0,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,-1,None,-1,None,0
 21,r506a.tec,24,Recumen,True,5,1,9,PS Phase Actions ≥ 2 or Used S-Cannon?,0,None,4,Nothing,-1,None,4,Red Ray,0,0,Attack,0,Red Ray,-1,None,0
-22,r506a.tec,24,Recumen,True,5,2,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Red Ray,-1,None,0
+22,r506a.tec,24,Recumen,True,5,2,-1,None,0,None,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,-1,None,-1,None,0
 23,r506a.tec,24,Recumen,True,5,3,9,PS Phase Actions ≥ 2 or Used S-Cannon?,0,None,4,Nothing,-1,None,4,Red Ray,0,0,Attack,0,Red Ray,-1,None,0
 0,r507a.tec,11,Lynx,True,0,0,-1,None,0,None,1,Magic,-1,None,0,Increm,0,0,Attack,0,Lynx Cannon,-1,None,0
-1,r507a.tec,11,Lynx,True,0,1,1,ES HP ≤,50,%,1,Magic,-1,None,23,Pyri,0,0,Attack,2,Lynx Torpedo,-1,None,1
+1,r507a.tec,11,Lynx,True,0,1,3,Rating,50,%,1,Magic,-1,None,23,Pyri,0,0,Attack,2,Lynx Torpedo,-1,None,1
 2,r507a.tec,11,Lynx,True,0,2,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,0,Attack,0,Lynx Cannon,-1,None,0
-3,r507a.tec,11,Lynx,True,0,3,1,ES HP ≤,50,%,1,Magic,-1,None,23,Pyri,0,1,Magic,-1,None,22,Wevlen,0
-4,r507a.tec,11,Lynx,True,1,0,1,ES HP ≤,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
-5,r507a.tec,11,Lynx,True,1,1,1,ES HP ≤,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
-6,r507a.tec,11,Lynx,True,1,2,1,ES HP ≤,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
+3,r507a.tec,11,Lynx,True,0,3,3,Rating,50,%,1,Magic,-1,None,23,Pyri,0,1,Magic,-1,None,22,Wevlen,0
+4,r507a.tec,11,Lynx,True,1,0,3,Rating,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+5,r507a.tec,11,Lynx,True,1,1,3,Rating,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
+6,r507a.tec,11,Lynx,True,1,2,3,Rating,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
 7,r507a.tec,11,Lynx,True,1,3,-1,None,0,None,3,Guard,-1,None,-1,None,0,0,Attack,0,Lynx Cannon,-1,None,0
 8,r507a.tec,11,Lynx,True,2,0,-1,None,0,None,0,Attack,1,Lynx Subcannon,-1,None,2,0,Attack,0,Lynx Cannon,-1,None,0
-9,r507a.tec,11,Lynx,True,2,1,1,ES HP ≤,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
-10,r507a.tec,11,Lynx,True,2,2,1,ES HP ≤,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
+9,r507a.tec,11,Lynx,True,2,1,3,Rating,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
+10,r507a.tec,11,Lynx,True,2,2,3,Rating,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
 11,r507a.tec,11,Lynx,True,2,3,1,ES HP ≤,30,%,1,Magic,-1,None,6,Sacri,0,3,Guard,-1,None,-1,None,0
 12,r507a.tec,11,Lynx,True,3,0,-1,None,0,None,0,Attack,1,Lynx Subcannon,-1,None,2,0,Attack,0,Lynx Cannon,-1,None,0
-13,r507a.tec,11,Lynx,True,3,1,1,ES HP ≤,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
-14,r507a.tec,11,Lynx,True,3,2,1,ES HP ≤,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
+13,r507a.tec,11,Lynx,True,3,1,3,Rating,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
+14,r507a.tec,11,Lynx,True,3,2,3,Rating,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
 15,r507a.tec,11,Lynx,True,3,3,1,ES HP ≤,30,%,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,0,Increm,0
 16,r507a.tec,11,Lynx,True,4,0,-1,None,0,None,0,Attack,1,Lynx Subcannon,-1,None,2,0,Attack,0,Lynx Cannon,-1,None,0
 17,r507a.tec,11,Lynx,True,4,1,-1,None,0,None,4,Nothing,-1,None,1,Target Lost,0,0,Attack,0,Lynx Cannon,-1,None,0
 18,r507a.tec,11,Lynx,True,4,2,-1,None,0,None,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,0,Lynx Cannon,-1,None,0
-19,r507a.tec,11,Lynx,True,4,3,1,ES HP ≤,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+19,r507a.tec,11,Lynx,True,4,3,3,Rating,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
 20,r507a.tec,11,Lynx,True,5,0,1,ES HP ≤,30,%,1,Magic,-1,None,6,Sacri,0,1,Magic,-1,None,0,Increm,0
-21,r507a.tec,11,Lynx,True,5,1,1,ES HP ≤,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
-22,r507a.tec,11,Lynx,True,5,2,1,ES HP ≤,50,%,0,Attack,1,Lynx Subcannon,-1,None,1,0,Attack,1,Lynx Subcannon,-1,None,2
-23,r507a.tec,11,Lynx,True,5,3,1,ES HP ≤,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+21,r507a.tec,11,Lynx,True,5,1,3,Rating,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
+22,r507a.tec,11,Lynx,True,5,2,3,Rating,50,%,0,Attack,1,Lynx Subcannon,-1,None,1,0,Attack,1,Lynx Subcannon,-1,None,2
+23,r507a.tec,11,Lynx,True,5,3,3,Rating,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
 24,r507a.tec,11,Lynx,True,6,0,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,0,Attack,0,Lynx Cannon,-1,None,0
 25,r507a.tec,11,Lynx,True,6,1,-1,None,0,None,0,Attack,1,Lynx Subcannon,-1,None,2,0,Attack,0,Lynx Cannon,-1,None,0
-26,r507a.tec,11,Lynx,True,6,2,1,ES HP ≤,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,1,Magic,-1,None,23,Pyri,0
-27,r507a.tec,11,Lynx,True,6,3,1,ES HP ≤,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
+26,r507a.tec,11,Lynx,True,6,2,3,Rating,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,1,Magic,-1,None,23,Pyri,0
+27,r507a.tec,11,Lynx,True,6,3,3,Rating,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
 28,r507a.tec,11,Lynx,True,7,0,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,0,Attack,0,Lynx Cannon,-1,None,0
-29,r507a.tec,11,Lynx,True,7,1,1,ES HP ≤,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
+29,r507a.tec,11,Lynx,True,7,1,3,Rating,50,%,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,2,Lynx Torpedo,-1,None,2
 30,r507a.tec,11,Lynx,True,7,2,-1,None,0,None,0,Attack,1,Lynx Subcannon,-1,None,1,0,Attack,0,Lynx Cannon,-1,None,0
-31,r507a.tec,11,Lynx,True,7,3,1,ES HP ≤,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
+31,r507a.tec,11,Lynx,True,7,3,3,Rating,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,22,Wevlen,0
 32,r507a.tec,11,Lynx,True,8,0,-1,None,0,None,0,Attack,1,Lynx Subcannon,-1,None,2,0,Attack,0,Lynx Cannon,-1,None,0
 33,r507a.tec,11,Lynx,True,8,1,-1,None,0,None,4,Nothing,-1,None,1,Target Lost,0,0,Attack,0,Lynx Cannon,-1,None,0
 34,r507a.tec,11,Lynx,True,8,2,-1,None,0,None,0,Attack,2,Lynx Torpedo,-1,None,1,0,Attack,0,Lynx Cannon,-1,None,0
-35,r507a.tec,11,Lynx,True,8,3,1,ES HP ≤,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
+35,r507a.tec,11,Lynx,True,8,3,3,Rating,50,%,0,Attack,0,Lynx Cannon,-1,None,0,1,Magic,-1,None,23,Pyri,0
 0,r509a.tec,12,Chameleon,True,0,0,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
 1,r509a.tec,12,Chameleon,True,0,1,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
 2,r509a.tec,12,Chameleon,True,0,2,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,0,3,Guard,-1,None,-1,None,0
@@ -128,26 +128,26 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 6,r509a.tec,12,Chameleon,True,1,2,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
 7,r509a.tec,12,Chameleon,True,1,3,-1,None,0,None,0,Attack,0,Revolver Cannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
 8,r509a.tec,12,Chameleon,True,2,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,1,Type D Subcannon,-1,None,1
-9,r509a.tec,12,Chameleon,True,2,1,3,Rating,50,%,3,Guard,-1,None,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
+9,r509a.tec,12,Chameleon,True,2,1,4,ES Previous Task Type =,0,Attack,2,Focus,-1,None,0,Focus,0,0,Attack,2,Type D Torpedo,-1,None,1
 10,r509a.tec,12,Chameleon,True,2,2,-1,None,0,None,0,Attack,0,Revolver Cannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
 11,r509a.tec,12,Chameleon,True,2,3,-1,None,0,None,0,Attack,3,Flamethrower,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
 12,r509a.tec,12,Chameleon,True,3,0,3,Rating,80,%,0,Attack,2,Type D Torpedo,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
 13,r509a.tec,12,Chameleon,True,3,1,3,Rating,80,%,1,Magic,-1,None,13,Quika,0,2,Focus,-1,None,0,Focus,0
 14,r509a.tec,12,Chameleon,True,3,2,3,Rating,70,%,4,Nothing,-1,None,1,Target Lost,0,3,Guard,-1,None,-1,None,0
 15,r509a.tec,12,Chameleon,True,3,3,3,Rating,70,%,4,Nothing,-1,None,1,Target Lost,0,3,Guard,-1,None,-1,None,0
-16,r509a.tec,12,Chameleon,True,4,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,0,Attack,1,Type D Subcannon,-1,None,0
+16,r509a.tec,12,Chameleon,True,4,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
 17,r509a.tec,12,Chameleon,True,4,1,-1,None,0,None,0,Attack,1,Type D Subcannon,-1,None,2,0,Attack,0,Revolver Cannon,-1,None,0
 18,r509a.tec,12,Chameleon,True,4,2,-1,None,0,None,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,0,Revolver Cannon,-1,None,0
 19,r509a.tec,12,Chameleon,True,4,3,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
 20,r509a.tec,12,Chameleon,True,5,0,3,Rating,50,%,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,2
-21,r509a.tec,12,Chameleon,True,5,1,3,Rating,30,%,3,Guard,-1,None,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
+21,r509a.tec,12,Chameleon,True,5,1,4,ES Previous Task Type =,0,Attack,2,Focus,-1,None,0,Focus,0,0,Attack,1,Type D Subcannon,-1,None,2
 22,r509a.tec,12,Chameleon,True,5,2,-1,None,0,None,0,Attack,0,Revolver Cannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
 23,r509a.tec,12,Chameleon,True,5,3,-1,None,0,None,0,Attack,3,Flamethrower,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
 24,r509a.tec,12,Chameleon,True,6,0,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
 25,r509a.tec,12,Chameleon,True,6,1,3,Rating,80,%,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,2
 26,r509a.tec,12,Chameleon,True,6,2,3,Rating,70,%,4,Nothing,-1,None,1,Target Lost,0,3,Guard,-1,None,-1,None,0
 27,r509a.tec,12,Chameleon,True,6,3,3,Rating,70,%,4,Nothing,-1,None,1,Target Lost,0,3,Guard,-1,None,-1,None,0
-28,r509a.tec,12,Chameleon,True,7,0,-1,None,0,None,1,Magic,-1,None,6,Sacri,0,0,Attack,0,Revolver Cannon,-1,None,0
+28,r509a.tec,12,Chameleon,True,7,0,1,ES HP ≤,70,%,1,Magic,-1,None,6,Sacri,0,2,Focus,-1,None,0,Focus,0
 29,r509a.tec,12,Chameleon,True,7,1,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
 30,r509a.tec,12,Chameleon,True,7,2,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,3,Guard,-1,None,-1,None,0
 31,r509a.tec,12,Chameleon,True,7,3,-1,None,0,None,0,Attack,1,Type D Subcannon,-1,None,0,0,Attack,0,Revolver Cannon,-1,None,0
@@ -205,56 +205,56 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 35,r513a.tec,35,Roc,False,8,3,-1,None,0,None,0,Attack,0,Blast Voice,-1,None,0,0,Attack,0,Blast Voice,-1,None,0
 0,r514a.tec,13,Chameleon,True,0,0,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,2
 1,r514a.tec,13,Chameleon,True,0,1,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,2
-2,r514a.tec,13,Chameleon,True,0,2,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+2,r514a.tec,13,Chameleon,True,0,2,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
 3,r514a.tec,13,Chameleon,True,0,3,-1,None,0,None,0,Attack,1,Type D Subcannon,-1,None,0,-1,None,-1,None,-1,None,0
 4,r514a.tec,13,Chameleon,True,1,0,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
-5,r514a.tec,13,Chameleon,True,1,1,3,Rating,50,%,3,Guard,-1,None,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
-6,r514a.tec,13,Chameleon,True,1,2,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
-7,r514a.tec,13,Chameleon,True,1,3,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,3,Guard,-1,None,-1,None,0
-8,r514a.tec,13,Chameleon,True,2,0,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+5,r514a.tec,13,Chameleon,True,1,1,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,2,Focus,-1,None,0,Focus,0
+6,r514a.tec,13,Chameleon,True,1,2,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,1
+7,r514a.tec,13,Chameleon,True,1,3,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+8,r514a.tec,13,Chameleon,True,2,0,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,3,Guard,-1,None,0,Evasive Action,0
 9,r514a.tec,13,Chameleon,True,2,1,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
-10,r514a.tec,13,Chameleon,True,2,2,3,Rating,50,%,2,Focus,-1,None,1,Taking Aim,0,1,Magic,-1,None,6,Sacri,0
+10,r514a.tec,13,Chameleon,True,2,2,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
 11,r514a.tec,13,Chameleon,True,2,3,-1,None,0,None,0,Attack,3,Test Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-12,r514a.tec,13,Chameleon,True,3,0,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
-13,r514a.tec,13,Chameleon,True,3,1,3,Rating,70,%,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,2
-14,r514a.tec,13,Chameleon,True,3,2,3,Rating,50,%,2,Focus,-1,None,1,Taking Aim,0,1,Magic,-1,None,6,Sacri,0
+12,r514a.tec,13,Chameleon,True,3,0,3,Rating,50,%,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,1
+13,r514a.tec,13,Chameleon,True,3,1,4,ES Previous Task Type =,0,Attack,3,Guard,-1,None,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
+14,r514a.tec,13,Chameleon,True,3,2,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
 15,r514a.tec,13,Chameleon,True,3,3,-1,None,0,None,0,Attack,3,Test Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-16,r514a.tec,13,Chameleon,True,4,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
-17,r514a.tec,13,Chameleon,True,4,1,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+16,r514a.tec,13,Chameleon,True,4,0,1,ES HP ≤,60,%,3,Guard,-1,None,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
+17,r514a.tec,13,Chameleon,True,4,1,2,SP ≤,14,SP,0,Attack,2,Type D Torpedo,-1,None,1,1,Magic,-1,None,6,Sacri,0
 18,r514a.tec,13,Chameleon,True,4,2,-1,None,0,None,0,Attack,0,Handgun,-1,None,0,-1,None,-1,None,-1,None,0
-19,r514a.tec,13,Chameleon,True,4,3,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-20,r514a.tec,13,Chameleon,True,5,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
-21,r514a.tec,13,Chameleon,True,5,1,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
-22,r514a.tec,13,Chameleon,True,5,2,3,Rating,70,%,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
-23,r514a.tec,13,Chameleon,True,5,3,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,0,1,Magic,-1,None,6,Sacri,0
-24,r514a.tec,13,Chameleon,True,6,0,-1,None,0,None,0,Attack,2,Type D Torpedo,-1,None,2,-1,None,-1,None,-1,None,0
+19,r514a.tec,13,Chameleon,True,4,3,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,0,2,Focus,-1,None,0,Focus,0
+20,r514a.tec,13,Chameleon,True,5,0,3,Rating,50,%,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
+21,r514a.tec,13,Chameleon,True,5,1,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,1,Type D Subcannon,-1,None,2
+22,r514a.tec,13,Chameleon,True,5,2,-1,None,0,None,0,Attack,0,Handgun,-1,None,0,-1,None,-1,None,-1,None,0
+23,r514a.tec,13,Chameleon,True,5,3,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+24,r514a.tec,13,Chameleon,True,6,0,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,3,Guard,-1,None,0,Evasive Action,0
 25,r514a.tec,13,Chameleon,True,6,1,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
-26,r514a.tec,13,Chameleon,True,6,2,3,Rating,50,%,2,Focus,-1,None,1,Taking Aim,0,1,Magic,-1,None,6,Sacri,0
+26,r514a.tec,13,Chameleon,True,6,2,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
 27,r514a.tec,13,Chameleon,True,6,3,-1,None,0,None,0,Attack,3,Test Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-28,r514a.tec,13,Chameleon,True,7,0,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
-29,r514a.tec,13,Chameleon,True,7,1,3,Rating,70,%,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,2
-30,r514a.tec,13,Chameleon,True,7,2,3,Rating,50,%,2,Focus,-1,None,1,Taking Aim,0,1,Magic,-1,None,6,Sacri,0
-31,r514a.tec,13,Chameleon,True,7,3,-1,None,0,None,0,Attack,3,Test Cannon,1,None,0,-1,None,-1,None,-1,None,0
-32,r514a.tec,13,Chameleon,True,8,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
-33,r514a.tec,13,Chameleon,True,8,1,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
+28,r514a.tec,13,Chameleon,True,7,0,3,Rating,50,%,1,Magic,-1,None,13,Quika,0,0,Attack,2,Type D Torpedo,-1,None,1
+29,r514a.tec,13,Chameleon,True,7,1,4,ES Previous Task Type =,0,Attack,3,Guard,-1,None,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
+30,r514a.tec,13,Chameleon,True,7,2,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,-1,None,-1,None,-1,None,0
+31,r514a.tec,13,Chameleon,True,7,3,-1,None,0,None,0,Attack,3,Test Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+32,r514a.tec,13,Chameleon,True,8,0,1,ES HP ≤,60,%,3,Guard,-1,None,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
+33,r514a.tec,13,Chameleon,True,8,1,2,SP ≤,14,SP,0,Attack,2,Type D Torpedo,-1,None,1,1,Magic,-1,None,6,Sacri,0
 34,r514a.tec,13,Chameleon,True,8,2,-1,None,0,None,0,Attack,0,Handgun,-1,None,0,-1,None,-1,None,-1,None,0
-35,r514a.tec,13,Chameleon,True,8,3,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,0,Handgun,-1,None,0
-36,r514a.tec,13,Chameleon,True,9,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
-37,r514a.tec,13,Chameleon,True,9,1,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,1,0,Attack,1,Type D Subcannon,-1,None,2
-38,r514a.tec,13,Chameleon,True,9,2,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,1
-39,r514a.tec,13,Chameleon,True,9,3,3,Rating,50,%,3,Guard,-1,None,-1,None,0,1,Magic,-1,None,6,Sacri,0
-40,r514a.tec,13,Chameleon,True,10,0,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
-41,r514a.tec,13,Chameleon,True,10,1,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
-42,r514a.tec,13,Chameleon,True,10,2,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,0,Handgun,-1,None,0
-43,r514a.tec,13,Chameleon,True,10,3,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,0
-44,r514a.tec,13,Chameleon,True,11,0,3,Rating,50,%,1,Magic,-1,None,6,Sacri,0,3,Guard,-1,None,0,Evasive Action,0
-45,r514a.tec,13,Chameleon,True,11,1,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,2,0,Attack,2,Type D Torpedo,-1,None,1
-46,r514a.tec,13,Chameleon,True,11,2,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
-47,r514a.tec,13,Chameleon,True,11,3,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+35,r514a.tec,13,Chameleon,True,8,3,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,0,2,Focus,-1,None,0,Focus,0
+36,r514a.tec,13,Chameleon,True,9,0,3,Rating,50,%,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
+37,r514a.tec,13,Chameleon,True,9,1,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,1,Type D Subcannon,-1,None,2
+38,r514a.tec,13,Chameleon,True,9,2,-1,None,0,None,0,Attack,0,Handgun,-1,None,0,-1,None,-1,None,-1,None,0
+39,r514a.tec,13,Chameleon,True,9,3,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+40,r514a.tec,13,Chameleon,True,10,0,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,1
+41,r514a.tec,13,Chameleon,True,10,1,-1,None,0,None,0,Attack,0,Handgun,-1,None,0,-1,None,-1,None,-1,None,0
+42,r514a.tec,13,Chameleon,True,10,2,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+43,r514a.tec,13,Chameleon,True,10,3,-1,None,0,None,0,Attack,0,Handgun,-1,None,0,-1,None,-1,None,-1,None,0
+44,r514a.tec,13,Chameleon,True,11,0,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,1,2,Focus,-1,None,0,Focus,0
+45,r514a.tec,13,Chameleon,True,11,1,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
+46,r514a.tec,13,Chameleon,True,11,2,3,Rating,50,%,0,Attack,1,Type D Subcannon,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,1
+47,r514a.tec,13,Chameleon,True,11,3,-1,None,0,None,0,Attack,0,Handgun,-1,None,0,-1,None,-1,None,-1,None,0
 48,r514a.tec,13,Chameleon,True,12,0,3,Rating,50,%,0,Attack,2,Type D Torpedo,-1,None,1,0,Attack,2,Type D Torpedo,-1,None,2
-49,r514a.tec,13,Chameleon,True,12,1,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,2
-50,r514a.tec,13,Chameleon,True,12,2,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,2,Type D Torpedo,-1,None,1
-51,r514a.tec,13,Chameleon,True,12,3,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,1,Magic,-1,None,6,Sacri,0
+49,r514a.tec,13,Chameleon,True,12,1,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,2,Focus,-1,None,0,Focus,0
+50,r514a.tec,13,Chameleon,True,12,2,3,Rating,50,%,0,Attack,0,Handgun,-1,None,0,0,Attack,1,Type D Subcannon,-1,None,1
+51,r514a.tec,13,Chameleon,True,12,3,3,Rating,70,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,-1,None,0
 0,r515a.tec,25,Grendel,True,0,0,-1,None,0,None,4,Nothing,-1,None,2,Assessing Damage,0,4,Nothing,-1,None,2,Assessing Damage,0
 1,r515a.tec,25,Grendel,True,0,1,3,Rating,50,%,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Fist of Grendel,-1,None,0
 2,r515a.tec,25,Grendel,True,0,2,3,Rating,50,%,0,Attack,0,Fist of Grendel,-1,None,0,0,Attack,2,Stomp,-1,None,0

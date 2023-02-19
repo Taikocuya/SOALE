@@ -885,198 +885,198 @@ Entry ID,[Filter],Initiative,Magic EXP,EC1 ID,[EC1 JP Name],[EC1 EU Name],EC2 ID
 29,a115b_ep.enp,58,2,20,Centralk,Centralk,21,Feralisk,Feralisk,26,Baroo,Baroo,26,Baroo,Baroo,255,None,None,255,None,None,255,None,None,255,None,None
 30,a115b_ep.enp,58,2,20,Centralk,Centralk,20,Centralk,Centralk,21,Feralisk,Feralisk,26,Baroo,Baroo,26,Baroo,Baroo,255,None,None,255,None,None,255,None,None
 31,a115b_ep.enp,58,2,20,Centralk,Centralk,20,Centralk,Centralk,50,Burocca,Burocca,50,Burocca,Burocca,26,Baroo,Baroo,26,Baroo,Baroo,255,None,None,255,None,None
-0,a116a_ep.enp,111,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-1,a116a_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-2,a116a_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-3,a116a_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-4,a116a_ep.enp,116,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-5,a116a_ep.enp,111,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-6,a116a_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-7,a116a_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
-8,a116a_ep.enp,106,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-9,a116a_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-10,a116a_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-11,a116a_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-12,a116a_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-13,a116a_ep.enp,111,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-14,a116a_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-15,a116a_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-16,a116a_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-17,a116a_ep.enp,111,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-18,a116a_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-19,a116a_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-20,a116a_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-21,a116a_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-22,a116a_ep.enp,106,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-23,a116a_ep.enp,101,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-24,a116a_ep.enp,96,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-25,a116a_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-26,a116a_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-27,a116a_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-28,a116a_ep.enp,111,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-29,a116a_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-30,a116a_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-31,a116a_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
-0,a116c_ep.enp,111,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-1,a116c_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-2,a116c_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-3,a116c_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-4,a116c_ep.enp,116,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-5,a116c_ep.enp,111,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-6,a116c_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-7,a116c_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
-8,a116c_ep.enp,106,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-9,a116c_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-10,a116c_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-11,a116c_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-12,a116c_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-13,a116c_ep.enp,111,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-14,a116c_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-15,a116c_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-16,a116c_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-17,a116c_ep.enp,111,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-18,a116c_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-19,a116c_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-20,a116c_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-21,a116c_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-22,a116c_ep.enp,106,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-23,a116c_ep.enp,101,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-24,a116c_ep.enp,96,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-25,a116c_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-26,a116c_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-27,a116c_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-28,a116c_ep.enp,111,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-29,a116c_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-30,a116c_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-31,a116c_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
-0,a116d_ep.enp,111,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-1,a116d_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-2,a116d_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-3,a116d_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-4,a116d_ep.enp,116,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-5,a116d_ep.enp,111,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-6,a116d_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-7,a116d_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
-8,a116d_ep.enp,106,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-9,a116d_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-10,a116d_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-11,a116d_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-12,a116d_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-13,a116d_ep.enp,111,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-14,a116d_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-15,a116d_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-16,a116d_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-17,a116d_ep.enp,111,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-18,a116d_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-19,a116d_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-20,a116d_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-21,a116d_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-22,a116d_ep.enp,106,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-23,a116d_ep.enp,101,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-24,a116d_ep.enp,96,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-25,a116d_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-26,a116d_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-27,a116d_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-28,a116d_ep.enp,111,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-29,a116d_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-30,a116d_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-31,a116d_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
-0,a116e_ep.enp,111,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-1,a116e_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-2,a116e_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-3,a116e_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-4,a116e_ep.enp,116,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-5,a116e_ep.enp,111,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-6,a116e_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-7,a116e_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
-8,a116e_ep.enp,106,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-9,a116e_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-10,a116e_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-11,a116e_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-12,a116e_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-13,a116e_ep.enp,111,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-14,a116e_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-15,a116e_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-16,a116e_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-17,a116e_ep.enp,111,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-18,a116e_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-19,a116e_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-20,a116e_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-21,a116e_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-22,a116e_ep.enp,106,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-23,a116e_ep.enp,101,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-24,a116e_ep.enp,96,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-25,a116e_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-26,a116e_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-27,a116e_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-28,a116e_ep.enp,111,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-29,a116e_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-30,a116e_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-31,a116e_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
-0,a116g_ep.enp,111,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-1,a116g_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-2,a116g_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-3,a116g_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-4,a116g_ep.enp,116,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-5,a116g_ep.enp,111,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-6,a116g_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-7,a116g_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
-8,a116g_ep.enp,106,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-9,a116g_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-10,a116g_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-11,a116g_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-12,a116g_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-13,a116g_ep.enp,111,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-14,a116g_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-15,a116g_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-16,a116g_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-17,a116g_ep.enp,111,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-18,a116g_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-19,a116g_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-20,a116g_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-21,a116g_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-22,a116g_ep.enp,106,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-23,a116g_ep.enp,101,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-24,a116g_ep.enp,96,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-25,a116g_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-26,a116g_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-27,a116g_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-28,a116g_ep.enp,111,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-29,a116g_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-30,a116g_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-31,a116g_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
-0,a116h_ep.enp,111,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-1,a116h_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-2,a116h_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-3,a116h_ep.enp,106,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-4,a116h_ep.enp,116,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-5,a116h_ep.enp,111,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-6,a116h_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-7,a116h_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
-8,a116h_ep.enp,106,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-9,a116h_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-10,a116h_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-11,a116h_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-12,a116h_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-13,a116h_ep.enp,111,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-14,a116h_ep.enp,106,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-15,a116h_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-16,a116h_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-17,a116h_ep.enp,111,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-18,a116h_ep.enp,106,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-19,a116h_ep.enp,106,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-20,a116h_ep.enp,96,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-21,a116h_ep.enp,101,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
-22,a116h_ep.enp,106,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-23,a116h_ep.enp,101,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-24,a116h_ep.enp,96,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-25,a116h_ep.enp,101,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-26,a116h_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-27,a116h_ep.enp,96,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
-28,a116h_ep.enp,111,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-29,a116h_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-30,a116h_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-31,a116h_ep.enp,111,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
+0,a116a_ep.enp,67,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+1,a116a_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+2,a116a_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+3,a116a_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+4,a116a_ep.enp,72,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+5,a116a_ep.enp,67,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+6,a116a_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+7,a116a_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
+8,a116a_ep.enp,62,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+9,a116a_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+10,a116a_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+11,a116a_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+12,a116a_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+13,a116a_ep.enp,67,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+14,a116a_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+15,a116a_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+16,a116a_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+17,a116a_ep.enp,67,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+18,a116a_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+19,a116a_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+20,a116a_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+21,a116a_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+22,a116a_ep.enp,62,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+23,a116a_ep.enp,57,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+24,a116a_ep.enp,52,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+25,a116a_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+26,a116a_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+27,a116a_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+28,a116a_ep.enp,67,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+29,a116a_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+30,a116a_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+31,a116a_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
+0,a116c_ep.enp,67,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+1,a116c_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+2,a116c_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+3,a116c_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+4,a116c_ep.enp,72,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+5,a116c_ep.enp,67,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+6,a116c_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+7,a116c_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
+8,a116c_ep.enp,62,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+9,a116c_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+10,a116c_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+11,a116c_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+12,a116c_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+13,a116c_ep.enp,67,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+14,a116c_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+15,a116c_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+16,a116c_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+17,a116c_ep.enp,67,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+18,a116c_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+19,a116c_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+20,a116c_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+21,a116c_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+22,a116c_ep.enp,62,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+23,a116c_ep.enp,57,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+24,a116c_ep.enp,52,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+25,a116c_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+26,a116c_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+27,a116c_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+28,a116c_ep.enp,67,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+29,a116c_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+30,a116c_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+31,a116c_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
+0,a116d_ep.enp,67,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+1,a116d_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+2,a116d_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+3,a116d_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+4,a116d_ep.enp,72,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+5,a116d_ep.enp,67,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+6,a116d_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+7,a116d_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
+8,a116d_ep.enp,62,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+9,a116d_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+10,a116d_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+11,a116d_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+12,a116d_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+13,a116d_ep.enp,67,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+14,a116d_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+15,a116d_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+16,a116d_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+17,a116d_ep.enp,67,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+18,a116d_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+19,a116d_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+20,a116d_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+21,a116d_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+22,a116d_ep.enp,62,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+23,a116d_ep.enp,57,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+24,a116d_ep.enp,52,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+25,a116d_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+26,a116d_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+27,a116d_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+28,a116d_ep.enp,67,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+29,a116d_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+30,a116d_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+31,a116d_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
+0,a116e_ep.enp,67,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+1,a116e_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+2,a116e_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+3,a116e_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+4,a116e_ep.enp,72,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+5,a116e_ep.enp,67,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+6,a116e_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+7,a116e_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
+8,a116e_ep.enp,62,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+9,a116e_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+10,a116e_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+11,a116e_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+12,a116e_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+13,a116e_ep.enp,67,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+14,a116e_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+15,a116e_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+16,a116e_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+17,a116e_ep.enp,67,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+18,a116e_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+19,a116e_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+20,a116e_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+21,a116e_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+22,a116e_ep.enp,62,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+23,a116e_ep.enp,57,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+24,a116e_ep.enp,52,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+25,a116e_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+26,a116e_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+27,a116e_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+28,a116e_ep.enp,67,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+29,a116e_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+30,a116e_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+31,a116e_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
+0,a116g_ep.enp,67,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+1,a116g_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+2,a116g_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+3,a116g_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+4,a116g_ep.enp,72,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+5,a116g_ep.enp,67,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+6,a116g_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+7,a116g_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
+8,a116g_ep.enp,62,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+9,a116g_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+10,a116g_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+11,a116g_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+12,a116g_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+13,a116g_ep.enp,67,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+14,a116g_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+15,a116g_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+16,a116g_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+17,a116g_ep.enp,67,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+18,a116g_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+19,a116g_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+20,a116g_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+21,a116g_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+22,a116g_ep.enp,62,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+23,a116g_ep.enp,57,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+24,a116g_ep.enp,52,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+25,a116g_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+26,a116g_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+27,a116g_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+28,a116g_ep.enp,67,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+29,a116g_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+30,a116g_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+31,a116g_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
+0,a116h_ep.enp,67,2,99,Kantor,Kantor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+1,a116h_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+2,a116h_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+3,a116h_ep.enp,62,2,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+4,a116h_ep.enp,72,2,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+5,a116h_ep.enp,67,2,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+6,a116h_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+7,a116h_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,255,None,None,255,None,None,255,None,None,255,None,None
+8,a116h_ep.enp,62,2,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+9,a116h_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+10,a116h_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+11,a116h_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+12,a116h_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+13,a116h_ep.enp,67,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+14,a116h_ep.enp,62,2,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+15,a116h_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+16,a116h_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+17,a116h_ep.enp,67,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+18,a116h_ep.enp,62,2,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+19,a116h_ep.enp,62,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+20,a116h_ep.enp,52,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+21,a116h_ep.enp,57,2,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,104,Shock Troop,Veles,104,Shock Troop,Veles,255,None,None,255,None,None,255,None,None,255,None,None
+22,a116h_ep.enp,62,2,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+23,a116h_ep.enp,57,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+24,a116h_ep.enp,52,2,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+25,a116h_ep.enp,57,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+26,a116h_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+27,a116h_ep.enp,52,2,102,Officer,Executor,102,Officer,Executor,103,Mage Warden,Custodiae,103,Mage Warden,Custodiae,255,None,None,255,None,None,255,None,None,255,None,None
+28,a116h_ep.enp,67,2,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+29,a116h_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+30,a116h_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+31,a116h_ep.enp,67,2,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,75,Destroyer,Eversor,255,None,None,255,None,None,255,None,None,255,None,None
 0,a121b_ep.enp,145,3,58,Golooper,Golooper,58,Golooper,Golooper,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
 1,a121b_ep.enp,145,3,58,Golooper,Golooper,58,Golooper,Golooper,58,Golooper,Golooper,58,Golooper,Golooper,255,None,None,255,None,None,255,None,None,255,None,None
 2,a121b_ep.enp,140,3,37,Crylbeast,Crylbeast,37,Crylbeast,Crylbeast,37,Crylbeast,Crylbeast,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
