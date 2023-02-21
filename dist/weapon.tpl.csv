@@ -16,7 +16,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 14,Suiran Blade,False,0,Vyse,25,-1,None,7500,141,90,-1,None,0,0
 15,Soul Sword,False,0,Vyse,25,16,Unconscious by 5%,12300,174,90,-1,None,0,0
 16,Boomerang,True,1,Aika,25,-1,None,70,19,110,-1,None,0,0
-17,Skywing,False,1,Aika,25,-1,None,3700,107,110,-1,None,0,0
+17,Skywing,True,1,Aika,25,-1,None,3700,107,110,-1,None,0,0
 18,Scout Wing,True,1,Aika,25,-1,None,700,53,110,-1,None,0,0
 19,Ice Splitter,False,1,Aika,25,-1,None,7400,142,110,34,Purple,0,-2
 20,Leather Crescent,True,1,Aika,25,-1,None,150,30,110,-1,None,0,0
