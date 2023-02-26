@@ -8,15 +8,15 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 400,*,1,Guard,Praeses,0,Branch,30,Always,800,Go to 800
 500,*,1,Guard,Praeses,0,Branch,25,Rating 50%,700,Go to 700
 600,*,1,Guard,Praeses,1,Action,550,Attack,2,Random PC
-700,*,1,Guard,Praeses,1,Action,79,Sacri Crystal,7,EC w/ Least HP
+700,*,1,Guard,Praeses,1,Action,79,Sacri Crystal,7,EC With Lowest HP
 800,*,1,Guard,Praeses,1,Action,551,Guard,-1,None
 100,epevent.evp,1,Guard,Praeses,0,Branch,42,Used Sacri Crystals ≥ 1,300,Go to 300
 200,epevent.evp,1,Guard,Praeses,0,Branch,39,Any EC HP < 25%,500,Go to 500
 300,epevent.evp,1,Guard,Praeses,0,Branch,29,Rating 90%,600,Go to 600
 400,epevent.evp,1,Guard,Praeses,0,Branch,30,Always,800,Go to 800
 500,epevent.evp,1,Guard,Praeses,0,Branch,25,Rating 50%,700,Go to 700
-600,epevent.evp,1,Guard,Praeses,1,Action,550,Attack,1,Same PC
-700,epevent.evp,1,Guard,Praeses,1,Action,79,Sacri Crystal,7,EC w/ Least HP
+600,epevent.evp,1,Guard,Praeses,1,Action,550,Attack,1,Nearest PC
+700,epevent.evp,1,Guard,Praeses,1,Action,79,Sacri Crystal,7,EC With Lowest HP
 800,epevent.evp,1,Guard,Praeses,1,Action,551,Guard,-1,None
 100,*,2,Seeker,Latro,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,2,Seeker,Latro,0,Branch,30,Always,400,Go to 400
@@ -46,12 +46,12 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 400,*,3,Marocca,Marocca,0,Branch,1,HP < 50%,700,Go to 700
 500,*,3,Marocca,Marocca,0,Branch,28,Rating 80%,700,Go to 700
 600,*,3,Marocca,Marocca,1,Action,551,Guard,-1,None
-700,*,3,Marocca,Marocca,1,Action,550,Attack,1,Same PC
+700,*,3,Marocca,Marocca,1,Action,550,Attack,1,Nearest PC
 800,*,3,Marocca,Marocca,1,Action,552,Run,-1,None
 100,epevent.evp,3,Marocca,Marocca,0,Branch,1,HP < 50%,400,Go to 400
 200,epevent.evp,3,Marocca,Marocca,0,Branch,28,Rating 80%,400,Go to 400
 300,epevent.evp,3,Marocca,Marocca,1,Action,551,Guard,-1,None
-400,epevent.evp,3,Marocca,Marocca,1,Action,550,Attack,3,PC w/ Most HP
+400,epevent.evp,3,Marocca,Marocca,1,Action,550,Attack,3,PC With Highest HP
 100,*,4,Grouder,Grouder,0,Branch,16,Has Silence?,600,Go to 600
 200,*,4,Grouder,Grouder,0,Branch,34,Used Attack Spells ≥ 2,400,Go to 400
 300,*,4,Grouder,Grouder,0,Branch,22,Rating 20%,1100,Go to 1100
@@ -61,7 +61,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 700,*,4,Grouder,Grouder,0,Branch,22,Rating 20%,900,Go to 900
 800,*,4,Grouder,Grouder,1,Action,550,Attack,2,Random PC
 900,*,4,Grouder,Grouder,1,Action,551,Guard,-1,None
-1000,*,4,Grouder,Grouder,1,Action,503,Panika,14,PC w/o Confusion
+1000,*,4,Grouder,Grouder,1,Action,503,Panika,14,PC W/O Confusion
 1100,*,4,Grouder,Grouder,1,Action,520,Wevli,2,Random PC
 1200,*,4,Grouder,Grouder,1,Action,57,Eerie Wail,2,Random PC
 100,*,5,Enforcer,Enforca,0,Branch,17,ECs Alive = 1,3000,Go to 3000
@@ -139,13 +139,13 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 3200,*,7,Spell Warden,Venificus,0,Branch,24,Rating 40%,3700,Go to 3700
 3300,*,7,Spell Warden,Venificus,0,Branch,25,Rating 50%,4100,Go to 4100
 3400,*,7,Spell Warden,Venificus,0,Branch,30,Always,3600,Go to 3600
-3500,*,7,Spell Warden,Venificus,1,Action,550,Attack,1,Same PC
+3500,*,7,Spell Warden,Venificus,1,Action,550,Attack,1,Nearest PC
 3600,*,7,Spell Warden,Venificus,1,Action,551,Guard,-1,None
 3700,*,7,Spell Warden,Venificus,1,Action,37,Focus,-1,None
 3800,*,7,Spell Warden,Venificus,1,Action,500,Increm,22,Self
-3900,*,7,Spell Warden,Venificus,1,Action,500,Increm,8,EC w/ Largest ID
-4000,*,7,Spell Warden,Venificus,1,Action,506,Sacri,7,EC w/ Least HP
-4100,*,7,Spell Warden,Venificus,1,Action,506,Sacri,8,EC w/ Largest ID
+3900,*,7,Spell Warden,Venificus,1,Action,500,Increm,8,EC With Highest Attack
+4000,*,7,Spell Warden,Venificus,1,Action,506,Sacri,7,EC With Lowest HP
+4100,*,7,Spell Warden,Venificus,1,Action,506,Sacri,8,EC With Highest Attack
 4200,*,7,Spell Warden,Venificus,1,Action,506,Sacri,22,Self
 4300,*,7,Spell Warden,Venificus,1,Action,526,Crystali,2,Random PC
 100,*,8,Flestik,Flestik,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -161,7 +161,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,8,Flestik,Flestik,0,Branch,30,Always,1600,Go to 1600
 1200,*,8,Flestik,Flestik,0,Branch,24,Rating 40%,1600,Go to 1600
 1300,*,8,Flestik,Flestik,0,Branch,30,Always,900,Go to 900
-1400,*,8,Flestik,Flestik,1,Action,550,Attack,1,Same PC
+1400,*,8,Flestik,Flestik,1,Action,550,Attack,1,Nearest PC
 1500,*,8,Flestik,Flestik,1,Action,551,Guard,-1,None
 1600,*,8,Flestik,Flestik,1,Action,552,Run,-1,None
 100,*,9,Basallish,Basallish,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -177,11 +177,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,9,Basallish,Basallish,0,Branch,30,Always,1600,Go to 1600
 1200,*,9,Basallish,Basallish,0,Branch,25,Rating 50%,1600,Go to 1600
 1300,*,9,Basallish,Basallish,0,Branch,30,Always,900,Go to 900
-1400,*,9,Basallish,Basallish,1,Action,550,Attack,1,Same PC
+1400,*,9,Basallish,Basallish,1,Action,550,Attack,1,Nearest PC
 1500,*,9,Basallish,Basallish,1,Action,551,Guard,-1,None
 1600,*,9,Basallish,Basallish,1,Action,552,Run,-1,None
 100,*,10,Mind Stealer,Dementis,0,Branch,21,Rating 10%,300,Go to 300
-200,*,10,Mind Stealer,Dementis,1,Action,550,Attack,1,Same PC
+200,*,10,Mind Stealer,Dementis,1,Action,550,Attack,1,Nearest PC
 300,*,10,Mind Stealer,Dementis,1,Action,551,Guard,-1,None
 100,*,11,Walrenk,Walrenk,0,Branch,16,Has Silence?,600,Go to 600
 200,*,11,Walrenk,Walrenk,0,Branch,34,Used Attack Spells ≥ 2,400,Go to 400
@@ -191,7 +191,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 600,*,11,Walrenk,Walrenk,0,Branch,21,Rating 10%,800,Go to 800
 700,*,11,Walrenk,Walrenk,1,Action,550,Attack,2,Random PC
 800,*,11,Walrenk,Walrenk,1,Action,551,Guard,-1,None
-900,*,11,Walrenk,Walrenk,1,Action,503,Panika,14,PC w/o Confusion
+900,*,11,Walrenk,Walrenk,1,Action,503,Panika,14,PC W/O Confusion
 1000,*,11,Walrenk,Walrenk,1,Action,527,Crystales,2,Random PC
 100,*,12,Varkris,Varkris,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,12,Varkris,Varkris,0,Branch,30,Always,400,Go to 400
@@ -258,7 +258,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1200,*,14,Zivilyn Bane,Zivilyn Bane,0,Branch,25,Rating 50%,1700,Go to 1700
 1300,*,14,Zivilyn Bane,Zivilyn Bane,0,Branch,28,Rating 80%,1500,Go to 1500
 1400,*,14,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1600,Go to 1600
-1500,*,14,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
+1500,*,14,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1600,*,14,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 1700,*,14,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
 100,*,15,Ghastling,Ghastling,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -267,15 +267,15 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 400,*,15,Ghastling,Ghastling,0,Branch,0,HP = 100%,700,Go to 700
 500,*,15,Ghastling,Ghastling,0,Branch,46,Used HP Absorbs ≥ 1,700,Go to 700
 600,*,15,Ghastling,Ghastling,0,Branch,29,Rating 90%,1500,Go to 1500
-700,*,15,Ghastling,Ghastling,0,Branch,9,Any PC Distance >= 3,1100,Go to 1100
+700,*,15,Ghastling,Ghastling,0,Branch,9,Any PC Distance ≥ 3,1100,Go to 1100
 800,*,15,Ghastling,Ghastling,0,Branch,27,Rating 70%,1400,Go to 1400
 900,*,15,Ghastling,Ghastling,0,Branch,28,Rating 80%,1600,Go to 1600
 1000,*,15,Ghastling,Ghastling,0,Branch,30,Always,1700,Go to 1700
 1100,*,15,Ghastling,Ghastling,0,Branch,27,Rating 70%,1400,Go to 1400
 1200,*,15,Ghastling,Ghastling,0,Branch,28,Rating 80%,1500,Go to 1500
 1300,*,15,Ghastling,Ghastling,0,Branch,30,Always,1700,Go to 1700
-1400,*,15,Ghastling,Ghastling,1,Action,550,Attack,1,Same PC
-1500,*,15,Ghastling,Ghastling,1,Action,210,HP Absorb,3,PC w/ Most HP
+1400,*,15,Ghastling,Ghastling,1,Action,550,Attack,1,Nearest PC
+1500,*,15,Ghastling,Ghastling,1,Action,210,HP Absorb,3,PC With Highest HP
 1600,*,15,Ghastling,Ghastling,1,Action,552,Run,-1,None
 1700,*,15,Ghastling,Ghastling,1,Action,551,Guard,-1,None
 100,*,16,Florast,Florast,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
@@ -294,7 +294,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,16,Florast,Florast,0,Branch,30,Always,2000,Go to 2000
 1500,*,16,Florast,Florast,1,Action,550,Attack,2,Random PC
 1600,*,16,Florast,Florast,1,Action,552,Run,-1,None
-1700,*,16,Florast,Florast,1,Action,504,Driln,17,PC w/o Weak
+1700,*,16,Florast,Florast,1,Action,504,Driln,17,PC W/O Weak
 1800,*,16,Florast,Florast,1,Action,511,Noxus,-1,None
 1900,*,16,Florast,Florast,1,Action,100,Magic?,-1,None
 2000,*,16,Florast,Florast,1,Action,551,Guard,-1,None
@@ -311,7 +311,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,17,Tsirat,Tsirat,0,Branch,21,Rating 10%,1600,Go to 1600
 1200,*,17,Tsirat,Tsirat,1,Action,550,Attack,2,Random PC
 1300,*,17,Tsirat,Tsirat,1,Action,552,Run,-1,None
-1400,*,17,Tsirat,Tsirat,1,Action,211,HP Absorb,3,PC w/ Most HP
+1400,*,17,Tsirat,Tsirat,1,Action,211,HP Absorb,3,PC With Highest HP
 1500,*,17,Tsirat,Tsirat,1,Action,532,Electri,2,Random PC
 1600,*,17,Tsirat,Tsirat,1,Action,551,Guard,-1,None
 100,*,18,Thorkryn,Thorkryn,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -353,7 +353,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,20,Centralk,Centralk,0,Branch,30,Always,1600,Go to 1600
 1200,*,20,Centralk,Centralk,0,Branch,24,Rating 40%,1600,Go to 1600
 1300,*,20,Centralk,Centralk,0,Branch,30,Always,900,Go to 900
-1400,*,20,Centralk,Centralk,1,Action,550,Attack,1,Same PC
+1400,*,20,Centralk,Centralk,1,Action,550,Attack,1,Nearest PC
 1500,*,20,Centralk,Centralk,1,Action,551,Guard,-1,None
 1600,*,20,Centralk,Centralk,1,Action,552,Run,-1,None
 100,*,21,Feralisk,Feralisk,0,Branch,16,Has Silence?,1000,Go to 1000
@@ -372,7 +372,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,21,Feralisk,Feralisk,1,Action,550,Attack,2,Random PC
 1500,*,21,Feralisk,Feralisk,1,Action,551,Guard,-1,None
 1600,*,21,Feralisk,Feralisk,1,Action,501,Incremus,-1,None
-1700,*,21,Feralisk,Feralisk,1,Action,510,Noxi,16,PC w/o Sleep
+1700,*,21,Feralisk,Feralisk,1,Action,510,Noxi,16,PC W/O Sleep
 1800,*,21,Feralisk,Feralisk,1,Action,88,Call Allies,-1,None
 1900,*,21,Feralisk,Feralisk,1,Action,115,Call Allies,-1,None
 100,*,22,Ferlith,Ferlith,0,Branch,16,Has Silence?,1000,Go to 1000
@@ -391,7 +391,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,22,Ferlith,Ferlith,1,Action,550,Attack,2,Random PC
 1500,*,22,Ferlith,Ferlith,1,Action,551,Guard,-1,None
 1600,*,22,Ferlith,Ferlith,1,Action,501,Incremus,-1,None
-1700,*,22,Ferlith,Ferlith,1,Action,510,Noxi,16,PC w/o Sleep
+1700,*,22,Ferlith,Ferlith,1,Action,510,Noxi,16,PC W/O Sleep
 1800,*,22,Ferlith,Ferlith,1,Action,89,Call Allies,-1,None
 1900,*,22,Ferlith,Ferlith,1,Action,115,Call Allies,-1,None
 100,*,23,Crylhound,Crylhound,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -430,7 +430,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2100,*,24,Magma Tiki,Magma Tiki,0,Branch,1,HP < 50%,2500,Go to 2500
 2200,*,24,Magma Tiki,Magma Tiki,0,Branch,24,Rating 40%,2500,Go to 2500
 2300,*,24,Magma Tiki,Magma Tiki,0,Branch,21,Rating 10%,2700,Go to 2700
-2400,*,24,Magma Tiki,Magma Tiki,1,Action,550,Attack,1,Same PC
+2400,*,24,Magma Tiki,Magma Tiki,1,Action,550,Attack,1,Nearest PC
 2500,*,24,Magma Tiki,Magma Tiki,1,Action,47,Tremble,-1,None
 2600,*,24,Magma Tiki,Magma Tiki,1,Action,180,Lava Storm,-1,None
 2700,*,24,Magma Tiki,Magma Tiki,1,Action,551,Guard,-1,None
@@ -461,7 +461,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,26,Baroo,Baroo,0,Branch,30,Always,1600,Go to 1600
 1200,*,26,Baroo,Baroo,0,Branch,25,Rating 50%,1600,Go to 1600
 1300,*,26,Baroo,Baroo,0,Branch,30,Always,900,Go to 900
-1400,*,26,Baroo,Baroo,1,Action,550,Attack,1,Same PC
+1400,*,26,Baroo,Baroo,1,Action,550,Attack,1,Nearest PC
 1500,*,26,Baroo,Baroo,1,Action,551,Guard,-1,None
 1600,*,26,Baroo,Baroo,1,Action,552,Run,-1,None
 100,*,27,Dung Fly,Oestrus,0,Branch,65,PCs Alive = 4,500,Go to 500
@@ -487,7 +487,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2100,*,27,Dung Fly,Oestrus,0,Branch,25,Rating 50%,2700,Go to 2700
 2200,*,27,Dung Fly,Oestrus,0,Branch,30,Always,2800,Go to 2800
 2300,*,27,Dung Fly,Oestrus,1,Action,550,Attack,2,Random PC
-2400,*,27,Dung Fly,Oestrus,1,Action,504,Driln,17,PC w/o Weak
+2400,*,27,Dung Fly,Oestrus,1,Action,504,Driln,17,PC W/O Weak
 2500,*,27,Dung Fly,Oestrus,1,Action,512,Slipara,-1,None
 2600,*,27,Dung Fly,Oestrus,1,Action,28,Call Allies,-1,None
 2700,*,27,Dung Fly,Oestrus,1,Action,110,Call Allies,-1,None
@@ -496,8 +496,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 100,*,28,Death's Head,Deatth,0,Branch,26,Rating 60%,400,Go to 400
 200,*,28,Death's Head,Deatth,0,Branch,28,Rating 80%,500,Go to 500
 300,*,28,Death's Head,Deatth,0,Branch,30,Always,600,Go to 600
-400,*,28,Death's Head,Deatth,1,Action,550,Attack,1,Same PC
-500,*,28,Death's Head,Deatth,1,Action,15,Stone Breath,13,PC w/o Stone
+400,*,28,Death's Head,Deatth,1,Action,550,Attack,1,Nearest PC
+500,*,28,Death's Head,Deatth,1,Action,15,Stone Breath,13,PC W/O Stone
 600,*,28,Death's Head,Deatth,1,Action,551,Guard,-1,None
 100,*,29,Looper,Looper,0,Branch,1,HP < 50%,1000,Go to 1000
 200,*,29,Looper,Looper,0,Branch,25,Rating 50%,1000,Go to 1000
@@ -524,7 +524,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,30,Loopalon,Loopalon,1,Action,550,Attack,2,Random PC
 1200,*,30,Loopalon,Loopalon,1,Action,551,Guard,-1,None
 1300,*,30,Loopalon,Loopalon,1,Action,552,Run,-1,None
-1400,*,30,Loopalon,Loopalon,1,Action,500,Increm,11,EC w/o Strengthen
+1400,*,30,Loopalon,Loopalon,1,Action,500,Increm,11,EC W/O Strengthen
 1500,*,30,Loopalon,Loopalon,1,Action,100,Magic?,-1,None
 100,*,31,Tsurak,Tsurak,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,31,Tsurak,Tsurak,0,Branch,30,Always,400,Go to 400
@@ -576,7 +576,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 600,*,33,Serpantis,Serpantis,0,Branch,30,Always,1000,Go to 1000
 700,*,33,Serpantis,Serpantis,1,Action,550,Attack,2,Random PC
 800,*,33,Serpantis,Serpantis,1,Action,524,Pyres,-1,None
-900,*,33,Serpantis,Serpantis,1,Action,40,Terrible Bite,1,Same PC
+900,*,33,Serpantis,Serpantis,1,Action,40,Terrible Bite,1,Nearest PC
 1000,*,33,Serpantis,Serpantis,1,Action,551,Guard,-1,None
 100,*,34,Dralnog,Dralnog,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,34,Dralnog,Dralnog,0,Branch,30,Always,400,Go to 400
@@ -623,7 +623,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1000,*,35,Que'lak,Que'lak,0,Branch,23,Rating 30%,1200,Go to 1200
 1100,*,35,Que'lak,Que'lak,1,Action,550,Attack,2,Random PC
 1200,*,35,Que'lak,Que'lak,1,Action,524,Pyres,-1,None
-1300,*,35,Que'lak,Que'lak,1,Action,506,Sacri,7,EC w/ Least HP
+1300,*,35,Que'lak,Que'lak,1,Action,506,Sacri,7,EC With Lowest HP
 1400,*,35,Que'lak,Que'lak,1,Action,551,Guard,-1,None
 1500,*,35,Que'lak,Que'lak,1,Action,552,Run,-1,None
 100,*,36,Pinalisk,Pinalisk,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -663,7 +663,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1000,*,38,Slothstra,Slothstra,1,Action,41,Deep Sleep,22,Self
 1100,*,38,Slothstra,Slothstra,1,Action,551,Guard,-1,None
 100,*,39,Polraxis,Polraxis,0,Branch,21,Rating 10%,300,Go to 300
-200,*,39,Polraxis,Polraxis,1,Action,550,Attack,1,Same PC
+200,*,39,Polraxis,Polraxis,1,Action,550,Attack,1,Nearest PC
 300,*,39,Polraxis,Polraxis,1,Action,551,Guard,-1,None
 100,*,40,Roseln,Roseln,0,Branch,50,Used S-Move?,500,Go to 500
 200,*,40,Roseln,Roseln,0,Branch,25,Rating 50%,700,Go to 700
@@ -686,7 +686,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 900,*,41,Elooper,Elooper,1,Action,550,Attack,2,Random PC
 1000,*,41,Elooper,Elooper,1,Action,551,Guard,-1,None
 1100,*,41,Elooper,Elooper,1,Action,552,Run,-1,None
-1200,*,41,Elooper,Elooper,1,Action,507,Sacres,7,EC w/ Least HP
+1200,*,41,Elooper,Elooper,1,Action,507,Sacres,7,EC With Lowest HP
 1300,*,41,Elooper,Elooper,1,Action,100,Magic?,-1,None
 100,*,42,Grapor,Grapor,0,Branch,23,Rating 30%,600,Go to 600
 200,*,42,Grapor,Grapor,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,400,Go to 400
@@ -748,7 +748,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,45,Flyst,Flyst,0,Branch,30,Always,2000,Go to 2000
 1500,*,45,Flyst,Flyst,1,Action,550,Attack,2,Random PC
 1600,*,45,Flyst,Flyst,1,Action,552,Run,-1,None
-1700,*,45,Flyst,Flyst,1,Action,504,Driln,17,PC w/o Weak
+1700,*,45,Flyst,Flyst,1,Action,504,Driln,17,PC W/O Weak
 1800,*,45,Flyst,Flyst,1,Action,511,Noxus,-1,None
 1900,*,45,Flyst,Flyst,1,Action,100,Magic?,-1,None
 2000,*,45,Flyst,Flyst,1,Action,551,Guard,-1,None
@@ -788,7 +788,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,47,Lucich,Lucich,1,Action,550,Attack,2,Random PC
 1800,*,47,Lucich,Lucich,1,Action,552,Run,-1,None
 1900,*,47,Lucich,Lucich,1,Action,270,Self-destruct,-1,None
-2000,*,47,Lucich,Lucich,1,Action,517,Eterni,1,Same PC
+2000,*,47,Lucich,Lucich,1,Action,517,Eterni,1,Nearest PC
 2100,*,47,Lucich,Lucich,1,Action,100,Magic?,-1,None
 100,*,48,Digger,Digger,0,Branch,11,Turn 1,600,Go to 600
 200,*,48,Digger,Digger,0,Branch,24,Rating 40%,1000,Go to 1000
@@ -801,7 +801,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 900,*,48,Digger,Digger,0,Branch,30,Always,1300,Go to 1300
 1000,*,48,Digger,Digger,1,Action,550,Attack,2,Random PC
 1100,*,48,Digger,Digger,1,Action,551,Guard,-1,None
-1200,*,48,Digger,Digger,1,Action,162,Fatigue Gas,18,PC w/o Fatigue
+1200,*,48,Digger,Digger,1,Action,162,Fatigue Gas,18,PC W/O Fatigue
 1300,*,48,Digger,Digger,1,Action,220,Rapid Fire,2,Random PC
 100,*,49,Flat Fiend,Fiendo,0,Branch,11,Turn 1,600,Go to 600
 200,*,49,Flat Fiend,Fiendo,0,Branch,12,Turn 2,900,Go to 900
@@ -815,7 +815,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1000,*,49,Flat Fiend,Fiendo,0,Branch,30,Always,1300,Go to 1300
 1100,*,49,Flat Fiend,Fiendo,1,Action,550,Attack,2,Random PC
 1200,*,49,Flat Fiend,Fiendo,1,Action,551,Guard,-1,None
-1300,*,49,Flat Fiend,Fiendo,1,Action,507,Sacres,7,EC w/ Least HP
+1300,*,49,Flat Fiend,Fiendo,1,Action,507,Sacres,7,EC With Lowest HP
 1400,*,49,Flat Fiend,Fiendo,1,Action,513,Quika,-1,None
 1500,*,49,Flat Fiend,Fiendo,1,Action,100,Magic?,-1,None
 100,*,50,Burocca,Burocca,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -824,7 +824,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 400,*,50,Burocca,Burocca,0,Branch,1,HP < 50%,700,Go to 700
 500,*,50,Burocca,Burocca,0,Branch,28,Rating 80%,700,Go to 700
 600,*,50,Burocca,Burocca,1,Action,551,Guard,-1,None
-700,*,50,Burocca,Burocca,1,Action,550,Attack,1,Same PC
+700,*,50,Burocca,Burocca,1,Action,550,Attack,1,Nearest PC
 800,*,50,Burocca,Burocca,1,Action,552,Run,-1,None
 100,*,51,Drogerp,Drogerp,0,Branch,33,Used Attack Spells ≥ 1,300,Go to 300
 200,*,51,Drogerp,Drogerp,0,Branch,22,Rating 20%,1000,Go to 1000
@@ -834,7 +834,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 600,*,51,Drogerp,Drogerp,0,Branch,22,Rating 20%,800,Go to 800
 700,*,51,Drogerp,Drogerp,1,Action,550,Attack,2,Random PC
 800,*,51,Drogerp,Drogerp,1,Action,551,Guard,-1,None
-900,*,51,Drogerp,Drogerp,1,Action,503,Panika,14,PC w/o Confusion
+900,*,51,Drogerp,Drogerp,1,Action,503,Panika,14,PC W/O Confusion
 1000,*,51,Drogerp,Drogerp,1,Action,521,Wevles,2,Random PC
 1100,*,51,Drogerp,Drogerp,1,Action,57,Eerie Wail,2,Random PC
 100,*,52,Nadnarb,Nadnarb,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -854,8 +854,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1500,*,52,Nadnarb,Nadnarb,1,Action,550,Attack,2,Random PC
 1600,*,52,Nadnarb,Nadnarb,1,Action,551,Guard,-1,None
 1700,*,52,Nadnarb,Nadnarb,1,Action,552,Run,-1,None
-1800,*,52,Nadnarb,Nadnarb,1,Action,500,Increm,11,EC w/o Strengthen
-1900,*,52,Nadnarb,Nadnarb,1,Action,52,Stone Ooze,13,PC w/o Stone
+1800,*,52,Nadnarb,Nadnarb,1,Action,500,Increm,11,EC W/O Strengthen
+1900,*,52,Nadnarb,Nadnarb,1,Action,52,Stone Ooze,13,PC W/O Stone
 100,*,53,Nairad,Nairad,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,53,Nairad,Nairad,0,Branch,30,Always,400,Go to 400
 300,*,53,Nairad,Nairad,0,Branch,28,Rating 80%,1700,Go to 1700
@@ -874,7 +874,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1600,*,53,Nairad,Nairad,1,Action,551,Guard,-1,None
 1700,*,53,Nairad,Nairad,1,Action,552,Run,-1,None
 1800,*,53,Nairad,Nairad,1,Action,501,Incremus,-1,None
-1900,*,53,Nairad,Nairad,1,Action,52,Stone Ooze,13,PC w/o Stone
+1900,*,53,Nairad,Nairad,1,Action,52,Stone Ooze,13,PC W/O Stone
 100,*,54,Kanezl,Kanezl,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,54,Kanezl,Kanezl,0,Branch,30,Always,400,Go to 400
 300,*,54,Kanezl,Kanezl,0,Branch,30,Always,2400,Go to 2400
@@ -911,7 +911,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 500,*,55,Mantoid,Mantoid,0,Branch,30,Always,900,Go to 900
 600,*,55,Mantoid,Mantoid,1,Action,550,Attack,2,Random PC
 700,*,55,Mantoid,Mantoid,1,Action,525,Pyrum,-1,None
-800,*,55,Mantoid,Mantoid,1,Action,40,Terrible Bite,1,Same PC
+800,*,55,Mantoid,Mantoid,1,Action,40,Terrible Bite,1,Nearest PC
 900,*,55,Mantoid,Mantoid,1,Action,551,Guard,-1,None
 100,*,56,Sorcerer,Sorcerer,0,Branch,51,Used Focus?,1800,Go to 1800
 200,*,56,Sorcerer,Sorcerer,0,Branch,11,Turn 1,500,Go to 500
@@ -932,10 +932,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,56,Sorcerer,Sorcerer,0,Branch,30,Always,700,Go to 700
 1800,*,56,Sorcerer,Sorcerer,0,Branch,26,Rating 60%,2400,Go to 2400
 1900,*,56,Sorcerer,Sorcerer,0,Branch,30,Always,700,Go to 700
-2000,*,56,Sorcerer,Sorcerer,1,Action,550,Attack,1,Same PC
+2000,*,56,Sorcerer,Sorcerer,1,Action,550,Attack,1,Nearest PC
 2100,*,56,Sorcerer,Sorcerer,1,Action,551,Guard,-1,None
-2200,*,56,Sorcerer,Sorcerer,1,Action,502,Sylenis,15,PC w/o Silence
-2300,*,56,Sorcerer,Sorcerer,1,Action,507,Sacres,7,EC w/ Least HP
+2200,*,56,Sorcerer,Sorcerer,1,Action,502,Sylenis,15,PC W/O Silence
+2300,*,56,Sorcerer,Sorcerer,1,Action,507,Sacres,7,EC With Lowest HP
 2400,*,56,Sorcerer,Sorcerer,1,Action,518,Eternes,2,Random PC
 2500,*,56,Sorcerer,Sorcerer,1,Action,529,Crystalen,2,Random PC
 2600,*,56,Sorcerer,Sorcerer,1,Action,535,Electrulen,2,Random PC
@@ -970,9 +970,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 400,*,59,Alusphere,Alusphere,0,Branch,22,Rating 20%,900,Go to 900
 500,*,59,Alusphere,Alusphere,0,Branch,22,Rating 20%,900,Go to 900
 600,*,59,Alusphere,Alusphere,0,Branch,21,Rating 10%,800,Go to 800
-700,*,59,Alusphere,Alusphere,1,Action,550,Attack,13,PC w/o Stone
+700,*,59,Alusphere,Alusphere,1,Action,550,Attack,13,PC W/O Stone
 800,*,59,Alusphere,Alusphere,1,Action,551,Guard,-1,None
-900,*,59,Alusphere,Alusphere,1,Action,44,Drain,17,PC w/o Weak
+900,*,59,Alusphere,Alusphere,1,Action,44,Drain,17,PC W/O Weak
 100,*,60,Soldier,Mereo,0,Branch,23,Rating 30%,600,Go to 600
 200,*,60,Soldier,Mereo,0,Branch,23,Rating 30%,500,Go to 500
 300,*,60,Soldier,Mereo,0,Branch,21,Rating 10%,700,Go to 700
@@ -998,7 +998,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1600,*,61,Delzool,Delzool,1,Action,550,Attack,2,Random PC
 1700,*,61,Delzool,Delzool,1,Action,552,Run,-1,None
 1800,*,61,Delzool,Delzool,1,Action,270,Self-destruct,-1,None
-1900,*,61,Delzool,Delzool,1,Action,518,Eternes,1,Same PC
+1900,*,61,Delzool,Delzool,1,Action,518,Eternes,1,Nearest PC
 2000,*,61,Delzool,Delzool,1,Action,100,Magic?,-1,None
 100,*,62,Defender,Defensor,0,Branch,5,Got Hit by Spell?,1200,Go to 1200
 200,*,62,Defender,Defensor,0,Branch,38,Any EC HP < 50%,800,Go to 800
@@ -1015,7 +1015,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1300,*,62,Defender,Defensor,0,Branch,25,Rating 50%,1700,Go to 1700
 1400,*,62,Defender,Defensor,0,Branch,30,Always,1800,Go to 1800
 1500,*,62,Defender,Defensor,1,Action,550,Attack,2,Random PC
-1600,*,62,Defender,Defensor,1,Action,509,Sacrulen,7,EC w/ Least HP
+1600,*,62,Defender,Defensor,1,Action,509,Sacrulen,7,EC With Lowest HP
 1700,*,62,Defender,Defensor,1,Action,534,Electrum,2,Random PC
 1800,*,62,Defender,Defensor,1,Action,19,Counter Stance,-1,None
 1900,*,62,Defender,Defensor,1,Action,551,Guard,-1,None
@@ -1037,7 +1037,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1600,*,63,Ghrost,Ghrost,1,Action,550,Attack,2,Random PC
 1700,*,63,Ghrost,Ghrost,1,Action,552,Run,-1,None
 1800,*,63,Ghrost,Ghrost,1,Action,551,Guard,-1,None
-1900,*,63,Ghrost,Ghrost,1,Action,210,HP Absorb,3,PC w/ Most HP
+1900,*,63,Ghrost,Ghrost,1,Action,210,HP Absorb,3,PC With Highest HP
 2000,*,63,Ghrost,Ghrost,1,Action,519,Eternum,2,Random PC
 2100,*,63,Ghrost,Ghrost,1,Action,511,Noxus,-1,None
 2200,*,63,Ghrost,Ghrost,1,Action,100,Magic?,-1,None
@@ -1068,7 +1068,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2500,*,64,Graver,Graver,1,Action,550,Attack,2,Random PC
 2600,*,64,Graver,Graver,1,Action,551,Guard,-1,None
 2700,*,64,Graver,Graver,1,Action,552,Run,-1,None
-2800,*,64,Graver,Graver,1,Action,210,HP Absorb,3,PC w/ Most HP
+2800,*,64,Graver,Graver,1,Action,210,HP Absorb,3,PC With Highest HP
 2900,*,64,Graver,Graver,1,Action,510,Noxi,2,Random PC
 3000,*,64,Graver,Graver,1,Action,100,Magic?,-1,None
 100,*,65,Shrilp,Shrilp,0,Branch,36,Used State Spells ≥ 2,700,Go to 700
@@ -1088,7 +1088,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1500,*,65,Shrilp,Shrilp,1,Action,550,Attack,2,Random PC
 1600,*,65,Shrilp,Shrilp,1,Action,551,Guard,-1,None
 1700,*,65,Shrilp,Shrilp,1,Action,505,Drilnos,-1,None
-1800,*,65,Shrilp,Shrilp,1,Action,212,HP Absorb,3,PC w/ Most HP
+1800,*,65,Shrilp,Shrilp,1,Action,212,HP Absorb,3,PC With Highest HP
 100,*,66,Cerosik,Cerosik,0,Branch,33,Used Attack Spells ≥ 1,300,Go to 300
 200,*,66,Cerosik,Cerosik,0,Branch,22,Rating 20%,900,Go to 900
 300,*,66,Cerosik,Cerosik,0,Branch,35,Used State Spells ≥ 1,500,Go to 500
@@ -1096,7 +1096,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 500,*,66,Cerosik,Cerosik,0,Branch,21,Rating 10%,700,Go to 700
 600,*,66,Cerosik,Cerosik,1,Action,550,Attack,2,Random PC
 700,*,66,Cerosik,Cerosik,1,Action,551,Guard,-1,None
-800,*,66,Cerosik,Cerosik,1,Action,503,Panika,14,PC w/o Confusion
+800,*,66,Cerosik,Cerosik,1,Action,503,Panika,14,PC W/O Confusion
 900,*,66,Cerosik,Cerosik,1,Action,528,Crystalum,2,Random PC
 100,*,67,Carnilak,Carnilak,0,Branch,50,Used S-Move?,500,Go to 500
 200,*,67,Carnilak,Carnilak,0,Branch,25,Rating 50%,700,Go to 700
@@ -1136,9 +1136,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,71,Tenkou,Tenkou,0,Branch,30,Always,1300,Go to 1300
 1200,*,71,Tenkou,Tenkou,1,Action,550,Attack,2,Random PC
 1300,*,71,Tenkou,Tenkou,1,Action,551,Guard,-1,None
-1400,*,71,Tenkou,Tenkou,1,Action,116,Power Potion,11,EC w/o Strengthen
+1400,*,71,Tenkou,Tenkou,1,Action,116,Power Potion,11,EC W/O Strengthen
 1500,*,71,Tenkou,Tenkou,1,Action,117,Speed Potion,-1,None
-1600,*,71,Tenkou,Tenkou,1,Action,118,Sacres Crystal,7,EC w/ Least HP
+1600,*,71,Tenkou,Tenkou,1,Action,118,Sacres Crystal,7,EC With Lowest HP
 100,*,72,Patrol Guard,Custos,0,Branch,11,Turn 1,300,Go to 300
 200,*,72,Patrol Guard,Custos,0,Branch,30,Always,400,Go to 400
 300,*,72,Patrol Guard,Custos,0,Branch,23,Rating 30%,1400,Go to 1400
@@ -1154,7 +1154,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1300,*,72,Patrol Guard,Custos,1,Action,551,Guard,-1,None
 1400,*,72,Patrol Guard,Custos,1,Action,513,Quika,-1,None
 1500,*,72,Patrol Guard,Custos,1,Action,532,Electri,2,Random PC
-1600,*,72,Patrol Guard,Custos,1,Action,79,Sacri Crystal,7,EC w/ Least HP
+1600,*,72,Patrol Guard,Custos,1,Action,79,Sacri Crystal,7,EC With Lowest HP
 100,*,73,Mine Patrol,Fossor,0,Branch,11,Turn 1,400,Go to 400
 200,*,73,Mine Patrol,Fossor,0,Branch,12,Turn 2,600,Go to 600
 300,*,73,Mine Patrol,Fossor,0,Branch,30,Always,700,Go to 700
@@ -1188,7 +1188,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1600,epevent.evp,73,Mine Patrol,Fossor,1,Action,513,Quika,-1,None
 1700,epevent.evp,73,Mine Patrol,Fossor,1,Action,527,Crystales,2,Random PC
 1800,epevent.evp,73,Mine Patrol,Fossor,1,Action,79,Sacri Crystal,22,Self
-1900,epevent.evp,73,Mine Patrol,Fossor,1,Action,79,Sacri Crystal,7,EC w/ Least HP
+1900,epevent.evp,73,Mine Patrol,Fossor,1,Action,79,Sacri Crystal,7,EC With Lowest HP
 100,*,74,Forst Worm,Gelu Vermis,0,Branch,1,HP < 50%,700,Go to 700
 200,*,74,Forst Worm,Gelu Vermis,0,Branch,23,Rating 30%,1200,Go to 1200
 300,*,74,Forst Worm,Gelu Vermis,0,Branch,22,Rating 20%,1300,Go to 1300
@@ -1202,7 +1202,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,74,Forst Worm,Gelu Vermis,0,Branch,30,Always,1600,Go to 1600
 1200,*,74,Forst Worm,Gelu Vermis,1,Action,550,Attack,2,Random PC
 1300,*,74,Forst Worm,Gelu Vermis,1,Action,551,Guard,-1,None
-1400,*,74,Forst Worm,Gelu Vermis,1,Action,503,Panika,14,PC w/o Confusion
+1400,*,74,Forst Worm,Gelu Vermis,1,Action,503,Panika,14,PC W/O Confusion
 1500,*,74,Forst Worm,Gelu Vermis,1,Action,529,Crystalen,2,Random PC
 1600,*,74,Forst Worm,Gelu Vermis,1,Action,38,Eternal Freeze,-1,None
 100,*,75,Destroyer,Eversor,0,Branch,11,Turn 1,900,Go to 900
@@ -1236,7 +1236,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,77,Guardian,Susceptor,1,Action,550,Attack,2,Random PC
 1200,*,77,Guardian,Susceptor,1,Action,9,Target Search,-1,None
 1300,*,77,Guardian,Susceptor,1,Action,99,Blaster,2,Random PC
-1400,*,77,Guardian,Susceptor,1,Action,32,Crypt Laser,13,PC w/o Stone
+1400,*,77,Guardian,Susceptor,1,Action,32,Crypt Laser,13,PC W/O Stone
 1500,*,77,Guardian,Susceptor,1,Action,551,Guard,-1,None
 100,*,78,Telsor,Telsor,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,78,Telsor,Telsor,0,Branch,30,Always,400,Go to 400
@@ -1259,7 +1259,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 900,*,79,Dorntak,Dorntak,1,Action,550,Attack,2,Random PC
 1000,*,79,Dorntak,Dorntak,1,Action,551,Guard,-1,None
 1100,*,79,Dorntak,Dorntak,1,Action,552,Run,-1,None
-1200,*,79,Dorntak,Dorntak,1,Action,61,Laser Blast,13,PC w/o Stone
+1200,*,79,Dorntak,Dorntak,1,Action,61,Laser Blast,13,PC W/O Stone
 100,*,80,Linark,Linark,0,Branch,1,HP < 50%,500,Go to 500
 200,*,80,Linark,Linark,0,Branch,25,Rating 50%,800,Go to 800
 300,*,80,Linark,Linark,0,Branch,22,Rating 20%,900,Go to 900
@@ -1289,7 +1289,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 600,*,82,Dracolurg,Dracolurg,0,Branch,25,Rating 50%,900,Go to 900
 700,*,82,Dracolurg,Dracolurg,0,Branch,30,Always,1000,Go to 1000
 800,*,82,Dracolurg,Dracolurg,1,Action,550,Attack,2,Random PC
-900,*,82,Dracolurg,Dracolurg,1,Action,64,Terrible Bite,18,PC w/o Fatigue
+900,*,82,Dracolurg,Dracolurg,1,Action,64,Terrible Bite,18,PC W/O Fatigue
 1000,*,82,Dracolurg,Dracolurg,1,Action,184,Frost Breath,2,Random PC
 100,*,83,Garagor,Garagor,0,Branch,11,Turn 1,300,Go to 300
 200,*,83,Garagor,Garagor,0,Branch,30,Always,400,Go to 400
@@ -1307,7 +1307,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,83,Garagor,Garagor,1,Action,551,Guard,-1,None
 1500,*,83,Garagor,Garagor,1,Action,505,Drilnos,-1,None
 1600,*,83,Garagor,Garagor,1,Action,529,Crystalen,2,Random PC
-1700,*,83,Garagor,Garagor,1,Action,213,HP Absorb,3,PC w/ Most HP
+1700,*,83,Garagor,Garagor,1,Action,213,HP Absorb,3,PC With Highest HP
 100,*,84,Kilite,Kilite,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,84,Kilite,Kilite,0,Branch,30,Always,400,Go to 400
 300,*,84,Kilite,Kilite,0,Branch,27,Rating 70%,1400,Go to 1400
@@ -1369,7 +1369,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,86,Lurker,Lurker,1,Action,550,Attack,2,Random PC
 1500,*,86,Lurker,Lurker,1,Action,552,Run,-1,None
 1600,*,86,Lurker,Lurker,1,Action,551,Guard,-1,None
-1700,*,86,Lurker,Lurker,1,Action,210,HP Absorb,3,PC w/ Most HP
+1700,*,86,Lurker,Lurker,1,Action,210,HP Absorb,3,PC With Highest HP
 1800,*,86,Lurker,Lurker,1,Action,56,Thunder Storm,-1,None
 100,*,87,Jellikra,Jellikra,0,Branch,11,Turn 1,400,Go to 400
 200,*,87,Jellikra,Jellikra,0,Branch,12,Turn 2,500,Go to 500
@@ -1393,7 +1393,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 300,*,88,Scorpon,Scorpon,0,Branch,24,Rating 40%,700,Go to 700
 400,*,88,Scorpon,Scorpon,0,Branch,21,Rating 10%,700,Go to 700
 500,*,88,Scorpon,Scorpon,0,Branch,21,Rating 10%,800,Go to 800
-600,*,88,Scorpon,Scorpon,1,Action,550,Attack,1,Same PC
+600,*,88,Scorpon,Scorpon,1,Action,550,Attack,1,Nearest PC
 700,*,88,Scorpon,Scorpon,1,Action,552,Run,-1,None
 800,*,88,Scorpon,Scorpon,1,Action,551,Guard,-1,None
 100,*,89,Arclooper,Arclooper,0,Branch,1,HP < 50%,1100,Go to 1100
@@ -1407,7 +1407,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 900,*,89,Arclooper,Arclooper,1,Action,550,Attack,2,Random PC
 1000,*,89,Arclooper,Arclooper,1,Action,551,Guard,-1,None
 1100,*,89,Arclooper,Arclooper,1,Action,552,Run,-1,None
-1200,*,89,Arclooper,Arclooper,1,Action,502,Sylenis,15,PC w/o Silence
+1200,*,89,Arclooper,Arclooper,1,Action,502,Sylenis,15,PC W/O Silence
 1300,*,89,Arclooper,Arclooper,1,Action,100,Magic?,-1,None
 100,*,90,Tsorok,Tsorok,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,90,Tsorok,Tsorok,0,Branch,30,Always,400,Go to 400
@@ -1422,7 +1422,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,90,Tsorok,Tsorok,0,Branch,21,Rating 10%,1600,Go to 1600
 1200,*,90,Tsorok,Tsorok,1,Action,550,Attack,2,Random PC
 1300,*,90,Tsorok,Tsorok,1,Action,552,Run,-1,None
-1400,*,90,Tsorok,Tsorok,1,Action,211,HP Absorb,3,PC w/ Most HP
+1400,*,90,Tsorok,Tsorok,1,Action,211,HP Absorb,3,PC With Highest HP
 1500,*,90,Tsorok,Tsorok,1,Action,533,Electres,2,Random PC
 1600,*,90,Tsorok,Tsorok,1,Action,551,Guard,-1,None
 100,*,91,Sentry,Sentree,0,Branch,52,Used Charge?,1200,Go to 1200
@@ -1477,7 +1477,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2100,*,93,Durel Beetle,Scarabée,0,Branch,25,Rating 50%,2700,Go to 2700
 2200,*,93,Durel Beetle,Scarabée,0,Branch,30,Always,2800,Go to 2800
 2300,*,93,Durel Beetle,Scarabée,1,Action,550,Attack,2,Random PC
-2400,*,93,Durel Beetle,Scarabée,1,Action,504,Driln,17,PC w/o Weak
+2400,*,93,Durel Beetle,Scarabée,1,Action,504,Driln,17,PC W/O Weak
 2500,*,93,Durel Beetle,Scarabée,1,Action,512,Slipara,-1,None
 2600,*,93,Durel Beetle,Scarabée,1,Action,78,Call Allies,-1,None
 2700,*,93,Durel Beetle,Scarabée,1,Action,111,Call Allies,-1,None
@@ -1543,7 +1543,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1000,*,98,Stalk Fiend,Monstrum,0,Branch,30,Always,1300,Go to 1300
 1100,*,98,Stalk Fiend,Monstrum,1,Action,550,Attack,2,Random PC
 1200,*,98,Stalk Fiend,Monstrum,1,Action,551,Guard,-1,None
-1300,*,98,Stalk Fiend,Monstrum,1,Action,507,Sacres,7,EC w/ Least HP
+1300,*,98,Stalk Fiend,Monstrum,1,Action,507,Sacres,7,EC With Lowest HP
 1400,*,98,Stalk Fiend,Monstrum,1,Action,513,Quika,-1,None
 1500,*,98,Stalk Fiend,Monstrum,1,Action,100,Magic?,-1,None
 100,*,99,Kantor,Kantor,0,Branch,50,Used S-Move?,400,Go to 400
@@ -1562,11 +1562,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 700,*,100,Shadow,Umbra,0,Branch,25,Rating 50%,1300,Go to 1300
 800,*,100,Shadow,Umbra,0,Branch,27,Rating 70%,1400,Go to 1400
 900,*,100,Shadow,Umbra,0,Branch,30,Always,1100,Go to 1100
-1000,*,100,Shadow,Umbra,1,Action,550,Attack,4,PC w/ Least HP
+1000,*,100,Shadow,Umbra,1,Action,550,Attack,4,PC With Lowest HP
 1100,*,100,Shadow,Umbra,1,Action,551,Guard,-1,None
-1200,*,100,Shadow,Umbra,1,Action,502,Sylenis,20,PC w/ Most Will
+1200,*,100,Shadow,Umbra,1,Action,502,Sylenis,20,PC W/O Silence but Highest Will
 1300,*,100,Shadow,Umbra,1,Action,522,Wevlen,2,Random PC
-1400,*,100,Shadow,Umbra,1,Action,12,Death Strike,3,PC w/ Most HP
+1400,*,100,Shadow,Umbra,1,Action,12,Death Strike,3,PC With Highest HP
 100,*,101,Assassin,Assassinata,0,Branch,11,Turn 1,400,Go to 400
 200,*,101,Assassin,Assassinata,0,Branch,12,Turn 2,500,Go to 500
 300,*,101,Assassin,Assassinata,0,Branch,30,Always,600,Go to 600
@@ -1576,11 +1576,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 700,*,101,Assassin,Assassinata,0,Branch,21,Rating 10%,1300,Go to 1300
 800,*,101,Assassin,Assassinata,0,Branch,27,Rating 70%,1400,Go to 1400
 900,*,101,Assassin,Assassinata,0,Branch,30,Always,1100,Go to 1100
-1000,*,101,Assassin,Assassinata,1,Action,550,Attack,4,PC w/ Least HP
+1000,*,101,Assassin,Assassinata,1,Action,550,Attack,4,PC With Lowest HP
 1100,*,101,Assassin,Assassinata,1,Action,551,Guard,-1,None
-1200,*,101,Assassin,Assassinata,1,Action,502,Sylenis,20,PC w/ Most Will
+1200,*,101,Assassin,Assassinata,1,Action,502,Sylenis,20,PC W/O Silence but Highest Will
 1300,*,101,Assassin,Assassinata,1,Action,522,Wevlen,2,Random PC
-1400,*,101,Assassin,Assassinata,1,Action,12,Death Strike,3,PC w/ Most HP
+1400,*,101,Assassin,Assassinata,1,Action,12,Death Strike,3,PC With Highest HP
 100,*,102,Officer,Executor,0,Branch,16,Has Silence?,400,Go to 400
 200,*,102,Officer,Executor,0,Branch,1,HP < 50%,500,Go to 500
 300,*,102,Officer,Executor,0,Branch,38,Any EC HP < 50%,800,Go to 800
@@ -1596,7 +1596,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1300,*,102,Officer,Executor,0,Branch,30,Always,1500,Go to 1500
 1400,*,102,Officer,Executor,1,Action,550,Attack,2,Random PC
 1500,*,102,Officer,Executor,1,Action,19,Counter Stance,-1,None
-1600,*,102,Officer,Executor,1,Action,507,Sacres,7,EC w/ Least HP
+1600,*,102,Officer,Executor,1,Action,507,Sacres,7,EC With Lowest HP
 1700,*,102,Officer,Executor,1,Action,507,Sacres,22,Self
 1800,*,102,Officer,Executor,1,Action,534,Electrum,2,Random PC
 100,epevent.evp,102,Officer,Executor,0,Branch,16,Has Silence?,3700,Go to 3700
@@ -1640,9 +1640,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 3900,epevent.evp,102,Officer,Executor,0,Branch,23,Rating 30%,4100,Go to 4100
 4000,epevent.evp,102,Officer,Executor,0,Branch,30,Always,4300,Go to 4300
 4100,epevent.evp,102,Officer,Executor,1,Action,550,Attack,2,Random PC
-4200,epevent.evp,102,Officer,Executor,1,Action,550,Attack,4,PC w/ Least HP
+4200,epevent.evp,102,Officer,Executor,1,Action,550,Attack,4,PC With Lowest HP
 4300,epevent.evp,102,Officer,Executor,1,Action,19,Counter Stance,-1,None
-4400,epevent.evp,102,Officer,Executor,1,Action,507,Sacres,7,EC w/ Least HP
+4400,epevent.evp,102,Officer,Executor,1,Action,507,Sacres,7,EC With Lowest HP
 4500,epevent.evp,102,Officer,Executor,1,Action,507,Sacres,22,Self
 4600,epevent.evp,102,Officer,Executor,1,Action,534,Electrum,2,Random PC
 100,*,103,Mage Warden,Custodiae,0,Branch,11,Turn 1,400,Go to 400
@@ -1665,11 +1665,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1800,*,103,Mage Warden,Custodiae,0,Branch,16,Has Silence?,2000,Go to 2000
 1900,*,103,Mage Warden,Custodiae,0,Branch,24,Rating 40%,2500,Go to 2500
 2000,*,103,Mage Warden,Custodiae,0,Branch,30,Always,800,Go to 800
-2100,*,103,Mage Warden,Custodiae,1,Action,550,Attack,1,Same PC
+2100,*,103,Mage Warden,Custodiae,1,Action,550,Attack,1,Nearest PC
 2200,*,103,Mage Warden,Custodiae,1,Action,551,Guard,-1,None
-2300,*,103,Mage Warden,Custodiae,1,Action,502,Sylenis,15,PC w/o Silence
-2400,*,103,Mage Warden,Custodiae,1,Action,504,Driln,17,PC w/o Weak
-2500,*,103,Mage Warden,Custodiae,1,Action,507,Sacres,7,EC w/ Least HP
+2300,*,103,Mage Warden,Custodiae,1,Action,502,Sylenis,15,PC W/O Silence
+2400,*,103,Mage Warden,Custodiae,1,Action,504,Driln,17,PC W/O Weak
+2500,*,103,Mage Warden,Custodiae,1,Action,507,Sacres,7,EC With Lowest HP
 2600,*,103,Mage Warden,Custodiae,1,Action,531,Wevlum,2,Random PC
 2700,*,103,Mage Warden,Custodiae,1,Action,528,Crystalum,2,Random PC
 2800,*,103,Mage Warden,Custodiae,1,Action,37,Focus,-1,None
@@ -1680,7 +1680,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 500,*,104,Shock Troop,Veles,0,Branch,21,Rating 10%,1000,Go to 1000
 600,*,104,Shock Troop,Veles,0,Branch,23,Rating 30%,800,Go to 800
 700,*,104,Shock Troop,Veles,1,Action,550,Attack,2,Random PC
-800,*,104,Shock Troop,Veles,1,Action,71,Poison Gas,19,PC w/o Poison
+800,*,104,Shock Troop,Veles,1,Action,71,Poison Gas,19,PC W/O Poison
 900,*,104,Shock Troop,Veles,1,Action,72,Sacrum Crystal,-1,None
 1000,*,104,Shock Troop,Veles,1,Action,551,Guard,-1,None
 100,*,105,Red Guard,Red Praeses,0,Branch,21,Rating 10%,500,Go to 500
@@ -1695,7 +1695,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 500,*,106,Elite Guard,Praeses Elite,0,Branch,21,Rating 10%,1000,Go to 1000
 600,*,106,Elite Guard,Praeses Elite,0,Branch,23,Rating 30%,800,Go to 800
 700,*,106,Elite Guard,Praeses Elite,1,Action,550,Attack,2,Random PC
-800,*,106,Elite Guard,Praeses Elite,1,Action,71,Poison Gas,19,PC w/o Poison
+800,*,106,Elite Guard,Praeses Elite,1,Action,71,Poison Gas,19,PC W/O Poison
 900,*,106,Elite Guard,Praeses Elite,1,Action,72,Sacrum Crystal,-1,None
 1000,*,106,Elite Guard,Praeses Elite,1,Action,551,Guard,-1,None
 100,*,107,Jynnus,Jynnus,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
@@ -1734,7 +1734,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1300,*,108,Hydra Elite,Hydra,0,Branch,25,Rating 50%,1700,Go to 1700
 1400,*,108,Hydra Elite,Hydra,0,Branch,30,Always,1500,Go to 1500
 1500,*,108,Hydra Elite,Hydra,1,Action,550,Attack,2,Random PC
-1600,*,108,Hydra Elite,Hydra,1,Action,119,Death Tackle,3,PC w/ Most HP
+1600,*,108,Hydra Elite,Hydra,1,Action,119,Death Tackle,3,PC With Highest HP
 1700,*,108,Hydra Elite,Hydra,1,Action,251,Sonic Wave,2,Random PC
 1800,*,108,Hydra Elite,Hydra,1,Action,535,Electrulen,2,Random PC
 1900,*,108,Hydra Elite,Hydra,1,Action,551,Guard,-1,None
@@ -1779,7 +1779,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1600,*,111,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,2,Random PC
 1700,*,111,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 1800,*,111,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
-1900,*,111,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,3,PC w/ Most HP
+1900,*,111,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,3,PC With Highest HP
 100,*,112,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,1100,Go to 1100
 200,*,112,Zivilyn Bane,Zivilyn Bane,0,Branch,50,Used S-Move?,500,Go to 500
 300,*,112,Zivilyn Bane,Zivilyn Bane,0,Branch,22,Rating 20%,1400,Go to 1400
@@ -1793,7 +1793,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,112,Zivilyn Bane,Zivilyn Bane,0,Branch,25,Rating 50%,1600,Go to 1600
 1200,*,112,Zivilyn Bane,Zivilyn Bane,0,Branch,28,Rating 80%,1400,Go to 1400
 1300,*,112,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1500,Go to 1500
-1400,*,112,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
+1400,*,112,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1500,*,112,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 1600,*,112,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
 100,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,400,Go to 400
@@ -1809,7 +1809,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1400,Go to 1400
 1200,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,26,Rating 60%,1500,Go to 1500
 1300,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1600,Go to 1600
-1400,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
+1400,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1500,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
 1600,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 100,*,114,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,400,Go to 400
@@ -1825,7 +1825,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,114,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1400,Go to 1400
 1200,*,114,Zivilyn Bane,Zivilyn Bane,0,Branch,26,Rating 60%,1500,Go to 1500
 1300,*,114,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1600,Go to 1600
-1400,*,114,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
+1400,*,114,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1500,*,114,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
 1600,*,114,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 100,*,115,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,400,Go to 400
@@ -1841,7 +1841,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,115,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1400,Go to 1400
 1200,*,115,Zivilyn Bane,Zivilyn Bane,0,Branch,26,Rating 60%,1500,Go to 1500
 1300,*,115,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1600,Go to 1600
-1400,*,115,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
+1400,*,115,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1500,*,115,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
 1600,*,115,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 100,*,116,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,400,Go to 400
@@ -1857,7 +1857,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,116,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1400,Go to 1400
 1200,*,116,Zivilyn Bane,Zivilyn Bane,0,Branch,26,Rating 60%,1500,Go to 1500
 1300,*,116,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1600,Go to 1600
-1400,*,116,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
+1400,*,116,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1500,*,116,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
 1600,*,116,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 100,*,117,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,400,Go to 400
@@ -1872,7 +1872,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1000,*,117,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1400,Go to 1400
 1100,*,117,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1300,Go to 1300
 1200,*,117,Zivilyn Bane,Zivilyn Bane,0,Branch,26,Rating 60%,1400,Go to 1400
-1300,*,117,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
+1300,*,117,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1400,*,117,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
 100,*,118,Hunter,Hunta,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,118,Hunter,Hunta,0,Branch,30,Always,400,Go to 400
@@ -1906,7 +1906,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 900,*,120,Hopril,Hopril,1,Action,550,Attack,2,Random PC
 1000,*,120,Hopril,Hopril,1,Action,551,Guard,-1,None
 1100,*,120,Hopril,Hopril,1,Action,552,Run,-1,None
-1200,*,120,Hopril,Hopril,1,Action,61,Laser Blast,13,PC w/o Stone
+1200,*,120,Hopril,Hopril,1,Action,61,Laser Blast,13,PC W/O Stone
 100,*,121,Elcian,Elcian,0,Branch,37,Turn ≥ 5,500,Go to 500
 200,*,121,Elcian,Elcian,0,Branch,24,Rating 40%,800,Go to 800
 300,*,121,Elcian,Elcian,0,Branch,25,Rating 50%,1100,Go to 1100
@@ -1967,7 +1967,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,130,Bleigock,Bleigock,0,Branch,25,Rating 50%,2100,Go to 2100
 1800,*,130,Bleigock,Bleigock,0,Branch,30,Always,2200,Go to 2200
 1900,*,130,Bleigock,Bleigock,1,Action,550,Attack,2,Random PC
-2000,*,130,Bleigock,Bleigock,1,Action,550,Attack,3,PC w/ Most HP
+2000,*,130,Bleigock,Bleigock,1,Action,550,Attack,3,PC With Highest HP
 2100,*,130,Bleigock,Bleigock,1,Action,183,Frost Breath,-1,None
 2200,*,130,Bleigock,Bleigock,1,Action,25,Poisonous Bile,-1,None
 100,*,131,Executioner,Carcer,0,Branch,66,ECs Alive = 3,400,Go to 400
@@ -1984,7 +1984,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1200,*,131,Executioner,Carcer,1,Action,550,Attack,2,Random PC
 1300,*,131,Executioner,Carcer,1,Action,551,Guard,-1,None
 1400,*,131,Executioner,Carcer,1,Action,11,Tackle,2,Random PC
-1500,*,131,Executioner,Carcer,1,Action,11,Tackle,3,PC w/ Most HP
+1500,*,131,Executioner,Carcer,1,Action,11,Tackle,3,PC With Highest HP
 1600,*,131,Executioner,Carcer,1,Action,251,Sonic Wave,2,Random PC
 1700,*,131,Executioner,Carcer,1,Action,533,Electres,2,Random PC
 100,*,132,Galcian,Galcian,0,Branch,1,HP < 50%,1300,Go to 1300
@@ -2037,9 +2037,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 3500,*,133,Royal Guard,Sceptrum Praeses,0,Branch,26,Rating 60%,3900,Go to 3900
 3600,*,133,Royal Guard,Sceptrum Praeses,0,Branch,30,Always,4000,Go to 4000
 3700,*,133,Royal Guard,Sceptrum Praeses,1,Action,550,Attack,2,Random PC
-3800,*,133,Royal Guard,Sceptrum Praeses,1,Action,550,Attack,4,PC w/ Least HP
+3800,*,133,Royal Guard,Sceptrum Praeses,1,Action,550,Attack,4,PC With Lowest HP
 3900,*,133,Royal Guard,Sceptrum Praeses,1,Action,19,Counter Stance,-1,None
-4000,*,133,Royal Guard,Sceptrum Praeses,1,Action,506,Sacri,7,EC w/ Least HP
+4000,*,133,Royal Guard,Sceptrum Praeses,1,Action,506,Sacri,7,EC With Lowest HP
 4100,*,133,Royal Guard,Sceptrum Praeses,1,Action,506,Sacri,22,Self
 4200,*,133,Royal Guard,Sceptrum Praeses,1,Action,533,Electres,2,Random PC
 4300,*,133,Royal Guard,Sceptrum Praeses,1,Action,533,Electres,23,Aika
@@ -2067,7 +2067,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,134,Rokwyrm,Rokwyrm,0,Branch,24,Rating 40%,2500,Go to 2500
 2300,*,134,Rokwyrm,Rokwyrm,1,Action,550,Attack,2,Random PC
 2400,*,134,Rokwyrm,Rokwyrm,1,Action,0,Volcanic Blast,-1,None
-2500,*,134,Rokwyrm,Rokwyrm,1,Action,1,Cinder Storm,13,PC w/o Stone
+2500,*,134,Rokwyrm,Rokwyrm,1,Action,1,Cinder Storm,13,PC W/O Stone
 100,*,136,Antonio 2,Antonio 2,0,Branch,1,HP < 50%,1200,Go to 1200
 200,*,136,Antonio 2,Antonio 2,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,1200,Go to 1200
 300,*,136,Antonio 2,Antonio 2,0,Branch,12,Turn 2,1200,Go to 1200
@@ -2113,8 +2113,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2800,*,137,Rik'talish,Rik'talish,0,Branch,30,Always,3200,Go to 3200
 2900,*,137,Rik'talish,Rik'talish,1,Action,550,Attack,2,Random PC
 3000,*,137,Rik'talish,Rik'talish,1,Action,2,Feather Slash,2,Random PC
-3100,*,137,Rik'talish,Rik'talish,1,Action,7,Circle of Panic,14,PC w/o Confusion
-3200,*,137,Rik'talish,Rik'talish,1,Action,8,Ring of Sleep,16,PC w/o Sleep
+3100,*,137,Rik'talish,Rik'talish,1,Action,7,Circle of Panic,14,PC W/O Confusion
+3200,*,137,Rik'talish,Rik'talish,1,Action,8,Ring of Sleep,16,PC W/O Sleep
 100,*,138,Sinistra,Sinistra,0,Branch,17,ECs Alive = 1,1500,Go to 1500
 200,*,138,Sinistra,Sinistra,0,Branch,53,Used Engage?,2000,Go to 2000
 300,*,138,Sinistra,Sinistra,0,Branch,11,Turn 1,600,Go to 600
@@ -2194,7 +2194,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 700,*,141,Vigoro,Vigoro,0,Branch,21,Rating 10%,1100,Go to 1100
 800,*,141,Vigoro,Vigoro,0,Branch,30,Always,1200,Go to 1200
 900,*,141,Vigoro,Vigoro,1,Action,550,Attack,2,Random PC
-1000,*,141,Vigoro,Vigoro,1,Action,550,Attack,4,PC w/ Least HP
+1000,*,141,Vigoro,Vigoro,1,Action,550,Attack,4,PC With Lowest HP
 1100,*,141,Vigoro,Vigoro,1,Action,551,Guard,-1,None
 1200,*,141,Vigoro,Vigoro,1,Action,60,Vigoro's Charm,23,Aika
 100,*,142,Dralkor Tank,Dralkor Lacus,0,Branch,50,Used S-Move?,400,Go to 400
@@ -2290,9 +2290,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2600,*,147,Muraji,Muraji,1,Action,531,Wevlum,2,Random PC
 2700,*,147,Muraji,Muraji,1,Action,551,Guard,-1,None
 2800,*,147,Muraji,Muraji,1,Action,500,Increm,22,Self
-2900,*,147,Muraji,Muraji,1,Action,500,Increm,11,EC w/o Strengthen
+2900,*,147,Muraji,Muraji,1,Action,500,Increm,11,EC W/O Strengthen
 3000,*,147,Muraji,Muraji,1,Action,507,Sacres,22,Self
-3100,*,147,Muraji,Muraji,1,Action,507,Sacres,7,EC w/ Least HP
+3100,*,147,Muraji,Muraji,1,Action,507,Sacres,7,EC With Lowest HP
 3200,*,147,Muraji,Muraji,1,Action,513,Quika,-1,None
 3300,*,147,Muraji,Muraji,1,Action,67,Call Allies,-1,None
 3400,*,147,Muraji,Muraji,1,Action,114,Call Allies,-1,None
@@ -2319,7 +2319,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2100,*,148,Veltarn,Veltarn,0,Branch,30,Always,2500,Go to 2500
 2200,*,148,Veltarn,Veltarn,1,Action,550,Attack,2,Random PC
 2300,*,148,Veltarn,Veltarn,1,Action,33,Death Laser,2,Random PC
-2400,*,148,Veltarn,Veltarn,1,Action,33,Death Laser,21,PC w/ Most Attack
+2400,*,148,Veltarn,Veltarn,1,Action,33,Death Laser,21,PC W/O Weak but Highest Attack
 2500,*,148,Veltarn,Veltarn,1,Action,42,Avalauncher,2,Random PC
 100,*,149,Vigoro,Vigoro,0,Branch,50,Used S-Move?,500,Go to 500
 200,*,149,Vigoro,Vigoro,0,Branch,22,Rating 20%,800,Go to 800
@@ -2339,7 +2339,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 600,*,150,Dracoslyth,Dracoslyth,0,Branch,25,Rating 50%,900,Go to 900
 700,*,150,Dracoslyth,Dracoslyth,0,Branch,30,Always,1000,Go to 1000
 800,*,150,Dracoslyth,Dracoslyth,1,Action,550,Attack,2,Random PC
-900,*,150,Dracoslyth,Dracoslyth,1,Action,64,Terrible Bite,18,PC w/o Fatigue
+900,*,150,Dracoslyth,Dracoslyth,1,Action,64,Terrible Bite,18,PC W/O Fatigue
 1000,*,150,Dracoslyth,Dracoslyth,1,Action,181,Blast Breath,2,Random PC
 100,*,151,Galcian,Galcian,0,Branch,11,Turn 1,400,Go to 400
 200,*,151,Galcian,Galcian,0,Branch,12,Turn 2,800,Go to 800
@@ -2353,7 +2353,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1000,*,151,Galcian,Galcian,0,Branch,24,Rating 40%,6000,Go to 6000
 1100,*,151,Galcian,Galcian,0,Branch,25,Rating 50%,5600,Go to 5600
 1200,*,151,Galcian,Galcian,0,Branch,30,Always,5700,Go to 5700
-1300,*,151,Galcian,Galcian,0,Branch,60,Destruction on Recharge?,2300,Go to 2300
+1300,*,151,Galcian,Galcian,0,Branch,60,Turns Since Destruction ≤ 2,2300,Go to 2300
 1400,*,151,Galcian,Galcian,0,Branch,57,Any PC Has Strengthen?,1600,Go to 1600
 1500,*,151,Galcian,Galcian,0,Branch,30,Always,1700,Go to 1700
 1600,*,151,Galcian,Galcian,0,Branch,23,Rating 30%,6100,Go to 6100
@@ -2425,7 +2425,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2100,*,152,Ramirez,Ramirez,1,Action,519,Eternum,2,Random PC
 2200,*,152,Ramirez,Ramirez,1,Action,43,Silver Eclipse,-1,None
 2300,*,152,Ramirez,Ramirez,1,Action,509,Sacrulen,22,Self
-100,*,153,Ramirez,Ramirez,0,Branch,60,Destruction on Recharge?,1100,Go to 1100
+100,*,153,Ramirez,Ramirez,0,Branch,60,Turns Since Destruction ≤ 2,1100,Go to 1100
 200,*,153,Ramirez,Ramirez,0,Branch,57,Any PC Has Strengthen?,400,Go to 400
 300,*,153,Ramirez,Ramirez,0,Branch,30,Always,500,Go to 500
 400,*,153,Ramirez,Ramirez,0,Branch,23,Rating 30%,5600,Go to 5600
@@ -2496,7 +2496,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1000,*,154,Eliminator,Eliminator,1,Action,550,Attack,2,Random PC
 1100,*,154,Eliminator,Eliminator,1,Action,9,Target Search,-1,None
 1200,*,154,Eliminator,Eliminator,1,Action,99,Blaster,2,Random PC
-1300,*,154,Eliminator,Eliminator,1,Action,31,Laser Blast,13,PC w/o Stone
+1300,*,154,Eliminator,Eliminator,1,Action,31,Laser Blast,13,PC W/O Stone
 100,*,155,Gordo,Gordo,0,Branch,11,Turn 1,2200,Go to 2200
 200,*,155,Gordo,Gordo,0,Branch,16,Has Silence?,1500,Go to 1500
 300,*,155,Gordo,Gordo,0,Branch,1,HP < 50%,600,Go to 600
@@ -2552,7 +2552,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,156,Mad Chef,Furiosus,1,Action,550,Attack,2,Random PC
 1200,*,156,Mad Chef,Furiosus,1,Action,551,Guard,-1,None
 1300,*,156,Mad Chef,Furiosus,1,Action,524,Pyres,-1,None
-100,*,157,Ramirez,Ramirez,0,Branch,60,Destruction on Recharge?,1100,Go to 1100
+100,*,157,Ramirez,Ramirez,0,Branch,60,Turns Since Destruction ≤ 2,1100,Go to 1100
 200,*,157,Ramirez,Ramirez,0,Branch,57,Any PC Has Strengthen?,400,Go to 400
 300,*,157,Ramirez,Ramirez,0,Branch,30,Always,500,Go to 500
 400,*,157,Ramirez,Ramirez,0,Branch,22,Rating 20%,4000,Go to 4000
@@ -2589,7 +2589,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 3500,*,157,Ramirez,Ramirez,1,Action,550,Attack,2,Random PC
 3600,*,157,Ramirez,Ramirez,1,Action,505,Drilnos,-1,None
 3700,*,157,Ramirez,Ramirez,1,Action,519,Eternum,2,Random PC
-3800,*,157,Ramirez,Ramirez,1,Action,83,Silver Nightmare,24,???
+3800,*,157,Ramirez,Ramirez,1,Action,83,Silver Nightmare,24,PC W/O Stone
 3900,*,157,Ramirez,Ramirez,1,Action,84,Silver Binds,2,Random PC
 4000,*,157,Ramirez,Ramirez,1,Action,86,Destruction,-1,None
 100,*,158,Piastol,Piastol,0,Branch,2,HP < 25%,2300,Go to 2300
@@ -2907,12 +2907,12 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,166,Spell Warden,Venificus,0,Branch,30,Always,1700,Go to 1700
 2300,*,166,Spell Warden,Venificus,0,Branch,29,Rating 90%,3100,Go to 3100
 2400,*,166,Spell Warden,Venificus,0,Branch,30,Always,1700,Go to 1700
-2500,*,166,Spell Warden,Venificus,1,Action,550,Attack,1,Same PC
+2500,*,166,Spell Warden,Venificus,1,Action,550,Attack,1,Nearest PC
 2600,*,166,Spell Warden,Venificus,1,Action,551,Guard,-1,None
-2700,*,166,Spell Warden,Venificus,1,Action,502,Sylenis,21,PC w/ Most Attack
+2700,*,166,Spell Warden,Venificus,1,Action,502,Sylenis,21,PC W/O Weak but Highest Attack
 2800,*,166,Spell Warden,Venificus,1,Action,506,Sacri,22,Self
-2900,*,166,Spell Warden,Venificus,1,Action,506,Sacri,7,EC w/ Least HP
-3000,*,166,Spell Warden,Venificus,1,Action,528,Crystalum,20,PC w/ Most Will
+2900,*,166,Spell Warden,Venificus,1,Action,506,Sacri,7,EC With Lowest HP
+3000,*,166,Spell Warden,Venificus,1,Action,528,Crystalum,20,PC W/O Silence but Highest Will
 3100,*,166,Spell Warden,Venificus,1,Action,528,Crystalum,2,Random PC
 3200,*,166,Spell Warden,Venificus,1,Action,37,Focus,-1,None
 100,*,167,Spell Warden,Venificus,0,Branch,35,Used State Spells ≥ 1,400,Go to 400
@@ -2951,12 +2951,12 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 3400,*,167,Spell Warden,Venificus,0,Branch,30,Always,1000,Go to 1000
 3500,*,167,Spell Warden,Venificus,0,Branch,28,Rating 80%,4300,Go to 4300
 3600,*,167,Spell Warden,Venificus,0,Branch,30,Always,1000,Go to 1000
-3700,*,167,Spell Warden,Venificus,1,Action,550,Attack,1,Same PC
+3700,*,167,Spell Warden,Venificus,1,Action,550,Attack,1,Nearest PC
 3800,*,167,Spell Warden,Venificus,1,Action,551,Guard,-1,None
 3900,*,167,Spell Warden,Venificus,1,Action,500,Increm,22,Self
-4000,*,167,Spell Warden,Venificus,1,Action,500,Increm,11,EC w/o Strengthen
-4100,*,167,Spell Warden,Venificus,1,Action,526,Crystali,21,PC w/ Most Attack
-4200,*,167,Spell Warden,Venificus,1,Action,526,Crystali,20,PC w/ Most Will
+4000,*,167,Spell Warden,Venificus,1,Action,500,Increm,11,EC W/O Strengthen
+4100,*,167,Spell Warden,Venificus,1,Action,526,Crystali,21,PC W/O Weak but Highest Attack
+4200,*,167,Spell Warden,Venificus,1,Action,526,Crystali,20,PC W/O Silence but Highest Will
 4300,*,167,Spell Warden,Venificus,1,Action,526,Crystali,2,Random PC
 4400,*,167,Spell Warden,Venificus,1,Action,37,Focus,-1,None
 100,*,168,Piastol,Piastol,0,Branch,2,HP < 25%,2300,Go to 2300
@@ -2993,7 +2993,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 3200,*,168,Piastol,Piastol,0,Branch,26,Rating 60%,3800,Go to 3800
 3300,*,168,Piastol,Piastol,0,Branch,30,Always,3400,Go to 3400
 3400,*,168,Piastol,Piastol,1,Action,550,Attack,2,Random PC
-3500,*,168,Piastol,Piastol,1,Action,304,Tempest Dance,3,PC w/ Most HP
+3500,*,168,Piastol,Piastol,1,Action,304,Tempest Dance,3,PC With Highest HP
 3600,*,168,Piastol,Piastol,1,Action,306,Deluge,-1,None
 3700,*,168,Piastol,Piastol,1,Action,518,Eternes,-1,None
 3800,*,168,Piastol,Piastol,1,Action,531,Wevlum,2,Random PC
@@ -3032,7 +3032,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 3200,*,169,Piastol,Piastol,0,Branch,26,Rating 60%,3800,Go to 3800
 3300,*,169,Piastol,Piastol,0,Branch,30,Always,3400,Go to 3400
 3400,*,169,Piastol,Piastol,1,Action,550,Attack,2,Random PC
-3500,*,169,Piastol,Piastol,1,Action,304,Tempest Dance,3,PC w/ Most HP
+3500,*,169,Piastol,Piastol,1,Action,304,Tempest Dance,3,PC With Highest HP
 3600,*,169,Piastol,Piastol,1,Action,306,Deluge,-1,None
 3700,*,169,Piastol,Piastol,1,Action,518,Eternes,-1,None
 3800,*,169,Piastol,Piastol,1,Action,531,Wevlum,2,Random PC
@@ -3059,7 +3059,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2000,*,170,Royal Guard,Sceptrum Praeses,0,Branch,30,Always,2500,Go to 2500
 2100,*,170,Royal Guard,Sceptrum Praeses,1,Action,550,Attack,2,Random PC
 2200,*,170,Royal Guard,Sceptrum Praeses,1,Action,506,Sacri,22,Self
-2300,*,170,Royal Guard,Sceptrum Praeses,1,Action,506,Sacri,7,EC w/ Least HP
+2300,*,170,Royal Guard,Sceptrum Praeses,1,Action,506,Sacri,7,EC With Lowest HP
 2400,*,170,Royal Guard,Sceptrum Praeses,1,Action,533,Electres,2,Random PC
 2500,*,170,Royal Guard,Sceptrum Praeses,1,Action,551,Guard,-1,None
 100,*,171,Kantor,Kantor,0,Branch,11,Turn 1,500,Go to 500
@@ -3115,7 +3115,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 3400,*,173,Piastol,Piastol,0,Branch,26,Rating 60%,4100,Go to 4100
 3500,*,173,Piastol,Piastol,0,Branch,30,Always,3600,Go to 3600
 3600,*,173,Piastol,Piastol,1,Action,550,Attack,2,Random PC
-3700,*,173,Piastol,Piastol,1,Action,305,Tempest Dance,3,PC w/ Most HP
+3700,*,173,Piastol,Piastol,1,Action,305,Tempest Dance,3,PC With Highest HP
 3800,*,173,Piastol,Piastol,1,Action,306,Deluge,-1,None
 3900,*,173,Piastol,Piastol,1,Action,518,Eternes,-1,None
 4000,*,173,Piastol,Piastol,1,Action,519,Eternum,2,Random PC
@@ -3258,12 +3258,12 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 4300,*,180,Mage Warden,Custodiae,0,Branch,30,Always,5300,Go to 5300
 4400,*,180,Mage Warden,Custodiae,0,Branch,24,Rating 40%,4800,Go to 4800
 4500,*,180,Mage Warden,Custodiae,0,Branch,30,Always,4900,Go to 4900
-4600,*,180,Mage Warden,Custodiae,1,Action,550,Attack,1,Same PC
+4600,*,180,Mage Warden,Custodiae,1,Action,550,Attack,1,Nearest PC
 4700,*,180,Mage Warden,Custodiae,1,Action,551,Guard,-1,None
-4800,*,180,Mage Warden,Custodiae,1,Action,502,Sylenis,15,PC w/o Silence
-4900,*,180,Mage Warden,Custodiae,1,Action,504,Driln,17,PC w/o Weak
+4800,*,180,Mage Warden,Custodiae,1,Action,502,Sylenis,15,PC W/O Silence
+4900,*,180,Mage Warden,Custodiae,1,Action,504,Driln,17,PC W/O Weak
 5000,*,180,Mage Warden,Custodiae,1,Action,507,Sacres,22,Self
-5100,*,180,Mage Warden,Custodiae,1,Action,507,Sacres,7,EC w/ Least HP
+5100,*,180,Mage Warden,Custodiae,1,Action,507,Sacres,7,EC With Lowest HP
 5200,*,180,Mage Warden,Custodiae,1,Action,528,Crystalum,2,Random PC
 5300,*,180,Mage Warden,Custodiae,1,Action,531,Wevlum,2,Random PC
 5400,*,180,Mage Warden,Custodiae,1,Action,535,Electrulen,2,Random PC
@@ -3314,12 +3314,12 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 4400,*,181,Mage Warden,Custodiae,0,Branch,30,Always,5400,Go to 5400
 4500,*,181,Mage Warden,Custodiae,0,Branch,24,Rating 40%,4900,Go to 4900
 4600,*,181,Mage Warden,Custodiae,0,Branch,30,Always,5000,Go to 5000
-4700,*,181,Mage Warden,Custodiae,1,Action,550,Attack,1,Same PC
+4700,*,181,Mage Warden,Custodiae,1,Action,550,Attack,1,Nearest PC
 4800,*,181,Mage Warden,Custodiae,1,Action,551,Guard,-1,None
-4900,*,181,Mage Warden,Custodiae,1,Action,502,Sylenis,15,PC w/o Silence
-5000,*,181,Mage Warden,Custodiae,1,Action,504,Driln,17,PC w/o Weak
+4900,*,181,Mage Warden,Custodiae,1,Action,502,Sylenis,15,PC W/O Silence
+5000,*,181,Mage Warden,Custodiae,1,Action,504,Driln,17,PC W/O Weak
 5100,*,181,Mage Warden,Custodiae,1,Action,507,Sacres,22,Self
-5200,*,181,Mage Warden,Custodiae,1,Action,507,Sacres,7,EC w/ Least HP
+5200,*,181,Mage Warden,Custodiae,1,Action,507,Sacres,7,EC With Lowest HP
 5300,*,181,Mage Warden,Custodiae,1,Action,528,Crystalum,2,Random PC
 5400,*,181,Mage Warden,Custodiae,1,Action,531,Wevlum,2,Random PC
 5500,*,181,Mage Warden,Custodiae,1,Action,535,Electrulen,2,Random PC
@@ -3347,7 +3347,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2100,*,182,Executioner,Carcer,1,Action,550,Attack,2,Random PC
 2200,*,182,Executioner,Carcer,1,Action,551,Guard,-1,None
 2300,*,182,Executioner,Carcer,1,Action,11,Tackle,2,Random PC
-2400,*,182,Executioner,Carcer,1,Action,11,Tackle,3,PC w/ Most HP
+2400,*,182,Executioner,Carcer,1,Action,11,Tackle,3,PC With Highest HP
 2500,*,182,Executioner,Carcer,1,Action,251,Sonic Wave,2,Random PC
 2600,*,182,Executioner,Carcer,1,Action,533,Electres,2,Random PC
 100,*,183,Lira,Lira,0,Branch,39,Any EC HP < 25%,900,Go to 900
@@ -3366,9 +3366,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,183,Lira,Lira,0,Branch,30,Always,1900,Go to 1900
 1500,*,183,Lira,Lira,0,Branch,49,Used Spell?,400,Go to 400
 1600,*,183,Lira,Lira,0,Branch,30,Always,1800,Go to 1800
-1700,*,183,Lira,Lira,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,183,Lira,Lira,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,183,Lira,Lira,1,Action,508,Sacrum,-1,None
-1900,*,183,Lira,Lira,1,Action,507,Sacres,7,EC w/ Least HP
+1900,*,183,Lira,Lira,1,Action,507,Sacres,7,EC With Lowest HP
 2000,*,183,Lira,Lira,1,Action,511,Noxus,-1,None
 2100,*,183,Lira,Lira,1,Action,551,Guard,-1,None
 100,*,184,Lira,Lira,0,Branch,39,Any EC HP < 25%,900,Go to 900
@@ -3387,9 +3387,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,184,Lira,Lira,0,Branch,30,Always,1900,Go to 1900
 1500,*,184,Lira,Lira,0,Branch,49,Used Spell?,400,Go to 400
 1600,*,184,Lira,Lira,0,Branch,30,Always,1800,Go to 1800
-1700,*,184,Lira,Lira,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,184,Lira,Lira,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,184,Lira,Lira,1,Action,508,Sacrum,-1,None
-1900,*,184,Lira,Lira,1,Action,507,Sacres,7,EC w/ Least HP
+1900,*,184,Lira,Lira,1,Action,507,Sacres,7,EC With Lowest HP
 2000,*,184,Lira,Lira,1,Action,511,Noxus,-1,None
 2100,*,184,Lira,Lira,1,Action,551,Guard,-1,None
 100,*,185,Lira,Lira,0,Branch,39,Any EC HP < 25%,900,Go to 900
@@ -3408,9 +3408,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,185,Lira,Lira,0,Branch,30,Always,1900,Go to 1900
 1500,*,185,Lira,Lira,0,Branch,49,Used Spell?,400,Go to 400
 1600,*,185,Lira,Lira,0,Branch,30,Always,1800,Go to 1800
-1700,*,185,Lira,Lira,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,185,Lira,Lira,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,185,Lira,Lira,1,Action,508,Sacrum,-1,None
-1900,*,185,Lira,Lira,1,Action,507,Sacres,7,EC w/ Least HP
+1900,*,185,Lira,Lira,1,Action,507,Sacres,7,EC With Lowest HP
 2000,*,185,Lira,Lira,1,Action,511,Noxus,-1,None
 2100,*,185,Lira,Lira,1,Action,551,Guard,-1,None
 100,*,186,Lira,Lira,0,Branch,39,Any EC HP < 25%,900,Go to 900
@@ -3429,9 +3429,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,186,Lira,Lira,0,Branch,30,Always,1900,Go to 1900
 1500,*,186,Lira,Lira,0,Branch,49,Used Spell?,400,Go to 400
 1600,*,186,Lira,Lira,0,Branch,30,Always,1800,Go to 1800
-1700,*,186,Lira,Lira,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,186,Lira,Lira,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,186,Lira,Lira,1,Action,508,Sacrum,-1,None
-1900,*,186,Lira,Lira,1,Action,507,Sacres,7,EC w/ Least HP
+1900,*,186,Lira,Lira,1,Action,507,Sacres,7,EC With Lowest HP
 2000,*,186,Lira,Lira,1,Action,511,Noxus,-1,None
 2100,*,186,Lira,Lira,1,Action,551,Guard,-1,None
 100,*,187,Lira,Lira,0,Branch,39,Any EC HP < 25%,900,Go to 900
@@ -3450,9 +3450,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,187,Lira,Lira,0,Branch,30,Always,1900,Go to 1900
 1500,*,187,Lira,Lira,0,Branch,49,Used Spell?,400,Go to 400
 1600,*,187,Lira,Lira,0,Branch,30,Always,1800,Go to 1800
-1700,*,187,Lira,Lira,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,187,Lira,Lira,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,187,Lira,Lira,1,Action,508,Sacrum,-1,None
-1900,*,187,Lira,Lira,1,Action,507,Sacres,7,EC w/ Least HP
+1900,*,187,Lira,Lira,1,Action,507,Sacres,7,EC With Lowest HP
 2000,*,187,Lira,Lira,1,Action,511,Noxus,-1,None
 2100,*,187,Lira,Lira,1,Action,551,Guard,-1,None
 100,*,188,Pera,Pera,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3471,10 +3471,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,188,Pera,Pera,0,Branch,30,Always,2100,Go to 2100
 1500,*,188,Pera,Pera,0,Branch,25,Rating 50%,1800,Go to 1800
 1600,*,188,Pera,Pera,0,Branch,30,Always,1900,Go to 1900
-1700,*,188,Pera,Pera,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,188,Pera,Pera,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,188,Pera,Pera,1,Action,513,Quika,-1,None
 1900,*,188,Pera,Pera,1,Action,501,Incremus,-1,None
-2000,*,188,Pera,Pera,1,Action,502,Sylenis,15,PC w/o Silence
+2000,*,188,Pera,Pera,1,Action,502,Sylenis,15,PC W/O Silence
 2100,*,188,Pera,Pera,1,Action,505,Drilnos,-1,None
 2200,*,188,Pera,Pera,1,Action,551,Guard,-1,None
 100,*,189,Pera,Pera,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3493,10 +3493,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,189,Pera,Pera,0,Branch,30,Always,2100,Go to 2100
 1500,*,189,Pera,Pera,0,Branch,25,Rating 50%,1800,Go to 1800
 1600,*,189,Pera,Pera,0,Branch,30,Always,1900,Go to 1900
-1700,*,189,Pera,Pera,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,189,Pera,Pera,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,189,Pera,Pera,1,Action,513,Quika,-1,None
 1900,*,189,Pera,Pera,1,Action,501,Incremus,-1,None
-2000,*,189,Pera,Pera,1,Action,502,Sylenis,15,PC w/o Silence
+2000,*,189,Pera,Pera,1,Action,502,Sylenis,15,PC W/O Silence
 2100,*,189,Pera,Pera,1,Action,505,Drilnos,-1,None
 2200,*,189,Pera,Pera,1,Action,551,Guard,-1,None
 100,*,190,Pera,Pera,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3515,10 +3515,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,190,Pera,Pera,0,Branch,30,Always,2100,Go to 2100
 1500,*,190,Pera,Pera,0,Branch,25,Rating 50%,1800,Go to 1800
 1600,*,190,Pera,Pera,0,Branch,30,Always,1900,Go to 1900
-1700,*,190,Pera,Pera,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,190,Pera,Pera,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,190,Pera,Pera,1,Action,513,Quika,-1,None
 1900,*,190,Pera,Pera,1,Action,501,Incremus,-1,None
-2000,*,190,Pera,Pera,1,Action,502,Sylenis,15,PC w/o Silence
+2000,*,190,Pera,Pera,1,Action,502,Sylenis,15,PC W/O Silence
 2100,*,190,Pera,Pera,1,Action,505,Drilnos,-1,None
 2200,*,190,Pera,Pera,1,Action,551,Guard,-1,None
 100,*,191,Pera,Pera,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3537,10 +3537,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,191,Pera,Pera,0,Branch,30,Always,2100,Go to 2100
 1500,*,191,Pera,Pera,0,Branch,25,Rating 50%,1800,Go to 1800
 1600,*,191,Pera,Pera,0,Branch,30,Always,1900,Go to 1900
-1700,*,191,Pera,Pera,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,191,Pera,Pera,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,191,Pera,Pera,1,Action,513,Quika,-1,None
 1900,*,191,Pera,Pera,1,Action,501,Incremus,-1,None
-2000,*,191,Pera,Pera,1,Action,502,Sylenis,15,PC w/o Silence
+2000,*,191,Pera,Pera,1,Action,502,Sylenis,15,PC W/O Silence
 2100,*,191,Pera,Pera,1,Action,505,Drilnos,-1,None
 2200,*,191,Pera,Pera,1,Action,551,Guard,-1,None
 100,*,192,Pera,Pera,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3559,10 +3559,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,192,Pera,Pera,0,Branch,30,Always,2100,Go to 2100
 1500,*,192,Pera,Pera,0,Branch,25,Rating 50%,1800,Go to 1800
 1600,*,192,Pera,Pera,0,Branch,30,Always,1900,Go to 1900
-1700,*,192,Pera,Pera,1,Action,550,Attack,4,PC w/ Least HP
+1700,*,192,Pera,Pera,1,Action,550,Attack,4,PC With Lowest HP
 1800,*,192,Pera,Pera,1,Action,513,Quika,-1,None
 1900,*,192,Pera,Pera,1,Action,501,Incremus,-1,None
-2000,*,192,Pera,Pera,1,Action,502,Sylenis,15,PC w/o Silence
+2000,*,192,Pera,Pera,1,Action,502,Sylenis,15,PC W/O Silence
 2100,*,192,Pera,Pera,1,Action,505,Drilnos,-1,None
 2200,*,192,Pera,Pera,1,Action,551,Guard,-1,None
 100,*,193,Daikokuya,Daikokuya,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3616,7 +3616,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 4900,*,193,Daikokuya,Daikokuya,1,Action,281,Golden Flurry,-1,None
 5000,*,193,Daikokuya,Daikokuya,1,Action,282,Bodyguard,-1,None
 5100,*,193,Daikokuya,Daikokuya,1,Action,518,Eternes,-1,None
-5200,*,193,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC w/ Most HP
+5200,*,193,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC With Highest HP
 5300,*,193,Daikokuya,Daikokuya,1,Action,512,Slipara,-1,None
 5400,*,193,Daikokuya,Daikokuya,1,Action,308,Bodyguard,-1,None
 100,*,194,Daikokuya,Daikokuya,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3670,7 +3670,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 4900,*,194,Daikokuya,Daikokuya,1,Action,281,Golden Flurry,-1,None
 5000,*,194,Daikokuya,Daikokuya,1,Action,282,Bodyguard,-1,None
 5100,*,194,Daikokuya,Daikokuya,1,Action,518,Eternes,-1,None
-5200,*,194,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC w/ Most HP
+5200,*,194,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC With Highest HP
 5300,*,194,Daikokuya,Daikokuya,1,Action,512,Slipara,-1,None
 5400,*,194,Daikokuya,Daikokuya,1,Action,308,Bodyguard,-1,None
 100,*,195,Daikokuya,Daikokuya,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3724,7 +3724,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 4900,*,195,Daikokuya,Daikokuya,1,Action,281,Golden Flurry,-1,None
 5000,*,195,Daikokuya,Daikokuya,1,Action,282,Bodyguard,-1,None
 5100,*,195,Daikokuya,Daikokuya,1,Action,518,Eternes,-1,None
-5200,*,195,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC w/ Most HP
+5200,*,195,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC With Highest HP
 5300,*,195,Daikokuya,Daikokuya,1,Action,512,Slipara,-1,None
 5400,*,195,Daikokuya,Daikokuya,1,Action,308,Bodyguard,-1,None
 100,*,196,Daikokuya,Daikokuya,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3778,7 +3778,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 4900,*,196,Daikokuya,Daikokuya,1,Action,281,Golden Flurry,-1,None
 5000,*,196,Daikokuya,Daikokuya,1,Action,282,Bodyguard,-1,None
 5100,*,196,Daikokuya,Daikokuya,1,Action,518,Eternes,-1,None
-5200,*,196,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC w/ Most HP
+5200,*,196,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC With Highest HP
 5300,*,196,Daikokuya,Daikokuya,1,Action,512,Slipara,-1,None
 5400,*,196,Daikokuya,Daikokuya,1,Action,308,Bodyguard,-1,None
 100,*,197,Daikokuya,Daikokuya,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -3832,7 +3832,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 4900,*,197,Daikokuya,Daikokuya,1,Action,281,Golden Flurry,-1,None
 5000,*,197,Daikokuya,Daikokuya,1,Action,282,Bodyguard,-1,None
 5100,*,197,Daikokuya,Daikokuya,1,Action,518,Eternes,-1,None
-5200,*,197,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC w/ Most HP
+5200,*,197,Daikokuya,Daikokuya,1,Action,535,Electrulen,3,PC With Highest HP
 5300,*,197,Daikokuya,Daikokuya,1,Action,512,Slipara,-1,None
 5400,*,197,Daikokuya,Daikokuya,1,Action,308,Bodyguard,-1,None
 100,*,198,Rupee,Rupee,0,Branch,17,ECs Alive = 1,2300,Go to 2300
@@ -3859,12 +3859,12 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,198,Rupee,Rupee,0,Branch,30,Always,2600,Go to 2600
 2300,*,198,Rupee,Rupee,0,Branch,24,Rating 40%,2900,Go to 2900
 2400,*,198,Rupee,Rupee,0,Branch,30,Always,3100,Go to 3100
-2500,*,198,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC w/ Least HP
+2500,*,198,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC With Lowest HP
 2600,*,198,Rupee,Rupee,1,Action,551,Guard,-1,None
-2700,*,198,Rupee,Rupee,1,Action,500,Increm,11,EC w/o Strengthen
+2700,*,198,Rupee,Rupee,1,Action,500,Increm,11,EC W/O Strengthen
 2800,*,198,Rupee,Rupee,1,Action,505,Drilnos,-1,None
-2900,*,198,Rupee,Rupee,1,Action,503,Panika,14,PC w/o Confusion
-3000,*,198,Rupee,Rupee,1,Action,506,Sacri,12,EC Nearby
+2900,*,198,Rupee,Rupee,1,Action,503,Panika,14,PC W/O Confusion
+3000,*,198,Rupee,Rupee,1,Action,506,Sacri,12,Nearest PC/EC
 3100,*,198,Rupee,Rupee,1,Action,525,Pyrum,-1,None
 100,*,199,Rupee,Rupee,0,Branch,17,ECs Alive = 1,2300,Go to 2300
 200,*,199,Rupee,Rupee,0,Branch,1,HP < 50%,1700,Go to 1700
@@ -3890,12 +3890,12 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,199,Rupee,Rupee,0,Branch,30,Always,2600,Go to 2600
 2300,*,199,Rupee,Rupee,0,Branch,23,Rating 30%,2900,Go to 2900
 2400,*,199,Rupee,Rupee,0,Branch,30,Always,3100,Go to 3100
-2500,*,199,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC w/ Least HP
+2500,*,199,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC With Lowest HP
 2600,*,199,Rupee,Rupee,1,Action,551,Guard,-1,None
-2700,*,199,Rupee,Rupee,1,Action,500,Increm,11,EC w/o Strengthen
+2700,*,199,Rupee,Rupee,1,Action,500,Increm,11,EC W/O Strengthen
 2800,*,199,Rupee,Rupee,1,Action,505,Drilnos,-1,None
-2900,*,199,Rupee,Rupee,1,Action,503,Panika,14,PC w/o Confusion
-3000,*,199,Rupee,Rupee,1,Action,506,Sacri,12,EC Nearby
+2900,*,199,Rupee,Rupee,1,Action,503,Panika,14,PC W/O Confusion
+3000,*,199,Rupee,Rupee,1,Action,506,Sacri,12,Nearest PC/EC
 3100,*,199,Rupee,Rupee,1,Action,525,Pyrum,-1,None
 100,*,200,Rupee,Rupee,0,Branch,17,ECs Alive = 1,2300,Go to 2300
 200,*,200,Rupee,Rupee,0,Branch,1,HP < 50%,1700,Go to 1700
@@ -3921,12 +3921,12 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,200,Rupee,Rupee,0,Branch,30,Always,2600,Go to 2600
 2300,*,200,Rupee,Rupee,0,Branch,23,Rating 30%,2900,Go to 2900
 2400,*,200,Rupee,Rupee,0,Branch,30,Always,3100,Go to 3100
-2500,*,200,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC w/ Least HP
+2500,*,200,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC With Lowest HP
 2600,*,200,Rupee,Rupee,1,Action,551,Guard,-1,None
-2700,*,200,Rupee,Rupee,1,Action,500,Increm,11,EC w/o Strengthen
+2700,*,200,Rupee,Rupee,1,Action,500,Increm,11,EC W/O Strengthen
 2800,*,200,Rupee,Rupee,1,Action,505,Drilnos,-1,None
-2900,*,200,Rupee,Rupee,1,Action,503,Panika,14,PC w/o Confusion
-3000,*,200,Rupee,Rupee,1,Action,506,Sacri,12,EC Nearby
+2900,*,200,Rupee,Rupee,1,Action,503,Panika,14,PC W/O Confusion
+3000,*,200,Rupee,Rupee,1,Action,506,Sacri,12,Nearest PC/EC
 3100,*,200,Rupee,Rupee,1,Action,525,Pyrum,-1,None
 100,*,201,Rupee,Rupee,0,Branch,17,ECs Alive = 1,2300,Go to 2300
 200,*,201,Rupee,Rupee,0,Branch,1,HP < 50%,1700,Go to 1700
@@ -3952,12 +3952,12 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,201,Rupee,Rupee,0,Branch,30,Always,2600,Go to 2600
 2300,*,201,Rupee,Rupee,0,Branch,23,Rating 30%,2900,Go to 2900
 2400,*,201,Rupee,Rupee,0,Branch,30,Always,3100,Go to 3100
-2500,*,201,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC w/ Least HP
+2500,*,201,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC With Lowest HP
 2600,*,201,Rupee,Rupee,1,Action,551,Guard,-1,None
-2700,*,201,Rupee,Rupee,1,Action,500,Increm,11,EC w/o Strengthen
+2700,*,201,Rupee,Rupee,1,Action,500,Increm,11,EC W/O Strengthen
 2800,*,201,Rupee,Rupee,1,Action,505,Drilnos,-1,None
-2900,*,201,Rupee,Rupee,1,Action,503,Panika,14,PC w/o Confusion
-3000,*,201,Rupee,Rupee,1,Action,506,Sacri,12,EC Nearby
+2900,*,201,Rupee,Rupee,1,Action,503,Panika,14,PC W/O Confusion
+3000,*,201,Rupee,Rupee,1,Action,506,Sacri,12,Nearest PC/EC
 3100,*,201,Rupee,Rupee,1,Action,525,Pyrum,-1,None
 100,*,202,Rupee,Rupee,0,Branch,17,ECs Alive = 1,2400,Go to 2400
 200,*,202,Rupee,Rupee,0,Branch,1,HP < 50%,1800,Go to 1800
@@ -3987,28 +3987,28 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2600,*,202,Rupee,Rupee,0,Branch,22,Rating 20%,3400,Go to 3400
 2700,*,202,Rupee,Rupee,0,Branch,25,Rating 50%,3600,Go to 3600
 2800,*,202,Rupee,Rupee,0,Branch,30,Always,1400,Go to 1400
-2900,*,202,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC w/ Least HP
+2900,*,202,Rupee,Rupee,1,Action,283,Berserk Rupee,4,PC With Lowest HP
 3000,*,202,Rupee,Rupee,1,Action,551,Guard,-1,None
-3100,*,202,Rupee,Rupee,1,Action,500,Increm,11,EC w/o Strengthen
+3100,*,202,Rupee,Rupee,1,Action,500,Increm,11,EC W/O Strengthen
 3200,*,202,Rupee,Rupee,1,Action,505,Drilnos,-1,None
-3300,*,202,Rupee,Rupee,1,Action,503,Panika,14,PC w/o Confusion
-3400,*,202,Rupee,Rupee,1,Action,509,Sacrulen,12,EC Nearby
+3300,*,202,Rupee,Rupee,1,Action,503,Panika,14,PC W/O Confusion
+3400,*,202,Rupee,Rupee,1,Action,509,Sacrulen,12,Nearest PC/EC
 3500,*,202,Rupee,Rupee,1,Action,525,Pyrum,-1,None
-3600,*,202,Rupee,Rupee,1,Action,507,Sacres,12,EC Nearby
+3600,*,202,Rupee,Rupee,1,Action,507,Sacres,12,Nearest PC/EC
 100,*,203,ルピー,Rupee,0,Branch,17,ECs Alive = 1,300,Go to 300
-200,*,203,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC w/ Most HP
+200,*,203,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC With Highest HP
 300,*,203,ルピー,Rupee,1,Action,551,Guard,-1,None
 100,*,204,ルピー,Rupee,0,Branch,17,ECs Alive = 1,300,Go to 300
-200,*,204,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC w/ Most HP
+200,*,204,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC With Highest HP
 300,*,204,ルピー,Rupee,1,Action,551,Guard,-1,None
 100,*,205,ルピー,Rupee,0,Branch,17,ECs Alive = 1,300,Go to 300
-200,*,205,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC w/ Most HP
+200,*,205,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC With Highest HP
 300,*,205,ルピー,Rupee,1,Action,551,Guard,-1,None
 100,*,206,ルピー,Rupee,0,Branch,17,ECs Alive = 1,300,Go to 300
-200,*,206,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC w/ Most HP
+200,*,206,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC With Highest HP
 300,*,206,ルピー,Rupee,1,Action,551,Guard,-1,None
 100,*,207,ルピー,Rupee,0,Branch,17,ECs Alive = 1,300,Go to 300
-200,*,207,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC w/ Most HP
+200,*,207,ルピー,Rupee,1,Action,283,Berserk Rupee,3,PC With Highest HP
 300,*,207,ルピー,Rupee,1,Action,551,Guard,-1,None
 100,*,208,Barta,Barta,0,Branch,17,ECs Alive = 1,2100,Go to 2100
 200,*,208,Barta,Barta,0,Branch,67,Used Legendary Charge?,2000,Go to 2000
@@ -4035,8 +4035,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2300,*,208,Barta,Barta,0,Branch,30,Always,2400,Go to 2400
 2400,*,208,Barta,Barta,1,Action,550,Attack,2,Random PC
 2500,*,208,Barta,Barta,1,Action,284,Legendary Fire,2,Random PC
-2600,*,208,Barta,Barta,1,Action,287,Sacri Crystal,12,EC Nearby
-2700,*,208,Barta,Barta,1,Action,285,Legendary Punch,3,PC w/ Most HP
+2600,*,208,Barta,Barta,1,Action,287,Sacri Crystal,12,Nearest PC/EC
+2700,*,208,Barta,Barta,1,Action,285,Legendary Punch,3,PC With Highest HP
 2800,*,208,Barta,Barta,1,Action,286,Legendary Charge,-1,None
 2900,*,208,Barta,Barta,1,Action,551,Guard,-1,None
 100,*,209,Barta,Barta,0,Branch,17,ECs Alive = 1,2100,Go to 2100
@@ -4064,8 +4064,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2300,*,209,Barta,Barta,0,Branch,30,Always,2400,Go to 2400
 2400,*,209,Barta,Barta,1,Action,550,Attack,2,Random PC
 2500,*,209,Barta,Barta,1,Action,284,Legendary Fire,2,Random PC
-2600,*,209,Barta,Barta,1,Action,287,Sacri Crystal,12,EC Nearby
-2700,*,209,Barta,Barta,1,Action,285,Legendary Punch,3,PC w/ Most HP
+2600,*,209,Barta,Barta,1,Action,287,Sacri Crystal,12,Nearest PC/EC
+2700,*,209,Barta,Barta,1,Action,285,Legendary Punch,3,PC With Highest HP
 2800,*,209,Barta,Barta,1,Action,286,Legendary Charge,-1,None
 2900,*,209,Barta,Barta,1,Action,551,Guard,-1,None
 100,*,210,Barta,Barta,0,Branch,17,ECs Alive = 1,2100,Go to 2100
@@ -4093,8 +4093,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2300,*,210,Barta,Barta,0,Branch,30,Always,2400,Go to 2400
 2400,*,210,Barta,Barta,1,Action,550,Attack,2,Random PC
 2500,*,210,Barta,Barta,1,Action,284,Legendary Fire,2,Random PC
-2600,*,210,Barta,Barta,1,Action,287,Sacri Crystal,12,EC Nearby
-2700,*,210,Barta,Barta,1,Action,285,Legendary Punch,3,PC w/ Most HP
+2600,*,210,Barta,Barta,1,Action,287,Sacri Crystal,12,Nearest PC/EC
+2700,*,210,Barta,Barta,1,Action,285,Legendary Punch,3,PC With Highest HP
 2800,*,210,Barta,Barta,1,Action,286,Legendary Charge,-1,None
 2900,*,210,Barta,Barta,1,Action,551,Guard,-1,None
 100,*,211,Barta,Barta,0,Branch,17,ECs Alive = 1,2100,Go to 2100
@@ -4122,8 +4122,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2300,*,211,Barta,Barta,0,Branch,30,Always,2400,Go to 2400
 2400,*,211,Barta,Barta,1,Action,550,Attack,2,Random PC
 2500,*,211,Barta,Barta,1,Action,284,Legendary Fire,2,Random PC
-2600,*,211,Barta,Barta,1,Action,287,Sacri Crystal,12,EC Nearby
-2700,*,211,Barta,Barta,1,Action,285,Legendary Punch,3,PC w/ Most HP
+2600,*,211,Barta,Barta,1,Action,287,Sacri Crystal,12,Nearest PC/EC
+2700,*,211,Barta,Barta,1,Action,285,Legendary Punch,3,PC With Highest HP
 2800,*,211,Barta,Barta,1,Action,286,Legendary Charge,-1,None
 2900,*,211,Barta,Barta,1,Action,551,Guard,-1,None
 100,*,212,Barta,Barta,0,Branch,17,ECs Alive = 1,2100,Go to 2100
@@ -4151,8 +4151,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2300,*,212,Barta,Barta,0,Branch,30,Always,2400,Go to 2400
 2400,*,212,Barta,Barta,1,Action,550,Attack,2,Random PC
 2500,*,212,Barta,Barta,1,Action,284,Legendary Fire,2,Random PC
-2600,*,212,Barta,Barta,1,Action,287,Sacri Crystal,12,EC Nearby
-2700,*,212,Barta,Barta,1,Action,285,Legendary Punch,3,PC w/ Most HP
+2600,*,212,Barta,Barta,1,Action,287,Sacri Crystal,12,Nearest PC/EC
+2700,*,212,Barta,Barta,1,Action,285,Legendary Punch,3,PC With Highest HP
 2800,*,212,Barta,Barta,1,Action,286,Legendary Charge,-1,None
 2900,*,212,Barta,Barta,1,Action,551,Guard,-1,None
 100,*,213,Vize,Vize,0,Branch,19,SP ≤ 50%,300,Go to 300
@@ -4879,9 +4879,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,233,Gunarm,Gunarm,0,Branch,24,Rating 40%,2900,Go to 2900
 2300,*,233,Gunarm,Gunarm,0,Branch,26,Rating 60%,2500,Go to 2500
 2400,*,233,Gunarm,Gunarm,0,Branch,30,Always,2800,Go to 2800
-2500,*,233,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC w/ Most HP
+2500,*,233,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC With Highest HP
 2600,*,233,Gunarm,Gunarm,1,Action,298,Charge,-1,None
-2700,*,233,Gunarm,Gunarm,1,Action,299,Rampage,4,PC w/ Least HP
+2700,*,233,Gunarm,Gunarm,1,Action,299,Rampage,4,PC With Lowest HP
 2800,*,233,Gunarm,Gunarm,1,Action,300,Sidewinder,-1,None
 2900,*,233,Gunarm,Gunarm,1,Action,301,Target Search,-1,None
 100,*,234,Gunarm,Gunarm,0,Branch,68,Used Target Search?,2700,Go to 2700
@@ -4908,9 +4908,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,234,Gunarm,Gunarm,0,Branch,24,Rating 40%,2900,Go to 2900
 2300,*,234,Gunarm,Gunarm,0,Branch,26,Rating 60%,2500,Go to 2500
 2400,*,234,Gunarm,Gunarm,0,Branch,30,Always,2800,Go to 2800
-2500,*,234,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC w/ Most HP
+2500,*,234,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC With Highest HP
 2600,*,234,Gunarm,Gunarm,1,Action,298,Charge,-1,None
-2700,*,234,Gunarm,Gunarm,1,Action,299,Rampage,4,PC w/ Least HP
+2700,*,234,Gunarm,Gunarm,1,Action,299,Rampage,4,PC With Lowest HP
 2800,*,234,Gunarm,Gunarm,1,Action,300,Sidewinder,-1,None
 2900,*,234,Gunarm,Gunarm,1,Action,301,Target Search,-1,None
 100,*,235,Gunarm,Gunarm,0,Branch,68,Used Target Search?,2700,Go to 2700
@@ -4937,9 +4937,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,235,Gunarm,Gunarm,0,Branch,24,Rating 40%,2900,Go to 2900
 2300,*,235,Gunarm,Gunarm,0,Branch,26,Rating 60%,2500,Go to 2500
 2400,*,235,Gunarm,Gunarm,0,Branch,30,Always,2800,Go to 2800
-2500,*,235,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC w/ Most HP
+2500,*,235,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC With Highest HP
 2600,*,235,Gunarm,Gunarm,1,Action,298,Charge,-1,None
-2700,*,235,Gunarm,Gunarm,1,Action,299,Rampage,4,PC w/ Least HP
+2700,*,235,Gunarm,Gunarm,1,Action,299,Rampage,4,PC With Lowest HP
 2800,*,235,Gunarm,Gunarm,1,Action,300,Sidewinder,-1,None
 2900,*,235,Gunarm,Gunarm,1,Action,301,Target Search,-1,None
 100,*,236,Gunarm,Gunarm,0,Branch,68,Used Target Search?,2700,Go to 2700
@@ -4966,9 +4966,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,236,Gunarm,Gunarm,0,Branch,24,Rating 40%,2900,Go to 2900
 2300,*,236,Gunarm,Gunarm,0,Branch,26,Rating 60%,2500,Go to 2500
 2400,*,236,Gunarm,Gunarm,0,Branch,30,Always,2800,Go to 2800
-2500,*,236,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC w/ Most HP
+2500,*,236,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC With Highest HP
 2600,*,236,Gunarm,Gunarm,1,Action,298,Charge,-1,None
-2700,*,236,Gunarm,Gunarm,1,Action,299,Rampage,4,PC w/ Least HP
+2700,*,236,Gunarm,Gunarm,1,Action,299,Rampage,4,PC With Lowest HP
 2800,*,236,Gunarm,Gunarm,1,Action,300,Sidewinder,-1,None
 2900,*,236,Gunarm,Gunarm,1,Action,301,Target Search,-1,None
 100,*,237,Gunarm,Gunarm,0,Branch,68,Used Target Search?,2700,Go to 2700
@@ -4995,9 +4995,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,237,Gunarm,Gunarm,0,Branch,24,Rating 40%,2900,Go to 2900
 2300,*,237,Gunarm,Gunarm,0,Branch,26,Rating 60%,2500,Go to 2500
 2400,*,237,Gunarm,Gunarm,0,Branch,30,Always,2800,Go to 2800
-2500,*,237,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC w/ Most HP
+2500,*,237,Gunarm,Gunarm,1,Action,297,Moonstone Blast,3,PC With Highest HP
 2600,*,237,Gunarm,Gunarm,1,Action,298,Charge,-1,None
-2700,*,237,Gunarm,Gunarm,1,Action,299,Rampage,4,PC w/ Least HP
+2700,*,237,Gunarm,Gunarm,1,Action,299,Rampage,4,PC With Lowest HP
 2800,*,237,Gunarm,Gunarm,1,Action,300,Sidewinder,-1,None
 2900,*,237,Gunarm,Gunarm,1,Action,301,Target Search,-1,None
 100,*,238,Vigoro,Vigoro,0,Branch,19,SP ≤ 50%,400,Go to 400
@@ -5019,8 +5019,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,238,Vigoro,Vigoro,0,Branch,27,Rating 70%,2200,Go to 2200
 1800,*,238,Vigoro,Vigoro,0,Branch,30,Always,2100,Go to 2100
 1900,*,238,Vigoro,Vigoro,1,Action,550,Attack,2,Random PC
-2000,*,238,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC w/ Least HP
-2100,*,238,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC w/ Most HP
+2000,*,238,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC With Lowest HP
+2100,*,238,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC With Highest HP
 2200,*,238,Vigoro,Vigoro,1,Action,60,Vigoro's Charm,23,Aika
 100,*,239,Vigoro,Vigoro,0,Branch,19,SP ≤ 50%,400,Go to 400
 200,*,239,Vigoro,Vigoro,0,Branch,26,Rating 60%,2000,Go to 2000
@@ -5041,8 +5041,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,239,Vigoro,Vigoro,0,Branch,27,Rating 70%,2200,Go to 2200
 1800,*,239,Vigoro,Vigoro,0,Branch,30,Always,2100,Go to 2100
 1900,*,239,Vigoro,Vigoro,1,Action,550,Attack,2,Random PC
-2000,*,239,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC w/ Least HP
-2100,*,239,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC w/ Most HP
+2000,*,239,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC With Lowest HP
+2100,*,239,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC With Highest HP
 2200,*,239,Vigoro,Vigoro,1,Action,60,Vigoro's Charm,23,Aika
 100,*,240,Vigoro,Vigoro,0,Branch,19,SP ≤ 50%,400,Go to 400
 200,*,240,Vigoro,Vigoro,0,Branch,26,Rating 60%,2000,Go to 2000
@@ -5063,8 +5063,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,240,Vigoro,Vigoro,0,Branch,27,Rating 70%,2200,Go to 2200
 1800,*,240,Vigoro,Vigoro,0,Branch,30,Always,2100,Go to 2100
 1900,*,240,Vigoro,Vigoro,1,Action,550,Attack,2,Random PC
-2000,*,240,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC w/ Least HP
-2100,*,240,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC w/ Most HP
+2000,*,240,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC With Lowest HP
+2100,*,240,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC With Highest HP
 2200,*,240,Vigoro,Vigoro,1,Action,60,Vigoro's Charm,23,Aika
 100,*,241,Vigoro,Vigoro,0,Branch,19,SP ≤ 50%,400,Go to 400
 200,*,241,Vigoro,Vigoro,0,Branch,26,Rating 60%,2000,Go to 2000
@@ -5085,8 +5085,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,241,Vigoro,Vigoro,0,Branch,27,Rating 70%,2200,Go to 2200
 1800,*,241,Vigoro,Vigoro,0,Branch,30,Always,2100,Go to 2100
 1900,*,241,Vigoro,Vigoro,1,Action,550,Attack,2,Random PC
-2000,*,241,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC w/ Least HP
-2100,*,241,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC w/ Most HP
+2000,*,241,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC With Lowest HP
+2100,*,241,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC With Highest HP
 2200,*,241,Vigoro,Vigoro,1,Action,60,Vigoro's Charm,23,Aika
 100,*,242,Vigoro,Vigoro,0,Branch,50,Used S-Move?,1200,Go to 1200
 200,*,242,Vigoro,Vigoro,0,Branch,11,Turn 1,800,Go to 800
@@ -5104,8 +5104,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,242,Vigoro,Vigoro,0,Branch,27,Rating 70%,1900,Go to 1900
 1500,*,242,Vigoro,Vigoro,0,Branch,30,Always,1800,Go to 1800
 1600,*,242,Vigoro,Vigoro,1,Action,550,Attack,2,Random PC
-1700,*,242,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC w/ Least HP
-1800,*,242,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC w/ Most HP
+1700,*,242,Vigoro,Vigoro,1,Action,17,Random Fire,4,PC With Lowest HP
+1800,*,242,Vigoro,Vigoro,1,Action,27,Cannon Fire,3,PC With Highest HP
 1900,*,242,Vigoro,Vigoro,1,Action,60,Vigoro's Charm,23,Aika
 100,*,243,DeathHound,DeathHound,0,Branch,17,ECs Alive = 1,2200,Go to 2200
 200,*,243,DeathHound,DeathHound,0,Branch,19,SP ≤ 50%,400,Go to 400
@@ -5130,11 +5130,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2100,*,243,DeathHound,DeathHound,0,Branch,30,Always,2700,Go to 2700
 2200,*,243,DeathHound,DeathHound,0,Branch,26,Rating 60%,2400,Go to 2400
 2300,*,243,DeathHound,DeathHound,0,Branch,30,Always,2700,Go to 2700
-2400,*,243,DeathHound,DeathHound,1,Action,550,Attack,18,PC w/o Fatigue
+2400,*,243,DeathHound,DeathHound,1,Action,550,Attack,18,PC W/O Fatigue
 2500,*,243,DeathHound,DeathHound,1,Action,551,Guard,-1,None
 2600,*,243,DeathHound,DeathHound,1,Action,501,Incremus,-1,None
-2700,*,243,DeathHound,DeathHound,1,Action,510,Noxi,19,PC w/o Poison
-2800,*,243,DeathHound,DeathHound,1,Action,506,Sacri,12,EC Nearby
+2700,*,243,DeathHound,DeathHound,1,Action,510,Noxi,19,PC W/O Poison
+2800,*,243,DeathHound,DeathHound,1,Action,506,Sacri,12,Nearest PC/EC
 100,*,244,DeathHound,DeathHound,0,Branch,17,ECs Alive = 1,2200,Go to 2200
 200,*,244,DeathHound,DeathHound,0,Branch,19,SP ≤ 50%,400,Go to 400
 300,*,244,DeathHound,DeathHound,0,Branch,28,Rating 80%,2400,Go to 2400
@@ -5158,11 +5158,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2100,*,244,DeathHound,DeathHound,0,Branch,30,Always,2700,Go to 2700
 2200,*,244,DeathHound,DeathHound,0,Branch,26,Rating 60%,2400,Go to 2400
 2300,*,244,DeathHound,DeathHound,0,Branch,30,Always,2700,Go to 2700
-2400,*,244,DeathHound,DeathHound,1,Action,550,Attack,18,PC w/o Fatigue
+2400,*,244,DeathHound,DeathHound,1,Action,550,Attack,18,PC W/O Fatigue
 2500,*,244,DeathHound,DeathHound,1,Action,551,Guard,-1,None
 2600,*,244,DeathHound,DeathHound,1,Action,501,Incremus,-1,None
-2700,*,244,DeathHound,DeathHound,1,Action,510,Noxi,19,PC w/o Poison
-2800,*,244,DeathHound,DeathHound,1,Action,507,Sacres,12,EC Nearby
+2700,*,244,DeathHound,DeathHound,1,Action,510,Noxi,19,PC W/O Poison
+2800,*,244,DeathHound,DeathHound,1,Action,507,Sacres,12,Nearest PC/EC
 100,*,245,DeathHound,DeathHound,0,Branch,17,ECs Alive = 1,2300,Go to 2300
 200,*,245,DeathHound,DeathHound,0,Branch,19,SP ≤ 50%,500,Go to 500
 300,*,245,DeathHound,DeathHound,0,Branch,24,Rating 40%,2500,Go to 2500
@@ -5187,11 +5187,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2200,*,245,DeathHound,DeathHound,0,Branch,30,Always,2800,Go to 2800
 2300,*,245,DeathHound,DeathHound,0,Branch,26,Rating 60%,2500,Go to 2500
 2400,*,245,DeathHound,DeathHound,0,Branch,30,Always,2800,Go to 2800
-2500,*,245,DeathHound,DeathHound,1,Action,550,Attack,18,PC w/o Fatigue
+2500,*,245,DeathHound,DeathHound,1,Action,550,Attack,18,PC W/O Fatigue
 2600,*,245,DeathHound,DeathHound,1,Action,551,Guard,-1,None
 2700,*,245,DeathHound,DeathHound,1,Action,501,Incremus,-1,None
 2800,*,245,DeathHound,DeathHound,1,Action,511,Noxus,-1,None
-2900,*,245,DeathHound,DeathHound,1,Action,507,Sacres,12,EC Nearby
+2900,*,245,DeathHound,DeathHound,1,Action,507,Sacres,12,Nearest PC/EC
 100,*,246,DeathHound,DeathHound,0,Branch,17,ECs Alive = 1,2400,Go to 2400
 200,*,246,DeathHound,DeathHound,0,Branch,39,Any EC HP < 25%,2600,Go to 2600
 300,*,246,DeathHound,DeathHound,0,Branch,19,SP ≤ 50%,600,Go to 600
@@ -5219,11 +5219,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2500,*,246,DeathHound,DeathHound,0,Branch,30,Always,3100,Go to 3100
 2600,*,246,DeathHound,DeathHound,0,Branch,22,Rating 20%,2800,Go to 2800
 2700,*,246,DeathHound,DeathHound,0,Branch,29,Rating 90%,3200,Go to 3200
-2800,*,246,DeathHound,DeathHound,1,Action,550,Attack,18,PC w/o Fatigue
+2800,*,246,DeathHound,DeathHound,1,Action,550,Attack,18,PC W/O Fatigue
 2900,*,246,DeathHound,DeathHound,1,Action,551,Guard,-1,None
 3000,*,246,DeathHound,DeathHound,1,Action,501,Incremus,-1,None
 3100,*,246,DeathHound,DeathHound,1,Action,511,Noxus,-1,None
-3200,*,246,DeathHound,DeathHound,1,Action,508,Sacrum,12,EC Nearby
+3200,*,246,DeathHound,DeathHound,1,Action,508,Sacrum,12,Nearest PC/EC
 100,*,247,ヨウジン,Youjin,0,Branch,23,Rating 30%,600,Go to 600
 200,*,247,ヨウジン,Youjin,0,Branch,23,Rating 30%,500,Go to 500
 300,*,247,ヨウジン,Youjin,0,Branch,21,Rating 10%,700,Go to 700
@@ -5257,9 +5257,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,249,ボゥ,Boo,0,Branch,30,Always,1300,Go to 1300
 1200,*,249,ボゥ,Boo,1,Action,550,Attack,2,Random PC
 1300,*,249,ボゥ,Boo,1,Action,551,Guard,-1,None
-1400,*,249,ボゥ,Boo,1,Action,116,Power Potion,11,EC w/o Strengthen
+1400,*,249,ボゥ,Boo,1,Action,116,Power Potion,11,EC W/O Strengthen
 1500,*,249,ボゥ,Boo,1,Action,117,Speed Potion,-1,None
-1600,*,249,ボゥ,Boo,1,Action,118,Sacres Crystal,7,EC w/ Least HP
+1600,*,249,ボゥ,Boo,1,Action,118,Sacres Crystal,7,EC With Lowest HP
 100,*,250,Boo,Boo,0,Branch,38,Any EC HP < 50%,2100,Go to 2100
 200,*,250,Boo,Boo,0,Branch,11,Turn 1,900,Go to 900
 300,*,250,Boo,Boo,0,Branch,12,Turn 2,1200,Go to 1200
@@ -5278,9 +5278,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1600,*,250,Boo,Boo,0,Branch,30,Always,1800,Go to 1800
 1700,*,250,Boo,Boo,1,Action,550,Attack,2,Random PC
 1800,*,250,Boo,Boo,1,Action,551,Guard,-1,None
-1900,*,250,Boo,Boo,1,Action,116,Power Potion,11,EC w/o Strengthen
+1900,*,250,Boo,Boo,1,Action,116,Power Potion,11,EC W/O Strengthen
 2000,*,250,Boo,Boo,1,Action,117,Speed Potion,-1,None
-2100,*,250,Boo,Boo,1,Action,118,Sacres Crystal,12,EC Nearby
+2100,*,250,Boo,Boo,1,Action,118,Sacres Crystal,12,Nearest PC/EC
 100,*,251,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,400,Go to 400
 200,*,251,Zivilyn Bane,Zivilyn Bane,0,Branch,12,Turn 2,600,Go to 600
 300,*,251,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,800,Go to 800
@@ -5294,7 +5294,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,251,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1400,Go to 1400
 1200,*,251,Zivilyn Bane,Zivilyn Bane,0,Branch,26,Rating 60%,1500,Go to 1500
 1300,*,251,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1600,Go to 1600
-1400,*,251,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
+1400,*,251,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1500,*,251,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
 1600,*,251,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 100,*,252,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,400,Go to 400
@@ -5310,10 +5310,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,252,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1400,Go to 1400
 1200,*,252,Zivilyn Bane,Zivilyn Bane,0,Branch,26,Rating 60%,1500,Go to 1500
 1300,*,252,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1600,Go to 1600
-1400,*,252,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC w/ Least HP
+1400,*,252,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1500,*,252,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
 1600,*,252,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 100,*,253,フロック,Frock,0,Branch,30,Always,200,Go to 200
-200,*,253,フロック,Frock,1,Action,550,Attack,4,PC w/ Least HP
+200,*,253,フロック,Frock,1,Action,550,Attack,4,PC With Lowest HP
 100,*,254,Frock,Frock,0,Branch,30,Always,200,Go to 200
-200,*,254,Frock,Frock,1,Action,550,Attack,4,PC w/ Least HP
+200,*,254,Frock,Frock,1,Action,550,Attack,4,PC With Lowest HP
