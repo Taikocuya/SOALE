@@ -73,7 +73,7 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 71,0x802b0e6c,0x182b,8,Giftgas,0x188d,13,Gas Venenoso,0x1880,15,Gas Empoisonné,0x180c,11,Poison Gas,0,S-Move,4,Poison + Damage,96,PC Square S3,0,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50,0,0
 72,0x802b1038,0x1833,15,Sacrum Crystal,0x189a,15,Cristal Sacrum,0x188f,15,Cristal Sacrum,0x1817,15,Sacrum Crystal,0,S-Move,31,Recover HP,4,All ECs,0,400,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 73,0x802b0ef8,0x1842,17,Verbündete rufen,0x18a9,17,Convocar aliados,0x189e,15,Appel d'alliés,0x1826,12,Call Allies,0,S-Move,43,Call EC,0,None,0,97,Razorbeak,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-74,0x802b0ef8,0x1853,17,Verbündete rufen,0x18ba,17,Convocar aliados,0x18ad,15,Appel d'alliés,0x1832,12,Call Allies,0,S-Move,43,Call EC,0,None,0,75,Eversor A,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
+74,0x802b0ef8,0x1853,17,Verbündete rufen,0x18ba,17,Convocar aliados,0x18ad,15,Appel d'alliés,0x1832,12,Call Allies,0,S-Move,43,Call EC,0,None,0,75,Eversor,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 75,0x802b1048,0x1864,9,Entladen,0x18cb,8,Evacuar,0x18bc,7,Renvoi,0x183e,10,Discharge,0,S-Move,0,Damage,2,All PCs,0,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0,0,0
 76,0x802b1054,0x186d,14,Tatatimorutto,0x18d3,14,Tatatimorutto,0x18c3,14,Tatatimorutto,0x1848,14,Tatatimorutto,0,S-Move,0,Damage,1,Single PC,0,16,Attack,40,3,Blue,0,Physical,0,Power,0,Power,-1,None,0,0,0
 77,0x802b1064,0x187b,12,Runde Klaue,0x18e1,15,Tenaza Redonda,0x18d1,16,Griffe Arrondie,0x1856,11,Round Claw,0,S-Move,0,Damage,1,Single PC,0,16,Attack,40,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
