@@ -59,7 +59,7 @@ Thumbs.db
 # Magic Droplet at New Game
 !/dist/**/field/me201a.sct
 
-# Enemy 5 (Enforcer)
+# Enemy 5 (Enforcer B)
 !/dist/**/bchara/mg005.mld
 !/dist/**/bchara/mg005.std
 !/dist/**/bchara/mg0050.std
@@ -67,25 +67,31 @@ Thumbs.db
 !/dist/**/beff/f2907005.mlk
 !/dist/**/beff/f2907205.mlk
 
-# Enemy 166 (Spell Warden)
+# Enemy 6 (Destroyer B)
+!/dist/**/bchara/mb075.mld
+!/dist/**/bchara/mb075.std
+!/dist/**/bchara/mb0750.std
+!/dist/**/beff/f290974b.mlk
+
+# Enemy 166 (Spell Warden B)
 !/dist/**/bchara/mg038.mld
 !/dist/**/bchara/mg038.std
 !/dist/**/bchara/mg0380.std
 !/dist/**/beff/f05000a6.mlk
 
-# Enemy 167 (Spell Warden)
+# Enemy 167 (Spell Warden C)
 !/dist/**/bchara/mg039.mld
 !/dist/**/bchara/mg039.std
 !/dist/**/bchara/mg0390.std
 !/dist/**/beff/f05000a7.mlk
 
-# Enemy 170 (Royal Guard)
+# Enemy 170 (Royal Guard B)
 !/dist/**/bchara/mg042.mld
 !/dist/**/bchara/mg042.std
 !/dist/**/bchara/mg0420.std
 !/dist/**/beff/f05000aa.mlk
 
-# Enemy 171 (Kantor)
+# Enemy 171 (Kantor B)
 !/dist/**/bchara/mg043.mld
 !/dist/**/bchara/mg043.std
 !/dist/**/bchara/mg0430.std
@@ -94,7 +100,7 @@ Thumbs.db
 !/dist/**/sound/b7025643_L.dsp
 !/dist/**/sound/b7025643_R.dsp
 
-# Enemy 172 (Kantor)
+# Enemy 172 (Kantor C)
 !/dist/**/bchara/mg044.mld
 !/dist/**/bchara/mg044.std
 !/dist/**/bchara/mg0440.std
@@ -103,37 +109,37 @@ Thumbs.db
 !/dist/**/sound/b7025644_L.dsp
 !/dist/**/sound/b7025644_R.dsp
 
-# Enemy 175 (Polraxis)
+# Enemy 175 (Polraxis B)
 !/dist/**/bchara/mg047.mld
 !/dist/**/bchara/mg047.std
 !/dist/**/bchara/mg0470.std
 !/dist/**/beff/f05000af.mlk
 
-# Enemy 176 (Polraxis)
+# Enemy 176 (Polraxis C)
 !/dist/**/bchara/mg048.mld
 !/dist/**/bchara/mg048.std
 !/dist/**/bchara/mg0480.std
 !/dist/**/beff/f05000b0.mlk
 
-# Enemy 177 (Polraxis)
+# Enemy 177 (Polraxis D)
 !/dist/**/bchara/mg049.mld
 !/dist/**/bchara/mg049.std
 !/dist/**/bchara/mg0490.std
 !/dist/**/beff/f05000b1.mlk
 
-# Enemy 180 (Mage Warden)
+# Enemy 180 (Mage Warden B)
 !/dist/**/bchara/mg052.mld
 !/dist/**/bchara/mg052.std
 !/dist/**/bchara/mg0520.std
 !/dist/**/beff/f05000b4.mlk
 
-# Enemy 181 (Mage Warden)
+# Enemy 181 (Mage Warden C)
 !/dist/**/bchara/mg053.mld
 !/dist/**/bchara/mg053.std
 !/dist/**/bchara/mg0530.std
 !/dist/**/beff/f05000b5.mlk
 
-# Enemy 182 (Executioner)
+# Enemy 182 (Executioner B)
 !/dist/**/bchara/mg054.mld
 !/dist/**/bchara/mg054.std
 !/dist/**/bchara/mg0540.std

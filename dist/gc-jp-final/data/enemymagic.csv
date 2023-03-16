@@ -14,8 +14,8 @@ Entry ID,Entry JP Name,Pad 1,Pad 2,Pad 3,Pad 4,Category ID,[Category Name],Effec
 12,スリーパ,0,0,0,0,1,Magic,9,Sleep,2,All PCs,0,Power,0,3,Blue,1,Magical,1,Will,1,Will,3,Sleep,60,0,0
 13,クイッカ,0,0,0,0,1,Magic,20,Incr Quick,4,All ECs,0,Power,0,3,Blue,1,Magical,0,Power,0,Power,-1,None,0,0,0
 14,キュア,0,0,0,0,1,Magic,30,Rem Neg States B,3,Single EC,0,Power,0,5,Silver,1,Magical,0,Power,0,Power,-1,None,0,0,0
-15,ライザ,0,0,0,0,1,Magic,27,Revive w/ HP of 50%,3,Single EC,0,Power,0,5,Silver,1,Magical,55,Revival,55,Revival,7,Revival,-1,0,0
-16,ライゾン,0,0,0,0,1,Magic,28,Revive w/ HP of 100%,3,Single EC,0,Power,0,5,Silver,1,Magical,0,Power,0,Power,7,Revival,0,0,0
+15,ライザ,0,0,0,0,1,Magic,27,Revive With HP of 50%,3,Single EC,0,Power,0,5,Silver,1,Magical,55,Revival,55,Revival,7,Revival,-1,0,0
+16,ライゾン,0,0,0,0,1,Magic,28,Revive With HP of 100%,3,Single EC,0,Power,0,5,Silver,1,Magical,0,Power,0,Power,7,Revival,0,0,0
 17,ジェダ,0,0,0,0,1,Magic,68,Unconscious + Damage B,1,Single PC,1,Will,60,5,Silver,1,Magical,1,Will,1,Will,1,Unconscious,90,0,0
 18,ジェデス,0,0,0,0,1,Magic,68,Unconscious + Damage B,2,All PCs,1,Will,180,5,Silver,1,Magical,1,Will,1,Will,1,Unconscious,90,0,0
 19,ジェドーサ,0,0,0,0,1,Magic,68,Unconscious + Damage B,1,Single PC,1,Will,210,5,Silver,1,Magical,1,Will,1,Will,1,Unconscious,90,0,0

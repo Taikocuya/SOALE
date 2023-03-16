@@ -14,8 +14,8 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 12,0x8034c018,0x142b,8,Slipara,0x141e,8,Slipara,0x1420,8,Slipara,0x141b,8,Slipara,1,Magic,9,Sleep,2,All PCs,0,0,Power,0,3,Blue,1,Magical,1,Will,1,Will,3,Sleep,60,0,0
 13,0x8034c020,0x1433,6,Quika,0x1426,6,Quika,0x1428,6,Quika,0x1423,6,Quika,1,Magic,20,Incr Quick,4,All ECs,0,0,Power,0,3,Blue,1,Magical,0,Power,0,Power,-1,None,0,0,0
 14,0x8034c028,0x1439,6,Curia,0x142c,6,Curia,0x142e,6,Curia,0x1429,6,Curia,1,Magic,30,Rem Neg States B,3,Single EC,0,0,Power,0,5,Silver,1,Magical,0,Power,0,Power,-1,None,0,0,0
-15,0x8034c030,0x143f,6,Risan,0x1432,6,Risan,0x1434,6,Risan,0x142f,6,Risan,1,Magic,27,Revive w/ HP of 50%,3,Single EC,0,0,Power,0,5,Silver,1,Magical,55,Revival,55,Revival,7,Revival,-1,0,0
-16,0x8034c038,0x1445,8,Riselem,0x1438,8,Riselem,0x143a,8,Riselem,0x1435,8,Riselem,1,Magic,28,Revive w/ HP of 100%,3,Single EC,0,0,Power,0,5,Silver,1,Magical,0,Power,0,Power,7,Revival,0,0,0
+15,0x8034c030,0x143f,6,Risan,0x1432,6,Risan,0x1434,6,Risan,0x142f,6,Risan,1,Magic,27,Revive With HP of 50%,3,Single EC,0,0,Power,0,5,Silver,1,Magical,55,Revival,55,Revival,7,Revival,-1,0,0
+16,0x8034c038,0x1445,8,Riselem,0x1438,8,Riselem,0x143a,8,Riselem,0x1435,8,Riselem,1,Magic,28,Revive With HP of 100%,3,Single EC,0,0,Power,0,5,Silver,1,Magical,0,Power,0,Power,7,Revival,0,0,0
 17,0x8034c040,0x144d,7,Eterni,0x1440,7,Eterni,0x1442,7,Eterni,0x143d,7,Eterni,1,Magic,68,Unconscious + Damage B,1,Single PC,0,1,Will,60,5,Silver,1,Magical,1,Will,1,Will,1,Unconscious,90,0,0
 18,0x8034c048,0x1454,8,Eternes,0x1447,8,Eternes,0x1449,8,Eternes,0x1444,8,Eternes,1,Magic,68,Unconscious + Damage B,2,All PCs,0,1,Will,180,5,Silver,1,Magical,1,Will,1,Will,1,Unconscious,90,0,0
 19,0x8034c050,0x145c,8,Eternum,0x144f,8,Eternum,0x1451,8,Eternum,0x144c,8,Eternum,1,Magic,68,Unconscious + Damage B,1,Single PC,0,1,Will,210,5,Silver,1,Magical,1,Will,1,Will,1,Unconscious,90,0,0
