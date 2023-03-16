@@ -1221,7 +1221,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,75,Destroyer,Eversor,1,Action,74,Call Allies,-1,None
 1500,*,75,Destroyer,Eversor,1,Action,97,Emergency,-1,None
 1600,*,75,Destroyer,Eversor,1,Action,112,Call Allies,-1,None
-1700,*,75,Destroyer,Eversor,1,Action,160,Search,-1,None
+1700,*,75,Destroyer,Eversor,1,Action,160,Search,14,PC W/O Confusion
 100,*,76,Marauder,Marauder,1,Action,550,Attack,2,Random PC
 100,*,77,Guardian,Susceptor,0,Branch,48,Used Target Search?,900,Go to 900
 200,*,77,Guardian,Susceptor,0,Branch,11,Turn 1,1200,Go to 1200
@@ -1796,22 +1796,25 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1400,*,112,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
 1500,*,112,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
 1600,*,112,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
-100,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,400,Go to 400
-200,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,12,Turn 2,600,Go to 600
-300,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,800,Go to 800
-400,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1400,Go to 1400
-500,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1500,Go to 1500
-600,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,50,Used S-Move?,1400,Go to 1400
-700,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1500,Go to 1500
-800,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,50,Used S-Move?,1100,Go to 1100
-900,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,23,Rating 30%,1400,Go to 1400
-1000,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1500,Go to 1500
-1100,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1400,Go to 1400
-1200,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,26,Rating 60%,1500,Go to 1500
-1300,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1600,Go to 1600
-1400,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,4,PC With Lowest HP
-1500,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
-1600,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
+100,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,1500,Go to 1500
+200,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,50,Used S-Move?,500,Go to 500
+300,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,22,Rating 20%,1600,Go to 1600
+400,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1800,Go to 1800
+500,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,62,PCs Alive = 1,900,Go to 900
+600,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,63,PCs Alive = 2,900,Go to 900
+700,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,14,Turn 4,1200,Go to 1200
+800,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,37,Turn ≥ 5,1200,Go to 1200
+900,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1600,Go to 1600
+1000,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,27,Rating 70%,1900,Go to 1900
+1100,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1700,Go to 1700
+1200,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,25,Rating 50%,1900,Go to 1900
+1300,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,28,Rating 80%,1600,Go to 1600
+1400,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,1700,Go to 1700
+1500,*,113,Zivilyn Bane,Zivilyn Bane,0,Branch,25,Rating 50%,1800,Go to 1800
+1600,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,550,Attack,2,Random PC
+1700,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,551,Guard,-1,None
+1800,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,2,Random PC
+1900,*,113,Zivilyn Bane,Zivilyn Bane,1,Action,22,Burst,3,PC With Highest HP
 100,*,114,Zivilyn Bane,Zivilyn Bane,0,Branch,11,Turn 1,400,Go to 400
 200,*,114,Zivilyn Bane,Zivilyn Bane,0,Branch,12,Turn 2,600,Go to 600
 300,*,114,Zivilyn Bane,Zivilyn Bane,0,Branch,30,Always,800,Go to 800

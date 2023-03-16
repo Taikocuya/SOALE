@@ -17,7 +17,7 @@ Entry ID,[Finalized],Magic EXP,PC1 ID,[PC1 Name],PC1 X,PC1 Z,PC2 ID,[PC2 Name],P
 15,True,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,3,Drachma,8,9,155,Gordo,5,1,156,Mad Chef,5,3,156,Mad Chef,3,1,156,Mad Chef,7,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,54,1,May Try Again,1,Must Not Escape,60
 16,True,4,0,Vyse,4,6,1,Aika,6,6,2,Fina,3,7,3,Drachma,7,7,182,Executioner,4,2,32,Enforcer,3,4,32,Enforcer,7,4,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,54,1,May Try Again,1,Must Not Escape,60
 17,True,4,0,Vyse,4,4,1,Aika,6,4,2,Fina,4,6,5,Gilder,6,6,138,Sinistra,1,1,139,Destra,7,7,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,58,1,May Try Again,1,Must Not Escape,60
-18,True,0,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,5,Gilder,8,9,140,Ramirez,5,3,102,Officer,3,2,102,Officer,7,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,2,May Lose,1,Must Not Escape,61
+18,True,0,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,5,Gilder,8,9,140,Ramirez,5,5,102,Officer,3,3,102,Officer,7,3,102,Officer,5,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,2,May Lose,1,Must Not Escape,61
 19,True,4,0,Vyse,4,8,1,Aika,5,4,5,Gilder,6,8,-1,None,-1,-1,141,Vigoro,5,2,102,Officer,3,5,102,Officer,7,5,102,Officer,5,6,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,61
 20,False,4,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,5,Gilder,8,9,142,Dralkor Tank,4,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,112,1,May Try Again,1,Must Not Escape,60
 21,False,3,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,4,Enrique,8,9,145,Jao,4,3,146,Mao,6,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,128,1,May Try Again,1,Must Not Escape,60
@@ -40,7 +40,7 @@ Entry ID,[Finalized],Magic EXP,PC1 ID,[PC1 Name],PC1 X,PC1 Z,PC2 ID,[PC2 Name],P
 38,False,3,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,4,Enrique,8,9,60,Soldier,4,3,60,Soldier,6,3,60,Soldier,3,2,60,Soldier,7,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,134,0,Must Not Lose,0,May Escape,59
 39,True,2,0,Vyse,4,7,1,Aika,6,7,2,Fina,2,8,3,Drachma,8,8,111,Zivilyn Bane,4,3,111,Zivilyn Bane,6,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,46,1,May Try Again,1,Must Not Escape,58
 40,True,2,0,Vyse,4,8,5,Gilder,6,8,-1,None,-1,-1,-1,None,-1,-1,112,Zivilyn Bane,5,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,58,1,May Try Again,1,Must Not Escape,58
-41,False,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,113,Zivilyn Bane,4,3,113,Zivilyn Bane,2,2,113,Zivilyn Bane,2,6,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,58
+41,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,113,Zivilyn Bane,2,2,113,Zivilyn Bane,6,2,113,Zivilyn Bane,4,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,58
 42,False,3,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,4,Enrique,8,9,114,Zivilyn Bane,5,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,122,1,May Try Again,1,Must Not Escape,59
 43,False,3,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,4,Enrique,6,9,115,Zivilyn Bane,4,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,130,1,May Try Again,1,Must Not Escape,58
 44,False,3,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,4,Enrique,8,9,116,Zivilyn Bane,5,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,142,1,May Try Again,1,Must Not Escape,58
@@ -53,15 +53,15 @@ Entry ID,[Finalized],Magic EXP,PC1 ID,[PC1 Name],PC1 X,PC1 Z,PC2 ID,[PC2 Name],P
 51,False,8,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,5,Gilder,8,9,151,Galcian,5,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,164,1,May Try Again,1,Must Not Escape,61
 52,False,10,0,Vyse,4,8,1,Aika,6,8,2,Fina,3,7,5,Gilder,7,7,153,Ramirez,5,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,168,1,May Try Again,1,Must Not Escape,61
 53,False,0,0,Vyse,4,8,1,Aika,6,8,2,Fina,2,9,5,Gilder,8,9,157,Ramirez,4,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,170,1,May Try Again,1,Must Not Escape,62
-54,Assigned,2,0,Vyse,4,7,5,Gilder,6,7,-1,None,-1,-1,-1,None,-1,-1,102,Officer,4,2,102,Officer,6,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,58
-55,Assigned,2,0,Vyse,4,8,1,Aika,3,9,5,Gilder,6,9,-1,None,-1,-1,102,Officer,3,1,102,Officer,6,1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,58
+54,True,2,0,Vyse,4,7,5,Gilder,6,7,-1,None,-1,-1,-1,None,-1,-1,102,Officer,4,2,102,Officer,6,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,58
+55,True,2,0,Vyse,4,6,1,Aika,3,9,5,Gilder,6,9,-1,None,-1,-1,102,Officer,3,1,102,Officer,6,1,102,Officer,5,4,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,58
 56,False,3,0,Vyse,4,7,1,Aika,6,7,2,Fina,3,6,4,Enrique,7,6,71,Tenkou,4,3,71,Tenkou,6,3,71,Tenkou,3,4,71,Tenkou,7,4,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,134,0,Must Not Lose,0,May Escape,58
 57,False,3,0,Vyse,4,7,1,Aika,6,7,2,Fina,3,6,4,Enrique,7,6,71,Tenkou,4,3,71,Tenkou,6,3,71,Tenkou,3,4,71,Tenkou,7,4,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,134,0,Must Not Lose,0,May Escape,58
 58,False,3,0,Vyse,4,7,1,Aika,6,7,2,Fina,3,6,4,Enrique,7,6,71,Tenkou,4,3,71,Tenkou,6,3,71,Tenkou,3,4,71,Tenkou,7,4,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,134,0,Must Not Lose,0,May Escape,58
-59,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,75,Destroyer,4,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,0,May Escape,-1
-60,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,75,Destroyer,3,2,75,Destroyer,5,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,0,May Escape,-1
-61,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,75,Destroyer,4,2,75,Destroyer,3,3,75,Destroyer,5,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,0,May Escape,-1
-62,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,75,Destroyer,3,2,75,Destroyer,5,2,75,Destroyer,2,3,75,Destroyer,6,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,0,May Escape,-1
+59,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,75,Destroyer,4,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,-1
+60,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,75,Destroyer,3,2,75,Destroyer,5,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,-1
+61,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,75,Destroyer,4,2,75,Destroyer,3,3,75,Destroyer,5,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,-1
+62,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,75,Destroyer,3,2,75,Destroyer,5,2,75,Destroyer,2,3,75,Destroyer,6,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,-1
 63,True,1,0,Vyse,5,6,1,Aika,4,7,2,Fina,6,7,-1,None,-1,-1,24,Magma Tiki,4,2,24,Magma Tiki,6,2,24,Magma Tiki,2,3,24,Magma Tiki,8,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,34,1,May Try Again,1,Must Not Escape,-1
 64,True,1,0,Vyse,5,6,1,Aika,4,7,2,Fina,6,7,-1,None,-1,-1,24,Magma Tiki,3,3,24,Magma Tiki,7,3,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,34,1,May Try Again,1,Must Not Escape,-1
 65,False,3,0,Vyse,5,7,1,Aika,6,7,2,Fina,4,8,4,Enrique,7,8,105,Red Guard,4,3,105,Red Guard,7,3,105,Red Guard,3,2,105,Red Guard,8,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,134,0,Must Not Lose,0,May Escape,-1
@@ -248,4 +248,4 @@ Entry ID,[Finalized],Magic EXP,PC1 ID,[PC1 Name],PC1 X,PC1 Z,PC2 ID,[PC2 Name],P
 246,False,12,0,Vyse,4,8,1,Aika,6,8,2,Fina,3,7,5,Gilder,7,7,177,Piastol,6,2,246,DeathHound,4,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,242,1,May Try Again,1,Must Not Escape,-1
 247,False,12,0,Vyse,4,8,1,Aika,6,8,2,Fina,3,7,5,Gilder,7,7,251,Zivilyn Bane,6,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,242,1,May Try Again,1,Must Not Escape,-1
 248,False,12,0,Vyse,4,8,1,Aika,6,8,2,Fina,3,7,5,Gilder,7,7,252,Zivilyn Bane,6,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,242,1,May Try Again,1,Must Not Escape,-1
-249,False,12,0,Vyse,4,8,1,Aika,6,8,2,Fina,3,7,5,Gilder,7,7,99,Kantor,6,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,242,1,May Try Again,1,Must Not Escape,-1
+249,True,2,0,Vyse,3,8,1,Aika,5,8,2,Fina,2,9,5,Gilder,6,9,99,Kantor,3,2,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,255,None,-1,-1,62,1,May Try Again,1,Must Not Escape,-1

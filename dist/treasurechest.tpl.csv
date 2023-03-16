@@ -84,8 +84,8 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 82,Daccat's Island,True,250,Risan Crystal,2
 83,Daccat's Island,True,269,Crystales Box,1
 84,Daccat's Island,True,124,Maiden's Armor,1
-85,Grand Fortress,False,248,Unholy Dagger,1
-86,Grand Fortress,False,258,Moonberry,1
+85,Grand Fortress,True,248,Unholy Dagger,1
+86,Grand Fortress,True,258,Moonberry,1
 87,Mount Kazai,False,256,Windsong Orb,1
 88,Mount Kazai,False,258,Moonberry,1
 89,The Dark Rift,False,11,Dream Cutlass,1

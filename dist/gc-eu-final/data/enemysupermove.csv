@@ -159,7 +159,7 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 157,0x8034c108,0x1b95,6,DUMMY,0x1c16,6,DUMMY,0x1be7,6,DUMMY,0x1b26,6,DUMMY,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 158,0x8034c108,0x1b9b,6,DUMMY,0x1c1c,6,DUMMY,0x1bed,6,DUMMY,0x1b2c,6,DUMMY,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 159,0x8034c108,0x1ba1,6,DUMMY,0x1c22,6,DUMMY,0x1bf3,6,DUMMY,0x1b32,6,DUMMY,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-160,0x8034c120,0x1ba7,6,Suche,0x1c28,9,Búsqueda,0x1bf9,10,Recherche,0x1b38,7,Search,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
+160,0x8034c120,0x1ba7,6,Suche,0x1c28,9,Búsqueda,0x1bf9,10,Recherche,0x1b38,7,Search,0,S-Move,11,Confusion,1,Single PC,0,0,Power,0,4,Yellow,0,Physical,16,Attack,17,Defense,4,Confusion,0,0,0
 161,0x802b0e6c,0x1bad,8,Giftgas,0x1c31,13,Gas Venenoso,0x1c03,15,Gaz Empoisonné,0x1b3f,11,Poison Gas,0,S-Move,4,Poison + Damage,96,PC Square S3,0,16,Attack,15,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50,0,0
 162,0x802b1148,0x1bb5,13,Ermüdungsgas,0x1c3e,14,Gas de Fatiga,0x1c12,15,Gaz de Fatigue,0x1b4a,12,Fatigue Gas,0,S-Move,72,Fatigue + Damage,96,PC Square S3,0,16,Attack,15,4,Yellow,0,Physical,16,Attack,17,Defense,6,Fatigue,20,0,0
 163,0x8034c108,0x1bc2,6,DUMMY,0x1c4c,6,DUMMY,0x1c21,6,DUMMY,0x1b56,6,DUMMY,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
