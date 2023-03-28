@@ -105,6 +105,31 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10010,*,5,Enforcer B,True,1,Action,551,Guard,-1,None
 10020,*,5,Enforcer B,True,1,Action,70,Grenade,2,Random PC
 10030,*,5,Enforcer B,True,1,Action,72,Sacrum Crystal,-1,None
+0,*,6,Destroyer B,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,1000,Go to 1000
+10,*,6,Destroyer B,True,0,Branch,30,Always,2000,Go to 2000
+1000,*,6,Destroyer B,True,0,Branch,17,ECs Alive = 1,10020,Emergency
+1010,*,6,Destroyer B,True,0,Branch,66,ECs Alive = 3,1100,Go to 1100
+1020,*,6,Destroyer B,True,0,Branch,54,ECs Alive ≤ 3,1040,Go to 1040
+1030,*,6,Destroyer B,True,0,Branch,30,Always,1100,Go to 1100
+1040,*,6,Destroyer B,True,0,Branch,2,HP < 25%,1100,Go to 1100
+1050,*,6,Destroyer B,True,0,Branch,39,Any EC HP < 25%,10020,Emergency
+1100,*,6,Destroyer B,True,0,Branch,11,Turn 1,1200,Go to 1200
+1110,*,6,Destroyer B,True,0,Branch,12,Turn 2,1300,Go to 1300
+1120,*,6,Destroyer B,True,0,Branch,13,Turn 3,1300,Go to 1300
+1130,*,6,Destroyer B,True,0,Branch,14,Turn 4,1300,Go to 1300
+1140,*,6,Destroyer B,True,0,Branch,37,Turn ≥ 5,1400,Go to 1400
+1200,*,6,Destroyer B,True,0,Branch,23,Rating 30%,10010,Call Allies
+1300,*,6,Destroyer B,True,0,Branch,23,Rating 30%,10010,Call Allies
+1400,*,6,Destroyer B,True,0,Branch,23,Rating 30%,10010,Call Allies
+2000,*,6,Destroyer B,True,0,Branch,62,PCs Alive = 1,2030,Go to 2030
+2010,*,6,Destroyer B,True,0,Branch,63,PCs Alive = 2,2030,Go to 2030
+2020,*,6,Destroyer B,True,0,Branch,25,Rating 50%,10040,Search
+2030,*,6,Destroyer B,True,0,Branch,23,Rating 30%,10040,Search
+10000,*,6,Destroyer B,True,1,Action,551,Guard,-1,None
+10010,*,6,Destroyer B,True,1,Action,74,Call Allies,-1,None
+10020,*,6,Destroyer B,True,1,Action,97,Emergency,-1,None
+10030,*,6,Destroyer B,True,1,Action,112,Call Allies,-1,None
+10040,*,6,Destroyer B,True,1,Action,160,Search,14,PC W/O Confusion
 0,*,7,Spell Warden A,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,10,Go to 10
 5,*,7,Spell Warden A,True,0,Branch,11,Turn 1,10020,Increm
 10,*,7,Spell Warden A,True,0,Branch,37,Turn ≥ 5,30,Go to 30
@@ -1205,23 +1230,23 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1400,*,74,Forst Worm,False,1,Action,503,Panika,14,PC W/O Confusion
 1500,*,74,Forst Worm,False,1,Action,529,Crystalen,2,Random PC
 1600,*,74,Forst Worm,False,1,Action,38,Eternal Freeze,-1,None
-100,*,75,Destroyer,True,0,Branch,11,Turn 1,900,Go to 900
-200,*,75,Destroyer,True,0,Branch,12,Turn 2,800,Go to 800
-300,*,75,Destroyer,True,0,Branch,13,Turn 3,700,Go to 700
-400,*,75,Destroyer,True,0,Branch,14,Turn 4,600,Go to 600
-500,*,75,Destroyer,True,0,Branch,27,Rating 70%,1500,Go to 1500
-600,*,75,Destroyer,True,0,Branch,25,Rating 50%,1500,Go to 1500
-700,*,75,Destroyer,True,0,Branch,23,Rating 30%,1500,Go to 1500
-800,*,75,Destroyer,True,0,Branch,21,Rating 10%,1500,Go to 1500
-900,*,75,Destroyer,True,0,Branch,24,Rating 40%,1400,Go to 1400
-1000,*,75,Destroyer,True,0,Branch,25,Rating 50%,1700,Go to 1700
-1100,*,75,Destroyer,True,0,Branch,25,Rating 50%,1300,Go to 1300
-1200,*,75,Destroyer,True,0,Branch,30,Always,1600,Go to 1600
-1300,*,75,Destroyer,True,1,Action,551,Guard,-1,None
-1400,*,75,Destroyer,True,1,Action,74,Call Allies,-1,None
-1500,*,75,Destroyer,True,1,Action,97,Emergency,-1,None
-1600,*,75,Destroyer,True,1,Action,112,Call Allies,-1,None
-1700,*,75,Destroyer,True,1,Action,160,Search,14,PC W/O Confusion
+100,*,75,Destroyer A,True,0,Branch,11,Turn 1,900,Go to 900
+200,*,75,Destroyer A,True,0,Branch,12,Turn 2,800,Go to 800
+300,*,75,Destroyer A,True,0,Branch,13,Turn 3,700,Go to 700
+400,*,75,Destroyer A,True,0,Branch,14,Turn 4,600,Go to 600
+500,*,75,Destroyer A,True,0,Branch,27,Rating 70%,1500,Go to 1500
+600,*,75,Destroyer A,True,0,Branch,25,Rating 50%,1500,Go to 1500
+700,*,75,Destroyer A,True,0,Branch,23,Rating 30%,1500,Go to 1500
+800,*,75,Destroyer A,True,0,Branch,21,Rating 10%,1500,Go to 1500
+900,*,75,Destroyer A,True,0,Branch,24,Rating 40%,1400,Go to 1400
+1000,*,75,Destroyer A,True,0,Branch,25,Rating 50%,1700,Go to 1700
+1100,*,75,Destroyer A,True,0,Branch,25,Rating 50%,1300,Go to 1300
+1200,*,75,Destroyer A,True,0,Branch,30,Always,1600,Go to 1600
+1300,*,75,Destroyer A,True,1,Action,551,Guard,-1,None
+1400,*,75,Destroyer A,True,1,Action,74,Call Allies,-1,None
+1500,*,75,Destroyer A,True,1,Action,97,Emergency,-1,None
+1600,*,75,Destroyer A,True,1,Action,112,Call Allies,-1,None
+1700,*,75,Destroyer A,True,1,Action,160,Search,14,PC W/O Confusion
 100,*,76,Marauder,False,1,Action,550,Attack,2,Random PC
 100,*,77,Guardian,False,0,Branch,48,Used Target Search?,900,Go to 900
 200,*,77,Guardian,False,0,Branch,11,Turn 1,1200,Go to 1200
@@ -2075,11 +2100,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10,*,136,Antonio 2,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,3000,Go to 3000
 20,*,136,Antonio 2,True,0,Branch,12,Turn 2,3000,Go to 3000
 30,*,136,Antonio 2,True,0,Branch,13,Turn 3,3000,Go to 3000
-1000,*,136,Antonio 2,True,0,Branch,50,Used S-Move?,2000,Go to 2000
-1010,*,136,Antonio 2,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
-1020,*,136,Antonio 2,True,0,Branch,63,PCs Alive = 2,2000,Go to 2000
-1030,*,136,Antonio 2,True,0,Branch,22,Rating 20%,10000,Attack
-1040,*,136,Antonio 2,True,0,Branch,30,Always,10010,Thunder of Fury
+40,*,136,Antonio 2,True,0,Branch,50,Used S-Move?,2000,Go to 2000
+50,*,136,Antonio 2,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
+60,*,136,Antonio 2,True,0,Branch,63,PCs Alive = 2,2000,Go to 2000
+1000,*,136,Antonio 2,True,0,Branch,22,Rating 20%,10000,Attack
+1010,*,136,Antonio 2,True,0,Branch,30,Always,10010,Thunder of Fury
 2000,*,136,Antonio 2,True,0,Branch,27,Rating 70%,10000,Attack
 2010,*,136,Antonio 2,True,0,Branch,30,Always,10010,Thunder of Fury
 3000,*,136,Antonio 2,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
@@ -2158,8 +2183,8 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 2040,*,139,Destra,True,0,Branch,63,PCs Alive = 2,10000,Attack
 2050,*,139,Destra,True,0,Branch,30,Always,10010,Tundra Blast
 3000,*,139,Destra,True,0,Branch,25,Rating 50%,10010,Tundra Blast
-3010,*,139,Destra,True,0,Branch,50,Used S-Move?,10000,Tundra Blast
-3020,*,139,Destra,True,0,Branch,30,Always,10010,Explode
+3010,*,139,Destra,True,0,Branch,50,Used S-Move?,10000,Attack
+3020,*,139,Destra,True,0,Branch,30,Always,10010,Tundra Blast
 4000,*,139,Destra,True,0,Branch,62,PCs Alive = 1,4030,Go to 4030
 4010,*,139,Destra,True,0,Branch,63,PCs Alive = 2,4030,Go to 4030
 4020,*,139,Destra,True,0,Branch,24,Rating 40%,10010,Tundra Blast
@@ -2188,7 +2213,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1200,*,140,Ramirez,True,1,Action,519,Eternum,2,Random PC
 1300,*,140,Ramirez,True,1,Action,43,Silver Eclipse,-1,None
 1400,*,140,Ramirez,True,1,Action,509,Sacrulen,22,Self
-0,*,141,Vigoro,True,0,Branch,11,Turn 2,1000,Go to 1000
+0,*,141,Vigoro,True,0,Branch,11,Turn 1,1000,Go to 1000
 10,*,141,Vigoro,True,0,Branch,50,Used S-Move?,2000,Go to 2000
 1000,*,141,Vigoro,True,0,Branch,23,Rating 30%,10000,Attack
 1010,*,141,Vigoro,True,0,Branch,21,Rating 10%,10010,Guard
@@ -2200,13 +2225,29 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10005,*,141,Vigoro,True,1,Action,550,Attack,4,PC With Lowest HP
 10010,*,141,Vigoro,True,1,Action,551,Guard,-1,None
 10020,*,141,Vigoro,True,1,Action,60,Vigoro's Charm,23,Aika
-100,*,142,Dralkor Tank,False,0,Branch,50,Used S-Move?,400,Go to 400
-200,*,142,Dralkor Tank,False,0,Branch,22,Rating 20%,600,Go to 600
-300,*,142,Dralkor Tank,False,0,Branch,30,Always,700,Go to 700
-400,*,142,Dralkor Tank,False,0,Branch,28,Rating 80%,600,Go to 600
-500,*,142,Dralkor Tank,False,0,Branch,30,Always,700,Go to 700
-600,*,142,Dralkor Tank,False,1,Action,550,Attack,2,Random PC
-700,*,142,Dralkor Tank,False,1,Action,30,Wheel Blast,2,Random PC
+0,*,142,Dralkor Tank,True,0,Branch,1,HP < 50%,4000,Go to 4000
+10,*,142,Dralkor Tank,True,0,Branch,12,Turn 2,3000,Go to 3000
+20,*,142,Dralkor Tank,True,0,Branch,14,Turn 4,3000,Go to 3000
+30,*,142,Dralkor Tank,True,0,Branch,66,ECs Alive = 3,60,Go to 60
+40,*,142,Dralkor Tank,True,0,Branch,54,ECs Alive ≤ 3,4000,Go to 4000
+50,*,142,Dralkor Tank,True,0,Branch,30,Always,2000,Go to 2000
+60,*,142,Dralkor Tank,True,0,Branch,50,Used S-Move?,2000,Go to 2000
+70,*,142,Dralkor Tank,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
+80,*,142,Dralkor Tank,True,0,Branch,63,PCs Alive = 2,2000,Go to 2000
+1000,*,142,Dralkor Tank,True,0,Branch,23,Rating 30%,10000,Attack
+1010,*,142,Dralkor Tank,True,0,Branch,30,Always,10010,Wheel Blast
+2000,*,142,Dralkor Tank,True,0,Branch,27,Rating 70%,10000,Attack
+2010,*,142,Dralkor Tank,True,0,Branch,30,Always,10010,Wheel Blast
+3000,*,142,Dralkor Tank,True,0,Branch,50,Used S-Move?,10000,Attack
+3010,*,142,Dralkor Tank,True,0,Branch,30,Always,10010,Wheel Blast
+4000,*,142,Dralkor Tank,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
+4010,*,142,Dralkor Tank,True,0,Branch,63,PCs Alive = 2,2000,Go to 2000
+4020,*,142,Dralkor Tank,True,0,Branch,64,PCs Alive = 3,4050,Go to 4050
+4030,*,142,Dralkor Tank,True,0,Branch,50,Used S-Move?,4050,Go to 4050
+4040,*,142,Dralkor Tank,True,0,Branch,24,Rating 40%,10010,Wheel Blast
+4050,*,142,Dralkor Tank,True,0,Branch,25,Rating 50%,10010,Wheel Blast
+10000,*,142,Dralkor Tank,True,1,Action,550,Attack,2,Random PC
+10010,*,142,Dralkor Tank,True,1,Action,30,Wheel Blast,2,Random PC
 100,*,144,Tortigar,False,0,Branch,18,SP = 100%,4300,Go to 4300
 200,*,144,Tortigar,False,0,Branch,19,SP ≤ 50%,400,Go to 400
 300,*,144,Tortigar,False,0,Branch,30,Always,1600,Go to 1600

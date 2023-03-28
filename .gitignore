@@ -67,6 +67,12 @@ Thumbs.db
 !/dist/**/beff/f2907005.mlk
 !/dist/**/beff/f2907205.mlk
 
+# Enemy 6 (Destroyer B)
+!/dist/**/bchara/mb006.mld
+!/dist/**/bchara/mb006.std
+!/dist/**/bchara/mb0060.std
+!/dist/**/beff/f2909706.mlk
+
 # Enemy 166 (Spell Warden B)
 !/dist/**/bchara/mg038.mld
 !/dist/**/bchara/mg038.std

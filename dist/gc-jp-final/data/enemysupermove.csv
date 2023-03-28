@@ -1,7 +1,7 @@
 Entry ID,Entry JP Name,Pad 1,Pad 2,Pad 3,Pad 4,Category ID,[Category Name],Effect ID,[Effect Name],Scope ID,[Scope Name],Effect Param ID,Effect Param Name,Effect Base,Element ID,[Element Name],Type ID,[Type Name],State Inflict ID,State Inflict Name,State Resist ID,State Resist Name,State ID,[State Name],State Miss%,Pad 5,Pad 6
 0,火山弾乱舞,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,30,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
 1,石化灰噴霧,0,0,0,0,0,S-Move,8,Stone + Damage,1,Single PC,16,Attack,5,1,Red,0,Physical,16,Attack,17,Defense,2,Stone,30,0,0
-2,フェザーティアー,0,0,0,0,0,S-Move,72,Fatigue + Damage,102,PC Ray S5,16,Attack,30,0,Green,0,Physical,0,Power,0,Power,6,Fatigue,70,0,0
+2,フェザーティアー,0,0,0,0,0,S-Move,72,Fatigue + Damage,102,PC Ray S5,16,Attack,30,0,Green,0,Physical,16,Attack,17,Defense,6,Fatigue,70,0,0
 3,欠番,0,0,0,0,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 4,レーザー,0,0,0,0,0,S-Move,0,Damage,1,Single PC,16,Attack,20,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
 5,怒雷,0,0,0,0,0,S-Move,0,Damage,101,PC Ray S3,16,Attack,30,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0,0,0
@@ -29,7 +29,7 @@ Entry ID,Entry JP Name,Pad 1,Pad 2,Pad 3,Pad 4,Category ID,[Category Name],Effec
 27,大艦巨砲キャノン,0,0,0,0,0,S-Move,0,Damage,1,Single PC,16,Attack,50,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
 28,仲間を呼ぶ,0,0,0,0,0,S-Move,43,Call EC,0,None,27,Dung Fly,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 29,仲間を呼ぶ,0,0,0,0,0,S-Move,43,Call EC,0,None,31,Tsurak,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-30,スプレーキャノン,0,0,0,0,0,S-Move,0,Damage,97,PC Square S5,16,Attack,35,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0,0,0
+30,スプレーキャノン,0,0,0,0,0,S-Move,72,Fatigue + Damage,97,PC Square S5,16,Attack,40,1,Red,0,Physical,16,Attack,17,Defense,6,Fatigue,70,0,0
 31,ソリッドレーザー,0,0,0,0,0,S-Move,8,Stone + Damage,1,Single PC,16,Attack,5,6,Neutral,0,Physical,16,Attack,17,Defense,2,Stone,20,0,0
 32,トゥームレーザー,0,0,0,0,0,S-Move,68,Unconscious + Damage B,1,Single PC,16,Attack,5,5,Silver,0,Physical,16,Attack,17,Defense,1,Unconscious,60,0,0
 33,デスレーザー,0,0,0,0,0,S-Move,68,Unconscious + Damage B,1,Single PC,16,Attack,5,5,Silver,0,Physical,16,Attack,17,Defense,1,Unconscious,60,0,0
@@ -73,7 +73,7 @@ Entry ID,Entry JP Name,Pad 1,Pad 2,Pad 3,Pad 4,Category ID,[Category Name],Effec
 71,毒ガス爆弾,0,0,0,0,0,S-Move,4,Poison + Damage,96,PC Square S3,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50,0,0
 72,サプハネの葉,0,0,0,0,0,S-Move,31,Recover HP,4,All ECs,400,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 73,仲間を呼ぶ,0,0,0,0,0,S-Move,43,Call EC,0,None,97,Razorbeak,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-74,仲間を呼ぶ,0,0,0,0,0,S-Move,43,Call EC,0,None,75,Destroyer,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
+74,仲間を呼ぶ,0,0,0,0,0,S-Move,43,Call EC,0,None,6,Destroyer B,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 75,ディスチャージ,0,0,0,0,0,S-Move,0,Damage,2,All PCs,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0,0,0
 76,タタティモルット,0,0,0,0,0,S-Move,0,Damage,1,Single PC,16,Attack,40,3,Blue,0,Physical,0,Power,0,Power,-1,None,0,0,0
 77,ラウンドクロウ,0,0,0,0,0,S-Move,0,Damage,1,Single PC,16,Attack,40,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
