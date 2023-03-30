@@ -4,7 +4,7 @@ Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Ele
 402,Heavy Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,50,85,0,3,-1,None,0,0,1900,25,2,21,0,0x2ce2cc,88,"An upgraded version of the Standard Valuan\nCannon, used on light warships in Mid Ocean."
 403,G-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,0,3000,25,3,18,0,0x2ce324,92,"Cannons used on Armada ships, when they defeated\nIxa'taka. Slightly outdated, but powerful."
 404,B-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,75,90,0,3,-1,None,0,0,4000,25,4,13,0,0x2ce380,96,"An upgraded version of the G-Type Cannon, with\nthe same basic design, but greater firepower."
-405,Prototype Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,100,85,0,6,-1,None,0,0,5000,25,5,31,0,0x2ce3e0,76,"A rotating cannon that can track enemy targets,\nbut doesn't do much damage."
+405,Prototype Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,100,85,0,3,-1,None,0,0,5000,25,5,31,0,0x2ce3e0,76,"A rotating cannon that can track enemy targets,\nbut doesn't do much damage."
 406,Advanced Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,150,90,0,7,-1,None,0,0,5500,25,6,10,0,0x2ce42c,92,A new rotating main cannon developed for Valuan\nDestroyers. Available on the Black Market.
 407,Yamato Spirit,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,250,90,0,8,-1,None,0,0,6700,50,7,39,0,0x2ce488,76,A large and powerful cannon based on traditional\nYafutoman craftsmanship.
 408,Ancient Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,300,95,0,9,-1,None,0,0,8500,25,8,11,0,0x2ce4d4,64,A durable cannon made from ancient metals from\nthe Old World.
