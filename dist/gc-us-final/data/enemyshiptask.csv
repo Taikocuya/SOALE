@@ -37,7 +37,7 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 7,r503a.tec,21,Black Pirates,1,3,-1,None,0,None,3,Guard,-1,0,Evasive Action,0,3,Guard,-1,0,Evasive Action,0
 8,r503a.tec,21,Black Pirates,2,0,3,Rating,70,%,0,Attack,1,-1,None,1,0,Attack,1,-1,None,1
 9,r503a.tec,21,Black Pirates,2,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-10,r503a.tec,21,Black Pirates,2,2,30,???,20,None,3,Guard,-1,0,Evasive Action,0,0,Attack,0,-1,None,0
+10,r503a.tec,21,Black Pirates,2,2,3,Rating,20,%,3,Guard,-1,0,Evasive Action,0,0,Attack,0,-1,None,0
 11,r503a.tec,21,Black Pirates,2,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
 12,r503a.tec,21,Black Pirates,3,0,3,Rating,80,%,0,Attack,1,-1,None,2,2,Focus,-1,0,Focus,0
 13,r503a.tec,21,Black Pirates,3,1,3,Rating,50,%,3,Guard,-1,0,Evasive Action,0,2,Focus,-1,0,Focus,0
@@ -379,30 +379,30 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 37,r522a.tec,16,Auriga,9,1,3,Rating,70,%,4,Nothing,-1,0,Awaiting Orders,0,2,Focus,-1,0,Focus,0
 38,r522a.tec,16,Auriga,9,2,3,Rating,50,%,4,Nothing,-1,0,Awaiting Orders,0,3,Guard,-1,0,Evasive Action,0
 39,r522a.tec,16,Auriga,9,3,3,Rating,20,%,4,Nothing,-1,0,Awaiting Orders,0,3,Guard,-1,0,Evasive Action,0
-0,r523a.tec,32,Obispo,0,0,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-1,r523a.tec,32,Obispo,0,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-2,r523a.tec,32,Obispo,0,2,3,Rating,50,%,0,Attack,0,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-3,r523a.tec,32,Obispo,0,3,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-4,r523a.tec,32,Obispo,1,0,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-5,r523a.tec,32,Obispo,1,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-6,r523a.tec,32,Obispo,1,2,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-7,r523a.tec,32,Obispo,1,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-8,r523a.tec,32,Obispo,2,0,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-9,r523a.tec,32,Obispo,2,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-10,r523a.tec,32,Obispo,2,2,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-11,r523a.tec,32,Obispo,2,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-12,r523a.tec,32,Obispo,3,0,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-13,r523a.tec,32,Obispo,3,1,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-14,r523a.tec,32,Obispo,3,2,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-15,r523a.tec,32,Obispo,3,3,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-16,r523a.tec,32,Obispo,4,0,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-17,r523a.tec,32,Obispo,4,1,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-18,r523a.tec,32,Obispo,4,2,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-19,r523a.tec,32,Obispo,4,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-20,r523a.tec,32,Obispo,5,0,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-21,r523a.tec,32,Obispo,5,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-22,r523a.tec,32,Obispo,5,2,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-23,r523a.tec,32,Obispo,5,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
+0,r523a.tec,32,Obispo,0,0,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+1,r523a.tec,32,Obispo,0,1,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+2,r523a.tec,32,Obispo,0,2,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+3,r523a.tec,32,Obispo,0,3,3,Rating,70,%,0,Attack,0,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
+4,r523a.tec,32,Obispo,1,0,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+5,r523a.tec,32,Obispo,1,1,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+6,r523a.tec,32,Obispo,1,2,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+7,r523a.tec,32,Obispo,1,3,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+8,r523a.tec,32,Obispo,2,0,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+9,r523a.tec,32,Obispo,2,1,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+10,r523a.tec,32,Obispo,2,2,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+11,r523a.tec,32,Obispo,2,3,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+12,r523a.tec,32,Obispo,3,0,1,ES HP ≤,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+13,r523a.tec,32,Obispo,3,1,4,ES Previous Task Type =,0,Attack,3,Guard,-1,2,???,0,0,Attack,0,-1,None,0
+14,r523a.tec,32,Obispo,3,2,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+15,r523a.tec,32,Obispo,3,3,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+16,r523a.tec,32,Obispo,4,0,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+17,r523a.tec,32,Obispo,4,1,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+18,r523a.tec,32,Obispo,4,2,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+19,r523a.tec,32,Obispo,4,3,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+20,r523a.tec,32,Obispo,5,0,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+21,r523a.tec,32,Obispo,5,1,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+22,r523a.tec,32,Obispo,5,2,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+23,r523a.tec,32,Obispo,5,3,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
 0,r524a.tec,29,Anguila,0,0,3,Rating,50,%,0,Attack,1,-1,None,0,3,Guard,-1,-1,None,0
 1,r524a.tec,29,Anguila,0,1,-1,None,0,None,4,Nothing,-1,2,Assessing Damage,0,4,Nothing,-1,2,Assessing Damage,0
 2,r524a.tec,29,Anguila,0,2,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,2,Focus,-1,2,Preparing Attack,0
@@ -1415,30 +1415,30 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 33,r576a.tec,35,Roc,8,1,-1,None,0,None,0,Attack,3,-1,None,0,0,Attack,0,-1,None,0
 34,r576a.tec,35,Roc,8,2,3,Rating,50,%,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
 35,r576a.tec,35,Roc,8,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-0,r577a.tec,32,Obispo,0,0,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-1,r577a.tec,32,Obispo,0,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-2,r577a.tec,32,Obispo,0,2,3,Rating,50,%,0,Attack,0,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-3,r577a.tec,32,Obispo,0,3,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-4,r577a.tec,32,Obispo,1,0,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-5,r577a.tec,32,Obispo,1,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-6,r577a.tec,32,Obispo,1,2,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-7,r577a.tec,32,Obispo,1,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-8,r577a.tec,32,Obispo,2,0,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-9,r577a.tec,32,Obispo,2,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-10,r577a.tec,32,Obispo,2,2,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-11,r577a.tec,32,Obispo,2,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-12,r577a.tec,32,Obispo,3,0,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-13,r577a.tec,32,Obispo,3,1,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-14,r577a.tec,32,Obispo,3,2,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-15,r577a.tec,32,Obispo,3,3,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-16,r577a.tec,32,Obispo,4,0,1,ES HP ≤,30,%,3,Guard,-1,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
-17,r577a.tec,32,Obispo,4,1,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
-18,r577a.tec,32,Obispo,4,2,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-19,r577a.tec,32,Obispo,4,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-20,r577a.tec,32,Obispo,5,0,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-21,r577a.tec,32,Obispo,5,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-22,r577a.tec,32,Obispo,5,2,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
-23,r577a.tec,32,Obispo,5,3,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
+0,r577a.tec,32,Obispo,0,0,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+1,r577a.tec,32,Obispo,0,1,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+2,r577a.tec,32,Obispo,0,2,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+3,r577a.tec,32,Obispo,0,3,3,Rating,70,%,0,Attack,0,-1,None,0,4,Nothing,-1,2,Assessing Damage,0
+4,r577a.tec,32,Obispo,1,0,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+5,r577a.tec,32,Obispo,1,1,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+6,r577a.tec,32,Obispo,1,2,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+7,r577a.tec,32,Obispo,1,3,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+8,r577a.tec,32,Obispo,2,0,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+9,r577a.tec,32,Obispo,2,1,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+10,r577a.tec,32,Obispo,2,2,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+11,r577a.tec,32,Obispo,2,3,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+12,r577a.tec,32,Obispo,3,0,1,ES HP ≤,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+13,r577a.tec,32,Obispo,3,1,4,ES Previous Task Type =,0,Attack,3,Guard,-1,2,???,0,0,Attack,0,-1,None,0
+14,r577a.tec,32,Obispo,3,2,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+15,r577a.tec,32,Obispo,3,3,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+16,r577a.tec,32,Obispo,4,0,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+17,r577a.tec,32,Obispo,4,1,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+18,r577a.tec,32,Obispo,4,2,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
+19,r577a.tec,32,Obispo,4,3,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+20,r577a.tec,32,Obispo,5,0,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+21,r577a.tec,32,Obispo,5,1,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+22,r577a.tec,32,Obispo,5,2,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
+23,r577a.tec,32,Obispo,5,3,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
 0,r578a.tec,36,Giant Looper,0,0,-1,None,0,None,2,Focus,-1,2,Preparing Attack,0,2,Focus,-1,2,Preparing Attack,0
 1,r578a.tec,36,Giant Looper,0,1,-1,None,0,None,0,Attack,0,-1,None,0,0,Attack,0,-1,None,0
 2,r578a.tec,36,Giant Looper,0,2,-1,None,0,None,4,Nothing,-1,2,Assessing Damage,0,4,Nothing,-1,2,Assessing Damage,0

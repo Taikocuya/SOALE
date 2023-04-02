@@ -1,7 +1,7 @@
 Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect Name],Scope ID,[Scope Name],Consume%,Sell%,[Base],[Multiplier],Buy,Effect Base,Element ID,[Element Name],Type ID,[Type Name],State ID,[State Name],State Miss%
 240,Sacri Crystal,True,0b0110,X,X,,31,Recover HP,1,Single PC,100,25,200,1,200,400,0,Green,1,Magical,-1,None,0
 241,Sacres Crystal,True,0b0110,X,X,,31,Recover HP,1,Single PC,100,25,200,3,600,800,0,Green,1,Magical,-1,None,0
-242,Sacrum Crystal,Assigned,0b0110,X,X,,31,Recover HP,2,All PCs,100,25,200,9,1800,400,0,Green,1,Magical,-1,None,0
+242,Sacrum Crystal,True,0b0110,X,X,,31,Recover HP,2,All PCs,100,25,200,9,1800,400,0,Green,1,Magical,-1,None,0
 243,Sacrulen Crystal,False,0b0110,X,X,,31,Recover HP,1,Single PC,100,25,200,7,1400,1600,0,Green,1,Magical,-1,None,0
 244,Magic Droplet,True,0b0111,X,X,X,48,Recover MP,1,Single PC,100,25,100,1,100,3,-1,None,-1,None,-1,None,0
 245,Magic Dew,False,0b0111,X,X,X,48,Recover MP,1,Single PC,100,25,100,10,1000,5,-1,None,-1,None,-1,None,0
@@ -58,7 +58,7 @@ Entry ID,[Entry Name],[Finalized],Occasion Flags,[M],[B],[S],Effect ID,[Effect N
 296,Tropica,True,0b0100,X,,,59,Grow MAXHP,1,Single PC,100,100,1000,3,3000,100,-1,None,-1,None,-1,None,0
 297,Urala's Lunch,False,0b0100,X,,,51,Recover HP & MP by 100% B,1,Single PC,100,100,100,1,100,10000,-1,None,-1,None,-1,None,0
 298,Polly Special,False,0b0100,X,,,51,Recover HP & MP by 100% B,1,Single PC,100,100,100,1,100,10000,-1,None,-1,None,-1,None,0
-299,Magillex Idol,False,0b0000,,,,-1,None,0,None,0,100,25000,1,25000,0,-1,None,-1,None,-1,None,0
+299,Magillex Idol,True,0b0000,,,,-1,None,0,None,0,100,25000,1,25000,0,-1,None,-1,None,-1,None,0
 300,Pharax Idol,False,0b0000,,,,-1,None,0,None,0,100,25000,1,25000,0,-1,None,-1,None,-1,None,0
 301,Euconyx Idol,False,0b0000,,,,-1,None,0,None,0,100,25000,1,25000,0,-1,None,-1,None,-1,None,0
 302,ダミー,True,0b0000,,,,-1,None,0,None,0,0,0,0,0,0,0,Green,0,Physical,0,Poison,0

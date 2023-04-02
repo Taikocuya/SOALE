@@ -2,7 +2,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 0,Cutlass,True,0,Vyse,25,-1,None,70,20,90,-1,None,0,0
 1,Pirate Cutlass,True,0,Vyse,25,-1,None,150,33,90,-1,None,0,0
 2,Sky Cutlass,True,0,Vyse,25,-1,None,500,45,90,-1,None,0,0
-3,Admiral Cutlass,False,0,Vyse,25,-1,None,5000,128,90,-1,None,0,0
+3,Admiral Cutlass,True,0,Vyse,25,-1,None,5000,128,90,-1,None,0,0
 4,Assassin Blade,True,0,Vyse,25,0,Poison by 10%,800,58,90,-1,None,0,0
 5,Thunder Cutlass,False,0,Vyse,25,-1,None,8600,160,90,36,Yellow,0,-2
 6,Iron-cutter,True,0,Vyse,25,-1,None,3900,112,90,-1,None,0,0
@@ -25,7 +25,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 23,Valuarang,True,1,Aika,25,-1,None,500,46,110,-1,None,0,0
 24,Yin Wing,False,1,Aika,25,17,Sleep by 5%,5900,130,110,-1,None,0,0
 25,Dancing Arc,True,1,Aika,25,-1,None,1100,65,110,-1,None,0,0
-26,Wing of Hope,False,1,Aika,25,-1,None,4800,119,110,-1,None,0,0
+26,Wing of Hope,True,1,Aika,25,-1,None,4800,119,110,-1,None,0,0
 27,Storm Wing,False,1,Aika,25,2,Weak by 10%,1300,69,150,-1,None,0,0
 28,Moon Wing,False,1,Aika,25,-1,None,10200,161,110,-1,None,0,0
 29,Hydra Wing,False,1,Aika,25,-1,None,11400,168,110,-1,None,0,0

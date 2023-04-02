@@ -5,7 +5,7 @@ Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Ele
 403,G-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,60,85,0,3,-1,None,0,0,3000,25,3,18,0,0x2ce324,92,"Cannons used on Armada ships, when they defeated\nIxa'taka. Slightly outdated, but powerful."
 404,B-Type Cannon,0b00110000,X,X,"","","",0,Main Cannon,6,Neutral,75,90,0,3,-1,None,0,0,4000,25,4,13,0,0x2ce380,96,"An upgraded version of the G-Type Cannon, with\nthe same basic design, but greater firepower."
 405,Prototype Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,100,85,0,3,-1,None,0,0,5000,25,5,31,0,0x2ce3e0,76,"A rotating cannon that can track enemy targets,\nbut doesn't do much damage."
-406,Advanced Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,150,90,0,7,-1,None,0,0,5500,25,6,10,0,0x2ce42c,92,A new rotating main cannon developed for Valuan\nDestroyers. Available on the Black Market.
+406,Advanced Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,150,90,0,4,-1,None,0,0,5500,25,6,10,0,0x2ce42c,92,A new rotating main cannon developed for Valuan\nDestroyers. Available on the Black Market.
 407,Yamato Spirit,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,250,90,0,8,-1,None,0,0,6700,50,7,39,0,0x2ce488,76,A large and powerful cannon based on traditional\nYafutoman craftsmanship.
 408,Ancient Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,300,95,0,9,-1,None,0,0,8500,25,8,11,0,0x2ce4d4,64,A durable cannon made from ancient metals from\nthe Old World.
 409,X Cannon,0b00001110,"","",X,X,X,0,Main Cannon,6,Neutral,400,97,0,10,-1,None,0,0,11000,25,9,38,0,0x2ce514,84,A very large cannon that enables large ships to \nblast small ships out of the sky.
@@ -13,9 +13,9 @@ Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Ele
 411,"3""Blaster",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,80,83,1,2,-1,None,0,0,1000,25,11,5,0,0x2ce5a0,84,A secondary cannon for the Little Jack. An\nupgraded version of the 3 Inch Cannon.
 412,"5""Cannon",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,90,80,1,2,-1,None,0,0,1300,25,12,8,0,0x2ce5f4,80,A secondary cannon for the Little Jack. More\npowerful than the 3 Inch Cannon.
 413,"8""Cannon",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,100,82,2,2,-1,None,0,0,2100,25,13,9,0,0x2ce644,80,A secondary cannon for the Little Jack.\nA modified version of the Main Cannon.
-414,"12""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,170,77,2,4,-1,None,0,0,3500,25,14,3,0,0x2ce694,56,A high-caliber secondary cannon developed for\nwarships.
-415,"10""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,200,82,3,4,-1,None,0,0,3600,25,15,0,0,0x2ce6cc,68,"The first 10 Inch secondary cannon, developed\nby the Nasrean Navy."
-416,"10""Cannon Coil",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,220,89,3,4,-1,None,0,0,3700,25,16,1,0,0x2ce710,80,A 10 inch secondary cannon with a reinforced\nbarrel that helps to absorb shock.
+414,"12""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,220,77,2,3,-1,None,0,0,3500,25,14,3,0,0x2ce694,56,A high-caliber secondary cannon developed for\nwarships.
+415,"10""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,170,82,3,2,-1,None,0,0,3600,25,15,0,0,0x2ce6cc,68,"The first 10 Inch secondary cannon, developed\nby the Nasrean Navy."
+416,"10""Cannon Coil",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,200,89,3,3,-1,None,0,0,3700,25,16,1,0,0x2ce710,80,A 10 inch secondary cannon with a reinforced\nbarrel that helps to absorb shock.
 417,"12""Blaster",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,250,85,2,5,-1,None,0,0,3900,25,17,2,0,0x2ce760,60,"A high-caliber secondary cannon, only used\non larger ships."
 418,3'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,280,87,3,6,-1,None,0,0,4700,25,18,4,0,0x2ce79c,76,"A secondary cannon developed in Yafutoma,\ninspired by cylindrical plants."
 419,5'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,330,90,2,6,-1,None,0,0,5100,25,19,7,0,0x2ce7e8,92,"A secondary cannon used by the Yafutoman Navy.\nIt is a short-range, high-powered cannon."

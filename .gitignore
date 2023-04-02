@@ -148,3 +148,7 @@ Thumbs.db
 !/dist/**/beff/f29251b6.mlk
 !/dist/**/sound/b7025554_L.dsp
 !/dist/**/sound/b7025554_R.dsp
+
+# Ship enemy 32	(Obispo)
+!/dist/**/field/me523a.sct
+!/dist/**/field/me577a.sct

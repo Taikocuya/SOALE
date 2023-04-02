@@ -1,7 +1,7 @@
 Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[Trait 1 Name],Trait 1 Value,Trait 2 ID,[Trait 2 Name],Trait 2 Value,Trait 3 ID,[Trait 3 Name],Trait 3 Value,Trait 4 ID,[Trait 4 Name],Trait 4 Value,Buy,Sell%
 440,Rogue Figure,True,0b00111110,X,X,X,X,X,7,Value,800,3,MagDef,11,-1,None,0,-1,None,0,800,25
 441,Pryn Figure,True,0b00111110,X,X,X,X,X,7,Value,2400,3,MagDef,16,-1,None,0,-1,None,0,2400,25
-442,Pyrynn Figure,Assigned,0b00111110,X,X,X,X,X,7,Value,4400,3,MagDef,20,-1,None,0,-1,None,0,4400,25
+442,Pyrynn Figure,True,0b00111110,X,X,X,X,X,7,Value,4400,3,MagDef,20,-1,None,0,-1,None,0,4400,25
 443,Arcwhale Figure,False,0b00111110,X,X,X,X,X,7,Value,4600,3,MagDef,25,-1,None,0,-1,None,0,4600,25
 444,Quetya Figure,False,0b00111110,X,X,X,X,X,7,Value,4900,3,MagDef,30,-1,None,0,-1,None,0,4900,25
 445,Giant Figure,False,0b00111110,X,X,X,X,X,7,Value,5100,3,MagDef,40,-1,None,0,-1,None,0,5100,25
@@ -22,15 +22,15 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[
 460,Armored Deck,True,0b00111110,X,X,X,X,X,7,Value,1000,2,Defense,10,-1,None,0,-1,None,0,1000,25
 461,Steel Deck,True,0b00111110,X,X,X,X,X,7,Value,1900,2,Defense,16,-1,None,0,-1,None,0,1900,25
 462,Slanted Deck,False,0b00111110,X,X,X,X,X,7,Value,2200,2,Defense,20,-1,None,0,-1,None,0,2200,25
-463,Compound Deck,False,0b00111110,X,X,X,X,X,7,Value,5500,2,Defense,25,-1,None,0,-1,None,0,5500,25
-464,Heavy Armor Deck,False,0b00111110,X,X,X,X,X,7,Value,6700,2,Defense,30,-1,None,0,-1,None,0,6700,25
-465,Alloy Deck,False,0b00111110,X,X,X,X,X,7,Value,7300,2,Defense,40,-1,None,0,-1,None,0,7300,25
+463,Compound Deck,True,0b00111110,X,X,X,X,X,7,Value,5500,2,Defense,25,-1,None,0,-1,None,0,5500,25
+464,Heavy Armor Deck,False,0b00111110,X,X,X,X,X,7,Value,7300,2,Defense,40,-1,None,0,-1,None,0,6700,25
+465,Alloy Deck,True,0b00111110,X,X,X,X,X,7,Value,6700,2,Defense,30,-1,None,0,-1,None,0,7300,25
 466,Dragon Deck,False,0b00111110,X,X,X,X,X,7,Value,7900,2,Defense,55,-1,None,0,-1,None,0,7900,25
 467,Ancient Deck,False,0b00111110,X,X,X,X,X,7,Value,8500,2,Defense,70,-1,None,0,-1,None,0,8500,25
 468,Silver Deck,False,0b00111110,X,X,X,X,X,7,Value,11000,2,Defense,85,6,Dodge%,1,4,Quick,3,11000,25
 469,Sparkling Deck,False,0b00111110,X,X,X,X,X,7,Value,13500,2,Defense,100,6,Dodge%,2,4,Quick,6,13500,25
 470,Intercom,True,0b00111110,X,X,X,X,X,7,Value,800,2,Defense,4,3,MagDef,5,4,Quick,3,800,25
-471,Enhanced Kitchen,False,0b00111110,X,X,X,X,X,7,Value,5500,2,Defense,1,-1,None,0,-1,None,0,5500,25
+471,Enhanced Kitchen,True,0b00111110,X,X,X,X,X,7,Value,5500,2,Defense,10,3,MagDef,15,-1,None,0,5500,25
 472,Floor Heater,Undefined,0b00111110,X,X,X,X,X,7,Value,1500,3,MagDef,9,6,Dodge%,2,4,Quick,4,1500,25
 473,Air Purifier,False,0b00111110,X,X,X,X,X,7,Value,5800,3,MagDef,2,-1,None,0,-1,None,0,5800,25
 474,Yafutoman Alcove,False,0b00111110,X,X,X,X,X,7,Value,6700,3,MagDef,2,-1,None,0,-1,None,0,6700,25
