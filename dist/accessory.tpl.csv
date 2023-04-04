@@ -6,7 +6,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 164,Lover's Ring,True,0b00111010,X,X,X,,X,,25,300,18,MagDef,12,1,Will,12,-1,None,0,-1,None,0
 165,Jade Swirl Ring,False,0b00111010,X,X,X,,X,,25,3000,18,MagDef,45,1,Will,45,-1,None,0,-1,None,0
 166,Cupil Ring,False,0b00001000,,,X,,,,25,2200,49,Unconscious,-3,37,Silver,-2,18,MagDef,45,1,Will,45
-167,Warrior's Heart,True,0b00111010,X,X,X,,X,,25,5600,77,Recover SP,1,4,Quick,-50,-1,None,0,-1,None,0
+167,Warrior's Heart,True,0b00111010,X,X,X,,X,,25,5600,77,Recover SP,1,4,Quick,-65,-1,None,0,-1,None,0
 168,Throkryn's Scale,True,0b00110101,X,X,,X,,X,25,300,16,Attack,10,-1,None,0,-1,None,0,-1,None,0
 169,Thryllak's Scale,True,0b00110101,X,X,,X,,X,25,2300,16,Attack,36,-1,None,0,-1,None,0,-1,None,0
 170,Marocca's Shell,True,0b00110101,X,X,,X,,X,25,100,17,Defense,6,-1,None,0,-1,None,0,-1,None,0
@@ -38,7 +38,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 196,Blue Rogue Patch,False,0b00111111,X,X,X,X,X,X,25,6800,17,Defense,18,18,MagDef,18,16,Attack,18,1,Will,18
 197,Assassin Ring,False,0b00111111,X,X,X,X,X,X,25,3200,80,First Strike%,40,19,Hit%,40,-1,None,0,-1,None,0
 198,Stealth Ring,False,0b00111111,X,X,X,X,X,X,25,3000,81,PC Run%,100,4,Quick,10,20,Dodge%,10,-1,None,0
-199,Dhabu Hide,True,0b00111111,X,X,X,X,X,X,25,2800,4,Quick,50,-1,None,0,-1,None,0,-1,None,0
+199,Dhabu Hide,True,0b00111111,X,X,X,X,X,X,25,2800,4,Quick,40,-1,None,0,-1,None,0,-1,None,0
 200,Ominous Mask,False,0b00100101,X,,,X,,X,25,4800,68,Reduce SP,1,16,Attack,45,17,Defense,45,-1,None,0
 201,Flash Ribbon,True,0b00011101,,X,X,X,,X,25,60,4,Quick,2,-1,None,0,-1,None,0,-1,None,0
 202,The Unseen Hand,False,0b00011101,,X,X,X,,X,25,3000,4,Quick,30,20,Dodge%,5,-1,None,0,-1,None,0
