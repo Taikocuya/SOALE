@@ -391,7 +391,7 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 9,r523a.tec,32,オビスポー,2,1,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
 10,r523a.tec,32,オビスポー,2,2,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
 11,r523a.tec,32,オビスポー,2,3,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-12,r523a.tec,32,オビスポー,3,0,1,ES HP ≤,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+12,r523a.tec,32,オビスポー,3,0,1,ES HP ≤,75,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
 13,r523a.tec,32,オビスポー,3,1,4,ES Previous Task Type =,0,Attack,3,Guard,-1,2,???,0,0,Attack,0,-1,None,0
 14,r523a.tec,32,オビスポー,3,2,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
 15,r523a.tec,32,オビスポー,3,3,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
@@ -1427,7 +1427,7 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 9,r577a.tec,32,オビスポー,2,1,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
 10,r577a.tec,32,オビスポー,2,2,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
 11,r577a.tec,32,オビスポー,2,3,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
-12,r577a.tec,32,オビスポー,3,0,1,ES HP ≤,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
+12,r577a.tec,32,オビスポー,3,0,1,ES HP ≤,75,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
 13,r577a.tec,32,オビスポー,3,1,4,ES Previous Task Type =,0,Attack,3,Guard,-1,2,???,0,0,Attack,0,-1,None,0
 14,r577a.tec,32,オビスポー,3,2,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
 15,r577a.tec,32,オビスポー,3,3,3,Rating,70,%,2,Focus,-1,2,Preparing Attack,0,0,Attack,0,-1,None,0
