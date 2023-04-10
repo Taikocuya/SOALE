@@ -66,14 +66,14 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 64,0x802b0f74,0x17ce,17,Furchtbarer Biss,0x1829,17,Mordisco Temible,0x1823,17,Terrible Morsure,0x17c0,14,Terrible Bite,0,S-Move,72,Fatigue + Damage,1,Single PC,0,16,Attack,20,2,Purple,0,Physical,16,Attack,17,Defense,6,Fatigue,20,0,0
 65,0x8034c0f8,0x17df,8,Neglora,0x183a,8,Neglora,0x1834,8,Neglora,0x17ce,8,Neglora,0,S-Move,17,Rem Pos States + Damage,2,All PCs,0,16,Attack,5,4,Yellow,0,Physical,0,Power,0,Power,-1,None,-1,0,0
 66,0x802b102c,0x17e7,9,Eissturm,0x1842,16,Ráfaga de Hielo,0x183c,15,Orage de Glace,0x17d6,10,Ice Storm,0,S-Move,0,Damage,2,All PCs,0,16,Attack,20,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
-67,0x802b0ef8,0x17f0,17,Verbündete rufen,0x1852,17,Convocar aliados,0x184b,15,Appel d'alliés,0x17e0,12,Call Allies,0,S-Move,43,Call EC,0,None,0,60,Mereo,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
+67,0x802b0ef8,0x17f0,17,Verbündete rufen,0x1852,17,Convocar aliados,0x184b,15,Appel d'alliés,0x17e0,12,Call Allies,0,S-Move,43,Call EC,0,None,0,60,Mereo L31,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 68,0x802b0ef8,0x1801,17,Verbündete rufen,0x1863,17,Convocar aliados,0x185a,15,Appel d'alliés,0x17ec,12,Call Allies,0,S-Move,43,Call EC,0,None,0,84,Kilite,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 69,0x802b0ef8,0x1812,17,Verbündete rufen,0x1874,17,Convocar aliados,0x1869,15,Appel d'alliés,0x17f8,12,Call Allies,0,S-Move,43,Call EC,0,None,0,107,Jynnus,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 70,0x8034c100,0x1823,8,Granate,0x1885,8,Granada,0x1878,8,Grenade,0x1804,8,Grenade,0,S-Move,0,Damage,96,PC Square S3,0,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0,0,0
 71,0x802b0e6c,0x182b,8,Giftgas,0x188d,13,Gas Venenoso,0x1880,15,Gas Empoisonné,0x180c,11,Poison Gas,0,S-Move,4,Poison + Damage,96,PC Square S3,0,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50,0,0
 72,0x802b1038,0x1833,15,Sacrum Crystal,0x189a,15,Cristal Sacrum,0x188f,15,Cristal Sacrum,0x1817,15,Sacrum Crystal,0,S-Move,31,Recover HP,4,All ECs,0,400,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 73,0x802b0ef8,0x1842,17,Verbündete rufen,0x18a9,17,Convocar aliados,0x189e,15,Appel d'alliés,0x1826,12,Call Allies,0,S-Move,43,Call EC,0,None,0,97,Razorbeak,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-74,0x802b0ef8,0x1853,17,Verbündete rufen,0x18ba,17,Convocar aliados,0x18ad,15,Appel d'alliés,0x1832,12,Call Allies,0,S-Move,43,Call EC,0,None,0,6,Eversor B,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
+74,0x802b0ef8,0x1853,17,Verbündete rufen,0x18ba,17,Convocar aliados,0x18ad,15,Appel d'alliés,0x1832,12,Call Allies,0,S-Move,43,Call EC,0,None,0,6,Eversor B13,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 75,0x802b1048,0x1864,9,Entladen,0x18cb,8,Evacuar,0x18bc,7,Renvoi,0x183e,10,Discharge,0,S-Move,0,Damage,2,All PCs,0,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0,0,0
 76,0x802b1054,0x186d,14,Tatatimorutto,0x18d3,14,Tatatimorutto,0x18c3,14,Tatatimorutto,0x1848,14,Tatatimorutto,0,S-Move,0,Damage,1,Single PC,0,16,Attack,40,3,Blue,0,Physical,0,Power,0,Power,-1,None,0,0,0
 77,0x802b1064,0x187b,12,Runde Klaue,0x18e1,15,Tenaza Redonda,0x18d1,16,Griffe Arrondie,0x1856,11,Round Claw,0,S-Move,0,Damage,1,Single PC,0,16,Attack,40,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
@@ -96,7 +96,7 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 94,0x802b10ec,0x197a,12,Mondsegnung,0x19e4,16,Bendición Lunar,0x19d3,17,Bienfait lunaire,0x1939,15,Lunar Blessing,0,S-Move,33,Regenerate,5,Self,0,600,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 95,0x8034c108,0x1986,6,DUMMY,0x19f4,6,DUMMY,0x19e4,6,DUMMY,0x1948,6,DUMMY,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 96,0x8034c0a0,0x198c,9,KETSUBAN,0x19fa,9,KETSUBAN,0x19ea,9,KETSUBAN,0x194e,9,KETSUBAN,0,S-Move,0,Damage,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-97,0x802b10fc,0x1995,8,Notfall,0x1a03,11,Emergencia,0x19f3,8,Urgence,0x1957,10,Emergency,0,S-Move,64,Call EC + Defeat All ECs,0,None,0,99,Kantor A,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
+97,0x802b10fc,0x1995,8,Notfall,0x1a03,11,Emergencia,0x19f3,8,Urgence,0x1957,10,Emergency,0,S-Move,64,Call EC + Defeat All ECs,0,None,0,99,Kantor A13,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 98,0x802b0ef8,0x199d,17,Verbündete rufen,0x1a0e,17,Convocar aliados,0x19fb,15,Appel d'alliés,0x1961,12,Call Allies,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 99,0x8034c110,0x19ae,8,Blaster,0x1a1f,8,Blaster,0x1a0a,9,Explosif,0x196d,8,Blaster,0,S-Move,0,Damage,101,PC Ray S3,0,16,Attack,25,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
 100,0x8034c118,0x19b6,7,Magie?,0x1a27,8,¿Magia?,0x1a13,8,Magie ?,0x1975,7,Magic?,0,S-Move,-1,None,0,None,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
@@ -291,7 +291,7 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 289,0x8034c140,0x1f84,6,Rache,0x203f,9,Venganza,0x1ffa,10,Vengeance,0x1f02,8,Revenge,0,S-Move,38,Counter% to 100% + Guard,5,Self,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 290,0x802b1278,0x1f8a,12,Anita Burst,0x2048,16,Explosión Anita,0x2004,16,Explosion Anita,0x1f0a,12,Anita Burst,0,S-Move,0,Damage,2,All PCs,0,16,Attack,30,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
 291,0x802b1284,0x1f96,13,Anita Shield,0x2058,13,Escudo Anita,0x2014,17,Bouclier d'Anita,0x1f16,13,Anita Shield,0,S-Move,39,Block Magic,4,All ECs,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-292,0x802b1294,0x1fa3,16,Schicksalsflöte,0x2065,15,Flauta Destino,0x2025,17,Flûtes du destin,0x1f23,14,Pipes of Doom,0,S-Move,43,Call EC,0,None,0,251,Zivilyn Bane,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
+292,0x802b1294,0x1fa3,16,Schicksalsflöte,0x2065,15,Flauta Destino,0x2025,17,Flûtes du destin,0x1f23,14,Pipes of Doom,0,S-Move,43,Call EC,0,None,0,251,Zivilyn Bane L48,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 293,0x802b12a4,0x1fb3,13,Schießpulver,0x2074,16,Polvo Explosivo,0x2036,17,Poudre explosive,0x1f31,17,Explosive Powder,0,S-Move,0,Damage,2,All PCs,0,16,Attack,40,1,Red,0,Physical,0,Power,0,Power,-1,None,0,0,0
 294,0x802b12b8,0x1fc0,15,Magische Lampe,0x2084,15,Lámpara Mágica,0x2047,14,Lampe magique,0x1f42,11,Magic Lamp,0,S-Move,16,Rem Pos States,2,All PCs,0,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 295,0x802b12c4,0x1fcf,14,Medizinkasten,0x2093,16,Botiquín Médico,0x2055,10,Pharmacie,0x1f4d,13,Medicine Box,0,S-Move,78,"Regenerate + Incr Atk, Def & Qck",5,Self,0,0,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
