@@ -73,7 +73,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 71,Poison Gas,True,0,S-Move,4,Poison + Damage,96,PC Square S3,16,Attack,20,0,Green,0,Physical,16,Attack,17,Defense,0,Poison,50
 72,Sacrum Crystal,True,0,S-Move,31,Recover HP,4,All ECs,400,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 73,Call Allies,True,0,S-Move,43,Call EC,0,None,97,Razorbeak,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-74,Call Allies,True,0,S-Move,43,Call EC,0,None,6,Destroyer B13,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+74,Call Allies,True,0,S-Move,43,Call EC,0,None,6,Destroyer L13a,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 75,Discharge,False,0,S-Move,0,Damage,2,All PCs,16,Attack,20,4,Yellow,0,Physical,0,Power,0,Power,-1,None,0
 76,Tatatimorutto,False,0,S-Move,0,Damage,1,Single PC,16,Attack,40,3,Blue,0,Physical,0,Power,0,Power,-1,None,0
 77,Round Claw,False,0,S-Move,0,Damage,1,Single PC,16,Attack,40,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
@@ -96,7 +96,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 94,Lunar Blessing,False,0,S-Move,33,Regenerate,5,Self,600,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 95,ダミー,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 96,欠番,True,0,S-Move,0,Damage,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-97,Emergency,True,0,S-Move,64,Call EC + Defeat All ECs,0,None,99,Kantor A13,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+97,Emergency,True,0,S-Move,64,Call EC + Defeat All ECs,0,None,99,Kantor L13,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 98,Call Allies,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 99,Blaster,True,0,S-Move,0,Damage,101,PC Ray S3,16,Attack,25,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
 100,Magic?,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
