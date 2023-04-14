@@ -3540,7 +3540,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC US Name],Type ID,[Type Name],Task ID,
 2700,*,198,Rupee L15,Rupee L15,1,Action,500,Increm,11,EC W/O Strengthen
 2800,*,198,Rupee L15,Rupee L15,1,Action,505,Drilnos,-1,None
 2900,*,198,Rupee L15,Rupee L15,1,Action,503,Panika,14,PC W/O Confusion
-3000,*,198,Rupee L15,Rupee L15,1,Action,506,Sacri,12,Nearest PC/EC
+3000,*,198,Rupee L15,Rupee L15,1,Action,509,Sacrulen,12,Nearest PC/EC
 3100,*,198,Rupee L15,Rupee L15,1,Action,525,Pyrum,-1,None
 100,*,199,Rupee L18,Rupee L18,0,Branch,17,ECs Alive = 1,2300,Go to 2300
 200,*,199,Rupee L18,Rupee L18,0,Branch,1,HP < 50%,1700,Go to 1700

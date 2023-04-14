@@ -3540,7 +3540,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 2700,*,198,Rupee L15,1,Action,500,アパ,11,EC W/O Strengthen
 2800,*,198,Rupee L15,1,Action,505,ダウノス,-1,None
 2900,*,198,Rupee L15,1,Action,503,パニカ,14,PC W/O Confusion
-3000,*,198,Rupee L15,1,Action,506,サプラ,12,Nearest PC/EC
+3000,*,198,Rupee L15,1,Action,509,サプローネ,12,Nearest PC/EC
 3100,*,198,Rupee L15,1,Action,525,バーネス,-1,None
 100,*,199,Rupee L18,0,Branch,17,ECs Alive = 1,2300,Go to 2300
 200,*,199,Rupee L18,0,Branch,1,HP < 50%,1700,Go to 1700

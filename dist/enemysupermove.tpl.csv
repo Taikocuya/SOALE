@@ -282,14 +282,14 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 280,Chak Mol,False,0,S-Move,72,Fatigue + Damage,2,All PCs,16,Attack,30,0,Green,0,Physical,16,Attack,17,Defense,6,Fatigue,70
 281,Golden Flurry,False,0,S-Move,70,Confusion + Damage,2,All PCs,16,Attack,30,3,Blue,0,Physical,16,Attack,17,Defense,4,Confusion,70
 282,Bodyguard,False,0,S-Move,43,Call EC,0,None,248,Youjin,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-283,Berserk Rupee,False,0,S-Move,0,Damage,1,Single PC,16,Attack,90,1,Red,0,Physical,0,Power,0,Power,-1,None,0
-284,Legendary Fire,False,0,S-Move,72,Fatigue + Damage,1,Single PC,16,Attack,20,1,Red,0,Physical,16,Attack,17,Defense,6,Fatigue,70
-285,Legendary Punch,False,0,S-Move,0,Damage,1,Single PC,16,Attack,40,1,Red,0,Physical,0,Power,0,Power,-1,None,0
-286,Legendary Charge,False,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-287,Sacri Crystal,False,0,S-Move,31,Recover HP,3,Single EC,400,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+283,Berserk Rupee,True,0,S-Move,17,Rem Pos States + Damage,1,Single PC,16,Attack,90,1,Red,0,Physical,0,Power,0,Power,-1,None,0
+284,Legendary Fire,True,0,S-Move,72,Fatigue + Damage,1,Single PC,16,Attack,20,1,Red,0,Physical,16,Attack,17,Defense,6,Fatigue,20
+285,Legendary Punch,True,0,S-Move,0,Damage,1,Single PC,16,Attack,50,1,Red,0,Physical,0,Power,0,Power,-1,None,0
+286,Legendary Charge,True,0,S-Move,31,Recover HP,5,Self,300,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+287,Sacri Crystal,True,0,S-Move,31,Recover HP,3,Single EC,400,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 288,Cutlass Wrath,False,0,S-Move,0,Damage,1,Single PC,16,Attack,40,3,Blue,0,Physical,0,Power,0,Power,-1,None,0
 289,Revenge,False,0,S-Move,38,Counter% to 100% + Guard,5,Self,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-290,Anita L38urst,False,0,S-Move,0,Damage,2,All PCs,16,Attack,30,1,Red,0,Physical,0,Power,0,Power,-1,None,0
+290,Anita Burst,False,0,S-Move,0,Damage,2,All PCs,16,Attack,30,1,Red,0,Physical,0,Power,0,Power,-1,None,0
 291,Anita Shield,False,0,S-Move,39,Block Magic,4,All ECs,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 292,Pipes of Doom,False,0,S-Move,43,Call EC,0,None,251,Zivilyn Bane L48,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 293,Explosive Powder,False,0,S-Move,0,Damage,2,All PCs,16,Attack,40,1,Red,0,Physical,0,Power,0,Power,-1,None,0

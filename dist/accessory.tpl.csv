@@ -51,7 +51,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 209,Fortune Ring,False,0b00011000,,X,X,,,,25,2100,20,Dodge%,75,17,Defense,8,-1,None,0,-1,None,0
 210,Black Map,True,0b00100000,X,,,,,,25,800,84,Random Encounter%,100,80,PC 1st Strike%,25,82,EC 1st Strike%,0,83,EC Run%,0
 211,White Map,True,0b00100000,X,,,,,,25,700,84,Random Encounter%,5,80,PC 1st Strike%,0,82,EC 1st Strike%,0,81,PC Run%,100
-212,Captain's Hat,False,0b00100000,X,,,,,,25,10,16,Attack,45,-1,None,0,-1,None,0,-1,None,0
+212,Captain's Hat,True,0b00100000,X,,,,,,25,10,16,Attack,45,-1,None,0,-1,None,0,-1,None,0
 213,Mesh Tights,False,0b00010000,,X,,,,,25,10,16,Attack,40,1,Will,40,-1,None,0,-1,None,0
 214,Black Eyepatch,True,0b00100101,X,,,X,,X,25,20,16,Attack,7,-1,None,0,-1,None,0,-1,None,0
 215,Silver Veil,True,0b00011000,,X,X,,,,25,200,1,Will,16,18,MagDef,16,-1,None,0,-1,None,0
