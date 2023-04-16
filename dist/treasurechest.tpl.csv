@@ -22,10 +22,10 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 20,Nasrad,True,199,Dhabu Hide,1
 21,Deserted Island,True,258,Moonberry,1
 22,Deserted Island,True,520,Gold,1827
-23,Nasrad,False,258,Moonberry,1
-24,Esparanza,False,258,Moonberry,1
-25,Esparanza,False,87,Valuan Uniform,3
-26,Esparanza,False,522,Gold,2248
+23,Nasrad,True,258,Moonberry,1
+24,Esparanza,True,258,Moonberry,1
+25,Esparanza,True,522,Gold,2248
+26,Esparanza,True,476,Expensive Wheel,1
 27,Yafutoma,False,258,Moonberry,1
 28,Yafutoma,False,524,Gold,3000
 29,Great Silver Shrine,False,131,Silver Armor,1

@@ -12,7 +12,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[
 450,Engine Cover,True,0b00111110,X,X,X,X,X,7,Value,700,4,Quick,9,6,Dodge%,1,-1,None,0,700,25
 451,Turbo Kit,True,0b00111110,X,X,X,X,X,7,Value,1500,4,Quick,15,6,Dodge%,1,-1,None,0,1500,25
 452,Bore-up Kit,True,0b00111110,X,X,X,X,X,7,Value,2400,4,Quick,19,6,Dodge%,1,-1,None,0,2400,25
-453,Twin Propellers,Undefined,0b00111110,X,X,X,X,X,7,Value,3200,4,Quick,25,6,Dodge%,3,-1,None,0,3200,25
+453,Twin Propellers,True,0b00111110,X,X,X,X,X,7,Value,3200,4,Quick,25,6,Dodge%,3,-1,None,0,3200,25
 454,Air Intake,False,0b00111110,X,X,X,X,X,7,Value,6800,4,Quick,30,6,Dodge%,3,-1,None,0,6800,25
 455,Twin Turbo,False,0b00111110,X,X,X,X,X,7,Value,8800,4,Quick,40,6,Dodge%,3,-1,None,0,8800,25
 456,Timing Valve,False,0b00111110,X,X,X,X,X,7,Value,10800,4,Quick,55,6,Dodge%,5,-1,None,0,10800,25
@@ -30,12 +30,12 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[
 468,Silver Deck,False,0b00111110,X,X,X,X,X,7,Value,11000,2,Defense,85,6,Dodge%,1,4,Quick,3,11000,25
 469,Sparkling Deck,False,0b00111110,X,X,X,X,X,7,Value,13500,2,Defense,100,6,Dodge%,2,4,Quick,6,13500,25
 470,Intercom,True,0b00111110,X,X,X,X,X,7,Value,800,2,Defense,4,3,MagDef,5,4,Quick,3,800,25
-471,Enhanced Kitchen,True,0b00111110,X,X,X,X,X,7,Value,5500,2,Defense,10,3,MagDef,15,-1,None,0,5500,25
+471,Enhanced Kitchen,True,0b00111110,X,X,X,X,X,7,Value,5500,2,Defense,10,3,MagDef,12,-1,None,0,5500,25
 472,Floor Heater,Undefined,0b00111110,X,X,X,X,X,7,Value,1500,3,MagDef,9,6,Dodge%,2,4,Quick,4,1500,25
 473,Air Purifier,False,0b00111110,X,X,X,X,X,7,Value,5800,3,MagDef,2,-1,None,0,-1,None,0,5800,25
 474,Yafutoman Alcove,False,0b00111110,X,X,X,X,X,7,Value,6700,3,MagDef,2,-1,None,0,-1,None,0,6700,25
 475,Soundproofing,False,0b00111110,X,X,X,X,X,7,Value,11000,2,Defense,1,-1,None,0,-1,None,0,11000,25
-476,Expensive Wheel,False,0b00111110,X,X,X,X,X,7,Value,8500,4,Quick,2,-1,None,0,-1,None,0,8500,25
+476,Expensive Wheel,True,0b00111110,X,X,X,X,X,7,Value,8500,4,Quick,35,6,Dodge%,1,-1,None,0,8500,50
 477,Chandelier,False,0b00111110,X,X,X,X,X,7,Value,9300,2,Defense,1,-1,None,0,-1,None,0,9300,25
 478,Wooden Doll,Undefined,0b00111110,X,X,X,X,X,7,Value,1000,2,Defense,2,3,MagDef,9,-1,None,0,1000,25
 479,Indoor Plant,True,0b00111110,X,X,X,X,X,7,Value,3000,3,MagDef,11,4,Quick,4,6,Dodge%,2,3000,25
