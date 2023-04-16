@@ -1228,21 +1228,21 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 22,r565a.tec,22,Ж黒空賊船,5,2,-1,None,0,None,4,Nothing,0,0,Awaiting Orders,0,-1,None,-1,-1,None,0
 23,r565a.tec,22,Ж黒空賊船,5,3,-1,None,0,None,0,Attack,0,-1,None,0,-1,None,-1,-1,None,0
 0,r566a.tec,7,バルアЖ新鋭艦,0,0,3,Rating,50,%,4,Nothing,-1,0,Awaiting Orders,0,2,Focus,-1,0,Focus,0
-1,r566a.tec,7,バルアЖ新鋭艦,0,1,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
-2,r566a.tec,7,バルアЖ新鋭艦,0,2,1,ES HP ≤,30,%,0,Attack,1,-1,None,0,1,Magic,-1,34,ボルテス,0
-3,r566a.tec,7,バルアЖ新鋭艦,0,3,1,ES HP ≤,30,%,1,Magic,-1,6,サプラ,0,2,Focus,-1,0,Focus,0
+1,r566a.tec,7,バルアЖ新鋭艦,0,1,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
+2,r566a.tec,7,バルアЖ新鋭艦,0,2,3,Rating,50,%,0,Attack,1,-1,None,0,1,Magic,-1,34,ボルテス,0
+3,r566a.tec,7,バルアЖ新鋭艦,0,3,1,ES HP ≤,30,%,1,Magic,-1,7,サプリィ,0,2,Focus,-1,0,Focus,0
 4,r566a.tec,7,バルアЖ新鋭艦,1,0,-1,None,0,None,1,Magic,-1,34,ボルテス,0,1,Magic,-1,34,ボルテス,0
 5,r566a.tec,7,バルアЖ新鋭艦,1,1,-1,None,0,None,1,Magic,-1,34,ボルテス,0,1,Magic,-1,34,ボルテス,0
-6,r566a.tec,7,バルアЖ新鋭艦,1,2,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
-7,r566a.tec,7,バルアЖ新鋭艦,1,3,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
+6,r566a.tec,7,バルアЖ新鋭艦,1,2,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
+7,r566a.tec,7,バルアЖ新鋭艦,1,3,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
 8,r566a.tec,7,バルアЖ新鋭艦,2,0,3,Rating,10,%,1,Magic,-1,13,クイッカ,0,2,Focus,-1,0,Focus,0
 9,r566a.tec,7,バルアЖ新鋭艦,2,1,-1,None,0,None,4,Nothing,-1,0,Awaiting Orders,0,1,Magic,-1,27,グラシィ,0
 10,r566a.tec,7,バルアЖ新鋭艦,2,2,-1,None,0,None,4,Nothing,-1,0,Awaiting Orders,0,2,Focus,-1,0,Focus,0
-11,r566a.tec,7,バルアЖ新鋭艦,2,3,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
-12,r566a.tec,7,バルアЖ新鋭艦,3,0,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
-13,r566a.tec,7,バルアЖ新鋭艦,3,1,1,ES HP ≤,30,%,0,Attack,1,-1,None,3,2,Focus,-1,0,Focus,0
-14,r566a.tec,7,バルアЖ新鋭艦,3,2,1,ES HP ≤,30,%,2,Focus,-1,0,Focus,0,1,Magic,-1,34,ボルテス,0
-15,r566a.tec,7,バルアЖ新鋭艦,3,3,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
+11,r566a.tec,7,バルアЖ新鋭艦,2,3,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
+12,r566a.tec,7,バルアЖ新鋭艦,3,0,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
+13,r566a.tec,7,バルアЖ新鋭艦,3,1,3,Rating,50,%,0,Attack,1,-1,None,3,2,Focus,-1,0,Focus,0
+14,r566a.tec,7,バルアЖ新鋭艦,3,2,3,Rating,50,%,2,Focus,-1,0,Focus,0,1,Magic,-1,34,ボルテス,0
+15,r566a.tec,7,バルアЖ新鋭艦,3,3,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
 0,r567a.tec,6,バルア新鋭艦,0,0,3,Rating,50,%,0,Attack,1,-1,None,1,4,Nothing,0,-1,None,0
 1,r567a.tec,6,バルア新鋭艦,0,1,3,Rating,70,%,0,Attack,0,-1,None,0,2,Focus,0,-1,None,0
 2,r567a.tec,6,バルア新鋭艦,0,2,3,Rating,50,%,0,Attack,0,-1,None,0,0,Attack,2,-1,None,1
@@ -1364,21 +1364,21 @@ Entry ID,[Filter],[ES ID],[ES Name],Turn ID,Phase ID,Cond ID,[Cond Name],Cond Pa
 14,r574a.tec,6,バルア新鋭艦,3,2,3,Rating,50,%,2,Focus,-1,0,Focus,0,0,Attack,2,-1,None,1
 15,r574a.tec,6,バルア新鋭艦,3,3,3,Rating,50,%,2,Focus,-1,0,Focus,0,3,Guard,-1,0,Evasive Action,0
 0,r575a.tec,7,バルアЖ新鋭艦,0,0,3,Rating,50,%,4,Nothing,-1,0,Awaiting Orders,0,2,Focus,-1,0,Focus,0
-1,r575a.tec,7,バルアЖ新鋭艦,0,1,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
-2,r575a.tec,7,バルアЖ新鋭艦,0,2,1,ES HP ≤,30,%,0,Attack,1,-1,None,0,1,Magic,-1,34,ボルテス,0
-3,r575a.tec,7,バルアЖ新鋭艦,0,3,1,ES HP ≤,30,%,1,Magic,-1,6,サプラ,0,2,Focus,-1,0,Focus,0
+1,r575a.tec,7,バルアЖ新鋭艦,0,1,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
+2,r575a.tec,7,バルアЖ新鋭艦,0,2,3,Rating,50,%,0,Attack,1,-1,None,0,1,Magic,-1,34,ボルテス,0
+3,r575a.tec,7,バルアЖ新鋭艦,0,3,1,ES HP ≤,30,%,1,Magic,-1,7,サプリィ,0,2,Focus,-1,0,Focus,0
 4,r575a.tec,7,バルアЖ新鋭艦,1,0,-1,None,0,None,1,Magic,-1,34,ボルテス,0,1,Magic,-1,34,ボルテス,0
 5,r575a.tec,7,バルアЖ新鋭艦,1,1,-1,None,0,None,1,Magic,-1,34,ボルテス,0,1,Magic,-1,34,ボルテス,0
-6,r575a.tec,7,バルアЖ新鋭艦,1,2,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
-7,r575a.tec,7,バルアЖ新鋭艦,1,3,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
+6,r575a.tec,7,バルアЖ新鋭艦,1,2,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
+7,r575a.tec,7,バルアЖ新鋭艦,1,3,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
 8,r575a.tec,7,バルアЖ新鋭艦,2,0,3,Rating,10,%,1,Magic,-1,13,クイッカ,0,2,Focus,-1,0,Focus,0
 9,r575a.tec,7,バルアЖ新鋭艦,2,1,-1,None,0,None,4,Nothing,-1,0,Awaiting Orders,0,1,Magic,-1,27,グラシィ,0
 10,r575a.tec,7,バルアЖ新鋭艦,2,2,-1,None,0,None,4,Nothing,-1,0,Awaiting Orders,0,2,Focus,-1,0,Focus,0
-11,r575a.tec,7,バルアЖ新鋭艦,2,3,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
-12,r575a.tec,7,バルアЖ新鋭艦,3,0,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
-13,r575a.tec,7,バルアЖ新鋭艦,3,1,1,ES HP ≤,30,%,0,Attack,1,-1,None,3,2,Focus,-1,0,Focus,0
-14,r575a.tec,7,バルアЖ新鋭艦,3,2,1,ES HP ≤,30,%,2,Focus,-1,0,Focus,0,1,Magic,-1,34,ボルテス,0
-15,r575a.tec,7,バルアЖ新鋭艦,3,3,1,ES HP ≤,30,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
+11,r575a.tec,7,バルアЖ新鋭艦,2,3,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
+12,r575a.tec,7,バルアЖ新鋭艦,3,0,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,27,グラシィ,0
+13,r575a.tec,7,バルアЖ新鋭艦,3,1,3,Rating,50,%,0,Attack,1,-1,None,3,2,Focus,-1,0,Focus,0
+14,r575a.tec,7,バルアЖ新鋭艦,3,2,3,Rating,50,%,2,Focus,-1,0,Focus,0,1,Magic,-1,34,ボルテス,0
+15,r575a.tec,7,バルアЖ新鋭艦,3,3,3,Rating,50,%,0,Attack,0,-1,None,0,1,Magic,-1,34,ボルテス,0
 0,r576a.tec,35,ロック鳥,0,0,3,Rating,50,%,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
 1,r576a.tec,35,ロック鳥,0,1,3,Rating,50,%,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0
 2,r576a.tec,35,ロック鳥,0,2,3,Rating,50,%,4,Nothing,-1,2,Assessing Damage,0,0,Attack,0,-1,None,0

@@ -13,7 +13,7 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[
 451,Turbo Kit,True,0b00111110,X,X,X,X,X,7,Value,1500,4,Quick,15,6,Dodge%,1,-1,None,0,1500,25
 452,Bore-up Kit,True,0b00111110,X,X,X,X,X,7,Value,2400,4,Quick,19,6,Dodge%,1,-1,None,0,2400,25
 453,Twin Propellers,True,0b00111110,X,X,X,X,X,7,Value,3200,4,Quick,25,6,Dodge%,3,-1,None,0,3200,25
-454,Air Intake,False,0b00111110,X,X,X,X,X,7,Value,6800,4,Quick,30,6,Dodge%,3,-1,None,0,6800,25
+454,Air Intake,Assigned,0b00111110,X,X,X,X,X,7,Value,6800,4,Quick,30,6,Dodge%,3,-1,None,0,6800,25
 455,Twin Turbo,False,0b00111110,X,X,X,X,X,7,Value,8800,4,Quick,40,6,Dodge%,3,-1,None,0,8800,25
 456,Timing Valve,False,0b00111110,X,X,X,X,X,7,Value,10800,4,Quick,55,6,Dodge%,5,-1,None,0,10800,25
 457,Triple Turbo,False,0b00111110,X,X,X,X,X,7,Value,12800,4,Quick,70,6,Dodge%,5,-1,None,0,12800,25
