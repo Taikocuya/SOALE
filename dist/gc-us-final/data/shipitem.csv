@@ -27,5 +27,5 @@ Entry ID,Entry US Name,Occasion Flags,[M],[B],[S],Ship Eff ID,[Ship Eff Name],Sh
 505,Hex Shell,0b0001,"","",X,109,Block Attack,1,100,0,1000,100,25,14,0,0,6,Neutral,0,0,0,0x2d040c,84,"A barrier against artillery attacks for 1 turn,\ndeveloped by a master engineer. "
 506,Magic Shell,0b0001,"","",X,110,Block Magic,1,100,0,1000,100,26,20,0,0,6,Neutral,0,0,0,0x2d0460,76,"A barrier against magic attacks for 1 turn,\ndeveloped by a master magician."
 507,Gold Bullion,0b0000,"","","",-1,None,-1,-1,0,10000,100,27,12,0,0,6,Neutral,0,0,0,0x2d04ac,92,"A piece of solid gold, too big to carry. You can\nkeep it, or sell it if you need the money."
-508,Crystal Ball,0b0000,"","","",-1,None,-1,-1,0,1000,100,28,7,0,0,6,Neutral,0,0,0,0x2d0508,92,"A work of art by a well-known craftsman. You can\nkeep it, or sell it if you need the money."
+508,Crystal Ball,0b0000,"","","",-1,None,-1,-1,0,5000,100,28,7,0,0,6,Neutral,0,0,0,0x2d0508,92,"A work of art by a well-known craftsman. You can\nkeep it, or sell it if you need the money."
 509,Magic Cannon,0b0000,"","","",-1,None,-1,-1,0,0,0,29,18,0,0,6,Neutral,0,0,0,0x2d0564,96,A device that fires magic projectiles. Stolen\nfrom Belleza in a battle above the Nasr desert.

@@ -13,9 +13,9 @@ Entry ID,[Entry Name],[Finalized],PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Typ
 411,"3""Blaster",True,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,80,83,1,2,-1,None,0,1000,25
 412,"5""Cannon",True,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,90,80,1,2,-1,None,0,1300,25
 413,"8""Cannon",True,0b00110000,X,X,,,,1,Sec Cannon,6,Neutral,100,82,2,2,-1,None,0,2100,25
-414,"12""Cannon",False,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,220,77,2,3,-1,None,0,3500,25
+414,"12""Cannon",True,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,220,77,2,3,-1,None,0,3500,25
 415,"10""Cannon",True,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,170,82,3,2,-1,None,0,3600,25
-416,"10""Cannon Coil",True,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,200,89,3,3,-1,None,0,3700,25
+416,"10""Cannon Coil",True,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,200,89,2,3,-1,None,0,3700,25
 417,"12""Blaster",False,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,250,85,2,5,-1,None,0,3900,25
 418,3'Cannon,False,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,280,87,3,6,-1,None,0,4700,25
 419,5'Cannon,False,0b00001110,,,X,X,X,1,Sec Cannon,6,Neutral,330,90,2,6,-1,None,0,5100,25

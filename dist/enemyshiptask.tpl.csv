@@ -315,70 +315,74 @@ Entry ID,[Filter],[ES ID],[ES Name],[Finalized],Turn ID,Phase ID,Cond ID,[Cond N
 1,r519a.tec,38,Fortress Gates,True,0,1,3,Rating,70,%,1,Magic,-1,None,24,Pyres,0,1,Magic,-1,None,33,Electres,0
 2,r519a.tec,38,Fortress Gates,True,0,2,-1,None,0,None,0,Attack,0,Small Cannon,-1,None,0,0,Attack,0,Small Cannon,-1,None,0
 3,r519a.tec,38,Fortress Gates,True,0,3,-1,None,0,None,0,Attack,0,Small Cannon,-1,None,0,0,Attack,0,Small Cannon,-1,None,0
-0,r520a.tec,9,Gregorio Cruiser,False,0,0,-1,None,0,None,0,Attack,0,Main Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-1,r520a.tec,9,Gregorio Cruiser,False,0,1,3,Rating,25,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation,-1,None,1
-2,r520a.tec,9,Gregorio Cruiser,False,0,2,-1,None,0,None,0,Attack,0,Main Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-3,r520a.tec,9,Gregorio Cruiser,False,0,3,3,Rating,20,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation,-1,None,0
-4,r520a.tec,9,Gregorio Cruiser,False,1,0,-1,None,0,None,0,Attack,1,Fragmentation,-1,None,0,-1,None,-1,None,-1,None,0
-5,r520a.tec,9,Gregorio Cruiser,False,1,1,3,Rating,50,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation,-1,None,1
-6,r520a.tec,9,Gregorio Cruiser,False,1,2,-1,None,0,None,0,Attack,0,Main Cannon,-1,None,0,-1,None,-1,None,-1,None,0
-7,r520a.tec,9,Gregorio Cruiser,False,1,3,3,Rating,30,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragmentation,-1,None,0
-0,r521a.tec,10,Gregorio Gunboat,False,0,0,-1,None,0,None,3,Guard,-1,None,-1,None,0,0,Attack,0,Main Cannon,-1,None,0
-1,r521a.tec,10,Gregorio Gunboat,False,0,1,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,0,Attack,0,Main Cannon,-1,None,0
-2,r521a.tec,10,Gregorio Gunboat,False,0,2,-1,None,0,None,0,Attack,0,Main Cannon,-1,None,0,0,Attack,0,Main Cannon,-1,None,0
-3,r521a.tec,10,Gregorio Gunboat,False,0,3,-1,None,0,None,0,Attack,1,Fragmenter Gun,-1,None,0,0,Attack,0,Main Cannon,-1,None,0
-4,r521a.tec,10,Gregorio Gunboat,False,1,0,-1,None,0,None,0,Attack,1,Fragmenter Gun,-1,None,3,0,Attack,0,Main Cannon,-1,None,0
-5,r521a.tec,10,Gregorio Gunboat,False,1,1,-1,None,0,None,0,Attack,2,Blast Charge,-1,None,2,0,Attack,0,Main Cannon,-1,None,0
-6,r521a.tec,10,Gregorio Gunboat,False,1,2,-1,None,0,None,3,Guard,-1,None,-1,None,0,0,Attack,0,Main Cannon,-1,None,0
-7,r521a.tec,10,Gregorio Gunboat,False,1,3,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,0,Attack,0,Main Cannon,-1,None,0
-8,r521a.tec,10,Gregorio Gunboat,False,2,0,-1,None,0,None,4,Nothing,-1,None,1,Target Lost,0,0,Attack,0,Main Cannon,-1,None,0
-9,r521a.tec,10,Gregorio Gunboat,False,2,1,-1,None,0,None,2,Focus,-1,None,1,Taking Aim,0,0,Attack,0,Main Cannon,-1,None,0
-10,r521a.tec,10,Gregorio Gunboat,False,2,2,-1,None,0,None,0,Attack,0,Main Cannon,-1,None,0,0,Attack,0,Main Cannon,-1,None,0
-11,r521a.tec,10,Gregorio Gunboat,False,2,3,-1,None,0,None,0,Attack,1,Fragmenter Gun,-1,None,3,0,Attack,0,Main Cannon,-1,None,0
-12,r521a.tec,10,Gregorio Gunboat,False,3,0,-1,None,0,None,0,Attack,0,Main Cannon,-1,None,0,0,Attack,0,Main Cannon,-1,None,0
-13,r521a.tec,10,Gregorio Gunboat,False,3,1,-1,None,0,None,0,Attack,2,Blast Charge,-1,None,3,0,Attack,0,Main Cannon,-1,None,0
-14,r521a.tec,10,Gregorio Gunboat,False,3,2,-1,None,0,None,0,Attack,1,Fragmenter Gun,-1,None,1,0,Attack,0,Main Cannon,-1,None,0
-15,r521a.tec,10,Gregorio Gunboat,False,3,3,-1,None,0,None,3,Guard,-1,None,-1,None,0,0,Attack,0,Main Cannon,-1,None,0
-0,r522a.tec,16,Auriga,False,0,0,3,Rating,20,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,2,Blast Charge,-1,None,2
-1,r522a.tec,16,Auriga,False,0,1,3,Rating,60,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,AP Cannon,-1,None,0
-2,r522a.tec,16,Auriga,False,0,2,3,Rating,80,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragment Gun,-1,None,1
-3,r522a.tec,16,Auriga,False,0,3,3,Rating,10,%,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
-4,r522a.tec,16,Auriga,False,1,0,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,3,Guard,-1,None,0,Evasive Action,0
-5,r522a.tec,16,Auriga,False,1,1,3,Rating,35,%,0,Attack,0,AP Cannon,-1,None,0,0,Attack,1,Fragment Gun,-1,None,3
-6,r522a.tec,16,Auriga,False,1,2,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,3,Guard,-1,None,0,Evasive Action,0
-7,r522a.tec,16,Auriga,False,1,3,3,Rating,70,%,0,Attack,0,AP Cannon,-1,None,0,2,Focus,-1,None,0,Focus,0
-8,r522a.tec,16,Auriga,False,2,0,3,Rating,40,%,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,0,AP Cannon,-1,None,0
-9,r522a.tec,16,Auriga,False,2,1,-1,None,0,None,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-10,r522a.tec,16,Auriga,False,2,2,-1,None,0,None,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-11,r522a.tec,16,Auriga,False,2,3,6,PS Has Quickened in Same Turn?,0,None,4,Nothing,0,None,3,Hull Ram,0,0,Attack,3,Hull Ram,-1,None,0
-12,r522a.tec,16,Auriga,False,3,0,3,Rating,20,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,2,Blast Charge,-1,None,2
-13,r522a.tec,16,Auriga,False,3,1,3,Rating,80,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragment Gun,-1,None,3
-14,r522a.tec,16,Auriga,False,3,2,3,Rating,10,%,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
-15,r522a.tec,16,Auriga,False,3,3,3,Rating,60,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,AP Cannon,-1,None,0
-16,r522a.tec,16,Auriga,False,4,0,3,Rating,20,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragment Gun,-1,None,3
-17,r522a.tec,16,Auriga,False,4,1,3,Rating,20,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,2,Blast Charge,-1,None,2
-18,r522a.tec,16,Auriga,False,4,2,3,Rating,10,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,AP Cannon,-1,None,0
-19,r522a.tec,16,Auriga,False,4,3,3,Rating,20,%,3,Guard,-1,None,0,Evasive Action,0,2,Focus,-1,None,0,Focus,0
-20,r522a.tec,16,Auriga,False,5,0,3,Rating,40,%,4,Nothing,-1,None,0,Awaiting Orders,0,0,Attack,1,Fragment Gun,-1,None,2
-21,r522a.tec,16,Auriga,False,5,1,-1,None,0,None,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-22,r522a.tec,16,Auriga,False,5,2,-1,None,0,None,2,Focus,-1,None,0,Focus,0,2,Focus,-1,None,0,Focus,0
-23,r522a.tec,16,Auriga,False,5,3,6,PS Has Quickened in Same Turn?,0,None,4,Nothing,0,None,3,Hull Ram,0,0,Attack,3,Hull Ram,-1,None,0
-24,r522a.tec,16,Auriga,False,6,0,-1,None,0,None,0,Attack,1,Fragment Gun,-1,None,2,0,Attack,1,Fragment Gun,-1,None,2
-25,r522a.tec,16,Auriga,False,6,1,3,Rating,40,%,0,Attack,0,AP Cannon,-1,None,0,0,Attack,2,Blast Charge,-1,None,1
-26,r522a.tec,16,Auriga,False,6,2,3,Rating,60,%,0,Attack,0,AP Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-27,r522a.tec,16,Auriga,False,6,3,0,PS HP ≤,35,%,2,Focus,-1,None,0,Focus,0,0,Attack,0,AP Cannon,-1,None,0
-28,r522a.tec,16,Auriga,False,7,0,-1,None,0,None,0,Attack,1,Fragment Gun,-1,None,2,0,Attack,1,Fragment Gun,-1,None,2
-29,r522a.tec,16,Auriga,False,7,1,3,Rating,40,%,0,Attack,0,AP Cannon,-1,None,0,0,Attack,2,Blast Charge,-1,None,1
-30,r522a.tec,16,Auriga,False,7,2,3,Rating,60,%,0,Attack,0,AP Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
-31,r522a.tec,16,Auriga,False,7,3,0,PS HP ≤,35,%,2,Focus,-1,None,0,Focus,0,0,Attack,0,AP Cannon,-1,None,0
-32,r522a.tec,16,Auriga,False,8,0,3,Rating,90,%,4,Nothing,-1,None,0,Awaiting Orders,0,2,Focus,-1,None,0,Focus,0
-33,r522a.tec,16,Auriga,False,8,1,3,Rating,70,%,4,Nothing,-1,None,0,Awaiting Orders,0,2,Focus,-1,None,0,Focus,0
-34,r522a.tec,16,Auriga,False,8,2,3,Rating,50,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
-35,r522a.tec,16,Auriga,False,8,3,3,Rating,20,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
-36,r522a.tec,16,Auriga,False,9,0,3,Rating,90,%,4,Nothing,-1,None,0,Awaiting Orders,0,2,Focus,-1,None,0,Focus,0
-37,r522a.tec,16,Auriga,False,9,1,3,Rating,70,%,4,Nothing,-1,None,0,Awaiting Orders,0,2,Focus,-1,None,0,Focus,0
-38,r522a.tec,16,Auriga,False,9,2,3,Rating,50,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
-39,r522a.tec,16,Auriga,False,9,3,3,Rating,20,%,4,Nothing,-1,None,0,Awaiting Orders,0,3,Guard,-1,None,0,Evasive Action,0
+0,r520a.tec,9,Gregorio Cruiser,True,0,0,3,Rating,50,%,0,Attack,1,Fragmentation,-1,None,3,1,Magic,-1,None,24,Pyres,0
+1,r520a.tec,9,Gregorio Cruiser,True,0,1,3,Rating,50,%,0,Attack,1,Fragmentation,-1,None,2,3,Guard,-1,None,0,Evasive Action,0
+2,r520a.tec,9,Gregorio Cruiser,True,0,2,3,Rating,50,%,0,Attack,0,Main Cannon,-1,None,0,1,Magic,-1,None,24,Pyres,0
+3,r520a.tec,9,Gregorio Cruiser,True,0,3,3,Rating,50,%,1,Magic,-1,None,6,Sacri,0,3,Guard,-1,None,0,Evasive Action,0
+4,r520a.tec,9,Gregorio Cruiser,True,1,0,3,Rating,50,%,0,Attack,1,Fragmentation,-1,None,3,1,Magic,-1,None,24,Pyres,0
+5,r520a.tec,9,Gregorio Cruiser,True,1,1,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,-1,None,-1,None,-1,None,0
+6,r520a.tec,9,Gregorio Cruiser,True,1,2,3,Rating,50,%,0,Attack,0,Main Cannon,-1,None,0,1,Magic,-1,None,24,Pyres,0
+7,r520a.tec,9,Gregorio Cruiser,True,1,3,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+8,r520a.tec,9,Gregorio Cruiser,True,2,0,3,Rating,50,%,0,Attack,1,Fragmentation,-1,None,3,1,Magic,-1,None,24,Pyres,0
+9,r520a.tec,9,Gregorio Cruiser,True,2,1,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,-1,None,-1,None,-1,None,0
+10,r520a.tec,9,Gregorio Cruiser,True,2,2,3,Rating,50,%,0,Attack,0,Main Cannon,-1,None,0,1,Magic,-1,None,24,Pyres,0
+11,r520a.tec,9,Gregorio Cruiser,True,2,3,-1,None,0,None,1,Magic,-1,None,6,Sacri,0,-1,None,-1,None,-1,None,0
+0,r521a.tec,10,Gregorio Gunboat,True,0,0,-1,None,0,None,0,Attack,1,Fragmenter Gun,-1,None,3,-1,None,-1,None,-1,None,0
+1,r521a.tec,10,Gregorio Gunboat,True,0,1,3,Rating,50,%,2,Focus,-1,None,1,Taking Aim,0,0,Attack,0,Main Cannon,-1,None,0
+2,r521a.tec,10,Gregorio Gunboat,True,0,2,4,ES Previous Task Type =,0,Attack,2,Focus,-1,None,1,Taking Aim,0,0,Attack,2,Blast Charge,-1,None,1
+3,r521a.tec,10,Gregorio Gunboat,True,0,3,4,ES Previous Task Type =,0,Attack,2,Focus,-1,None,1,Taking Aim,0,0,Attack,0,Main Cannon,-1,None,0
+4,r521a.tec,10,Gregorio Gunboat,True,1,0,-1,None,0,None,0,Attack,1,Fragmenter Gun,-1,None,3,-1,None,-1,None,-1,None,0
+5,r521a.tec,10,Gregorio Gunboat,True,1,1,3,Rating,50,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,Main Cannon,-1,None,0
+6,r521a.tec,10,Gregorio Gunboat,True,1,2,4,ES Previous Task Type =,0,Attack,3,Guard,-1,None,0,Evasive Action,0,0,Attack,2,Blast Charge,-1,None,1
+7,r521a.tec,10,Gregorio Gunboat,True,1,3,4,ES Previous Task Type =,0,Attack,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,Main Cannon,-1,None,0
+8,r521a.tec,10,Gregorio Gunboat,True,2,0,-1,None,0,None,3,Guard,-1,None,0,Evasive Action,0,-1,None,-1,None,-1,None,0
+9,r521a.tec,10,Gregorio Gunboat,True,2,1,1,ES HP ≤,60,%,1,Magic,-1,None,6,Sacri,0,3,Guard,-1,None,0,Evasive Action,0
+10,r521a.tec,10,Gregorio Gunboat,True,2,2,3,Rating,50,%,0,Attack,1,Fragmenter Gun,-1,None,1,0,Attack,2,Blast Charge,-1,None,1
+11,r521a.tec,10,Gregorio Gunboat,True,2,3,-1,None,0,None,0,Attack,0,Main Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+12,r521a.tec,10,Gregorio Gunboat,True,3,0,-1,None,0,None,0,Attack,0,Main Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+13,r521a.tec,10,Gregorio Gunboat,True,3,1,-1,None,0,None,0,Attack,1,Fragmenter Gun,-1,None,2,-1,None,-1,None,-1,None,0
+14,r521a.tec,10,Gregorio Gunboat,True,3,2,3,Rating,30,%,2,Focus,-1,None,1,Taking Aim,0,0,Attack,2,Blast Charge,-1,None,1
+15,r521a.tec,10,Gregorio Gunboat,True,3,3,-1,None,0,None,0,Attack,0,Main Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+0,r522a.tec,16,Auriga,True,0,0,3,Rating,50,%,0,Attack,2,Blast Charge,-1,None,1,2,Focus,-1,None,0,Focus,0
+1,r522a.tec,16,Auriga,True,0,1,3,Rating,50,%,0,Attack,2,Blast Charge,-1,None,1,3,Guard,-1,None,0,Evasive Action,0
+2,r522a.tec,16,Auriga,True,0,2,3,Rating,50,%,0,Attack,2,Blast Charge,-1,None,1,3,Guard,-1,None,0,Evasive Action,0
+3,r522a.tec,16,Auriga,True,0,3,3,Rating,50,%,0,Attack,0,AP Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+4,r522a.tec,16,Auriga,True,1,0,-1,None,0,None,0,Attack,1,Fragment Gun,-1,None,3,-1,None,-1,None,-1,None,0
+5,r522a.tec,16,Auriga,True,1,1,3,Rating,50,%,0,Attack,2,Blast Charge,-1,None,2,3,Guard,-1,None,0,Evasive Action,0
+6,r522a.tec,16,Auriga,True,1,2,3,Rating,50,%,0,Attack,2,Blast Charge,-1,None,1,3,Guard,-1,None,0,Evasive Action,0
+7,r522a.tec,16,Auriga,True,1,3,-1,None,0,None,0,Attack,0,AP Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+8,r522a.tec,16,Auriga,True,2,0,1,ES HP ≤,75,%,0,Attack,2,Blast Charge,-1,None,1,1,Magic,-1,None,5,Drilnos,0
+9,r522a.tec,16,Auriga,True,2,1,1,ES HP ≤,75,%,0,Attack,2,Blast Charge,-1,None,1,0,Attack,2,Blast Charge,-1,None,2
+10,r522a.tec,16,Auriga,True,2,2,1,ES HP ≤,75,%,0,Attack,2,Blast Charge,-1,None,1,1,Magic,-1,None,0,Increm,0
+11,r522a.tec,16,Auriga,True,2,3,6,PS Has Quickened in Same Turn?,0,None,4,Nothing,0,None,3,Hull Ram,0,0,Attack,3,Hull Ram,-1,None,0
+12,r522a.tec,16,Auriga,True,3,0,3,Rating,50,%,0,Attack,1,Fragment Gun,-1,None,3,0,Attack,2,Blast Charge,-1,None,2
+13,r522a.tec,16,Auriga,True,3,1,3,Rating,50,%,0,Attack,0,AP Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+14,r522a.tec,16,Auriga,True,3,2,-1,None,0,None,0,Attack,2,Blast Charge,-1,None,1,-1,None,-1,None,-1,None,0
+15,r522a.tec,16,Auriga,True,3,3,3,Rating,50,%,2,Focus,-1,None,0,Focus,0,3,Guard,-1,None,0,Evasive Action,0
+16,r522a.tec,16,Auriga,True,4,0,3,Rating,50,%,0,Attack,1,Fragment Gun,-1,None,3,3,Guard,-1,None,0,Evasive Action,0
+17,r522a.tec,16,Auriga,True,4,1,3,Rating,50,%,0,Attack,1,Fragment Gun,-1,None,2,0,Attack,2,Blast Charge,-1,None,1
+18,r522a.tec,16,Auriga,True,4,2,-1,None,0,None,0,Attack,2,Blast Charge,-1,None,1,-1,None,-1,None,-1,None,0
+19,r522a.tec,16,Auriga,True,4,3,3,Rating,50,%,0,Attack,0,AP Cannon,-1,None,0,3,Guard,-1,None,0,Evasive Action,0
+20,r522a.tec,16,Auriga,True,5,0,1,ES HP ≤,75,%,0,Attack,2,Blast Charge,-1,None,1,1,Magic,-1,None,5,Drilnos,0
+21,r522a.tec,16,Auriga,True,5,1,1,ES HP ≤,75,%,0,Attack,2,Blast Charge,-1,None,1,0,Attack,2,Blast Charge,-1,None,2
+22,r522a.tec,16,Auriga,True,5,2,1,ES HP ≤,75,%,0,Attack,2,Blast Charge,-1,None,1,1,Magic,-1,None,0,Increm,0
+23,r522a.tec,16,Auriga,True,5,3,6,PS Has Quickened in Same Turn?,0,None,4,Nothing,0,None,3,Hull Ram,0,0,Attack,3,Hull Ram,-1,None,0
+24,r522a.tec,16,Auriga,True,6,0,-1,None,0,None,0,Attack,1,Fragment Gun,-1,None,3,-1,None,-1,None,-1,None,0
+25,r522a.tec,16,Auriga,True,6,1,3,Rating,50,%,0,Attack,2,Blast Charge,-1,None,1,0,Attack,2,Blast Charge,-1,None,2
+26,r522a.tec,16,Auriga,True,6,2,-1,None,0,None,0,Attack,0,AP Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+27,r522a.tec,16,Auriga,True,6,3,0,PS HP ≤,30,%,2,Focus,-1,None,0,Focus,0,0,Attack,0,AP Cannon,-1,None,0
+28,r522a.tec,16,Auriga,True,7,0,-1,None,0,None,0,Attack,1,Fragment Gun,-1,None,3,-1,None,-1,None,-1,None,0
+29,r522a.tec,16,Auriga,True,7,1,3,Rating,50,%,0,Attack,2,Blast Charge,-1,None,1,0,Attack,2,Blast Charge,-1,None,2
+30,r522a.tec,16,Auriga,True,7,2,-1,None,0,None,0,Attack,0,AP Cannon,-1,None,0,-1,None,-1,None,-1,None,0
+31,r522a.tec,16,Auriga,True,7,3,0,PS HP ≤,30,%,2,Focus,-1,None,0,Focus,0,0,Attack,0,AP Cannon,-1,None,0
+32,r522a.tec,16,Auriga,True,8,0,1,ES HP ≤,90,%,1,Magic,-1,None,6,Sacri,0,4,Nothing,-1,None,1,Target Lost,0
+33,r522a.tec,16,Auriga,True,8,1,1,ES HP ≤,75,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragment Gun,-1,None,2
+34,r522a.tec,16,Auriga,True,8,2,3,Rating,50,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,2,Blast Charge,-1,None,1
+35,r522a.tec,16,Auriga,True,8,3,1,ES HP ≤,75,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,AP Cannon,-1,None,0
+36,r522a.tec,16,Auriga,True,9,0,1,ES HP ≤,90,%,1,Magic,-1,None,6,Sacri,0,4,Nothing,-1,None,1,Target Lost,0
+37,r522a.tec,16,Auriga,True,9,1,1,ES HP ≤,75,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,1,Fragment Gun,-1,None,2
+38,r522a.tec,16,Auriga,True,9,2,3,Rating,50,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,2,Blast Charge,-1,None,1
+39,r522a.tec,16,Auriga,True,9,3,1,ES HP ≤,75,%,3,Guard,-1,None,0,Evasive Action,0,0,Attack,0,AP Cannon,-1,None,0
 0,r523a.tec,32,Obispo,True,0,0,3,Rating,80,%,2,Focus,-1,None,2,Preparing Attack,0,0,Attack,0,Squid Ink,-1,None,0
 1,r523a.tec,32,Obispo,True,0,1,4,ES Previous Task Type =,0,Attack,4,Nothing,-1,None,2,Assessing Damage,0,0,Attack,0,Squid Ink,-1,None,0
 2,r523a.tec,32,Obispo,True,0,2,-1,None,0,None,0,Attack,0,Squid Ink,-1,None,0,-1,None,-1,None,-1,None,0

@@ -15,7 +15,7 @@ Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Type ID,[Type Name],Ele
 413,"8""Cannon",0b00110000,X,X,"","","",1,Sec Cannon,6,Neutral,100,82,2,2,-1,None,0,0,2100,25,13,9,0,0x2ce644,80,A secondary cannon for the Little Jack.\nA modified version of the Main Cannon.
 414,"12""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,220,77,2,3,-1,None,0,0,3500,25,14,3,0,0x2ce694,56,A high-caliber secondary cannon developed for\nwarships.
 415,"10""Cannon",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,170,82,3,2,-1,None,0,0,3600,25,15,0,0,0x2ce6cc,68,"The first 10 Inch secondary cannon, developed\nby the Nasrean Navy."
-416,"10""Cannon Coil",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,200,89,3,3,-1,None,0,0,3700,25,16,1,0,0x2ce710,80,A 10 inch secondary cannon with a reinforced\nbarrel that helps to absorb shock.
+416,"10""Cannon Coil",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,200,89,2,3,-1,None,0,0,3700,25,16,1,0,0x2ce710,80,A 10 inch secondary cannon with a reinforced\nbarrel that helps to absorb shock.
 417,"12""Blaster",0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,250,85,2,5,-1,None,0,0,3900,25,17,2,0,0x2ce760,60,"A high-caliber secondary cannon, only used\non larger ships."
 418,3'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,280,87,3,6,-1,None,0,0,4700,25,18,4,0,0x2ce79c,76,"A secondary cannon developed in Yafutoma,\ninspired by cylindrical plants."
 419,5'Cannon,0b00001110,"","",X,X,X,1,Sec Cannon,6,Neutral,330,90,2,6,-1,None,0,0,5100,25,19,7,0,0x2ce7e8,92,"A secondary cannon used by the Yafutoman Navy.\nIt is a short-range, high-powered cannon."

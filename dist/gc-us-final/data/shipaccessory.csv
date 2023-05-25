@@ -21,7 +21,7 @@ Entry ID,Entry US Name,PS Flags,[L1],[L2],[D1],[D2],[D3],Trait 1 ID,[Trait 1 Nam
 459,Double Shaft,0b00111110,X,X,X,X,X,7,Value,0,16600,4,Quick,0,100,6,Dodge%,0,7,-1,None,0,0,16600,25,19,10,0,0x2cf4ec,96,"Splits the engine into two independent stages,\ndoubling power output and increasing ship speed."
 460,Armored Deck,0b00111110,X,X,X,X,X,7,Value,0,1000,2,Defense,0,10,-1,None,0,0,-1,None,0,0,1000,25,20,5,0,0x2cf54c,68,"A standard armored deck, commonly available.\nImproves ship Defense."
 461,Steel Deck,0b00111110,X,X,X,X,X,7,Value,0,1900,2,Defense,0,16,-1,None,0,0,-1,None,0,0,1900,25,21,31,0,0x2cf590,72,A deck armored with multiple layers of steel.\nHas high defensive power.
-462,Slanted Deck,0b00111110,X,X,X,X,X,7,Value,0,2200,2,Defense,0,20,-1,None,0,0,-1,None,0,0,2200,25,22,27,0,0x2cf5d8,96,Deflects projectiles with slanted plates atop\na standard armored deck. Improves ship Defense.
+462,Slanted Deck,0b00111110,X,X,X,X,X,7,Value,0,4400,2,Defense,0,20,-1,None,0,0,-1,None,0,0,2200,25,22,27,0,0x2cf5d8,96,Deflects projectiles with slanted plates atop\na standard armored deck. Improves ship Defense.
 463,Compound Deck,0b00111110,X,X,X,X,X,7,Value,0,5500,2,Defense,0,25,-1,None,0,0,-1,None,0,0,5500,25,23,9,0,0x2cf638,76,A deck armored with layers of different steels.\nHas high defensive power.
 464,Heavy Armor Deck,0b00111110,X,X,X,X,X,7,Value,0,7300,2,Defense,0,40,-1,None,0,0,-1,None,0,0,6700,25,24,18,0,0x2cf684,88,A deck with armor three times as thick as the\nstandard weight. Improves ship Defense.
 465,Alloy Deck,0b00111110,X,X,X,X,X,7,Value,0,6700,2,Defense,0,30,-1,None,0,0,-1,None,0,0,7300,25,25,2,0,0x2cf6dc,80,A deck armored with an alloy including Moon\nStone dust. Improves ship Defense.
