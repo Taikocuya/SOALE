@@ -731,32 +731,34 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 900,*,43,Sphyrus,1,Action,190,ダマユーン,-1,None
 100,*,44,Iridzu,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,44,Iridzu,0,Branch,30,Always,400,Go to 400
-300,*,44,Iridzu,0,Branch,27,Rating 70%,2800,Go to 2800
-400,*,44,Iridzu,0,Branch,17,ECs Alive = 1,2000,Go to 2000
-500,*,44,Iridzu,0,Branch,36,Used State Spells ≥ 2,1600,Go to 1600
+300,*,44,Iridzu,0,Branch,27,Rating 70%,3000,Go to 3000
+400,*,44,Iridzu,0,Branch,17,ECs Alive = 1,2200,Go to 2200
+500,*,44,Iridzu,0,Branch,36,Used State Spells ≥ 2,1800,Go to 1800
 600,*,44,Iridzu,0,Branch,11,Turn 1,800,Go to 800
-700,*,44,Iridzu,0,Branch,30,Always,900,Go to 900
-800,*,44,Iridzu,0,Branch,23,Rating 30%,2400,Go to 2400
-900,*,44,Iridzu,0,Branch,12,Turn 2,1100,Go to 1100
-1000,*,44,Iridzu,0,Branch,30,Always,1200,Go to 1200
-1100,*,44,Iridzu,0,Branch,21,Rating 10%,2400,Go to 2400
-1200,*,44,Iridzu,0,Branch,22,Rating 20%,2500,Go to 2500
-1300,*,44,Iridzu,0,Branch,27,Rating 70%,2300,Go to 2300
-1400,*,44,Iridzu,0,Branch,25,Rating 50%,2600,Go to 2600
-1500,*,44,Iridzu,0,Branch,30,Always,2700,Go to 2700
-1600,*,44,Iridzu,0,Branch,25,Rating 50%,2300,Go to 2300
-1700,*,44,Iridzu,0,Branch,24,Rating 40%,2600,Go to 2600
-1800,*,44,Iridzu,0,Branch,26,Rating 60%,2700,Go to 2700
-1900,*,44,Iridzu,0,Branch,30,Always,2800,Go to 2800
-2000,*,44,Iridzu,0,Branch,24,Rating 40%,2600,Go to 2600
-2100,*,44,Iridzu,0,Branch,25,Rating 50%,2700,Go to 2700
-2200,*,44,Iridzu,0,Branch,30,Always,2800,Go to 2800
-2300,*,44,Iridzu,1,Action,550,Attack,2,Random PC
-2400,*,44,Iridzu,1,Action,513,クイッカ,-1,None
-2500,*,44,Iridzu,1,Action,512,スリーパ,-1,None
-2600,*,44,Iridzu,1,Action,87,仲間を呼ぶ,-1,None
-2700,*,44,Iridzu,1,Action,107,仲間を呼ぶ,-1,None
-2800,*,44,Iridzu,1,Action,552,Run,-1,None
+700,*,44,Iridzu,0,Branch,30,Always,1000,Go to 1000
+800,*,44,Iridzu,0,Branch,16,Has Silence?,1000,Go to 1000
+900,*,44,Iridzu,0,Branch,23,Rating 30%,2600,Go to 2600
+1000,*,44,Iridzu,0,Branch,12,Turn 2,1200,Go to 1200
+1100,*,44,Iridzu,0,Branch,30,Always,1400,Go to 1400
+1200,*,44,Iridzu,0,Branch,16,Has Silence?,1500,Go to 1500
+1300,*,44,Iridzu,0,Branch,21,Rating 10%,2600,Go to 2600
+1400,*,44,Iridzu,0,Branch,22,Rating 20%,2700,Go to 2700
+1500,*,44,Iridzu,0,Branch,27,Rating 70%,2500,Go to 2500
+1600,*,44,Iridzu,0,Branch,25,Rating 50%,2800,Go to 2800
+1700,*,44,Iridzu,0,Branch,30,Always,2900,Go to 2900
+1800,*,44,Iridzu,0,Branch,25,Rating 50%,2500,Go to 2500
+1900,*,44,Iridzu,0,Branch,24,Rating 40%,2800,Go to 2800
+2000,*,44,Iridzu,0,Branch,26,Rating 60%,2900,Go to 2900
+2100,*,44,Iridzu,0,Branch,30,Always,3000,Go to 3000
+2200,*,44,Iridzu,0,Branch,24,Rating 40%,2800,Go to 2800
+2300,*,44,Iridzu,0,Branch,25,Rating 50%,2900,Go to 2900
+2400,*,44,Iridzu,0,Branch,30,Always,3000,Go to 3000
+2500,*,44,Iridzu,1,Action,550,Attack,2,Random PC
+2600,*,44,Iridzu,1,Action,513,クイッカ,-1,None
+2700,*,44,Iridzu,1,Action,512,スリーパ,-1,None
+2800,*,44,Iridzu,1,Action,87,仲間を呼ぶ,-1,None
+2900,*,44,Iridzu,1,Action,107,仲間を呼ぶ,-1,None
+3000,*,44,Iridzu,1,Action,552,Run,-1,None
 100,*,45,Flyst,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,45,Flyst,0,Branch,30,Always,400,Go to 400
 300,*,45,Flyst,0,Branch,26,Rating 60%,1600,Go to 1600
@@ -851,17 +853,18 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 600,*,50,Burocca,1,Action,551,Guard,-1,None
 700,*,50,Burocca,1,Action,550,Attack,1,Nearest PC
 800,*,50,Burocca,1,Action,552,Run,-1,None
-100,*,51,Drogerp,0,Branch,33,Used Attack Spells ≥ 1,300,Go to 300
-200,*,51,Drogerp,0,Branch,22,Rating 20%,1000,Go to 1000
-300,*,51,Drogerp,0,Branch,36,Used State Spells ≥ 2,500,Go to 500
-400,*,51,Drogerp,0,Branch,22,Rating 20%,900,Go to 900
-500,*,51,Drogerp,0,Branch,23,Rating 30%,1100,Go to 1100
-600,*,51,Drogerp,0,Branch,22,Rating 20%,800,Go to 800
-700,*,51,Drogerp,1,Action,550,Attack,2,Random PC
-800,*,51,Drogerp,1,Action,551,Guard,-1,None
-900,*,51,Drogerp,1,Action,503,パニカ,14,PC W/O Confusion
-1000,*,51,Drogerp,1,Action,521,ウェイビィ,2,Random PC
-1100,*,51,Drogerp,1,Action,57,あやしい音波,2,Random PC
+100,*,51,Drogerp,0,Branch,16,Has Silence?,600,Go to 600
+200,*,51,Drogerp,0,Branch,34,Used Attack Spells ≥ 2,400,Go to 400
+300,*,51,Drogerp,0,Branch,22,Rating 20%,1100,Go to 1100
+400,*,51,Drogerp,0,Branch,36,Used State Spells ≥ 2,600,Go to 600
+500,*,51,Drogerp,0,Branch,22,Rating 20%,1000,Go to 1000
+600,*,51,Drogerp,0,Branch,23,Rating 30%,1200,Go to 1200
+700,*,51,Drogerp,0,Branch,22,Rating 20%,900,Go to 900
+800,*,51,Drogerp,1,Action,550,Attack,2,Random PC
+900,*,51,Drogerp,1,Action,551,Guard,-1,None
+1000,*,51,Drogerp,1,Action,503,パニカ,14,PC W/O Confusion
+1100,*,51,Drogerp,1,Action,521,ウェイビィ,2,Random PC
+1200,*,51,Drogerp,1,Action,57,あやしい音波,2,Random PC
 100,*,52,Nadnarb,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,52,Nadnarb,0,Branch,30,Always,400,Go to 400
 300,*,52,Nadnarb,0,Branch,28,Rating 80%,1700,Go to 1700
@@ -1352,32 +1355,33 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 1700,*,84,Kilite,1,Action,106,仲間を呼ぶ,-1,None
 100,*,85,Imezl,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,85,Imezl,0,Branch,30,Always,400,Go to 400
-300,*,85,Imezl,0,Branch,28,Rating 80%,2300,Go to 2300
+300,*,85,Imezl,0,Branch,30,Always,2400,Go to 2400
 400,*,85,Imezl,0,Branch,44,1st PC ΔLevel > 3,600,Go to 600
 500,*,85,Imezl,0,Branch,30,Always,700,Go to 700
-600,*,85,Imezl,0,Branch,25,Rating 50%,2300,Go to 2300
-700,*,85,Imezl,0,Branch,31,Used Sacri Spells ≥ 1,1500,Go to 1500
-800,*,85,Imezl,0,Branch,39,Any EC HP < 25%,1100,Go to 1100
-900,*,85,Imezl,0,Branch,38,Any EC HP < 50%,1200,Go to 1200
-1000,*,85,Imezl,0,Branch,30,Always,1500,Go to 1500
-1100,*,85,Imezl,0,Branch,23,Rating 30%,2400,Go to 2400
-1200,*,85,Imezl,0,Branch,23,Rating 30%,2400,Go to 2400
-1300,*,85,Imezl,0,Branch,25,Rating 50%,2500,Go to 2500
-1400,*,85,Imezl,0,Branch,30,Always,2700,Go to 2700
+600,*,85,Imezl,0,Branch,25,Rating 50%,2400,Go to 2400
+700,*,85,Imezl,0,Branch,16,Has Silence?,1500,Go to 1500
+800,*,85,Imezl,0,Branch,31,Used Sacri Spells ≥ 1,1500,Go to 1500
+900,*,85,Imezl,0,Branch,39,Any EC HP < 25%,1200,Go to 1200
+1000,*,85,Imezl,0,Branch,38,Any EC HP < 50%,1300,Go to 1300
+1100,*,85,Imezl,0,Branch,30,Always,1500,Go to 1500
+1200,*,85,Imezl,0,Branch,24,Rating 40%,2500,Go to 2500
+1300,*,85,Imezl,0,Branch,24,Rating 40%,2500,Go to 2500
+1400,*,85,Imezl,0,Branch,30,Always,2800,Go to 2800
 1500,*,85,Imezl,0,Branch,11,Turn 1,1700,Go to 1700
-1600,*,85,Imezl,0,Branch,23,Rating 30%,2300,Go to 2300
-1700,*,85,Imezl,0,Branch,25,Rating 50%,2100,Go to 2100
-1800,*,85,Imezl,0,Branch,23,Rating 30%,2200,Go to 2200
-1900,*,85,Imezl,0,Branch,26,Rating 60%,2600,Go to 2600
-2000,*,85,Imezl,0,Branch,30,Always,2800,Go to 2800
-2100,*,85,Imezl,1,Action,550,Attack,2,Random PC
-2200,*,85,Imezl,1,Action,551,Guard,-1,None
-2300,*,85,Imezl,1,Action,552,Run,-1,None
-2400,*,85,Imezl,1,Action,508,サプレス,-1,None
-2500,*,85,Imezl,1,Action,49,仲間を呼ぶ,-1,None
-2600,*,85,Imezl,1,Action,50,仲間を呼ぶ,-1,None
-2700,*,85,Imezl,1,Action,100,Ж術？,-1,None
-2800,*,85,Imezl,1,Action,113,仲間を呼ぶ,-1,None
+1600,*,85,Imezl,0,Branch,24,Rating 40%,2400,Go to 2400
+1700,*,85,Imezl,0,Branch,23,Rating 30%,2200,Go to 2200
+1800,*,85,Imezl,0,Branch,23,Rating 30%,2300,Go to 2300
+1900,*,85,Imezl,0,Branch,24,Rating 40%,2600,Go to 2600
+2000,*,85,Imezl,0,Branch,26,Rating 60%,2700,Go to 2700
+2100,*,85,Imezl,0,Branch,30,Always,2900,Go to 2900
+2200,*,85,Imezl,1,Action,550,Attack,2,Random PC
+2300,*,85,Imezl,1,Action,551,Guard,-1,None
+2400,*,85,Imezl,1,Action,552,Run,-1,None
+2500,*,85,Imezl,1,Action,508,サプレス,-1,None
+2600,*,85,Imezl,1,Action,39,落雷,2,Random PC
+2700,*,85,Imezl,1,Action,50,仲間を呼ぶ,-1,None
+2800,*,85,Imezl,1,Action,100,Ж術？,-1,None
+2900,*,85,Imezl,1,Action,113,仲間を呼ぶ,-1,None
 100,*,86,Lurker,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,86,Lurker,0,Branch,30,Always,400,Go to 400
 300,*,86,Lurker,0,Branch,28,Rating 80%,1500,Go to 1500

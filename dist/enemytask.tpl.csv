@@ -551,23 +551,23 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1100,*,30,Loopalon,True,1,Action,552,Run,-1,None
 1200,*,30,Loopalon,True,1,Action,500,Increm,11,EC W/O Strengthen
 1300,*,30,Loopalon,True,1,Action,100,Magic?,-1,None
-100,*,31,Tsurak,False,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
-200,*,31,Tsurak,False,0,Branch,30,Always,400,Go to 400
-300,*,31,Tsurak,False,0,Branch,28,Rating 80%,1600,Go to 1600
-400,*,31,Tsurak,False,0,Branch,17,ECs Alive = 1,1000,Go to 1000
-500,*,31,Tsurak,False,0,Branch,25,Rating 50%,1300,Go to 1300
-600,*,31,Tsurak,False,0,Branch,25,Rating 50%,1400,Go to 1400
-700,*,31,Tsurak,False,0,Branch,26,Rating 60%,1500,Go to 1500
-800,*,31,Tsurak,False,0,Branch,25,Rating 50%,1600,Go to 1600
-900,*,31,Tsurak,False,0,Branch,30,Always,1700,Go to 1700
-1000,*,31,Tsurak,False,0,Branch,25,Rating 50%,1400,Go to 1400
-1100,*,31,Tsurak,False,0,Branch,25,Rating 50%,1500,Go to 1500
-1200,*,31,Tsurak,False,0,Branch,30,Always,1600,Go to 1600
-1300,*,31,Tsurak,False,1,Action,550,Attack,2,Random PC
-1400,*,31,Tsurak,False,1,Action,29,Call Allies,-1,None
-1500,*,31,Tsurak,False,1,Action,98,Call Allies,-1,None
-1600,*,31,Tsurak,False,1,Action,552,Run,-1,None
-1700,*,31,Tsurak,False,1,Action,551,Guard,-1,None
+100,*,31,Tsurak,True,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
+200,*,31,Tsurak,True,0,Branch,30,Always,400,Go to 400
+300,*,31,Tsurak,True,0,Branch,28,Rating 80%,1600,Go to 1600
+400,*,31,Tsurak,True,0,Branch,17,ECs Alive = 1,1000,Go to 1000
+500,*,31,Tsurak,True,0,Branch,25,Rating 50%,1300,Go to 1300
+600,*,31,Tsurak,True,0,Branch,25,Rating 50%,1400,Go to 1400
+700,*,31,Tsurak,True,0,Branch,26,Rating 60%,1500,Go to 1500
+800,*,31,Tsurak,True,0,Branch,25,Rating 50%,1600,Go to 1600
+900,*,31,Tsurak,True,0,Branch,30,Always,1700,Go to 1700
+1000,*,31,Tsurak,True,0,Branch,25,Rating 50%,1400,Go to 1400
+1100,*,31,Tsurak,True,0,Branch,25,Rating 50%,1500,Go to 1500
+1200,*,31,Tsurak,True,0,Branch,30,Always,1600,Go to 1600
+1300,*,31,Tsurak,True,1,Action,550,Attack,2,Random PC
+1400,*,31,Tsurak,True,1,Action,29,Call Allies,-1,None
+1500,*,31,Tsurak,True,1,Action,98,Call Allies,-1,None
+1600,*,31,Tsurak,True,1,Action,552,Run,-1,None
+1700,*,31,Tsurak,True,1,Action,551,Guard,-1,None
 0,*,32,Enforcer L11,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,3000,Go to 3000
 10,*,32,Enforcer L11,True,0,Branch,38,Any EC HP < 50%,1000,Go to 1000
 20,*,32,Enforcer L11,True,0,Branch,30,Always,2000,Go to 2000
@@ -729,34 +729,36 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 700,*,43,Sphyrus,False,1,Action,550,Attack,2,Random PC
 800,*,43,Sphyrus,False,1,Action,551,Guard,-1,None
 900,*,43,Sphyrus,False,1,Action,190,Damyun,-1,None
-100,*,44,Iridzu,False,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
-200,*,44,Iridzu,False,0,Branch,30,Always,400,Go to 400
-300,*,44,Iridzu,False,0,Branch,27,Rating 70%,2800,Go to 2800
-400,*,44,Iridzu,False,0,Branch,17,ECs Alive = 1,2000,Go to 2000
-500,*,44,Iridzu,False,0,Branch,36,Used State Spells ≥ 2,1600,Go to 1600
-600,*,44,Iridzu,False,0,Branch,11,Turn 1,800,Go to 800
-700,*,44,Iridzu,False,0,Branch,30,Always,900,Go to 900
-800,*,44,Iridzu,False,0,Branch,23,Rating 30%,2400,Go to 2400
-900,*,44,Iridzu,False,0,Branch,12,Turn 2,1100,Go to 1100
-1000,*,44,Iridzu,False,0,Branch,30,Always,1200,Go to 1200
-1100,*,44,Iridzu,False,0,Branch,21,Rating 10%,2400,Go to 2400
-1200,*,44,Iridzu,False,0,Branch,22,Rating 20%,2500,Go to 2500
-1300,*,44,Iridzu,False,0,Branch,27,Rating 70%,2300,Go to 2300
-1400,*,44,Iridzu,False,0,Branch,25,Rating 50%,2600,Go to 2600
-1500,*,44,Iridzu,False,0,Branch,30,Always,2700,Go to 2700
-1600,*,44,Iridzu,False,0,Branch,25,Rating 50%,2300,Go to 2300
-1700,*,44,Iridzu,False,0,Branch,24,Rating 40%,2600,Go to 2600
-1800,*,44,Iridzu,False,0,Branch,26,Rating 60%,2700,Go to 2700
-1900,*,44,Iridzu,False,0,Branch,30,Always,2800,Go to 2800
-2000,*,44,Iridzu,False,0,Branch,24,Rating 40%,2600,Go to 2600
-2100,*,44,Iridzu,False,0,Branch,25,Rating 50%,2700,Go to 2700
-2200,*,44,Iridzu,False,0,Branch,30,Always,2800,Go to 2800
-2300,*,44,Iridzu,False,1,Action,550,Attack,2,Random PC
-2400,*,44,Iridzu,False,1,Action,513,Quika,-1,None
-2500,*,44,Iridzu,False,1,Action,512,Slipara,-1,None
-2600,*,44,Iridzu,False,1,Action,87,Call Allies,-1,None
-2700,*,44,Iridzu,False,1,Action,107,Call Allies,-1,None
-2800,*,44,Iridzu,False,1,Action,552,Run,-1,None
+100,*,44,Iridzu,True,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
+200,*,44,Iridzu,True,0,Branch,30,Always,400,Go to 400
+300,*,44,Iridzu,True,0,Branch,27,Rating 70%,2800,Go to 2800
+400,*,44,Iridzu,True,0,Branch,17,ECs Alive = 1,2000,Go to 2000
+500,*,44,Iridzu,True,0,Branch,36,Used State Spells ≥ 2,1600,Go to 1600
+600,*,44,Iridzu,True,0,Branch,11,Turn 1,800,Go to 800
+700,*,44,Iridzu,True,0,Branch,30,Always,900,Go to 900
+800,*,44,Iridzu,True,0,Branch,16,Has Silence?,900,Go to 900
+850,*,44,Iridzu,True,0,Branch,23,Rating 30%,2400,Go to 2400
+900,*,44,Iridzu,True,0,Branch,12,Turn 2,1100,Go to 1100
+1000,*,44,Iridzu,True,0,Branch,30,Always,1200,Go to 1200
+1100,*,44,Iridzu,True,0,Branch,16,Has Silence?,1300,Go to 1300
+1150,*,44,Iridzu,True,0,Branch,21,Rating 10%,2400,Go to 2400
+1200,*,44,Iridzu,True,0,Branch,22,Rating 20%,2500,Go to 2500
+1300,*,44,Iridzu,True,0,Branch,27,Rating 70%,2300,Go to 2300
+1400,*,44,Iridzu,True,0,Branch,25,Rating 50%,2600,Go to 2600
+1500,*,44,Iridzu,True,0,Branch,30,Always,2700,Go to 2700
+1600,*,44,Iridzu,True,0,Branch,25,Rating 50%,2300,Go to 2300
+1700,*,44,Iridzu,True,0,Branch,24,Rating 40%,2600,Go to 2600
+1800,*,44,Iridzu,True,0,Branch,26,Rating 60%,2700,Go to 2700
+1900,*,44,Iridzu,True,0,Branch,30,Always,2800,Go to 2800
+2000,*,44,Iridzu,True,0,Branch,24,Rating 40%,2600,Go to 2600
+2100,*,44,Iridzu,True,0,Branch,25,Rating 50%,2700,Go to 2700
+2200,*,44,Iridzu,True,0,Branch,30,Always,2800,Go to 2800
+2300,*,44,Iridzu,True,1,Action,550,Attack,2,Random PC
+2400,*,44,Iridzu,True,1,Action,513,Quika,-1,None
+2500,*,44,Iridzu,True,1,Action,512,Slipara,-1,None
+2600,*,44,Iridzu,True,1,Action,87,Call Allies,-1,None
+2700,*,44,Iridzu,True,1,Action,107,Call Allies,-1,None
+2800,*,44,Iridzu,True,1,Action,552,Run,-1,None
 100,*,45,Flyst,False,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,45,Flyst,False,0,Branch,30,Always,400,Go to 400
 300,*,45,Flyst,False,0,Branch,26,Rating 60%,1600,Go to 1600
@@ -851,17 +853,18 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 600,*,50,Burocca,True,1,Action,551,Guard,-1,None
 700,*,50,Burocca,True,1,Action,550,Attack,1,Nearest PC
 800,*,50,Burocca,True,1,Action,552,Run,-1,None
-100,*,51,Drogerp,False,0,Branch,33,Used Attack Spells ≥ 1,300,Go to 300
-200,*,51,Drogerp,False,0,Branch,22,Rating 20%,1000,Go to 1000
-300,*,51,Drogerp,False,0,Branch,36,Used State Spells ≥ 2,500,Go to 500
-400,*,51,Drogerp,False,0,Branch,22,Rating 20%,900,Go to 900
-500,*,51,Drogerp,False,0,Branch,23,Rating 30%,1100,Go to 1100
-600,*,51,Drogerp,False,0,Branch,22,Rating 20%,800,Go to 800
-700,*,51,Drogerp,False,1,Action,550,Attack,2,Random PC
-800,*,51,Drogerp,False,1,Action,551,Guard,-1,None
-900,*,51,Drogerp,False,1,Action,503,Panika,14,PC W/O Confusion
-1000,*,51,Drogerp,False,1,Action,521,Wevles,2,Random PC
-1100,*,51,Drogerp,False,1,Action,57,Eerie Wail,2,Random PC
+100,*,51,Drogerp,True,0,Branch,16,Has Silence?,500,Go to 500
+150,*,51,Drogerp,True,0,Branch,34,Used Attack Spells ≥ 2,300,Go to 300
+200,*,51,Drogerp,True,0,Branch,22,Rating 20%,1000,Go to 1000
+300,*,51,Drogerp,True,0,Branch,36,Used State Spells ≥ 2,500,Go to 500
+400,*,51,Drogerp,True,0,Branch,22,Rating 20%,900,Go to 900
+500,*,51,Drogerp,True,0,Branch,23,Rating 30%,1100,Go to 1100
+600,*,51,Drogerp,True,0,Branch,22,Rating 20%,800,Go to 800
+700,*,51,Drogerp,True,1,Action,550,Attack,2,Random PC
+800,*,51,Drogerp,True,1,Action,551,Guard,-1,None
+900,*,51,Drogerp,True,1,Action,503,Panika,14,PC W/O Confusion
+1000,*,51,Drogerp,True,1,Action,521,Wevles,2,Random PC
+1100,*,51,Drogerp,True,1,Action,57,Eerie Wail,2,Random PC
 100,*,52,Nadnarb,False,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,52,Nadnarb,False,0,Branch,30,Always,400,Go to 400
 300,*,52,Nadnarb,False,0,Branch,28,Rating 80%,1700,Go to 1700
@@ -1350,34 +1353,35 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 1500,*,84,Kilite,False,1,Action,528,Crystalum,2,Random PC
 1600,*,84,Kilite,False,1,Action,68,Call Allies,-1,None
 1700,*,84,Kilite,False,1,Action,106,Call Allies,-1,None
-100,*,85,Imezl,False,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
-200,*,85,Imezl,False,0,Branch,30,Always,400,Go to 400
-300,*,85,Imezl,False,0,Branch,28,Rating 80%,2300,Go to 2300
-400,*,85,Imezl,False,0,Branch,44,1st PC ΔLevel > 3,600,Go to 600
-500,*,85,Imezl,False,0,Branch,30,Always,700,Go to 700
-600,*,85,Imezl,False,0,Branch,25,Rating 50%,2300,Go to 2300
-700,*,85,Imezl,False,0,Branch,31,Used Sacri Spells ≥ 1,1500,Go to 1500
-800,*,85,Imezl,False,0,Branch,39,Any EC HP < 25%,1100,Go to 1100
-900,*,85,Imezl,False,0,Branch,38,Any EC HP < 50%,1200,Go to 1200
-1000,*,85,Imezl,False,0,Branch,30,Always,1500,Go to 1500
-1100,*,85,Imezl,False,0,Branch,23,Rating 30%,2400,Go to 2400
-1200,*,85,Imezl,False,0,Branch,23,Rating 30%,2400,Go to 2400
-1300,*,85,Imezl,False,0,Branch,25,Rating 50%,2500,Go to 2500
-1400,*,85,Imezl,False,0,Branch,30,Always,2700,Go to 2700
-1500,*,85,Imezl,False,0,Branch,11,Turn 1,1700,Go to 1700
-1600,*,85,Imezl,False,0,Branch,23,Rating 30%,2300,Go to 2300
-1700,*,85,Imezl,False,0,Branch,25,Rating 50%,2100,Go to 2100
-1800,*,85,Imezl,False,0,Branch,23,Rating 30%,2200,Go to 2200
-1900,*,85,Imezl,False,0,Branch,26,Rating 60%,2600,Go to 2600
-2000,*,85,Imezl,False,0,Branch,30,Always,2800,Go to 2800
-2100,*,85,Imezl,False,1,Action,550,Attack,2,Random PC
-2200,*,85,Imezl,False,1,Action,551,Guard,-1,None
-2300,*,85,Imezl,False,1,Action,552,Run,-1,None
-2400,*,85,Imezl,False,1,Action,508,Sacrum,-1,None
-2500,*,85,Imezl,False,1,Action,49,Call Allies,-1,None
-2600,*,85,Imezl,False,1,Action,50,Call Allies,-1,None
-2700,*,85,Imezl,False,1,Action,100,Magic?,-1,None
-2800,*,85,Imezl,False,1,Action,113,Call Allies,-1,None
+100,*,85,Imezl,True,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
+200,*,85,Imezl,True,0,Branch,30,Always,400,Go to 400
+300,*,85,Imezl,True,0,Branch,30,Always,2300,Go to 2300
+400,*,85,Imezl,True,0,Branch,44,1st PC ΔLevel > 3,600,Go to 600
+500,*,85,Imezl,True,0,Branch,30,Always,700,Go to 700
+600,*,85,Imezl,True,0,Branch,25,Rating 50%,2300,Go to 2300
+700,*,85,Imezl,True,0,Branch,16,Has Silence?,1400,Go to 1400
+750,*,85,Imezl,True,0,Branch,31,Used Sacri Spells ≥ 1,1400,Go to 1400
+800,*,85,Imezl,True,0,Branch,39,Any EC HP < 25%,1100,Go to 1100
+900,*,85,Imezl,True,0,Branch,38,Any EC HP < 50%,1200,Go to 1200
+1000,*,85,Imezl,True,0,Branch,30,Always,1400,Go to 1400
+1100,*,85,Imezl,True,0,Branch,24,Rating 40%,2400,Go to 2400
+1200,*,85,Imezl,True,0,Branch,24,Rating 40%,2400,Go to 2400
+1300,*,85,Imezl,True,0,Branch,30,Always,2700,Go to 2700
+1400,*,85,Imezl,True,0,Branch,11,Turn 1,1600,Go to 1600
+1500,*,85,Imezl,True,0,Branch,24,Rating 40%,2300,Go to 2300
+1600,*,85,Imezl,True,0,Branch,23,Rating 30%,2100,Go to 2100
+1700,*,85,Imezl,True,0,Branch,23,Rating 30%,2200,Go to 2200
+1800,*,85,Imezl,True,0,Branch,24,Rating 40%,2500,Go to 2500
+1900,*,85,Imezl,True,0,Branch,26,Rating 60%,2600,Go to 2600
+2000,*,85,Imezl,True,0,Branch,30,Always,2800,Go to 2800
+2100,*,85,Imezl,True,1,Action,550,Attack,2,Random PC
+2200,*,85,Imezl,True,1,Action,551,Guard,-1,None
+2300,*,85,Imezl,True,1,Action,552,Run,-1,None
+2400,*,85,Imezl,True,1,Action,508,Sacrum,-1,None
+2500,*,85,Imezl,True,1,Action,39,Lightning Strike,2,Random PC
+2600,*,85,Imezl,True,1,Action,50,Call Allies,-1,None
+2700,*,85,Imezl,True,1,Action,100,Magic?,-1,None
+2800,*,85,Imezl,True,1,Action,113,Call Allies,-1,None
 100,*,86,Lurker,True,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,86,Lurker,True,0,Branch,30,Always,400,Go to 400
 300,*,86,Lurker,True,0,Branch,28,Rating 80%,1500,Go to 1500

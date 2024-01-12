@@ -28,7 +28,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 26,Death Blossom,True,0,S-Move,0,Damage,201,PCs Nearby S1,16,Attack,20,3,Blue,0,Physical,0,Power,0,Power,-1,None,0
 27,Cannon Fire,False,0,S-Move,0,Damage,1,Single PC,16,Attack,50,1,Red,0,Physical,0,Power,0,Power,-1,None,0
 28,Call Allies,True,0,S-Move,43,Call EC,0,None,27,Dung Fly,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-29,Call Allies,False,0,S-Move,43,Call EC,0,None,31,Tsurak,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+29,Call Allies,True,0,S-Move,43,Call EC,0,None,31,Tsurak,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 30,Wheel Blast,True,0,S-Move,72,Fatigue + Damage,97,PC Square S5,16,Attack,40,1,Red,0,Physical,16,Attack,17,Defense,6,Fatigue,70
 31,Laser Blast,False,0,S-Move,8,Stone + Damage,1,Single PC,16,Attack,5,6,Neutral,0,Physical,16,Attack,17,Defense,2,Stone,20
 32,Crypt Laser,False,0,S-Move,68,Unconscious + Damage B,1,Single PC,16,Attack,5,5,Silver,0,Physical,16,Attack,17,Defense,1,Unconscious,60
@@ -49,7 +49,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 47,Tremble,True,0,S-Move,-1,None,0,None,0,Power,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 48,Silver Tundra,False,0,S-Move,0,Damage,1,Single PC,16,Attack,50,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
 49,Call Allies,True,0,S-Move,43,Call EC,0,None,54,Kanezl,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
-50,Call Allies,False,0,S-Move,43,Call EC,0,None,85,Imezl,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+50,Call Allies,True,0,S-Move,43,Call EC,0,None,85,Imezl,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 51,Explode,True,0,S-Move,8,Stone + Damage,2,All PCs,16,Attack,20,1,Red,0,Physical,16,Attack,17,Defense,2,Stone,90
 52,Stone Ooze,False,0,S-Move,7,Stone,1,Single PC,0,Power,0,6,Neutral,0,Physical,16,Attack,17,Defense,2,Stone,40
 53,Tundra Blast,True,0,S-Move,17,Rem Pos States + Damage,2,All PCs,16,Attack,20,2,Purple,0,Physical,0,Power,0,Power,-1,None,0
@@ -86,7 +86,7 @@ Entry ID,[Entry Name],[Finalized],Category ID,[Category Name],Effect ID,[Effect 
 84,Silver Binds,False,0,S-Move,0,Damage,1,Single PC,16,Attack,50,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
 85,Turn Recovery,False,0,S-Move,33,Regenerate,5,Self,0,HP,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 86,Destruction,False,0,S-Move,17,Rem Pos States + Damage,2,All PCs,16,Attack,25,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
-87,Call Allies,False,0,S-Move,43,Call EC,0,None,44,Iridzu,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
+87,Call Allies,True,0,S-Move,43,Call EC,0,None,44,Iridzu,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 88,Call Allies,False,0,S-Move,43,Call EC,0,None,21,Feralisk,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 89,Call Allies,True,0,S-Move,43,Call EC,0,None,22,Ferlith,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0
 90,Silver Eclipse,False,0,S-Move,0,Damage,2,All PCs,16,Attack,25,5,Silver,0,Physical,0,Power,0,Power,-1,None,0
