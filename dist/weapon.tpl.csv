@@ -10,7 +10,7 @@ Entry ID,[Entry Name],[Finalized],PC ID,[PC Name],Sell%,Effect ID,[Effect Name],
 8,Sword of Daccat,True,0,Vyse,25,15,Sleep by 10%,4700,120,90,-1,None,0,0
 9,Hunter's Sword,True,0,Vyse,25,-1,None,2300,87,90,-1,None,0,0
 10,Stonecutter,True,0,Vyse,25,-1,None,3100,99,90,-1,None,0,0
-11,Dream Cutlass,False,0,Vyse,25,-1,None,6700,137,90,35,Blue,0,-2
+11,Dream Cutlass,True,0,Vyse,25,-1,None,6700,137,90,35,Blue,0,-2
 12,Windslicer,False,0,Vyse,25,-1,None,8800,153,90,-1,None,0,0
 13,Vorlik Blade,False,0,Vyse,25,-1,None,16500,200,90,-1,None,0,0
 14,Suiran Blade,False,0,Vyse,25,-1,None,7500,141,90,-1,None,0,0

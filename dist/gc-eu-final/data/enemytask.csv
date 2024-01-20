@@ -258,7 +258,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 800,*,13,Azbeth,Azbeth,0,Branch,25,Rating 50%,1700,Go to 1700
 900,*,13,Azbeth,Azbeth,0,Branch,24,Rating 40%,1800,Go to 1800
 1000,*,13,Azbeth,Azbeth,0,Branch,30,Always,1900,Go to 1900
-1100,*,13,Azbeth,Azbeth,0,Branch,16,Has Silence?,2100,Go to 2100
+1100,*,13,Azbeth,Azbeth,0,Branch,16,Has Silence?,1500,Go to 1500
 1200,*,13,Azbeth,Azbeth,0,Branch,36,Used State Spells ≥ 2,2100,Go to 2100
 1300,*,13,Azbeth,Azbeth,0,Branch,30,Always,2000,Go to 2000
 1400,*,13,Azbeth,Azbeth,1,Action,550,Attack,2,Random PC
@@ -305,24 +305,25 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,15,Ghastling,Ghastling,1,Action,551,Guard,-1,None
 100,*,16,Florast,Florast,0,Branch,45,1st PC ΔLevel > 7,300,Go to 300
 200,*,16,Florast,Florast,0,Branch,30,Always,400,Go to 400
-300,*,16,Florast,Florast,0,Branch,26,Rating 60%,1600,Go to 1600
+300,*,16,Florast,Florast,0,Branch,26,Rating 60%,1800,Go to 1800
 400,*,16,Florast,Florast,0,Branch,44,1st PC ΔLevel > 3,600,Go to 600
 500,*,16,Florast,Florast,0,Branch,30,Always,700,Go to 700
-600,*,16,Florast,Florast,0,Branch,23,Rating 30%,1600,Go to 1600
+600,*,16,Florast,Florast,0,Branch,23,Rating 30%,1800,Go to 1800
 700,*,16,Florast,Florast,0,Branch,11,Turn 1,1000,Go to 1000
 800,*,16,Florast,Florast,0,Branch,12,Turn 2,1000,Go to 1000
-900,*,16,Florast,Florast,0,Branch,30,Always,1200,Go to 1200
-1000,*,16,Florast,Florast,0,Branch,22,Rating 20%,1700,Go to 1700
-1100,*,16,Florast,Florast,0,Branch,22,Rating 20%,1800,Go to 1800
-1200,*,16,Florast,Florast,0,Branch,27,Rating 70%,1500,Go to 1500
-1300,*,16,Florast,Florast,0,Branch,25,Rating 50%,1900,Go to 1900
-1400,*,16,Florast,Florast,0,Branch,30,Always,2000,Go to 2000
-1500,*,16,Florast,Florast,1,Action,550,Attack,2,Random PC
-1600,*,16,Florast,Florast,1,Action,552,Run,-1,None
-1700,*,16,Florast,Florast,1,Action,504,Driln,17,PC W/O Weak
-1800,*,16,Florast,Florast,1,Action,511,Noxus,-1,None
-1900,*,16,Florast,Florast,1,Action,100,Magic?,-1,None
-2000,*,16,Florast,Florast,1,Action,551,Guard,-1,None
+900,*,16,Florast,Florast,0,Branch,30,Always,1300,Go to 1300
+1000,*,16,Florast,Florast,0,Branch,16,Has Silence?,1300,Go to 1300
+1100,*,16,Florast,Florast,0,Branch,22,Rating 20%,1900,Go to 1900
+1200,*,16,Florast,Florast,0,Branch,23,Rating 30%,1900,Go to 1900
+1300,*,16,Florast,Florast,0,Branch,27,Rating 70%,1700,Go to 1700
+1400,*,16,Florast,Florast,0,Branch,16,Has Silence?,1600,Go to 1600
+1500,*,16,Florast,Florast,0,Branch,25,Rating 50%,2000,Go to 2000
+1600,*,16,Florast,Florast,0,Branch,30,Always,2100,Go to 2100
+1700,*,16,Florast,Florast,1,Action,550,Attack,2,Random PC
+1800,*,16,Florast,Florast,1,Action,552,Run,-1,None
+1900,*,16,Florast,Florast,1,Action,511,Noxus,-1,None
+2000,*,16,Florast,Florast,1,Action,100,Magic?,-1,None
+2100,*,16,Florast,Florast,1,Action,551,Guard,-1,None
 100,*,17,Tsirat,Tsirat,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,17,Tsirat,Tsirat,0,Branch,30,Always,400,Go to 400
 300,*,17,Tsirat,Tsirat,0,Branch,24,Rating 40%,1300,Go to 1300
@@ -460,19 +461,20 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 2600,*,24,Magma Tiki,Magma Tiki,1,Action,180,Lava Storm,-1,None
 2700,*,24,Magma Tiki,Magma Tiki,1,Action,551,Guard,-1,None
 100,*,25,Salamander,Salamander,0,Branch,33,Used Attack Spells ≥ 1,600,Go to 600
-200,*,25,Salamander,Salamander,0,Branch,28,Rating 80%,1000,Go to 1000
+200,*,25,Salamander,Salamander,0,Branch,28,Rating 80%,1100,Go to 1100
 300,*,25,Salamander,Salamander,0,Branch,16,Has Silence?,500,Go to 500
-400,*,25,Salamander,Salamander,0,Branch,25,Rating 50%,1100,Go to 1100
-500,*,25,Salamander,Salamander,0,Branch,30,Always,1400,Go to 1400
-600,*,25,Salamander,Salamander,0,Branch,26,Rating 60%,1000,Go to 1000
-700,*,25,Salamander,Salamander,0,Branch,25,Rating 50%,1200,Go to 1200
-800,*,25,Salamander,Salamander,0,Branch,25,Rating 50%,1400,Go to 1400
-900,*,25,Salamander,Salamander,0,Branch,30,Always,1300,Go to 1300
-1000,*,25,Salamander,Salamander,1,Action,550,Attack,2,Random PC
-1100,*,25,Salamander,Salamander,1,Action,523,Pyri,-1,None
-1200,*,25,Salamander,Salamander,1,Action,100,Magic?,-1,None
-1300,*,25,Salamander,Salamander,1,Action,552,Run,-1,None
-1400,*,25,Salamander,Salamander,1,Action,551,Guard,-1,None
+400,*,25,Salamander,Salamander,0,Branch,25,Rating 50%,1200,Go to 1200
+500,*,25,Salamander,Salamander,0,Branch,30,Always,1500,Go to 1500
+600,*,25,Salamander,Salamander,0,Branch,26,Rating 60%,1100,Go to 1100
+700,*,25,Salamander,Salamander,0,Branch,16,Has Silence?,900,Go to 900
+800,*,25,Salamander,Salamander,0,Branch,25,Rating 50%,1300,Go to 1300
+900,*,25,Salamander,Salamander,0,Branch,25,Rating 50%,1500,Go to 1500
+1000,*,25,Salamander,Salamander,0,Branch,30,Always,1400,Go to 1400
+1100,*,25,Salamander,Salamander,1,Action,550,Attack,2,Random PC
+1200,*,25,Salamander,Salamander,1,Action,523,Pyri,-1,None
+1300,*,25,Salamander,Salamander,1,Action,100,Magic?,-1,None
+1400,*,25,Salamander,Salamander,1,Action,552,Run,-1,None
+1500,*,25,Salamander,Salamander,1,Action,551,Guard,-1,None
 100,*,26,Baroo,Baroo,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,26,Baroo,Baroo,0,Branch,30,Always,400,Go to 400
 300,*,26,Baroo,Baroo,0,Branch,29,Rating 90%,1600,Go to 1600
@@ -536,21 +538,20 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1000,*,29,Looper,Looper,1,Action,552,Run,-1,None
 1100,*,29,Looper,Looper,1,Action,523,Pyri,-1,None
 1200,*,29,Looper,Looper,1,Action,100,Magic?,-1,None
-100,*,30,Loopalon,Loopalon,0,Branch,1,HP < 50%,1300,Go to 1300
-200,*,30,Loopalon,Loopalon,0,Branch,25,Rating 50%,1300,Go to 1300
-300,*,30,Loopalon,Loopalon,0,Branch,16,Has Silence?,800,Go to 800
-400,*,30,Loopalon,Loopalon,0,Branch,11,Turn 1,600,Go to 600
-500,*,30,Loopalon,Loopalon,0,Branch,30,Always,800,Go to 800
-600,*,30,Loopalon,Loopalon,0,Branch,16,Has Silence?,800,Go to 800
-700,*,30,Loopalon,Loopalon,0,Branch,25,Rating 50%,1400,Go to 1400
-800,*,30,Loopalon,Loopalon,0,Branch,25,Rating 50%,1100,Go to 1100
-900,*,30,Loopalon,Loopalon,0,Branch,25,Rating 50%,1200,Go to 1200
-1000,*,30,Loopalon,Loopalon,0,Branch,30,Always,1500,Go to 1500
-1100,*,30,Loopalon,Loopalon,1,Action,550,Attack,2,Random PC
-1200,*,30,Loopalon,Loopalon,1,Action,551,Guard,-1,None
-1300,*,30,Loopalon,Loopalon,1,Action,552,Run,-1,None
-1400,*,30,Loopalon,Loopalon,1,Action,500,Increm,11,EC W/O Strengthen
-1500,*,30,Loopalon,Loopalon,1,Action,100,Magic?,-1,None
+100,*,30,Loopalon,Loopalon,0,Branch,1,HP < 50%,1200,Go to 1200
+200,*,30,Loopalon,Loopalon,0,Branch,25,Rating 50%,1200,Go to 1200
+300,*,30,Loopalon,Loopalon,0,Branch,11,Turn 1,500,Go to 500
+400,*,30,Loopalon,Loopalon,0,Branch,30,Always,600,Go to 600
+500,*,30,Loopalon,Loopalon,0,Branch,25,Rating 50%,1300,Go to 1300
+600,*,30,Loopalon,Loopalon,0,Branch,25,Rating 50%,1000,Go to 1000
+700,*,30,Loopalon,Loopalon,0,Branch,25,Rating 50%,1100,Go to 1100
+800,*,30,Loopalon,Loopalon,0,Branch,16,Has Silence?,1100,Go to 1100
+900,*,30,Loopalon,Loopalon,0,Branch,30,Always,1400,Go to 1400
+1000,*,30,Loopalon,Loopalon,1,Action,550,Attack,2,Random PC
+1100,*,30,Loopalon,Loopalon,1,Action,551,Guard,-1,None
+1200,*,30,Loopalon,Loopalon,1,Action,552,Run,-1,None
+1300,*,30,Loopalon,Loopalon,1,Action,500,Increm,11,EC W/O Strengthen
+1400,*,30,Loopalon,Loopalon,1,Action,100,Magic?,-1,None
 100,*,31,Tsurak,Tsurak,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,31,Tsurak,Tsurak,0,Branch,30,Always,400,Go to 400
 300,*,31,Tsurak,Tsurak,0,Branch,28,Rating 80%,1600,Go to 1600
@@ -605,25 +606,26 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1000,*,33,Serpantis,Serpantis,1,Action,551,Guard,-1,None
 100,*,34,Dralnog,Dralnog,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,34,Dralnog,Dralnog,0,Branch,30,Always,400,Go to 400
-300,*,34,Dralnog,Dralnog,0,Branch,26,Rating 60%,1800,Go to 1800
+300,*,34,Dralnog,Dralnog,0,Branch,26,Rating 60%,1900,Go to 1900
 400,*,34,Dralnog,Dralnog,0,Branch,2,HP < 25%,600,Go to 600
 500,*,34,Dralnog,Dralnog,0,Branch,30,Always,700,Go to 700
-600,*,34,Dralnog,Dralnog,0,Branch,28,Rating 80%,1900,Go to 1900
+600,*,34,Dralnog,Dralnog,0,Branch,28,Rating 80%,2000,Go to 2000
 700,*,34,Dralnog,Dralnog,0,Branch,1,HP < 50%,900,Go to 900
 800,*,34,Dralnog,Dralnog,0,Branch,30,Always,1000,Go to 1000
-900,*,34,Dralnog,Dralnog,0,Branch,24,Rating 40%,1900,Go to 1900
+900,*,34,Dralnog,Dralnog,0,Branch,24,Rating 40%,2000,Go to 2000
 1000,*,34,Dralnog,Dralnog,0,Branch,16,Has Silence?,1300,Go to 1300
 1100,*,34,Dralnog,Dralnog,0,Branch,35,Used State Spells ≥ 1,1300,Go to 1300
-1200,*,34,Dralnog,Dralnog,0,Branch,22,Rating 20%,2000,Go to 2000
-1300,*,34,Dralnog,Dralnog,0,Branch,22,Rating 20%,1900,Go to 1900
-1400,*,34,Dralnog,Dralnog,0,Branch,27,Rating 70%,1700,Go to 1700
-1500,*,34,Dralnog,Dralnog,0,Branch,26,Rating 60%,2100,Go to 2100
-1600,*,34,Dralnog,Dralnog,0,Branch,30,Always,1800,Go to 1800
-1700,*,34,Dralnog,Dralnog,1,Action,550,Attack,2,Random PC
-1800,*,34,Dralnog,Dralnog,1,Action,552,Run,-1,None
-1900,*,34,Dralnog,Dralnog,1,Action,271,Poison Explode,-1,None
-2000,*,34,Dralnog,Dralnog,1,Action,517,Eterni,2,Random PC
-2100,*,34,Dralnog,Dralnog,1,Action,100,Magic?,-1,None
+1200,*,34,Dralnog,Dralnog,0,Branch,22,Rating 20%,2100,Go to 2100
+1300,*,34,Dralnog,Dralnog,0,Branch,22,Rating 20%,2000,Go to 2000
+1400,*,34,Dralnog,Dralnog,0,Branch,27,Rating 70%,1800,Go to 1800
+1500,*,34,Dralnog,Dralnog,0,Branch,16,Has Silence?,1700,Go to 1700
+1600,*,34,Dralnog,Dralnog,0,Branch,26,Rating 60%,2200,Go to 2200
+1700,*,34,Dralnog,Dralnog,0,Branch,30,Always,1900,Go to 1900
+1800,*,34,Dralnog,Dralnog,1,Action,550,Attack,2,Random PC
+1900,*,34,Dralnog,Dralnog,1,Action,552,Run,-1,None
+2000,*,34,Dralnog,Dralnog,1,Action,271,Poison Explode,-1,None
+2100,*,34,Dralnog,Dralnog,1,Action,517,Eterni,2,Random PC
+2200,*,34,Dralnog,Dralnog,1,Action,100,Magic?,-1,None
 100,epevent.evp,34,Dralnog,Dralnog,0,Branch,2,HP < 25%,300,Go to 300
 200,epevent.evp,34,Dralnog,Dralnog,0,Branch,30,Always,400,Go to 400
 300,epevent.evp,34,Dralnog,Dralnog,0,Branch,28,Rating 80%,1100,Go to 1100
@@ -638,19 +640,21 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1200,epevent.evp,34,Dralnog,Dralnog,1,Action,517,Eterni,2,Random PC
 100,*,35,Que'lak,Que'lak,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,35,Que'lak,Que'lak,0,Branch,30,Always,400,Go to 400
-300,*,35,Que'lak,Que'lak,0,Branch,28,Rating 80%,1500,Go to 1500
-400,*,35,Que'lak,Que'lak,0,Branch,32,Used Sacri Spells ≥ 2,800,Go to 800
-500,*,35,Que'lak,Que'lak,0,Branch,38,Any EC HP < 50%,700,Go to 700
-600,*,35,Que'lak,Que'lak,0,Branch,30,Always,800,Go to 800
-700,*,35,Que'lak,Que'lak,0,Branch,24,Rating 40%,1300,Go to 1300
-800,*,35,Que'lak,Que'lak,0,Branch,21,Rating 10%,1400,Go to 1400
-900,*,35,Que'lak,Que'lak,0,Branch,34,Used Attack Spells ≥ 2,1100,Go to 1100
-1000,*,35,Que'lak,Que'lak,0,Branch,23,Rating 30%,1200,Go to 1200
-1100,*,35,Que'lak,Que'lak,1,Action,550,Attack,2,Random PC
-1200,*,35,Que'lak,Que'lak,1,Action,524,Pyres,-1,None
-1300,*,35,Que'lak,Que'lak,1,Action,506,Sacri,7,EC With Lowest HP
-1400,*,35,Que'lak,Que'lak,1,Action,551,Guard,-1,None
-1500,*,35,Que'lak,Que'lak,1,Action,552,Run,-1,None
+300,*,35,Que'lak,Que'lak,0,Branch,28,Rating 80%,1700,Go to 1700
+400,*,35,Que'lak,Que'lak,0,Branch,16,Has Silence?,900,Go to 900
+500,*,35,Que'lak,Que'lak,0,Branch,32,Used Sacri Spells ≥ 2,900,Go to 900
+600,*,35,Que'lak,Que'lak,0,Branch,38,Any EC HP < 50%,800,Go to 800
+700,*,35,Que'lak,Que'lak,0,Branch,30,Always,900,Go to 900
+800,*,35,Que'lak,Que'lak,0,Branch,24,Rating 40%,1500,Go to 1500
+900,*,35,Que'lak,Que'lak,0,Branch,21,Rating 10%,1600,Go to 1600
+1000,*,35,Que'lak,Que'lak,0,Branch,16,Has Silence?,1300,Go to 1300
+1100,*,35,Que'lak,Que'lak,0,Branch,34,Used Attack Spells ≥ 2,1300,Go to 1300
+1200,*,35,Que'lak,Que'lak,0,Branch,23,Rating 30%,1400,Go to 1400
+1300,*,35,Que'lak,Que'lak,1,Action,550,Attack,2,Random PC
+1400,*,35,Que'lak,Que'lak,1,Action,524,Pyres,-1,None
+1500,*,35,Que'lak,Que'lak,1,Action,506,Sacri,7,EC With Lowest HP
+1600,*,35,Que'lak,Que'lak,1,Action,551,Guard,-1,None
+1700,*,35,Que'lak,Que'lak,1,Action,552,Run,-1,None
 100,*,36,Pinalisk,Pinalisk,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,36,Pinalisk,Pinalisk,0,Branch,30,Always,400,Go to 400
 300,*,36,Pinalisk,Pinalisk,0,Branch,27,Rating 70%,800,Go to 800
@@ -769,16 +773,15 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 800,*,45,Flyst,Flyst,0,Branch,12,Turn 2,1000,Go to 1000
 900,*,45,Flyst,Flyst,0,Branch,30,Always,1200,Go to 1200
 1000,*,45,Flyst,Flyst,0,Branch,22,Rating 20%,1700,Go to 1700
-1100,*,45,Flyst,Flyst,0,Branch,23,Rating 30%,1800,Go to 1800
+1100,*,45,Flyst,Flyst,0,Branch,23,Rating 30%,1700,Go to 1700
 1200,*,45,Flyst,Flyst,0,Branch,27,Rating 70%,1500,Go to 1500
-1300,*,45,Flyst,Flyst,0,Branch,25,Rating 50%,1900,Go to 1900
-1400,*,45,Flyst,Flyst,0,Branch,30,Always,2000,Go to 2000
+1300,*,45,Flyst,Flyst,0,Branch,25,Rating 50%,1800,Go to 1800
+1400,*,45,Flyst,Flyst,0,Branch,30,Always,1900,Go to 1900
 1500,*,45,Flyst,Flyst,1,Action,550,Attack,2,Random PC
 1600,*,45,Flyst,Flyst,1,Action,552,Run,-1,None
 1700,*,45,Flyst,Flyst,1,Action,504,Driln,17,PC W/O Weak
-1800,*,45,Flyst,Flyst,1,Action,511,Noxus,-1,None
-1900,*,45,Flyst,Flyst,1,Action,100,Magic?,-1,None
-2000,*,45,Flyst,Flyst,1,Action,551,Guard,-1,None
+1800,*,45,Flyst,Flyst,1,Action,100,Magic?,-1,None
+1900,*,45,Flyst,Flyst,1,Action,551,Guard,-1,None
 100,*,46,Medulizk,Medulizk,0,Branch,11,Turn 1,400,Go to 400
 200,*,46,Medulizk,Medulizk,0,Branch,12,Turn 2,500,Go to 500
 300,*,46,Medulizk,Medulizk,0,Branch,30,Always,600,Go to 600
@@ -798,25 +801,26 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,46,Medulizk,Medulizk,1,Action,100,Magic?,-1,None
 100,*,47,Lucich,Lucich,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,47,Lucich,Lucich,0,Branch,30,Always,400,Go to 400
-300,*,47,Lucich,Lucich,0,Branch,26,Rating 60%,1800,Go to 1800
+300,*,47,Lucich,Lucich,0,Branch,26,Rating 60%,1900,Go to 1900
 400,*,47,Lucich,Lucich,0,Branch,2,HP < 25%,600,Go to 600
 500,*,47,Lucich,Lucich,0,Branch,30,Always,700,Go to 700
-600,*,47,Lucich,Lucich,0,Branch,28,Rating 80%,1900,Go to 1900
+600,*,47,Lucich,Lucich,0,Branch,28,Rating 80%,2000,Go to 2000
 700,*,47,Lucich,Lucich,0,Branch,1,HP < 50%,900,Go to 900
 800,*,47,Lucich,Lucich,0,Branch,30,Always,1000,Go to 1000
-900,*,47,Lucich,Lucich,0,Branch,24,Rating 40%,1900,Go to 1900
+900,*,47,Lucich,Lucich,0,Branch,24,Rating 40%,2000,Go to 2000
 1000,*,47,Lucich,Lucich,0,Branch,16,Has Silence?,1300,Go to 1300
 1100,*,47,Lucich,Lucich,0,Branch,36,Used State Spells ≥ 2,1300,Go to 1300
-1200,*,47,Lucich,Lucich,0,Branch,22,Rating 20%,2000,Go to 2000
-1300,*,47,Lucich,Lucich,0,Branch,22,Rating 20%,1900,Go to 1900
-1400,*,47,Lucich,Lucich,0,Branch,27,Rating 70%,1700,Go to 1700
-1500,*,47,Lucich,Lucich,0,Branch,26,Rating 60%,2100,Go to 2100
-1600,*,47,Lucich,Lucich,0,Branch,30,Always,1800,Go to 1800
-1700,*,47,Lucich,Lucich,1,Action,550,Attack,2,Random PC
-1800,*,47,Lucich,Lucich,1,Action,552,Run,-1,None
-1900,*,47,Lucich,Lucich,1,Action,270,Self-destruct,-1,None
-2000,*,47,Lucich,Lucich,1,Action,517,Eterni,1,Nearest PC
-2100,*,47,Lucich,Lucich,1,Action,100,Magic?,-1,None
+1200,*,47,Lucich,Lucich,0,Branch,22,Rating 20%,2100,Go to 2100
+1300,*,47,Lucich,Lucich,0,Branch,22,Rating 20%,2000,Go to 2000
+1400,*,47,Lucich,Lucich,0,Branch,27,Rating 70%,1800,Go to 1800
+1500,*,47,Lucich,Lucich,0,Branch,16,Has Silence?,1700,Go to 1700
+1600,*,47,Lucich,Lucich,0,Branch,26,Rating 60%,2200,Go to 2200
+1700,*,47,Lucich,Lucich,0,Branch,30,Always,1900,Go to 1900
+1800,*,47,Lucich,Lucich,1,Action,550,Attack,2,Random PC
+1900,*,47,Lucich,Lucich,1,Action,552,Run,-1,None
+2000,*,47,Lucich,Lucich,1,Action,270,Self-destruct,-1,None
+2100,*,47,Lucich,Lucich,1,Action,517,Eterni,1,Nearest PC
+2200,*,47,Lucich,Lucich,1,Action,100,Magic?,-1,None
 100,*,48,Digger,Digger,0,Branch,11,Turn 1,600,Go to 600
 200,*,48,Digger,Digger,0,Branch,24,Rating 40%,1000,Go to 1000
 300,*,48,Digger,Digger,0,Branch,22,Rating 20%,1100,Go to 1100
@@ -830,21 +834,23 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1100,*,48,Digger,Digger,1,Action,551,Guard,-1,None
 1200,*,48,Digger,Digger,1,Action,162,Fatigue Gas,18,PC W/O Fatigue
 1300,*,48,Digger,Digger,1,Action,220,Rapid Fire,2,Random PC
-100,*,49,Flat Fiend,Fiendo,0,Branch,11,Turn 1,600,Go to 600
-200,*,49,Flat Fiend,Fiendo,0,Branch,12,Turn 2,900,Go to 900
-300,*,49,Flat Fiend,Fiendo,0,Branch,28,Rating 80%,1100,Go to 1100
-400,*,49,Flat Fiend,Fiendo,0,Branch,25,Rating 50%,1300,Go to 1300
-500,*,49,Flat Fiend,Fiendo,0,Branch,30,Always,1500,Go to 1500
-600,*,49,Flat Fiend,Fiendo,0,Branch,26,Rating 60%,1100,Go to 1100
-700,*,49,Flat Fiend,Fiendo,0,Branch,25,Rating 50%,1200,Go to 1200
-800,*,49,Flat Fiend,Fiendo,0,Branch,25,Rating 50%,1400,Go to 1400
-900,*,49,Flat Fiend,Fiendo,0,Branch,23,Rating 30%,1100,Go to 1100
-1000,*,49,Flat Fiend,Fiendo,0,Branch,30,Always,1300,Go to 1300
-1100,*,49,Flat Fiend,Fiendo,1,Action,550,Attack,2,Random PC
-1200,*,49,Flat Fiend,Fiendo,1,Action,551,Guard,-1,None
-1300,*,49,Flat Fiend,Fiendo,1,Action,507,Sacres,7,EC With Lowest HP
-1400,*,49,Flat Fiend,Fiendo,1,Action,513,Quika,-1,None
-1500,*,49,Flat Fiend,Fiendo,1,Action,100,Magic?,-1,None
+100,*,49,Flat Fiend,Fiendo,0,Branch,11,Turn 1,800,Go to 800
+200,*,49,Flat Fiend,Fiendo,0,Branch,16,Has Silence?,800,Go to 800
+300,*,49,Flat Fiend,Fiendo,0,Branch,25,Rating 50%,1200,Go to 1200
+400,*,49,Flat Fiend,Fiendo,0,Branch,1,HP < 50%,1600,Go to 1600
+500,*,49,Flat Fiend,Fiendo,0,Branch,25,Rating 50%,1500,Go to 1500
+600,*,49,Flat Fiend,Fiendo,0,Branch,38,Any EC HP < 50%,1400,Go to 1400
+700,*,49,Flat Fiend,Fiendo,0,Branch,30,Always,1500,Go to 1500
+800,*,49,Flat Fiend,Fiendo,0,Branch,26,Rating 60%,1200,Go to 1200
+900,*,49,Flat Fiend,Fiendo,0,Branch,25,Rating 50%,1300,Go to 1300
+1000,*,49,Flat Fiend,Fiendo,0,Branch,16,Has Silence?,1200,Go to 1200
+1100,*,49,Flat Fiend,Fiendo,0,Branch,25,Rating 50%,1700,Go to 1700
+1200,*,49,Flat Fiend,Fiendo,1,Action,550,Attack,2,Random PC
+1300,*,49,Flat Fiend,Fiendo,1,Action,551,Guard,-1,None
+1400,*,49,Flat Fiend,Fiendo,1,Action,507,Sacres,7,EC With Lowest HP
+1500,*,49,Flat Fiend,Fiendo,1,Action,507,Sacres,12,Nearest PC/EC
+1600,*,49,Flat Fiend,Fiendo,1,Action,507,Sacres,22,Self
+1700,*,49,Flat Fiend,Fiendo,1,Action,513,Quika,-1,None
 100,*,50,Burocca,Burocca,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,50,Burocca,Burocca,0,Branch,30,Always,400,Go to 400
 300,*,50,Burocca,Burocca,0,Branch,26,Rating 60%,800,Go to 800
@@ -1010,24 +1016,26 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 700,*,60,Soldier L31,Mereo L31,1,Action,551,Guard,-1,None
 100,*,61,Delzool,Delzool,0,Branch,44,1st PC ΔLevel > 3,300,Go to 300
 200,*,61,Delzool,Delzool,0,Branch,30,Always,400,Go to 400
-300,*,61,Delzool,Delzool,0,Branch,26,Rating 60%,1700,Go to 1700
+300,*,61,Delzool,Delzool,0,Branch,26,Rating 60%,1900,Go to 1900
 400,*,61,Delzool,Delzool,0,Branch,2,HP < 25%,600,Go to 600
 500,*,61,Delzool,Delzool,0,Branch,30,Always,700,Go to 700
-600,*,61,Delzool,Delzool,0,Branch,29,Rating 90%,1800,Go to 1800
+600,*,61,Delzool,Delzool,0,Branch,29,Rating 90%,2000,Go to 2000
 700,*,61,Delzool,Delzool,0,Branch,1,HP < 50%,900,Go to 900
 800,*,61,Delzool,Delzool,0,Branch,30,Always,1000,Go to 1000
-900,*,61,Delzool,Delzool,0,Branch,26,Rating 60%,1800,Go to 1800
-1000,*,61,Delzool,Delzool,0,Branch,35,Used State Spells ≥ 1,1200,Go to 1200
-1100,*,61,Delzool,Delzool,0,Branch,24,Rating 40%,1900,Go to 1900
-1200,*,61,Delzool,Delzool,0,Branch,23,Rating 30%,1800,Go to 1800
-1300,*,61,Delzool,Delzool,0,Branch,27,Rating 70%,1600,Go to 1600
-1400,*,61,Delzool,Delzool,0,Branch,26,Rating 60%,2000,Go to 2000
-1500,*,61,Delzool,Delzool,0,Branch,30,Always,1700,Go to 1700
-1600,*,61,Delzool,Delzool,1,Action,550,Attack,2,Random PC
-1700,*,61,Delzool,Delzool,1,Action,552,Run,-1,None
-1800,*,61,Delzool,Delzool,1,Action,270,Self-destruct,-1,None
-1900,*,61,Delzool,Delzool,1,Action,518,Eternes,1,Nearest PC
-2000,*,61,Delzool,Delzool,1,Action,100,Magic?,-1,None
+900,*,61,Delzool,Delzool,0,Branch,26,Rating 60%,2000,Go to 2000
+1000,*,61,Delzool,Delzool,0,Branch,16,Has Silence?,1300,Go to 1300
+1100,*,61,Delzool,Delzool,0,Branch,36,Used State Spells ≥ 2,1300,Go to 1300
+1200,*,61,Delzool,Delzool,0,Branch,24,Rating 40%,2100,Go to 2100
+1300,*,61,Delzool,Delzool,0,Branch,23,Rating 30%,2000,Go to 2000
+1400,*,61,Delzool,Delzool,0,Branch,27,Rating 70%,1800,Go to 1800
+1500,*,61,Delzool,Delzool,0,Branch,16,Has Silence?,1700,Go to 1700
+1600,*,61,Delzool,Delzool,0,Branch,26,Rating 60%,2200,Go to 2200
+1700,*,61,Delzool,Delzool,0,Branch,30,Always,1900,Go to 1900
+1800,*,61,Delzool,Delzool,1,Action,550,Attack,2,Random PC
+1900,*,61,Delzool,Delzool,1,Action,552,Run,-1,None
+2000,*,61,Delzool,Delzool,1,Action,270,Self-destruct,-1,None
+2100,*,61,Delzool,Delzool,1,Action,518,Eternes,-1,None
+2200,*,61,Delzool,Delzool,1,Action,100,Magic?,-1,None
 100,*,62,Defender,Defensor,0,Branch,5,Got Hit by Spell?,1200,Go to 1200
 200,*,62,Defender,Defensor,0,Branch,38,Any EC HP < 50%,800,Go to 800
 300,*,62,Defender,Defensor,0,Branch,25,Rating 50%,1500,Go to 1500
@@ -1087,9 +1095,9 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1600,*,64,Graver,Graver,0,Branch,25,Rating 50%,2800,Go to 2800
 1700,*,64,Graver,Graver,0,Branch,25,Rating 50%,2500,Go to 2500
 1800,*,64,Graver,Graver,0,Branch,24,Rating 40%,2600,Go to 2600
-1900,*,64,Graver,Graver,0,Branch,65,PCs Alive = 4,2100,Go to 2100
-2000,*,64,Graver,Graver,0,Branch,30,Always,3000,Go to 3000
-2100,*,64,Graver,Graver,0,Branch,16,Has Silence?,3000,Go to 3000
+1900,*,64,Graver,Graver,0,Branch,16,Has Silence?,2500,Go to 2500
+2000,*,64,Graver,Graver,0,Branch,65,PCs Alive = 4,2200,Go to 2200
+2100,*,64,Graver,Graver,0,Branch,30,Always,3000,Go to 3000
 2200,*,64,Graver,Graver,0,Branch,36,Used State Spells ≥ 2,3000,Go to 3000
 2300,*,64,Graver,Graver,0,Branch,24,Rating 40%,2900,Go to 2900
 2400,*,64,Graver,Graver,0,Branch,24,Rating 40%,3000,Go to 3000
@@ -1737,7 +1745,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 800,*,107,Jynnus,Jynnus,0,Branch,25,Rating 50%,1700,Go to 1700
 900,*,107,Jynnus,Jynnus,0,Branch,24,Rating 40%,1800,Go to 1800
 1000,*,107,Jynnus,Jynnus,0,Branch,30,Always,1900,Go to 1900
-1100,*,107,Jynnus,Jynnus,0,Branch,16,Has Silence?,2100,Go to 2100
+1100,*,107,Jynnus,Jynnus,0,Branch,16,Has Silence?,1500,Go to 1500
 1200,*,107,Jynnus,Jynnus,0,Branch,36,Used State Spells ≥ 2,2100,Go to 2100
 1300,*,107,Jynnus,Jynnus,0,Branch,30,Always,2000,Go to 2000
 1400,*,107,Jynnus,Jynnus,1,Action,550,Attack,2,Random PC
@@ -1771,7 +1779,7 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 200,*,109,Yulooper,Yulooper,0,Branch,25,Rating 50%,1000,Go to 1000
 300,*,109,Yulooper,Yulooper,0,Branch,24,Rating 40%,800,Go to 800
 400,*,109,Yulooper,Yulooper,0,Branch,23,Rating 30%,900,Go to 900
-500,*,109,Yulooper,Yulooper,0,Branch,16,Has Silence?,1200,Go to 1200
+500,*,109,Yulooper,Yulooper,0,Branch,16,Has Silence?,100,Go to 100
 600,*,109,Yulooper,Yulooper,0,Branch,34,Used Attack Spells ≥ 2,1200,Go to 1200
 700,*,109,Yulooper,Yulooper,0,Branch,30,Always,1100,Go to 1100
 800,*,109,Yulooper,Yulooper,1,Action,550,Attack,2,Random PC
@@ -1844,22 +1852,25 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[EC EU Name],Type ID,[Type Name],Task ID,
 1700,*,113,Zivilyn Bane L13,Zivilyn Bane L13,1,Action,551,Guard,-1,None
 1800,*,113,Zivilyn Bane L13,Zivilyn Bane L13,1,Action,22,Burst,2,Random PC
 1900,*,113,Zivilyn Bane L13,Zivilyn Bane L13,1,Action,22,Burst,3,PC With Highest HP
-100,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,11,Turn 1,400,Go to 400
-200,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,12,Turn 2,600,Go to 600
-300,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,30,Always,800,Go to 800
-400,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,27,Rating 70%,1400,Go to 1400
-500,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,30,Always,1500,Go to 1500
-600,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,50,Used S-Move?,1400,Go to 1400
-700,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,30,Always,1500,Go to 1500
-800,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,50,Used S-Move?,1100,Go to 1100
-900,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,23,Rating 30%,1400,Go to 1400
-1000,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,30,Always,1500,Go to 1500
-1100,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,27,Rating 70%,1400,Go to 1400
-1200,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,26,Rating 60%,1500,Go to 1500
-1300,*,114,Zivilyn Bane L28,Zivilyn Bane L28,0,Branch,30,Always,1600,Go to 1600
-1400,*,114,Zivilyn Bane L28,Zivilyn Bane L28,1,Action,550,Attack,4,PC With Lowest HP
-1500,*,114,Zivilyn Bane L28,Zivilyn Bane L28,1,Action,22,Burst,2,Random PC
-1600,*,114,Zivilyn Bane L28,Zivilyn Bane L28,1,Action,551,Guard,-1,None
+100,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,11,Turn 1,1500,Go to 1500
+200,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,50,Used S-Move?,500,Go to 500
+300,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,22,Rating 20%,1600,Go to 1600
+400,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,30,Always,1800,Go to 1800
+500,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,62,PCs Alive = 1,900,Go to 900
+600,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,63,PCs Alive = 2,900,Go to 900
+700,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,14,Turn 4,1200,Go to 1200
+800,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,37,Turn ≥ 5,1200,Go to 1200
+900,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,27,Rating 70%,1600,Go to 1600
+1000,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,27,Rating 70%,1900,Go to 1900
+1100,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,30,Always,1700,Go to 1700
+1200,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,25,Rating 50%,1900,Go to 1900
+1300,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,28,Rating 80%,1600,Go to 1600
+1400,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,30,Always,1700,Go to 1700
+1500,*,114,Zivilyn Bane L18,Zivilyn Bane L28,0,Branch,25,Rating 50%,1800,Go to 1800
+1600,*,114,Zivilyn Bane L18,Zivilyn Bane L28,1,Action,550,Attack,2,Random PC
+1700,*,114,Zivilyn Bane L18,Zivilyn Bane L28,1,Action,551,Guard,-1,None
+1800,*,114,Zivilyn Bane L18,Zivilyn Bane L28,1,Action,22,Burst,2,Random PC
+1900,*,114,Zivilyn Bane L18,Zivilyn Bane L28,1,Action,22,Burst,3,PC With Highest HP
 100,*,115,Zivilyn Bane L30,Zivilyn Bane L30,0,Branch,11,Turn 1,400,Go to 400
 200,*,115,Zivilyn Bane L30,Zivilyn Bane L30,0,Branch,12,Turn 2,600,Go to 600
 300,*,115,Zivilyn Bane L30,Zivilyn Bane L30,0,Branch,30,Always,800,Go to 800

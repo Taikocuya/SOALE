@@ -57,7 +57,7 @@ Entry ID,Entry US Name,PC Flags,[V],[A],[F],[D],[E],[G],Sell%,US Order 1,US Orde
 215,Silver Veil,0b00011000,"",X,X,"","","",25,53,46,0,200,1,Will,0,16,18,MagDef,0,16,-1,None,0,0,-1,None,0,0,0x2cba20,88,A mystic veil that protects the head. The\nsilver strands increase Will & Magic Defense.
 216,Imperial Crest,0b00000010,"","","","",X,"",25,55,27,0,2000,17,Defense,0,20,18,MagDef,0,20,-1,None,0,0,-1,None,0,0,0x2cba78,84,Given to protect members of the Royal Family.\nImproves Defense and Magic Defense.
 217,Gilder's Amulet,0b00110001,X,X,"","","",X,25,54,24,0,1000,17,Defense,0,11,18,MagDef,0,11,16,Attack,0,11,1,Will,0,11,0x2cbacc,84,"Worn around Gilder's neck. Improves Defense,\nMagic Defense, Attack Power, and Will."
-218,Valuan Medallion,0b00111111,X,X,X,X,X,X,25,60,57,0,5000,49,Unconscious,0,-3,17,Defense,0,30,18,MagDef,0,30,-1,None,0,0,0x2cbb20,76,Enchanted medallion worn by officers in the\nArmada. Negates Eterni spells.
+218,Valuan Medallion,0b00111111,X,X,X,X,X,X,25,60,57,0,5000,49,Unconscious,0,-2,17,Defense,0,30,18,MagDef,0,30,-1,None,0,0,0x2cbb20,76,Enchanted medallion worn by officers in the\nArmada. Negates Eterni spells.
 219,Immunity Ring,0b00000101,"","","",X,"",X,25,50,26,0,1500,79,Block Neg States,0,-2,17,Defense,0,21,-1,None,0,0,-1,None,0,0,0x2cbb6c,64,Sacred Ring. Boosts Defense and Resistance to\nadverse effects.
 220,Thermo Ring,0b00111111,X,X,X,X,X,X,25,58,53,0,700,33,Red,0,-1,34,Purple,0,-1,1,Will,0,15,18,MagDef,0,15,0x2cbbac,64,A ring that increases resistance to Red and \nPurple Attacks.
 221,Slayer Ring,0b00111111,X,X,X,X,X,X,25,59,50,0,600,1,Will,0,8,17,Defense,0,8,19,Hit%,0,10,4,Quick,0,8,0x2cbbec,68,"Raises Defense, Hit%, Will, and Quick.\nIts background is unknown."

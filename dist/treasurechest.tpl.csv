@@ -88,14 +88,14 @@ Entry ID,[Location],[Finalized],Item ID,[Item Name],Item Amount
 86,Grand Fortress,True,258,Moonberry,1
 87,Mount Kazai,False,256,Windsong Orb,1
 88,Mount Kazai,False,258,Moonberry,1
-89,The Dark Rift,False,11,Dream Cutlass,1
-90,The Dark Rift,False,266,Magus Seed,1
-91,The Dark Rift,False,129,Moss Armor,1
-92,The Dark Rift,False,258,Moonberry,1
-93,The Dark Rift,False,255,Chalice of Blood,1
-94,The Dark Rift,False,246,Aura of Valor,1
-95,The Dark Rift,False,523,Gold,2731
-96,The Dark Rift,False,258,Moonberry,1
+89,The Dark Rift 3,True,523,Gold,2731
+90,The Dark Rift 2,True,260,Paranta Seed,1
+91,The Dark Rift 1,True,258,Moonberry,1
+92,The Dark Rift 8,True,11,Dream Cutlass,1
+93,The Dark Rift 9,True,255,Chalice of Blood,1
+94,The Dark Rift 7,True,129,Moss Armor,1
+95,The Dark Rift 5,True,246,Aura of Valor,1
+96,The Dark Rift 4,True,258,Moonberry,1
 97,Glacia,False,19,Ice Splitter,1
 98,Glacia,False,257,Winter Orb,1
 99,Glacia,False,62,Frostblade,1

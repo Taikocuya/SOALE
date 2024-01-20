@@ -48,7 +48,7 @@ Entry ID,[Entry Name],[Finalized],PC Flags,[V],[A],[F],[D],[E],[G],Sell%,Buy,Tra
 126,Ancient Robe,True,0b00011010,,X,X,,X,,100,400,17,Defense,69,18,MagDef,82,-1,None,0,-1,None,0
 127,De Loco Mail,True,0b00100101,X,,,X,,X,100,700,17,Defense,99,18,MagDef,84,-1,None,0,-1,None,0
 128,Daccat's Armor,True,0b00110101,X,X,,X,,X,100,900,17,Defense,108,18,MagDef,108,-1,None,0,-1,None,0
-129,Moss Armor,False,0b00001010,,,X,,X,,100,1300,17,Defense,126,18,MagDef,126,19,Hit%,20,20,Dodge%,10
+129,Moss Armor,True,0b00001010,,,X,,X,,100,1300,17,Defense,126,18,MagDef,126,19,Hit%,20,20,Dodge%,10
 130,Moonlight Robe,False,0b00011000,,X,X,,,,100,4500,17,Defense,134,18,MagDef,145,20,Dodge%,20,-1,None,0
 131,Silver Armor,False,0b00111111,X,X,X,X,X,X,100,8600,17,Defense,160,18,MagDef,160,37,Silver,-2,-1,None,0
 132,Victory Mail,True,0b00111111,X,X,X,X,X,X,100,600,17,Defense,90,18,MagDef,90,16,Attack,5,1,Will,5

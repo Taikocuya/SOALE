@@ -1141,38 +1141,38 @@ Entry ID,[Filter],Initiative,Magic EXP,EC1 ID,[EC1 JP Name],[EC1 EU Name],EC2 ID
 29,a121c_ep.enp,145,3,55,Mantoid,Mantoid,55,Mantoid,Mantoid,58,Golooper,Golooper,58,Golooper,Golooper,255,None,None,255,None,None,255,None,None,255,None,None
 30,a121c_ep.enp,140,3,55,Mantoid,Mantoid,55,Mantoid,Mantoid,37,Crylbeast,Crylbeast,37,Crylbeast,Crylbeast,255,None,None,255,None,None,255,None,None,255,None,None
 31,a121c_ep.enp,125,3,55,Mantoid,Mantoid,55,Mantoid,Mantoid,57,Slithar,Slithar,57,Slithar,Slithar,57,Slithar,Slithar,255,None,None,255,None,None,255,None,None
-0,a122a_ep.enp,128,3,85,Imezl,Imezl,85,Imezl,Imezl,85,Imezl,Imezl,54,Kanezl,Kanezl,255,None,None,255,None,None,255,None,None,255,None,None
-1,a122a_ep.enp,128,3,85,Imezl,Imezl,85,Imezl,Imezl,85,Imezl,Imezl,85,Imezl,Imezl,54,Kanezl,Kanezl,54,Kanezl,Kanezl,255,None,None,255,None,None
-2,a122a_ep.enp,122,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,16,Florast,Florast,16,Florast,Florast,255,None,None,255,None,None,255,None,None,255,None,None
-3,a122a_ep.enp,122,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,31,Tsurak,Tsurak,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,255,None,None,255,None,None
-4,a122a_ep.enp,122,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,255,None,None
-5,a122a_ep.enp,122,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None,255,None,None,255,None,None,255,None,None
-6,a122a_ep.enp,122,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,31,Tsurak,Tsurak,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None,255,None,None
-7,a122a_ep.enp,122,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None
-8,a122a_ep.enp,132,3,31,Tsurak,Tsurak,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-9,a122a_ep.enp,132,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None,255,None,None
-10,a122a_ep.enp,132,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,31,Tsurak,Tsurak,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None
-11,a122a_ep.enp,117,3,31,Tsurak,Tsurak,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-12,a122a_ep.enp,117,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None
-13,a122a_ep.enp,117,3,31,Tsurak,Tsurak,31,Tsurak,Tsurak,31,Tsurak,Tsurak,61,Delzool,Delzool,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None
-14,a122a_ep.enp,117,3,16,Florast,Florast,16,Florast,Florast,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None,255,None,None,255,None,None,255,None,None
-15,a122a_ep.enp,117,3,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None,255,None,None
-16,a122a_ep.enp,117,3,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst
-17,a122a_ep.enp,127,3,16,Florast,Florast,16,Florast,Florast,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None
-18,a122a_ep.enp,127,3,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None
-19,a122a_ep.enp,127,3,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None
-20,a122a_ep.enp,117,3,16,Florast,Florast,16,Florast,Florast,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-21,a122a_ep.enp,117,3,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None
-22,a122a_ep.enp,117,3,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,61,Delzool,Delzool,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None
-23,a122a_ep.enp,127,3,45,Flyst,Flyst,45,Flyst,Flyst,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None
-24,a122a_ep.enp,127,3,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None
-25,a122a_ep.enp,127,3,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None
-26,a122a_ep.enp,117,3,45,Flyst,Flyst,45,Flyst,Flyst,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
-27,a122a_ep.enp,117,3,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None
-28,a122a_ep.enp,117,3,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,61,Delzool,Delzool,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None
-29,a122a_ep.enp,127,3,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None
-30,a122a_ep.enp,127,3,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,61,Delzool,Delzool,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None
-31,a122a_ep.enp,127,3,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None
+0,a122a_ep.enp,88,2,85,Imezl,Imezl,85,Imezl,Imezl,85,Imezl,Imezl,54,Kanezl,Kanezl,255,None,None,255,None,None,255,None,None,255,None,None
+1,a122a_ep.enp,88,2,85,Imezl,Imezl,85,Imezl,Imezl,85,Imezl,Imezl,85,Imezl,Imezl,54,Kanezl,Kanezl,54,Kanezl,Kanezl,255,None,None,255,None,None
+2,a122a_ep.enp,82,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,16,Florast,Florast,16,Florast,Florast,255,None,None,255,None,None,255,None,None,255,None,None
+3,a122a_ep.enp,82,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,31,Tsurak,Tsurak,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,255,None,None,255,None,None
+4,a122a_ep.enp,82,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,255,None,None
+5,a122a_ep.enp,82,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None,255,None,None,255,None,None,255,None,None
+6,a122a_ep.enp,82,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,31,Tsurak,Tsurak,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None,255,None,None
+7,a122a_ep.enp,82,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None
+8,a122a_ep.enp,92,2,31,Tsurak,Tsurak,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+9,a122a_ep.enp,92,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None,255,None,None
+10,a122a_ep.enp,92,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,31,Tsurak,Tsurak,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None
+11,a122a_ep.enp,77,2,31,Tsurak,Tsurak,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+12,a122a_ep.enp,77,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None
+13,a122a_ep.enp,77,2,31,Tsurak,Tsurak,31,Tsurak,Tsurak,31,Tsurak,Tsurak,61,Delzool,Delzool,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None
+14,a122a_ep.enp,77,2,16,Florast,Florast,16,Florast,Florast,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None,255,None,None,255,None,None,255,None,None
+15,a122a_ep.enp,77,2,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,255,None,None,255,None,None
+16,a122a_ep.enp,77,2,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst
+17,a122a_ep.enp,87,2,16,Florast,Florast,16,Florast,Florast,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None
+18,a122a_ep.enp,87,2,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None
+19,a122a_ep.enp,87,2,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None
+20,a122a_ep.enp,77,2,16,Florast,Florast,16,Florast,Florast,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+21,a122a_ep.enp,77,2,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None
+22,a122a_ep.enp,77,2,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,16,Florast,Florast,61,Delzool,Delzool,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None
+23,a122a_ep.enp,87,2,45,Flyst,Flyst,45,Flyst,Flyst,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None
+24,a122a_ep.enp,87,2,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None,255,None,None
+25,a122a_ep.enp,87,2,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,255,None,None,255,None,None
+26,a122a_ep.enp,77,2,45,Flyst,Flyst,45,Flyst,Flyst,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
+27,a122a_ep.enp,77,2,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None
+28,a122a_ep.enp,77,2,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,45,Flyst,Flyst,61,Delzool,Delzool,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None
+29,a122a_ep.enp,87,2,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None,255,None,None
+30,a122a_ep.enp,87,2,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,61,Delzool,Delzool,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None
+31,a122a_ep.enp,87,2,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,49,Flat Fiend,Fiendo,61,Delzool,Delzool,61,Delzool,Delzool,255,None,None,255,None,None,255,None,None
 0,a123b_ep.enp,152,3,84,Kilite,Kilite,84,Kilite,Kilite,84,Kilite,Kilite,84,Kilite,Kilite,255,None,None,255,None,None,255,None,None,255,None,None
 1,a123b_ep.enp,147,3,84,Kilite,Kilite,84,Kilite,Kilite,84,Kilite,Kilite,84,Kilite,Kilite,84,Kilite,Kilite,84,Kilite,Kilite,255,None,None,255,None,None
 2,a123b_ep.enp,157,3,89,Arclooper,Arclooper,89,Arclooper,Arclooper,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None,255,None,None
