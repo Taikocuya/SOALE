@@ -6,7 +6,7 @@ Entry ID,Entry US Name,PC Flags,[V],[A],[F],[D],[E],[G],Sell%,US Order 1,US Orde
 164,Lover's Ring,0b00111010,X,X,X,"",X,"",25,2,30,0,300,18,MagDef,0,12,1,Will,0,12,-1,None,0,0,-1,None,0,0,0x2ca9cc,92,A finely crafted ring that depicts two lovers\nembracing. Increases Magic Defense and Will.
 165,Jade Swirl Ring,0b00111010,X,X,X,"",X,"",25,5,29,0,3000,18,MagDef,0,45,1,Will,0,45,-1,None,0,0,-1,None,0,0,0x2caa28,84,A ring decorated with two drops of liquid jade.\nIncreases Magic Defense and Will.
 166,Cupil Ring,0b00001000,"","",X,"","","",25,6,14,0,2200,49,Unconscious,0,-3,37,Silver,0,-2,18,MagDef,0,45,1,Will,0,45,0x2caa7c,96,"A ring that looks like Cupil. Boosts Spirit and\nResistance to Silver Attacks, and Eterni Magic."
-167,Warrior's Heart,0b00111010,X,X,X,"",X,"",25,7,59,0,5600,77,Recover SP,0,1,4,Quick,0,-65,-1,None,0,0,-1,None,0,0,0x2caadc,84,"A ring with a glowing gem, that allows the user\nto recover Spirit during battle."
+167,Warrior's Heart,0b00111010,X,X,X,"",X,"",25,7,59,0,5600,77,Recover SP,0,1,4,Quick,0,-40,-1,None,0,0,-1,None,0,0,0x2caadc,84,"A ring with a glowing gem, that allows the user\nto recover Spirit during battle."
 168,Throkryn's Scale,0b00110101,X,X,"",X,"",X,25,8,55,0,300,16,Attack,0,10,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x2cab30,68,A weapon modification made from a Throkryn.\nRaises Attack Power.
 169,Thryllak's Scale,0b00110101,X,X,"",X,"",X,25,9,56,0,2300,16,Attack,0,36,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x2cab74,88,"A scale of a Thryllak, an animal even deadlier\nthan the Throkryn. Raises Attack Power."
 170,Marocca's Shell,0b00110101,X,X,"",X,"",X,25,10,32,0,100,17,Defense,0,6,-1,None,0,0,-1,None,0,0,-1,None,0,0,0x2cabcc,64,The shell of a large primitive crustacean.\nImproves Defense.
