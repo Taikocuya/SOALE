@@ -2098,18 +2098,18 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10010,*,134,Rokwyrm,True,1,Action,0,Volcanic Blast,-1,None
 10020,*,134,Rokwyrm,True,1,Action,1,Cinder Storm,13,PC W/O Stone
 0,*,136,Antonio 2,True,0,Branch,1,HP < 50%,3000,Go to 3000
-10,*,136,Antonio 2,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,3000,Go to 3000
-20,*,136,Antonio 2,True,0,Branch,12,Turn 2,3000,Go to 3000
-30,*,136,Antonio 2,True,0,Branch,13,Turn 3,3000,Go to 3000
-40,*,136,Antonio 2,True,0,Branch,50,Used S-Move?,2000,Go to 2000
-50,*,136,Antonio 2,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
-60,*,136,Antonio 2,True,0,Branch,63,PCs Alive = 2,2000,Go to 2000
+10,*,136,Antonio 2,True,0,Branch,12,Turn 2,3000,Go to 3000
+20,*,136,Antonio 2,True,0,Branch,13,Turn 3,3000,Go to 3000
+30,*,136,Antonio 2,True,0,Branch,50,Used S-Move?,2000,Go to 2000
+40,*,136,Antonio 2,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
+50,*,136,Antonio 2,True,0,Branch,63,PCs Alive = 2,2000,Go to 2000
 1000,*,136,Antonio 2,True,0,Branch,22,Rating 20%,10000,Attack
 1010,*,136,Antonio 2,True,0,Branch,30,Always,10010,Thunder of Fury
 2000,*,136,Antonio 2,True,0,Branch,27,Rating 70%,10000,Attack
 2010,*,136,Antonio 2,True,0,Branch,30,Always,10010,Thunder of Fury
 3000,*,136,Antonio 2,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
-3010,*,136,Antonio 2,True,0,Branch,27,Rating 70%,10010,Thunder of Fury
+3010,*,136,Antonio 2,True,0,Branch,63,PCs Alive = 2,2000,Go to 2000
+3020,*,136,Antonio 2,True,0,Branch,27,Rating 70%,10010,Thunder of Fury
 10000,*,136,Antonio 2,True,1,Action,550,Attack,2,Random PC
 10010,*,136,Antonio 2,True,1,Action,5,Thunder of Fury,2,Random PC
 0,*,137,Rik'talish,True,0,Branch,1,HP < 50%,3000,Go to 3000
@@ -3115,9 +3115,11 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 2010,*,171,Kantor L02,True,0,Branch,30,Always,10010,Thunder of Fury
 10000,*,171,Kantor L02,True,1,Action,550,Attack,2,Random PC
 10010,*,171,Kantor L02,True,1,Action,5,Thunder of Fury,2,Random PC
-0,*,172,Kantor L08,True,0,Branch,11,Turn 1,1000,Go to 1000
-10,*,172,Kantor L08,True,0,Branch,12,Turn 2,1000,Go to 1000
+0,*,172,Kantor L08,True,0,Branch,11,Turn 1,10000,Attack
+10,*,172,Kantor L08,True,0,Branch,12,Turn 2,2000,Go to 2000
 20,*,172,Kantor L08,True,0,Branch,50,Used S-Move?,2000,Go to 2000
+30,*,172,Kantor L08,True,0,Branch,62,PCs Alive = 1,2000,Go to 2000
+40,*,172,Kantor L08,True,0,Branch,63,PCs Alive = 2,2000,Go to 2000
 1000,*,172,Kantor L08,True,0,Branch,23,Rating 30%,10000,Attack
 1010,*,172,Kantor L08,True,0,Branch,30,Always,10010,Thunder of Fury
 2000,*,172,Kantor L08,True,0,Branch,27,Rating 70%,10000,Attack
@@ -3270,7 +3272,6 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 3040,*,180,Mage Warden L08a,True,0,Branch,49,Used Spell?,3060,Go to 3060
 3050,*,180,Mage Warden L08a,True,0,Branch,30,Always,4000,Go to 4000
 3051,*,180,Mage Warden L08a,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,3060,Go to 3060
-3052,*,180,Mage Warden L08a,True,0,Branch,37,Turn ≥ 5,3060,Go to 3060
 3053,*,180,Mage Warden L08a,True,0,Branch,30,Always,3070,Go to 3070
 3060,*,180,Mage Warden L08a,True,0,Branch,24,Rating 40%,5000,Go to 5000
 3070,*,180,Mage Warden L08a,True,0,Branch,35,Used State Spells ≥ 1,3090,Go to 3090
@@ -3285,15 +3286,19 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 4040,*,180,Mage Warden L08a,True,0,Branch,24,Rating 40%,6000,Go to 6000
 4050,*,180,Mage Warden L08a,True,0,Branch,21,Rating 10%,10010,Guard
 4060,*,180,Mage Warden L08a,True,0,Branch,30,Always,10000,Attack
-5000,*,180,Mage Warden L08a,True,0,Branch,62,PCs Alive = 1,5030,Go to 5030
-5010,*,180,Mage Warden L08a,True,0,Branch,63,PCs Alive = 2,5030,Go to 5030
-5020,*,180,Mage Warden L08a,True,0,Branch,54,ECs Alive ≤ 3,5100,Go to 5100
-5030,*,180,Mage Warden L08a,True,0,Branch,26,Rating 60%,10060,Crystalum
-5040,*,180,Mage Warden L08a,True,0,Branch,30,Always,10070,Wevlum
-5100,*,180,Mage Warden L08a,True,0,Branch,25,Rating 50%,10080,Electrulen
-5110,*,180,Mage Warden L08a,True,0,Branch,30,Always,10070,Wevlum
-6000,*,180,Mage Warden L08a,True,0,Branch,24,Rating 40%,10020,Sylenis
-6010,*,180,Mage Warden L08a,True,0,Branch,30,Always,10030,Driln
+5000,*,180,Mage Warden L08a,True,0,Branch,62,PCs Alive = 1,5100,Go to 5100
+5010,*,180,Mage Warden L08a,True,0,Branch,63,PCs Alive = 2,5100,Go to 5100
+5020,*,180,Mage Warden L08a,True,0,Branch,66,ECs Alive = 3,5100,Go to 5100
+5030,*,180,Mage Warden L08a,True,0,Branch,54,ECs Alive ≤ 3,5200,Go to 5200
+5100,*,180,Mage Warden L08a,True,0,Branch,49,Used Spell?,10060,Crystalum
+5110,*,180,Mage Warden L08a,True,0,Branch,26,Rating 60%,10060,Crystalum
+5120,*,180,Mage Warden L08a,True,0,Branch,30,Always,10070,Wevlum
+5200,*,180,Mage Warden L08a,True,0,Branch,49,Used Spell?,10070,Wevlum
+5210,*,180,Mage Warden L08a,True,0,Branch,26,Rating 60%,10070,Wevlum
+5220,*,180,Mage Warden L08a,True,0,Branch,30,Always,10080,Electrulen
+6000,*,180,Mage Warden L08a,True,0,Branch,36,Used State Spells ≥ 2,10020,Sylenis
+6010,*,180,Mage Warden L08a,True,0,Branch,24,Rating 40%,10020,Sylenis
+6020,*,180,Mage Warden L08a,True,0,Branch,30,Always,10030,Driln
 10000,*,180,Mage Warden L08a,True,1,Action,550,Attack,1,Nearest PC
 10010,*,180,Mage Warden L08a,True,1,Action,551,Guard,-1,None
 10020,*,180,Mage Warden L08a,True,1,Action,502,Sylenis,15,PC W/O Silence
@@ -3326,7 +3331,6 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 3040,*,181,Mage Warden L08b,True,0,Branch,49,Used Spell?,3060,Go to 3060
 3050,*,181,Mage Warden L08b,True,0,Branch,30,Always,4000,Go to 4000
 3051,*,181,Mage Warden L08b,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,3060,Go to 3060
-3052,*,181,Mage Warden L08b,True,0,Branch,37,Turn ≥ 5,3060,Go to 3060
 3053,*,181,Mage Warden L08b,True,0,Branch,30,Always,3070,Go to 3070
 3060,*,181,Mage Warden L08b,True,0,Branch,24,Rating 40%,5000,Go to 5000
 3070,*,181,Mage Warden L08b,True,0,Branch,35,Used State Spells ≥ 1,3090,Go to 3090
@@ -3341,15 +3345,19 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 4040,*,181,Mage Warden L08b,True,0,Branch,24,Rating 40%,6000,Go to 6000
 4050,*,181,Mage Warden L08b,True,0,Branch,21,Rating 10%,10010,Guard
 4060,*,181,Mage Warden L08b,True,0,Branch,30,Always,10000,Attack
-5000,*,181,Mage Warden L08b,True,0,Branch,62,PCs Alive = 1,5030,Go to 5030
-5010,*,181,Mage Warden L08b,True,0,Branch,63,PCs Alive = 2,5030,Go to 5030
-5020,*,181,Mage Warden L08b,True,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,5100,Go to 5100
-5030,*,181,Mage Warden L08b,True,0,Branch,26,Rating 60%,10060,Crystalum
-5040,*,181,Mage Warden L08b,True,0,Branch,30,Always,10070,Wevlum
-5100,*,181,Mage Warden L08b,True,0,Branch,25,Rating 50%,10080,Electrulen
-5110,*,181,Mage Warden L08b,True,0,Branch,30,Always,10070,Wevlum
-6000,*,181,Mage Warden L08b,True,0,Branch,24,Rating 40%,10020,Sylenis
-6010,*,181,Mage Warden L08b,True,0,Branch,30,Always,10030,Driln
+5000,*,181,Mage Warden L08b,True,0,Branch,62,PCs Alive = 1,5100,Go to 5100
+5010,*,181,Mage Warden L08b,True,0,Branch,63,PCs Alive = 2,5100,Go to 5100
+5020,*,181,Mage Warden L08b,True,0,Branch,66,ECs Alive = 3,5100,Go to 5100
+5030,*,181,Mage Warden L08b,True,0,Branch,54,ECs Alive ≤ 3,5200,Go to 5200
+5100,*,181,Mage Warden L08b,True,0,Branch,49,Used Spell?,10060,Crystalum
+5110,*,181,Mage Warden L08b,True,0,Branch,26,Rating 60%,10060,Crystalum
+5120,*,181,Mage Warden L08b,True,0,Branch,30,Always,10070,Wevlum
+5200,*,181,Mage Warden L08b,True,0,Branch,49,Used Spell?,10070,Wevlum
+5210,*,181,Mage Warden L08b,True,0,Branch,26,Rating 60%,10070,Wevlum
+5220,*,181,Mage Warden L08b,True,0,Branch,30,Always,10080,Electrulen
+6000,*,181,Mage Warden L08b,True,0,Branch,36,Used State Spells ≥ 2,10020,Sylenis
+6010,*,181,Mage Warden L08b,True,0,Branch,24,Rating 40%,10020,Sylenis
+6020,*,181,Mage Warden L08b,True,0,Branch,30,Always,10030,Driln
 10000,*,181,Mage Warden L08b,True,1,Action,550,Attack,1,Nearest PC
 10010,*,181,Mage Warden L08b,True,1,Action,551,Guard,-1,None
 10020,*,181,Mage Warden L08b,True,1,Action,502,Sylenis,15,PC W/O Silence
@@ -3360,9 +3368,10 @@ Entry ID,[Filter],[EC ID],[EC JP Name],[Finalized],Type ID,[Type Name],Task ID,[
 10070,*,181,Mage Warden L08b,True,1,Action,531,Wevlum,2,Random PC
 10080,*,181,Mage Warden L08b,True,1,Action,535,Electrulen,2,Random PC
 10090,*,181,Mage Warden L08b,True,1,Action,37,Focus,-1,None
-0,*,182,Executioner L11,True,0,Branch,14,Turn 4,1000,Go to 1000
-10,*,182,Executioner L11,True,0,Branch,37,Turn ≥ 5,1000,Go to 1000
-20,*,182,Executioner L11,True,0,Branch,66,ECs Alive = 3,2000,Go to 2000
+0,*,182,Executioner L11,True,0,Branch,0,HP = 100%,20,Go to 20
+10,*,182,Executioner L11,True,0,Branch,14,Turn 4,1000,Go to 1000
+20,*,182,Executioner L11,True,0,Branch,37,Turn ≥ 5,1000,Go to 1000
+30,*,182,Executioner L11,True,0,Branch,66,ECs Alive = 3,2000,Go to 2000
 1000,*,182,Executioner L11,True,0,Branch,50,Used S-Move?,2000,Go to 2000
 1010,*,182,Executioner L11,True,0,Branch,62,PCs Alive = 1,1040,Go to 1040
 1020,*,182,Executioner L11,True,0,Branch,63,PCs Alive = 2,1040,Go to 1040

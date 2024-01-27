@@ -2097,18 +2097,18 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 2300,*,134,Rokwyrm,1,Action,550,Attack,2,Random PC
 2400,*,134,Rokwyrm,1,Action,0,火山弾乱舞,-1,None
 2500,*,134,Rokwyrm,1,Action,1,石化灰噴霧,13,PC W/O Stone
-100,*,136,Antonio 2,0,Branch,1,HP < 50%,1200,Go to 1200
-200,*,136,Antonio 2,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,1200,Go to 1200
-300,*,136,Antonio 2,0,Branch,12,Turn 2,1200,Go to 1200
-400,*,136,Antonio 2,0,Branch,13,Turn 3,1200,Go to 1200
-500,*,136,Antonio 2,0,Branch,50,Used S-Move?,1000,Go to 1000
-600,*,136,Antonio 2,0,Branch,62,PCs Alive = 1,1000,Go to 1000
-700,*,136,Antonio 2,0,Branch,63,PCs Alive = 2,1000,Go to 1000
-800,*,136,Antonio 2,0,Branch,22,Rating 20%,1400,Go to 1400
-900,*,136,Antonio 2,0,Branch,30,Always,1500,Go to 1500
-1000,*,136,Antonio 2,0,Branch,27,Rating 70%,1400,Go to 1400
-1100,*,136,Antonio 2,0,Branch,30,Always,1500,Go to 1500
-1200,*,136,Antonio 2,0,Branch,62,PCs Alive = 1,1000,Go to 1000
+100,*,136,Antonio 2,0,Branch,1,HP < 50%,1100,Go to 1100
+200,*,136,Antonio 2,0,Branch,12,Turn 2,1100,Go to 1100
+300,*,136,Antonio 2,0,Branch,13,Turn 3,1100,Go to 1100
+400,*,136,Antonio 2,0,Branch,50,Used S-Move?,900,Go to 900
+500,*,136,Antonio 2,0,Branch,62,PCs Alive = 1,900,Go to 900
+600,*,136,Antonio 2,0,Branch,63,PCs Alive = 2,900,Go to 900
+700,*,136,Antonio 2,0,Branch,22,Rating 20%,1400,Go to 1400
+800,*,136,Antonio 2,0,Branch,30,Always,1500,Go to 1500
+900,*,136,Antonio 2,0,Branch,27,Rating 70%,1400,Go to 1400
+1000,*,136,Antonio 2,0,Branch,30,Always,1500,Go to 1500
+1100,*,136,Antonio 2,0,Branch,62,PCs Alive = 1,900,Go to 900
+1200,*,136,Antonio 2,0,Branch,63,PCs Alive = 2,900,Go to 900
 1300,*,136,Antonio 2,0,Branch,27,Rating 70%,1500,Go to 1500
 1400,*,136,Antonio 2,1,Action,550,Attack,2,Random PC
 1500,*,136,Antonio 2,1,Action,5,怒雷,2,Random PC
@@ -3115,15 +3115,17 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 600,*,171,Kantor L02,0,Branch,30,Always,800,Go to 800
 700,*,171,Kantor L02,1,Action,550,Attack,2,Random PC
 800,*,171,Kantor L02,1,Action,5,怒雷,2,Random PC
-100,*,172,Kantor L08,0,Branch,11,Turn 1,400,Go to 400
-200,*,172,Kantor L08,0,Branch,12,Turn 2,400,Go to 400
-300,*,172,Kantor L08,0,Branch,50,Used S-Move?,600,Go to 600
-400,*,172,Kantor L08,0,Branch,23,Rating 30%,800,Go to 800
-500,*,172,Kantor L08,0,Branch,30,Always,900,Go to 900
-600,*,172,Kantor L08,0,Branch,27,Rating 70%,800,Go to 800
-700,*,172,Kantor L08,0,Branch,30,Always,900,Go to 900
-800,*,172,Kantor L08,1,Action,550,Attack,2,Random PC
-900,*,172,Kantor L08,1,Action,5,怒雷,2,Random PC
+100,*,172,Kantor L08,0,Branch,11,Turn 1,1000,Go to 1000
+200,*,172,Kantor L08,0,Branch,12,Turn 2,800,Go to 800
+300,*,172,Kantor L08,0,Branch,50,Used S-Move?,800,Go to 800
+400,*,172,Kantor L08,0,Branch,62,PCs Alive = 1,800,Go to 800
+500,*,172,Kantor L08,0,Branch,63,PCs Alive = 2,800,Go to 800
+600,*,172,Kantor L08,0,Branch,23,Rating 30%,1000,Go to 1000
+700,*,172,Kantor L08,0,Branch,30,Always,1100,Go to 1100
+800,*,172,Kantor L08,0,Branch,27,Rating 70%,1000,Go to 1000
+900,*,172,Kantor L08,0,Branch,30,Always,1100,Go to 1100
+1000,*,172,Kantor L08,1,Action,550,Attack,2,Random PC
+1100,*,172,Kantor L08,1,Action,5,怒雷,2,Random PC
 100,*,173,Piastol D40,0,Branch,2,HP < 25%,2500,Go to 2500
 200,*,173,Piastol D40,0,Branch,17,ECs Alive = 1,2800,Go to 2800
 300,*,173,Piastol D40,0,Branch,19,SP ≤ 50%,600,Go to 600
@@ -3257,53 +3259,56 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 600,*,180,Mage Warden L08a,0,Branch,0,HP = 100%,1500,Go to 1500
 700,*,180,Mage Warden L08a,0,Branch,30,Always,1200,Go to 1200
 800,*,180,Mage Warden L08a,0,Branch,32,Used Sacri Spells ≥ 2,1000,Go to 1000
-900,*,180,Mage Warden L08a,0,Branch,25,Rating 50%,5100,Go to 5100
-1000,*,180,Mage Warden L08a,0,Branch,23,Rating 30%,5100,Go to 5100
+900,*,180,Mage Warden L08a,0,Branch,25,Rating 50%,5400,Go to 5400
+1000,*,180,Mage Warden L08a,0,Branch,23,Rating 30%,5400,Go to 5400
 1100,*,180,Mage Warden L08a,0,Branch,30,Always,1500,Go to 1500
 1200,*,180,Mage Warden L08a,0,Branch,32,Used Sacri Spells ≥ 2,1400,Go to 1400
-1300,*,180,Mage Warden L08a,0,Branch,25,Rating 50%,5000,Go to 5000
-1400,*,180,Mage Warden L08a,0,Branch,23,Rating 30%,5000,Go to 5000
-1500,*,180,Mage Warden L08a,0,Branch,51,Used Focus?,3000,Go to 3000
-1600,*,180,Mage Warden L08a,0,Branch,54,ECs Alive ≤ 3,3000,Go to 3000
+1300,*,180,Mage Warden L08a,0,Branch,25,Rating 50%,5300,Go to 5300
+1400,*,180,Mage Warden L08a,0,Branch,23,Rating 30%,5300,Go to 5300
+1500,*,180,Mage Warden L08a,0,Branch,51,Used Focus?,2900,Go to 2900
+1600,*,180,Mage Warden L08a,0,Branch,54,ECs Alive ≤ 3,2900,Go to 2900
 1700,*,180,Mage Warden L08a,0,Branch,19,SP ≤ 50%,1900,Go to 1900
-1800,*,180,Mage Warden L08a,0,Branch,23,Rating 30%,4700,Go to 4700
-1900,*,180,Mage Warden L08a,0,Branch,49,Used Spell?,2400,Go to 2400
-2000,*,180,Mage Warden L08a,0,Branch,30,Always,3000,Go to 3000
-2100,*,180,Mage Warden L08a,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,2400,Go to 2400
-2200,*,180,Mage Warden L08a,0,Branch,37,Turn ≥ 5,2400,Go to 2400
-2300,*,180,Mage Warden L08a,0,Branch,30,Always,2500,Go to 2500
-2400,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,3700,Go to 3700
-2500,*,180,Mage Warden L08a,0,Branch,35,Used State Spells ≥ 1,2700,Go to 2700
-2600,*,180,Mage Warden L08a,0,Branch,25,Rating 50%,4400,Go to 4400
-2700,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,4400,Go to 4400
-2800,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,5500,Go to 5500
-2900,*,180,Mage Warden L08a,0,Branch,30,Always,4600,Go to 4600
-3000,*,180,Mage Warden L08a,0,Branch,49,Used Spell?,3300,Go to 3300
-3100,*,180,Mage Warden L08a,0,Branch,28,Rating 80%,3700,Go to 3700
-3200,*,180,Mage Warden L08a,0,Branch,30,Always,3400,Go to 3400
-3300,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,3700,Go to 3700
-3400,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,4400,Go to 4400
-3500,*,180,Mage Warden L08a,0,Branch,21,Rating 10%,4700,Go to 4700
-3600,*,180,Mage Warden L08a,0,Branch,30,Always,4600,Go to 4600
-3700,*,180,Mage Warden L08a,0,Branch,62,PCs Alive = 1,4000,Go to 4000
-3800,*,180,Mage Warden L08a,0,Branch,63,PCs Alive = 2,4000,Go to 4000
-3900,*,180,Mage Warden L08a,0,Branch,54,ECs Alive ≤ 3,4200,Go to 4200
-4000,*,180,Mage Warden L08a,0,Branch,26,Rating 60%,5200,Go to 5200
-4100,*,180,Mage Warden L08a,0,Branch,30,Always,5300,Go to 5300
-4200,*,180,Mage Warden L08a,0,Branch,25,Rating 50%,5400,Go to 5400
-4300,*,180,Mage Warden L08a,0,Branch,30,Always,5300,Go to 5300
-4400,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,4800,Go to 4800
-4500,*,180,Mage Warden L08a,0,Branch,30,Always,4900,Go to 4900
-4600,*,180,Mage Warden L08a,1,Action,550,Attack,1,Nearest PC
-4700,*,180,Mage Warden L08a,1,Action,551,Guard,-1,None
-4800,*,180,Mage Warden L08a,1,Action,502,サイレシャ,15,PC W/O Silence
-4900,*,180,Mage Warden L08a,1,Action,504,ダウナ,17,PC W/O Weak
-5000,*,180,Mage Warden L08a,1,Action,507,サプリィ,22,Self
-5100,*,180,Mage Warden L08a,1,Action,507,サプリィ,7,EC With Lowest HP
-5200,*,180,Mage Warden L08a,1,Action,528,グラシェス,2,Random PC
-5300,*,180,Mage Warden L08a,1,Action,531,ウェイベス,2,Random PC
-5400,*,180,Mage Warden L08a,1,Action,535,ボルドーラ,2,Random PC
-5500,*,180,Mage Warden L08a,1,Action,37,ガッツ,-1,None
+1800,*,180,Mage Warden L08a,0,Branch,23,Rating 30%,5000,Go to 5000
+1900,*,180,Mage Warden L08a,0,Branch,49,Used Spell?,2300,Go to 2300
+2000,*,180,Mage Warden L08a,0,Branch,30,Always,2900,Go to 2900
+2100,*,180,Mage Warden L08a,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,2300,Go to 2300
+2200,*,180,Mage Warden L08a,0,Branch,30,Always,2400,Go to 2400
+2300,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,3600,Go to 3600
+2400,*,180,Mage Warden L08a,0,Branch,35,Used State Spells ≥ 1,2600,Go to 2600
+2500,*,180,Mage Warden L08a,0,Branch,25,Rating 50%,4600,Go to 4600
+2600,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,4600,Go to 4600
+2700,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,5800,Go to 5800
+2800,*,180,Mage Warden L08a,0,Branch,30,Always,4900,Go to 4900
+2900,*,180,Mage Warden L08a,0,Branch,49,Used Spell?,3200,Go to 3200
+3000,*,180,Mage Warden L08a,0,Branch,28,Rating 80%,3600,Go to 3600
+3100,*,180,Mage Warden L08a,0,Branch,30,Always,3300,Go to 3300
+3200,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,3600,Go to 3600
+3300,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,4600,Go to 4600
+3400,*,180,Mage Warden L08a,0,Branch,21,Rating 10%,5000,Go to 5000
+3500,*,180,Mage Warden L08a,0,Branch,30,Always,4900,Go to 4900
+3600,*,180,Mage Warden L08a,0,Branch,62,PCs Alive = 1,4000,Go to 4000
+3700,*,180,Mage Warden L08a,0,Branch,63,PCs Alive = 2,4000,Go to 4000
+3800,*,180,Mage Warden L08a,0,Branch,66,ECs Alive = 3,4000,Go to 4000
+3900,*,180,Mage Warden L08a,0,Branch,54,ECs Alive ≤ 3,4300,Go to 4300
+4000,*,180,Mage Warden L08a,0,Branch,49,Used Spell?,5500,Go to 5500
+4100,*,180,Mage Warden L08a,0,Branch,26,Rating 60%,5500,Go to 5500
+4200,*,180,Mage Warden L08a,0,Branch,30,Always,5600,Go to 5600
+4300,*,180,Mage Warden L08a,0,Branch,49,Used Spell?,5600,Go to 5600
+4400,*,180,Mage Warden L08a,0,Branch,26,Rating 60%,5600,Go to 5600
+4500,*,180,Mage Warden L08a,0,Branch,30,Always,5700,Go to 5700
+4600,*,180,Mage Warden L08a,0,Branch,36,Used State Spells ≥ 2,5100,Go to 5100
+4700,*,180,Mage Warden L08a,0,Branch,24,Rating 40%,5100,Go to 5100
+4800,*,180,Mage Warden L08a,0,Branch,30,Always,5200,Go to 5200
+4900,*,180,Mage Warden L08a,1,Action,550,Attack,1,Nearest PC
+5000,*,180,Mage Warden L08a,1,Action,551,Guard,-1,None
+5100,*,180,Mage Warden L08a,1,Action,502,サイレシャ,15,PC W/O Silence
+5200,*,180,Mage Warden L08a,1,Action,504,ダウナ,17,PC W/O Weak
+5300,*,180,Mage Warden L08a,1,Action,507,サプリィ,22,Self
+5400,*,180,Mage Warden L08a,1,Action,507,サプリィ,7,EC With Lowest HP
+5500,*,180,Mage Warden L08a,1,Action,528,グラシェス,2,Random PC
+5600,*,180,Mage Warden L08a,1,Action,531,ウェイベス,2,Random PC
+5700,*,180,Mage Warden L08a,1,Action,535,ボルドーラ,2,Random PC
+5800,*,180,Mage Warden L08a,1,Action,37,ガッツ,-1,None
 100,*,181,Mage Warden L08b,0,Branch,1,HP < 50%,1200,Go to 1200
 200,*,181,Mage Warden L08b,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,400,Go to 400
 300,*,181,Mage Warden L08b,0,Branch,30,Always,500,Go to 500
@@ -3312,80 +3317,84 @@ Entry ID,[Filter],[EC ID],[EC JP Name],Type ID,[Type Name],Task ID,[Task Name],P
 600,*,181,Mage Warden L08b,0,Branch,0,HP = 100%,1500,Go to 1500
 700,*,181,Mage Warden L08b,0,Branch,30,Always,1200,Go to 1200
 800,*,181,Mage Warden L08b,0,Branch,32,Used Sacri Spells ≥ 2,1000,Go to 1000
-900,*,181,Mage Warden L08b,0,Branch,25,Rating 50%,5200,Go to 5200
-1000,*,181,Mage Warden L08b,0,Branch,23,Rating 30%,5200,Go to 5200
+900,*,181,Mage Warden L08b,0,Branch,25,Rating 50%,5500,Go to 5500
+1000,*,181,Mage Warden L08b,0,Branch,23,Rating 30%,5500,Go to 5500
 1100,*,181,Mage Warden L08b,0,Branch,30,Always,1500,Go to 1500
 1200,*,181,Mage Warden L08b,0,Branch,32,Used Sacri Spells ≥ 2,1400,Go to 1400
-1300,*,181,Mage Warden L08b,0,Branch,25,Rating 50%,5100,Go to 5100
-1400,*,181,Mage Warden L08b,0,Branch,23,Rating 30%,5100,Go to 5100
-1500,*,181,Mage Warden L08b,0,Branch,51,Used Focus?,3100,Go to 3100
-1600,*,181,Mage Warden L08b,0,Branch,54,ECs Alive ≤ 3,3100,Go to 3100
-1700,*,181,Mage Warden L08b,0,Branch,11,Turn 1,2600,Go to 2600
+1300,*,181,Mage Warden L08b,0,Branch,25,Rating 50%,5400,Go to 5400
+1400,*,181,Mage Warden L08b,0,Branch,23,Rating 30%,5400,Go to 5400
+1500,*,181,Mage Warden L08b,0,Branch,51,Used Focus?,3000,Go to 3000
+1600,*,181,Mage Warden L08b,0,Branch,54,ECs Alive ≤ 3,3000,Go to 3000
+1700,*,181,Mage Warden L08b,0,Branch,11,Turn 1,2500,Go to 2500
 1800,*,181,Mage Warden L08b,0,Branch,19,SP ≤ 50%,2000,Go to 2000
-1900,*,181,Mage Warden L08b,0,Branch,23,Rating 30%,4800,Go to 4800
-2000,*,181,Mage Warden L08b,0,Branch,49,Used Spell?,2500,Go to 2500
-2100,*,181,Mage Warden L08b,0,Branch,30,Always,3100,Go to 3100
-2200,*,181,Mage Warden L08b,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,2500,Go to 2500
-2300,*,181,Mage Warden L08b,0,Branch,37,Turn ≥ 5,2500,Go to 2500
-2400,*,181,Mage Warden L08b,0,Branch,30,Always,2600,Go to 2600
-2500,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,3800,Go to 3800
-2600,*,181,Mage Warden L08b,0,Branch,35,Used State Spells ≥ 1,2800,Go to 2800
-2700,*,181,Mage Warden L08b,0,Branch,25,Rating 50%,4500,Go to 4500
-2800,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,4500,Go to 4500
-2900,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,5600,Go to 5600
-3000,*,181,Mage Warden L08b,0,Branch,30,Always,4700,Go to 4700
-3100,*,181,Mage Warden L08b,0,Branch,49,Used Spell?,3400,Go to 3400
-3200,*,181,Mage Warden L08b,0,Branch,28,Rating 80%,3800,Go to 3800
-3300,*,181,Mage Warden L08b,0,Branch,30,Always,3500,Go to 3500
-3400,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,3800,Go to 3800
-3500,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,4500,Go to 4500
-3600,*,181,Mage Warden L08b,0,Branch,21,Rating 10%,4800,Go to 4800
-3700,*,181,Mage Warden L08b,0,Branch,30,Always,4700,Go to 4700
-3800,*,181,Mage Warden L08b,0,Branch,62,PCs Alive = 1,4100,Go to 4100
-3900,*,181,Mage Warden L08b,0,Branch,63,PCs Alive = 2,4100,Go to 4100
-4000,*,181,Mage Warden L08b,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,4300,Go to 4300
-4100,*,181,Mage Warden L08b,0,Branch,26,Rating 60%,5300,Go to 5300
-4200,*,181,Mage Warden L08b,0,Branch,30,Always,5400,Go to 5400
-4300,*,181,Mage Warden L08b,0,Branch,25,Rating 50%,5500,Go to 5500
-4400,*,181,Mage Warden L08b,0,Branch,30,Always,5400,Go to 5400
-4500,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,4900,Go to 4900
-4600,*,181,Mage Warden L08b,0,Branch,30,Always,5000,Go to 5000
-4700,*,181,Mage Warden L08b,1,Action,550,Attack,1,Nearest PC
-4800,*,181,Mage Warden L08b,1,Action,551,Guard,-1,None
-4900,*,181,Mage Warden L08b,1,Action,502,サイレシャ,15,PC W/O Silence
-5000,*,181,Mage Warden L08b,1,Action,504,ダウナ,17,PC W/O Weak
-5100,*,181,Mage Warden L08b,1,Action,507,サプリィ,22,Self
-5200,*,181,Mage Warden L08b,1,Action,507,サプリィ,7,EC With Lowest HP
-5300,*,181,Mage Warden L08b,1,Action,528,グラシェス,2,Random PC
-5400,*,181,Mage Warden L08b,1,Action,531,ウェイベス,2,Random PC
-5500,*,181,Mage Warden L08b,1,Action,535,ボルドーラ,2,Random PC
-5600,*,181,Mage Warden L08b,1,Action,37,ガッツ,-1,None
-100,*,182,Executioner L11,0,Branch,14,Turn 4,400,Go to 400
-200,*,182,Executioner L11,0,Branch,37,Turn ≥ 5,400,Go to 400
-300,*,182,Executioner L11,0,Branch,66,ECs Alive = 3,900,Go to 900
-400,*,182,Executioner L11,0,Branch,50,Used S-Move?,900,Go to 900
-500,*,182,Executioner L11,0,Branch,62,PCs Alive = 1,800,Go to 800
-600,*,182,Executioner L11,0,Branch,63,PCs Alive = 2,800,Go to 800
-700,*,182,Executioner L11,0,Branch,25,Rating 50%,2300,Go to 2300
-800,*,182,Executioner L11,0,Branch,24,Rating 40%,2300,Go to 2300
-900,*,182,Executioner L11,0,Branch,24,Rating 40%,2100,Go to 2100
-1000,*,182,Executioner L11,0,Branch,1,HP < 50%,1400,Go to 1400
-1100,*,182,Executioner L11,0,Branch,17,ECs Alive = 1,1400,Go to 1400
-1200,*,182,Executioner L11,0,Branch,37,Turn ≥ 5,1400,Go to 1400
-1300,*,182,Executioner L11,0,Branch,30,Always,1700,Go to 1700
-1400,*,182,Executioner L11,0,Branch,62,PCs Alive = 1,1700,Go to 1700
-1500,*,182,Executioner L11,0,Branch,63,PCs Alive = 2,1700,Go to 1700
-1600,*,182,Executioner L11,0,Branch,24,Rating 40%,2400,Go to 2400
+1900,*,181,Mage Warden L08b,0,Branch,23,Rating 30%,5100,Go to 5100
+2000,*,181,Mage Warden L08b,0,Branch,49,Used Spell?,2400,Go to 2400
+2100,*,181,Mage Warden L08b,0,Branch,30,Always,3000,Go to 3000
+2200,*,181,Mage Warden L08b,0,Branch,69,EC Slots < 8 and Danger ≤ 3000,2400,Go to 2400
+2300,*,181,Mage Warden L08b,0,Branch,30,Always,2500,Go to 2500
+2400,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,3700,Go to 3700
+2500,*,181,Mage Warden L08b,0,Branch,35,Used State Spells ≥ 1,2700,Go to 2700
+2600,*,181,Mage Warden L08b,0,Branch,25,Rating 50%,4700,Go to 4700
+2700,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,4700,Go to 4700
+2800,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,5900,Go to 5900
+2900,*,181,Mage Warden L08b,0,Branch,30,Always,5000,Go to 5000
+3000,*,181,Mage Warden L08b,0,Branch,49,Used Spell?,3300,Go to 3300
+3100,*,181,Mage Warden L08b,0,Branch,28,Rating 80%,3700,Go to 3700
+3200,*,181,Mage Warden L08b,0,Branch,30,Always,3400,Go to 3400
+3300,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,3700,Go to 3700
+3400,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,4700,Go to 4700
+3500,*,181,Mage Warden L08b,0,Branch,21,Rating 10%,5100,Go to 5100
+3600,*,181,Mage Warden L08b,0,Branch,30,Always,5000,Go to 5000
+3700,*,181,Mage Warden L08b,0,Branch,62,PCs Alive = 1,4100,Go to 4100
+3800,*,181,Mage Warden L08b,0,Branch,63,PCs Alive = 2,4100,Go to 4100
+3900,*,181,Mage Warden L08b,0,Branch,66,ECs Alive = 3,4100,Go to 4100
+4000,*,181,Mage Warden L08b,0,Branch,54,ECs Alive ≤ 3,4400,Go to 4400
+4100,*,181,Mage Warden L08b,0,Branch,49,Used Spell?,5600,Go to 5600
+4200,*,181,Mage Warden L08b,0,Branch,26,Rating 60%,5600,Go to 5600
+4300,*,181,Mage Warden L08b,0,Branch,30,Always,5700,Go to 5700
+4400,*,181,Mage Warden L08b,0,Branch,49,Used Spell?,5700,Go to 5700
+4500,*,181,Mage Warden L08b,0,Branch,26,Rating 60%,5700,Go to 5700
+4600,*,181,Mage Warden L08b,0,Branch,30,Always,5800,Go to 5800
+4700,*,181,Mage Warden L08b,0,Branch,36,Used State Spells ≥ 2,5200,Go to 5200
+4800,*,181,Mage Warden L08b,0,Branch,24,Rating 40%,5200,Go to 5200
+4900,*,181,Mage Warden L08b,0,Branch,30,Always,5300,Go to 5300
+5000,*,181,Mage Warden L08b,1,Action,550,Attack,1,Nearest PC
+5100,*,181,Mage Warden L08b,1,Action,551,Guard,-1,None
+5200,*,181,Mage Warden L08b,1,Action,502,サイレシャ,15,PC W/O Silence
+5300,*,181,Mage Warden L08b,1,Action,504,ダウナ,17,PC W/O Weak
+5400,*,181,Mage Warden L08b,1,Action,507,サプリィ,22,Self
+5500,*,181,Mage Warden L08b,1,Action,507,サプリィ,7,EC With Lowest HP
+5600,*,181,Mage Warden L08b,1,Action,528,グラシェス,2,Random PC
+5700,*,181,Mage Warden L08b,1,Action,531,ウェイベス,2,Random PC
+5800,*,181,Mage Warden L08b,1,Action,535,ボルドーラ,2,Random PC
+5900,*,181,Mage Warden L08b,1,Action,37,ガッツ,-1,None
+100,*,182,Executioner L11,0,Branch,0,HP = 100%,300,Go to 300
+200,*,182,Executioner L11,0,Branch,14,Turn 4,500,Go to 500
+300,*,182,Executioner L11,0,Branch,37,Turn ≥ 5,500,Go to 500
+400,*,182,Executioner L11,0,Branch,66,ECs Alive = 3,1000,Go to 1000
+500,*,182,Executioner L11,0,Branch,50,Used S-Move?,1000,Go to 1000
+600,*,182,Executioner L11,0,Branch,62,PCs Alive = 1,900,Go to 900
+700,*,182,Executioner L11,0,Branch,63,PCs Alive = 2,900,Go to 900
+800,*,182,Executioner L11,0,Branch,25,Rating 50%,2400,Go to 2400
+900,*,182,Executioner L11,0,Branch,24,Rating 40%,2400,Go to 2400
+1000,*,182,Executioner L11,0,Branch,24,Rating 40%,2200,Go to 2200
+1100,*,182,Executioner L11,0,Branch,1,HP < 50%,1500,Go to 1500
+1200,*,182,Executioner L11,0,Branch,17,ECs Alive = 1,1500,Go to 1500
+1300,*,182,Executioner L11,0,Branch,37,Turn ≥ 5,1500,Go to 1500
+1400,*,182,Executioner L11,0,Branch,30,Always,1800,Go to 1800
+1500,*,182,Executioner L11,0,Branch,62,PCs Alive = 1,1800,Go to 1800
+1600,*,182,Executioner L11,0,Branch,63,PCs Alive = 2,1800,Go to 1800
 1700,*,182,Executioner L11,0,Branch,24,Rating 40%,2500,Go to 2500
-1800,*,182,Executioner L11,0,Branch,16,Has Silence?,2000,Go to 2000
-1900,*,182,Executioner L11,0,Branch,26,Rating 60%,2600,Go to 2600
-2000,*,182,Executioner L11,0,Branch,30,Always,2200,Go to 2200
-2100,*,182,Executioner L11,1,Action,550,Attack,2,Random PC
-2200,*,182,Executioner L11,1,Action,551,Guard,-1,None
-2300,*,182,Executioner L11,1,Action,11,キャノンボール,2,Random PC
-2400,*,182,Executioner L11,1,Action,11,キャノンボール,3,PC With Highest HP
-2500,*,182,Executioner L11,1,Action,251,ブロードソニック,2,Random PC
-2600,*,182,Executioner L11,1,Action,533,ボルティ,2,Random PC
+1800,*,182,Executioner L11,0,Branch,24,Rating 40%,2600,Go to 2600
+1900,*,182,Executioner L11,0,Branch,16,Has Silence?,2100,Go to 2100
+2000,*,182,Executioner L11,0,Branch,26,Rating 60%,2700,Go to 2700
+2100,*,182,Executioner L11,0,Branch,30,Always,2300,Go to 2300
+2200,*,182,Executioner L11,1,Action,550,Attack,2,Random PC
+2300,*,182,Executioner L11,1,Action,551,Guard,-1,None
+2400,*,182,Executioner L11,1,Action,11,キャノンボール,2,Random PC
+2500,*,182,Executioner L11,1,Action,11,キャノンボール,3,PC With Highest HP
+2600,*,182,Executioner L11,1,Action,251,ブロードソニック,2,Random PC
+2700,*,182,Executioner L11,1,Action,533,ボルティ,2,Random PC
 100,*,183,Lira L35,0,Branch,39,Any EC HP < 25%,900,Go to 900
 200,*,183,Lira L35,0,Branch,2,HP < 25%,1100,Go to 1100
 300,*,183,Lira L35,0,Branch,38,Any EC HP < 50%,700,Go to 700

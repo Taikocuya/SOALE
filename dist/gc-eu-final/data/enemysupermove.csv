@@ -50,7 +50,7 @@ Entry ID,EU Message ID,[Entry DE Name Pos],[Entry DE Name Size],Entry DE Name,[E
 48,0x802b0fc8,0x1702,14,Silber-Tundra,0x1744,16,Tundra de Plata,0x1740,17,Toundra d'argent,0x1706,14,Silver Tundra,0,S-Move,0,Damage,1,Single PC,0,16,Attack,50,5,Silver,0,Physical,0,Power,0,Power,-1,None,0,0,0
 49,0x802b0ef8,0x1710,17,Verbündete rufen,0x1754,17,Convocar aliados,0x1751,15,Appel d'alliés,0x1714,12,Call Allies,0,S-Move,43,Call EC,0,None,0,54,Kanezl,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
 50,0x802b0ef8,0x1721,17,Verbündete rufen,0x1765,17,Convocar aliados,0x1760,15,Appel d'alliés,0x1720,12,Call Allies,0,S-Move,43,Call EC,0,None,0,85,Imezl,0,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
-51,0x8034c0e0,0x1732,11,Erforschen,0x1776,9,Explorar,0x176f,12,Exploration,0x172c,8,Explore,0,S-Move,8,Stone + Damage,2,All PCs,0,16,Attack,20,1,Red,0,Physical,16,Attack,17,Defense,2,Stone,90,0,0
+51,0x8034c0e0,0x1732,11,Explosion ,0x1776,9,Explotar,0x176f,12, Explosion ,0x172c,8,Explode,0,S-Move,8,Stone + Damage,2,All PCs,0,16,Attack,20,1,Red,0,Physical,16,Attack,17,Defense,2,Stone,90,0,0
 52,0x802b0fd8,0x173d,13,Steinschlamm,0x177f,16,Fango de Piedra,0x177b,17,Pierre Suintante,0x1734,11,Stone Ooze,0,S-Move,7,Stone,1,Single PC,0,0,Power,0,6,Neutral,0,Physical,16,Attack,17,Defense,2,Stone,40,0,0
 53,0x802b0fe4,0x174a,11,Tundrastoß,0x178f,17,Ráfaga de Tundra,0x178c,17,Tundra Explosive,0x173f,13,Tundra Blast,0,S-Move,17,Rem Pos States + Damage,2,All PCs,0,16,Attack,20,2,Purple,0,Physical,0,Power,0,Power,-1,None,0,0,0
 54,0x802b0ff4,0x1755,12,Todeswalzer,0x17a0,12,Vals Mortal,0x179d,17,Valse de la Mort,0x174c,12,Death Waltz,0,S-Move,0,Damage,2,All PCs,0,16,Attack,40,6,Neutral,0,Physical,0,Power,0,Power,-1,None,0,0,0
