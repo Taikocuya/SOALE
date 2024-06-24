@@ -60,9 +60,9 @@ Thumbs.db
 !/dist/**/field/me201a.sct
 
 # Enemy 5 (Enforcer B)
-!/dist/**/bchara/mg005.mld
-!/dist/**/bchara/mg005.std
-!/dist/**/bchara/mg0050.std
+!/dist/**/bchara/mb005.mld
+!/dist/**/bchara/mb005.std
+!/dist/**/bchara/mb0050.std
 !/dist/**/beff/f0500005.mlk
 !/dist/**/beff/f2907005.mlk
 !/dist/**/beff/f2907205.mlk
